@@ -11,7 +11,11 @@ Sik araliklarla calisir (cron, or. her 5-10 dakikada bir). DORT asamali surec:
                          videoyu URETIR (henuz YUKLEMEZ) ve onaya Telegram'a
                          gonderir -> durum "reviewing" olur.
   asama 3 "reviewing"          -> Kullanici "Onayla" dedi mi, "Tekrar uret" mi
-                         dedi? Onayladiysa YouTube'a yukler -> durum "done".
+                         dedi? Onayladiysa videoyu YENIDEN URETIP YouTube'a
+                         yukler -> durum "done" (Telegram'in getFile ile dosya
+                         indirme siniri 20MB oldugu icin -- shorts videolarimiz
+                         genelde bunu astigindan -- oradan geri indirmek yerine
+                         ayni icerikle tekrar uretip yuklemek daha guvenilir).
                          Begenmediyse videoyu YENIDEN URETIR, tekrar onaya
                          sunar -> "reviewing" durumunda kalir (dongu).
 
@@ -28,7 +32,6 @@ from zoneinfo import ZoneInfo
 import suggest_topics
 from pipeline import produce_video, upload_video
 from telegram_bot import (
-    download_review_video,
     edit_message,
     find_hashtag_toggles,
     find_manual_trigger,
@@ -238,11 +241,17 @@ def _produce_and_send_for_review(pending: dict, chosen: dict, attempt_note: str,
 
 
 def _download_and_upload(pending: dict, chosen: dict) -> None:
+    """Onaylanan videoyu YUKLER. Not: Telegram Bot API'nin getFile ile dosya
+    INDIRME siniri 20MB (gonderme siniri 50MB'dir) -- shorts videolarimiz
+    genelde bunu asiyor, bu yuzden Telegram'dan geri indirmek yerine ayni
+    icerikle (ayni script + ayni gorsel anahtar kelimeleri) videoyu YENIDEN
+    URETIP oyle yukluyoruz. TTS ve Pexels aramasi ayni girdiyle pratikte ayni
+    (ya da neredeyse ayni) sonucu verdigi icin bu, kullanicinin onayladigi
+    videoyla is farkli olmaz."""
     try:
         with tempfile.TemporaryDirectory() as tmp:
-            local_path = str(Path(tmp) / "approved.mp4")
-            download_review_video(pending["video_file_id"], local_path)
-            video_id = upload_video(local_path, chosen)
+            video_path = produce_video(chosen, Path(tmp))
+            video_id = upload_video(video_path, chosen)
         send_message(f"Video yayinlandi: https://youtube.com/shorts/{video_id}")
         pending["status"] = "done"
     except Exception as exc:
