@@ -69,10 +69,17 @@ def upload_video(video_path: str, content: dict) -> str:
         publish_at = _next_publish_at_utc(PUBLISH_TIME_ISTANBUL)
         print(f"   Zamanlanmis yayin: {publish_at} (UTC) / Istanbul {PUBLISH_TIME_ISTANBUL}")
 
+    description = content["video_description"]
+    # YouTube, API ile yuklenen dikey/kisa videolari "Shorts" olarak dogru
+    # siniflandirmasi icin aciklamada #Shorts etiketinin bulunmasini bekliyor
+    # -- bu olmadan video normal "Videos" sekmesine dusebiliyor.
+    if "#shorts" not in description.lower():
+        description = description.rstrip() + "\n\n#Shorts"
+
     return upload_short(
         video_path=video_path,
         title=content["video_title"],
-        description=content["video_description"],
+        description=description,
         tags=content["tags"],
         privacy_status=PRIVACY_STATUS,
         publish_at=publish_at,
