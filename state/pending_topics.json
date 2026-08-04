@@ -1,9 +1,9 @@
 {
   "batch_id": "20260804-2011",
   "trigger_date": "2026-08-04",
-  "message_id": 40,
+  "message_id": 45,
   "created_at": "2026-08-04T20:11:30.339512+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Mantis shrimp can see 16 types of color",
@@ -150,7 +150,7 @@
     "topic": "Cleopatra's needle obelisk hidden time capsule",
     "teaser": "There's a secret box buried under one of the most famous monuments in New York — and most people walk right past it every day.",
     "video_title": "A Secret Time Capsule Is Hidden in Central Park",
-    "video_description": "Beneath the ancient Egyptian obelisk in Central Park lies a buried time capsule from 1880, filled with newspapers, coins, and a census. Almost no one knows it exists.",
+    "video_description": "Cleopatra's needle obelisk hidden time capsule\n\n#timecapsule #CentralPark #NewYorksecrets #hiddenhistory #ancientEgypt",
     "tags": [
       "time capsule",
       "Central Park",
@@ -187,6 +187,15 @@
     "ancientEgypt"
   ],
   "hashtag_message_id": 42,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-04T20:12:55.629145+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    3,
+    4,
+    9
+  ],
+  "hashtag_started_at": "2026-08-04T20:12:55.629145+00:00",
+  "video_file_id": "BAACAgQAAxkDAAMtanJJgJu48v2fmQfWnfRlyOmHCycAAtwaAAK2jpFT9YJO2mXblew9BA",
+  "review_started_at": "2026-08-04T20:20:16.779354+00:00",
+  "attempts": 1
 }
