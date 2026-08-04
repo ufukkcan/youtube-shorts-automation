@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-04",
   "message_id": 28,
   "created_at": "2026-08-04T19:37:09.133998+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Trees communicate underground via fungal networks",
@@ -145,5 +145,48 @@
         "crow watching person"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Cleopatra's needle obelisk and its hidden time capsule",
+    "teaser": "One of the world's most famous ancient monuments is hiding a secret inside — and almost nobody knows about it.",
+    "video_title": "There's a Time Capsule Hidden Inside an Ancient Obelisk",
+    "video_description": "The Cleopatra's Needle obelisk in New York City contains a Victorian time capsule sealed inside its base in 1880. It holds newspapers, coins, a Bible, and even a photo of notable women of the era.",
+    "tags": [
+      "Cleopatra's Needle",
+      "obelisk",
+      "time capsule",
+      "New York",
+      "ancient Egypt",
+      "history facts",
+      "Central Park",
+      "Egyptian artifact",
+      "Victorian era",
+      "hidden history",
+      "archaeology",
+      "1880",
+      "ancient monuments",
+      "historical secrets"
+    ],
+    "script": "There's a 3,500-year-old Egyptian obelisk standing right in New York City's Central Park — and almost no one knows what's hidden inside its base. When the monument was installed in 1880, a group of Freemasons secretly sealed a time capsule beneath it. Inside: copies of the US Constitution, a map of New York, census records, coins, a Bible, and remarkably, photographs of notable American women of the time. The obelisk itself was carved under Pharaoh Thutmose the Third — it's older than Cleopatra by over a thousand years. Millions of people walk past it every year without a second glance. If you could add one thing to a time capsule today, what would it be?",
+    "visual_keywords": [
+      "Cleopatra needle New York",
+      "Central Park obelisk",
+      "ancient Egyptian monument"
+    ]
+  },
+  "hashtag_options": [
+    "CleopatrasNeedle",
+    "obelisk",
+    "timecapsule",
+    "NewYork",
+    "ancientEgypt",
+    "historyfacts",
+    "CentralPark",
+    "Egyptianartifact",
+    "Victorianera",
+    "hiddenhistory"
+  ],
+  "hashtag_message_id": 30,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-04T19:40:26.134346+00:00"
 }
