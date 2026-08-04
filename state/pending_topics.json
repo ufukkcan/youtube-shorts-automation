@@ -1,9 +1,9 @@
 {
   "batch_id": "20260804-1854",
   "trigger_date": "2026-08-04",
-  "message_id": 14,
+  "message_id": 17,
   "created_at": "2026-08-04T18:54:18.081349+00:00",
-  "status": "pending",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Honey never spoils",
@@ -115,5 +115,30 @@
         "home network signal"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Honey never spoils",
+    "teaser": "Archaeologists found something inside an ancient Egyptian tomb that you could still eat today — and it's thousands of years old. 🍯",
+    "video_title": "3000-Year-Old Food Found in Egypt Still Edible",
+    "video_description": "Deep inside Egyptian tombs, archaeologists discovered jars of honey that are over 3,000 years old — and still perfectly safe to eat. Honey's unique chemistry makes it virtually immortal. Could this be the world's most perfect food? #AncientEgypt #HoneyFacts #DidYouKnow #MindBlowing #FoodScience #ArchaeologyFacts #SurprisingFacts",
+    "tags": [
+      "honey",
+      "ancient egypt",
+      "archaeology",
+      "food science",
+      "immortal food",
+      "did you know",
+      "surprising facts"
+    ],
+    "script": "What if I told you there's a food that literally never expires? Archaeologists digging inside ancient Egyptian tombs discovered honey that is over three thousand years old — and it was still perfectly edible. Honey's extremely low moisture content and naturally acidic pH create an environment where bacteria simply cannot survive. On top of that, bees add an enzyme that produces tiny amounts of hydrogen peroxide, acting as a built-in preservative. No other food on Earth can match this. So here's the question — if honey lasts forever, why does your grocery store jar have an expiration date?",
+    "visual_keywords": [
+      "ancient egyptian jars",
+      "golden honey",
+      "archaeology excavation",
+      "honeycomb close up"
+    ]
+  },
+  "video_file_id": "BAACAgQAAxkDAAMRanI259wTayHcHOeAi3Rf8BZ-FkIAAssaAAK2jpFT3A4lKaCmSzc9BA",
+  "review_started_at": "2026-08-04T19:00:55.707500+00:00",
+  "attempts": 1
 }
