@@ -1,9 +1,11 @@
 """
-Sik araliklarla calisir (cron, or. her 10 dakikada bir). UC asamali surec:
+Sik araliklarla calisir (cron, or. her 5-10 dakikada bir). UC asamali surec:
 
-  asama 0 "bugun icin dongu yok" -> Telegram'a "video uret" yazildi mi, ya da
+  asama 0 "aktif dongu yok" -> Telegram'a "video uret" yazildi mi, ya da
                          AUTO_TRIGGER_TIME saatine gelindi mi? Ikisinden biri
-                         olduysa yeni bir 5-konu dongusu baslatir.
+                         olduysa yeni bir 5-konu dongusu baslatir. Manuel
+                         istek her zaman calisir (gun icinde "done" olsa bile),
+                         otomatik saat tetiklemesi ise gunde sadece bir kez.
   asama 1 "pending"   -> Telegram'da 5 konudan biri secildi mi? Secildiyse
                          videoyu URETIR (henuz YUKLEMEZ) ve onaya Telegram'a
                          gonderir -> durum "reviewing" olur.
@@ -50,38 +52,34 @@ def run() -> None:
     pending = _load_json(PENDING_FILE)
     today = datetime.now(ISTANBUL).date().isoformat()
 
-    started_today = bool(pending) and pending.get("trigger_date") == today
-    # "error" durumunda kalan bir dongu, bugun icin bile olsa yeniden tetiklenebilir
-    # (manuel "video uret" veya otomatik saatle) -- boylece gecici bir hata
-    # (ag sorunu, kutuphane hatasi vb.) gunu tamamen kilitlemez.
-    needs_new_cycle = (not started_today) or (pending.get("status") == "error")
+    active_cycle = bool(pending) and pending.get("status") in ("pending", "reviewing")
 
-    if needs_new_cycle:
-        _handle_idle(updates, pending)
+    if active_cycle:
+        if pending["status"] == "pending":
+            _handle_topic_selection(pending, updates)
+        else:
+            _handle_review_decision(pending, updates)
         return
 
-    if pending["status"] == "pending":
-        _handle_topic_selection(pending, updates)
-    elif pending["status"] == "reviewing":
-        _handle_review_decision(pending, updates)
-    else:
-        print(f"Bugun ({today}) icin dongu zaten tamamlandi (durum: {pending['status']}).")
-
-
-def _handle_idle(updates: list[dict], pending: dict | None) -> None:
+    # Su an aktif bir dongu yok (hic olmadi / "done" / "error"). Manuel "video uret"
+    # HER ZAMAN yeni bir dongu baslatabilir -- bugun zaten bir video yayinlanmis
+    # olsa bile, kullanici acikca isterse ikinci bir video da uretilebilir.
+    # Otomatik saat tetiklemesi ise gunde sadece BIR kez calisir (onceki deneme
+    # hata vermediyse), boylece kullanici hic dokunmasa bile gun tekrar tekrar
+    # tetiklenip durmaz.
     manual = find_manual_trigger(updates)
-    now_hhmm = datetime.now(ISTANBUL).strftime("%H:%M")
-    auto_time_reached = now_hhmm >= AUTO_TRIGGER_TIME
+    started_today = bool(pending) and pending.get("trigger_date") == today
+    auto_should_fire = not started_today or pending.get("status") == "error"
 
     if manual:
-        send_message("Alindi! Bugunun konulari hazirlaniyor...")
-        print("Manuel tetikleme alindi, yeni dongu baslatiliyor.")
-        suggest_topics.run()
-    elif auto_time_reached:
+        send_message("Alindi! Yeni bir konu listesi hazirlaniyor...")
+        print("Manuel tetikleme alindi, yeni dongu baslatiliyor (force).")
+        suggest_topics.run(force=True)
+    elif auto_should_fire and datetime.now(ISTANBUL).strftime("%H:%M") >= AUTO_TRIGGER_TIME:
         print(f"Otomatik tetikleme saati geldi ({AUTO_TRIGGER_TIME}), yeni dongu baslatiliyor.")
-        suggest_topics.run()
+        suggest_topics.run(force=False)
     else:
-        print(f"Bugun icin henuz tetikleme yok (manuel istek yok, otomatik saat {AUTO_TRIGGER_TIME} henuz gelmedi).")
+        print(f"Bugun icin henuz yeni bir tetikleme yok (manuel istek yok, otomatik saat {AUTO_TRIGGER_TIME} henuz gelmedi ya da bugun zaten calisti).")
 
 
 def _handle_topic_selection(pending: dict, updates: list[dict]) -> None:
