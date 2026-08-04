@@ -23,7 +23,12 @@ Her aday icin kurallar:
 - Konusma dili sade, akici, TV programi anlatici tonunda olmali. Baslik/madde isareti YOK, duz akan metin.
 - Adaylarin konulari birbirinden FARKLI kategorilerden olmali (bilim, tarih, hayvanlar, uzay, insan vucudu, teknoloji, gunluk hayat vb. karistir).
 - Cikti SADECE gecerli JSON olmali, baska hicbir sey yazma (aciklama, markdown, kod bloğu yok).
-"""
+
+DIL KURALI (EN ONEMLI KURAL, HER SEYDEN ONCELIKLI):
+Bu talimatlarin kendisi Turkce yazilmis olsa da, bu SADECE senin (yapay zekanin)
+talimati anlamasi icin boyle -- URETECEGIN ICERIGIN dili tamamen ayri bir konu ve
+SADECE kullanicinin mesajindaki "Dil:" alaninda belirttigi dile gore belirlenir.
+Talimatlarin dili ile cikti dili birbirine KARISTIRILMAMALI."""
 
 CANDIDATE_SCHEMA = """{
   "topic": "kisa konu basligi (dahili takip icin)",
@@ -35,13 +40,19 @@ CANDIDATE_SCHEMA = """{
   "visual_keywords": ["pexels aramasi icin 3-5 ingilizce anahtar kelime, konuyla gorsel eslesecek somut nesneler/mekanlar"]
 }"""
 
-USER_PROMPT_TEMPLATE = """Dil: {language}
+USER_PROMPT_TEMPLATE = """CIKTI DILI: {language}
+(topic, teaser, video_title, video_description, script alanlarinin TAMAMI
+{language} dilinde olacak -- tags ve visual_keywords her zaman Ingilizce kalir
+cunku bunlar YouTube etiketleme ve Pexels aramasi icin kullanilir.)
+
 Daha once kullanilmis/gosterilmis konular (bunlari TEKRAR ETME): {used_topics}
 
 Tam olarak {n} FARKLI aday konu uret. Cikti, her biri asagidaki semaya uyan
 {n} objeden olusan bir JSON DIZISI olmali:
 {schema}
-"""
+
+HATIRLATMA: yukaridaki tum metin alanlari (tags/visual_keywords haric) {language}
+dilinde olmali. Bu talimati atlama."""
 
 
 def load_used_topics() -> list:
