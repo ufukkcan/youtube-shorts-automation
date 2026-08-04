@@ -3,10 +3,8 @@ Yeni bir gunluk uretim dongusu baslatir: 5 aday konu uretir, Telegram'a gonderir
 kullanicinin secimini bekleyecek sekilde state/pending_topics.json'a kaydeder.
 Secim/onay islemlerini check_and_produce.py yapar.
 
-Bu dosya artik KENDI cron'uyla degil, check_and_produce.py'nin her 10 dakikada
-bir calisan dongusu tarafindan (manuel tetikleme veya otomatik saat gelince)
-cagrilir -- run() ayni gun icinde birden fazla kez cagrilsa bile GUVENLIDIR,
-"trigger_date" alani sayesinde bugun icin zaten baslatilmissa hicbir sey yapmaz.
+Bu dosya artik KENDI cron'uyla degil, check_and_produce.py'nin sik calisan
+dongusu tarafindan (manuel tetikleme veya otomatik saat gelince) cagrilir.
 """
 import json
 from datetime import datetime, timezone
@@ -21,13 +19,15 @@ N_CANDIDATES = 5
 ISTANBUL = ZoneInfo("Europe/Istanbul")
 
 
-def run() -> None:
+def run(force: bool = False) -> None:
+    """force=True: manuel 'video uret' istegi -- bugun zaten bir dongu
+    tamamlanmis (status='done') olsa bile yeni bir dongu baslatir.
+    force=False: otomatik saat tetiklemesi -- gunde sadece bir kez calisir
+    (onceki deneme 'error' ile bitmediyse)."""
     existing = _load_pending()
     today = datetime.now(ISTANBUL).date().isoformat()
 
-    # "error" durumunda kalan bir dongu varsa, bugun icin bile olsa yeniden
-    # baslatilmasina izin ver -- gecici bir hata gunu tamamen kilitlemesin.
-    if existing and existing.get("trigger_date") == today and existing.get("status") != "error":
+    if not force and existing and existing.get("trigger_date") == today and existing.get("status") != "error":
         print(f"Bugun ({today}) icin zaten bir dongu baslatilmis, atlaniyor:", existing["batch_id"])
         return
 
