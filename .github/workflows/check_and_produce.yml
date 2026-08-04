@@ -3,7 +3,7 @@ name: Check Telegram selection and produce
 on:
   schedule:
     # Her 10 dakikada bir kontrol eder. Bekleyen secim yoksa hemen biter, is yapmaz.
-    - cron: "*/10 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}
 
 concurrency:
@@ -43,7 +43,7 @@ jobs:
           CONTENT_LANGUAGE: "en"
           TTS_VOICE: "en-US-AriaNeural"  # diger secenekler: en-US-GuyNeural, en-US-AndrewNeural, en-GB-SoniaNeural
           PRIVACY_STATUS: "public"
-          AUTO_TRIGGER_TIME: "20:00"      # "video uret" yazilmazsa gunun dongusu bu Istanbul saatinde kendiliginden baslar
+          AUTO_TRIGGER_TIME: "16:30"      # "video uret" yazilmazsa gunun dongusu bu Istanbul saatinde kendiliginden baslar
           PUBLISH_TIME_ISTANBUL: "20:00"  # onaylanan video her gun bu Istanbul saatinde otomatik yayina girer (onay saatinden bagimsiz). Kapatmak icin "off" yap.
           FALLBACK_HOURS: "20"       # yanit gelmezse kac saat sonra otomatik ilerlesin (secim/onay). Kapatmak icin 0 yap.
           MAX_REDO_ATTEMPTS: "5"     # "tekrar uret" ile en fazla kac deneme yapilsin, sonra otomatik onaylanir
