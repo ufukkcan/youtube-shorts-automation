@@ -25,7 +25,9 @@ def run() -> None:
     existing = _load_pending()
     today = datetime.now(ISTANBUL).date().isoformat()
 
-    if existing and existing.get("trigger_date") == today:
+    # "error" durumunda kalan bir dongu varsa, bugun icin bile olsa yeniden
+    # baslatilmasina izin ver -- gecici bir hata gunu tamamen kilitlemesin.
+    if existing and existing.get("trigger_date") == today and existing.get("status") != "error":
         print(f"Bugun ({today}) icin zaten bir dongu baslatilmis, atlaniyor:", existing["batch_id"])
         return
 
