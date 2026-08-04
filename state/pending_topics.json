@@ -1,201 +1,146 @@
 {
-  "batch_id": "20260804-2011",
-  "trigger_date": "2026-08-04",
-  "message_id": 45,
-  "created_at": "2026-08-04T20:11:30.339512+00:00",
-  "status": "done",
+  "batch_id": "20260804-2233",
+  "trigger_date": "2026-08-05",
+  "message_id": 50,
+  "created_at": "2026-08-04T22:33:48.209951+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Mantis shrimp can see 16 types of color",
-      "teaser": "You think you see colors well? This tiny sea creature makes your eyes look completely broken.",
-      "video_title": "This Shrimp Sees Colors You Can't Even Imagine",
-      "video_description": "The mantis shrimp has 16 types of color receptors, compared to just 3 in humans. Its vision is so advanced that scientists are studying it to build better cameras and medical scanners.",
+      "topic": "Lobsters are biologically immortal",
+      "teaser": "What if aging was optional? One creature on Earth might have figured it out...",
+      "video_title": "Lobsters Don't Actually Age — Here's Why",
+      "video_description": "Lobsters produce an enzyme that repairs their DNA indefinitely, making them biologically immortal. They don't weaken with age — they actually get stronger. Find out what eventually kills them.",
       "tags": [
-        "mantis shrimp",
-        "color vision",
-        "animal eyes",
-        "sea creatures",
-        "shrimp vision",
-        "color receptors",
-        "ocean animals",
-        "animal facts",
-        "biology facts",
-        "marine life",
-        "surprising animals",
-        "eye science"
-      ],
-      "script": "What if I told you there's a creature that can see colors your brain can't even process? Humans have 3 types of color receptors in our eyes. The mantis shrimp has 16. Sixteen. It can detect ultraviolet light, infrared, and colors that literally have no name in any human language. Scientists are so amazed by its eyes that they're using them as a blueprint for cancer-detecting cameras. This tiny shrimp, no bigger than your hand, sees a version of reality we will never experience. So here's the question — if a shrimp sees 16 colors and we only see 3, what else are we completely blind to?",
-      "visual_keywords": [
-        "mantis shrimp",
-        "colorful ocean",
-        "coral reef",
-        "marine creature"
-      ]
-    },
-    {
-      "topic": "Cleopatra's needle obelisk hidden time capsule",
-      "teaser": "There's a secret box buried under one of the most famous monuments in New York — and most people walk right past it every day.",
-      "video_title": "A Secret Time Capsule Is Hidden in Central Park",
-      "video_description": "Beneath the ancient Egyptian obelisk in Central Park lies a buried time capsule from 1880, filled with newspapers, coins, and a census. Almost no one knows it exists.",
-      "tags": [
-        "time capsule",
-        "Central Park",
-        "obelisk",
-        "New York secrets",
-        "hidden history",
-        "Egyptian artifacts",
-        "1880",
-        "buried treasure",
-        "NYC landmarks",
-        "ancient Egypt",
-        "history facts",
-        "hidden monuments",
-        "American history"
-      ],
-      "script": "There is a secret box buried right beneath Central Park, and almost nobody knows it exists. In 1880, when workers installed the ancient Egyptian obelisk known as Cleopatra's Needle in New York City, they buried a time capsule directly underneath it. Inside? A copy of the Declaration of Independence, a Bible, a US census, coins, newspapers, and even a guide to the English language. It has been sitting under millions of tourists' feet for over 140 years, completely untouched. No one has opened it since. So the real question is — what would you put inside a time capsule meant to last another 140 years?",
-      "visual_keywords": [
-        "Central Park obelisk",
-        "Egyptian monument",
-        "New York landmark",
-        "ancient stone pillar"
-      ]
-    },
-    {
-      "topic": "Trees can recognize their own kin",
-      "teaser": "Trees don't just grow — they actually recognize their own children and treat them differently than strangers.",
-      "video_title": "Trees Know Who Their Children Are. Seriously.",
-      "video_description": "Research shows that trees can identify their own seedlings through root chemicals and deliberately share nutrients with them. They essentially play favorites — and science can prove it.",
-      "tags": [
-        "tree intelligence",
-        "plant behavior",
-        "forest science",
-        "mother trees",
-        "plant communication",
-        "root systems",
-        "botany facts",
-        "nature facts",
-        "tree roots",
-        "plant intelligence",
+        "lobster",
+        "biological immortality",
+        "aging",
+        "telomerase",
+        "marine biology",
+        "ocean facts",
+        "DNA repair",
+        "immortal animals",
+        "science facts",
+        "lifespan",
         "biology",
-        "forest ecosystem",
         "surprising nature"
       ],
-      "script": "Trees can recognize their own children — and this isn't a metaphor. Scientists discovered that mother trees identify their own seedlings through chemical signals in the roots. Once recognized, the mother tree actually redirects extra nutrients specifically to her offspring, giving them a survival advantage over unrelated seedlings growing right beside them. Researcher Suzanne Simard called these hub trees 'mother trees,' and found that when they are cut down, the surrounding young trees survival rate drops dramatically. A forest is not just a collection of plants. It is a family. So next time you walk through the woods, ask yourself — are you the stranger, or are you being watched?",
+      "script": "What if you never had to age? Lobsters might have cracked that code. Unlike most animals, lobsters produce an enzyme called telomerase that continuously repairs their DNA. This means they don't weaken, slow down, or deteriorate with age. In fact, older lobsters are often more fertile than younger ones. A lobster doesn't die of old age — it usually dies from exhaustion during molting, disease, or being caught. Some scientists believe lobsters could theoretically live forever under perfect conditions. So the real question is — if you could stop aging, would you want to live forever?",
       "visual_keywords": [
-        "forest roots",
-        "tall trees",
-        "woodland",
-        "tree seedlings"
+        "lobster",
+        "ocean floor",
+        "marine life",
+        "underwater"
       ]
     },
     {
-      "topic": "The first computer bug was a real insect",
-      "teaser": "The reason we call software problems 'bugs' today started with an actual dead insect found inside a computer in 1947.",
-      "video_title": "The First Computer 'Bug' Was a Real Insect",
-      "video_description": "In 1947, engineers found a moth stuck inside a Harvard computer causing errors. They taped it into their logbook and wrote 'first actual case of bug being found.' The word stuck forever.",
+      "topic": "The Eiffel Tower has a secret apartment",
+      "teaser": "There's a private room hidden at the top of the Eiffel Tower — and almost no one has ever been inside.",
+      "video_title": "The Secret Apartment Inside the Eiffel Tower",
+      "video_description": "Gustave Eiffel built a private apartment at the very top of the Eiffel Tower and refused all offers to rent it out. He used it to entertain some of the greatest minds of his era. The room still exists today.",
       "tags": [
-        "computer bug",
-        "tech history",
-        "first computer",
-        "1947",
-        "programming history",
-        "Grace Hopper",
-        "Harvard Mark II",
-        "software bug",
-        "technology facts",
-        "coding history",
-        "computer science",
-        "invention history",
-        "tech origins"
+        "Eiffel Tower",
+        "secret apartment",
+        "Gustave Eiffel",
+        "Paris",
+        "hidden rooms",
+        "history facts",
+        "architecture",
+        "Paris secrets",
+        "19th century",
+        "Thomas Edison",
+        "historical mysteries",
+        "travel facts"
       ],
-      "script": "Every time your phone crashes or an app freezes, you blame a 'bug.' But do you know why we actually call it that? In 1947, engineers working on the Harvard Mark II computer found it was producing errors. When they opened the machine to investigate, they found a real moth — a dead moth — trapped between the relay contacts, causing the malfunction. They taped it into their logbook and wrote: 'first actual case of bug being found.' That logbook still exists today at the Smithsonian Institution. One dead moth gave a name to every software problem in human history. What other tech terms do you think have a weird origin story like this?",
+      "script": "Most people look up at the Eiffel Tower without knowing there's a secret apartment hidden at the very top. Gustave Eiffel, the man who built it, constructed a private living space for himself — complete with a piano, wooden furniture, and a laboratory. Wealthy Parisians reportedly offered enormous sums to rent it for just one night, but Eiffel refused every single offer. He used the apartment to host guests like Thomas Edison. The room still exists today, preserved almost exactly as Eiffel left it. And here's the twist — you can actually see it, but you can never stay the night. Would you visit?",
       "visual_keywords": [
-        "vintage computer",
-        "old technology",
-        "computer circuit",
-        "moth insect"
+        "Eiffel Tower",
+        "Paris",
+        "historic apartment",
+        "iron architecture"
       ]
     },
     {
-      "topic": "You are taller in the morning than at night",
-      "teaser": "Your height changes every single day — and by more than you'd ever guess.",
-      "video_title": "You're Actually Taller in the Morning Than at Night",
-      "video_description": "The cartilage between your spinal discs compresses throughout the day under gravity, making you up to 1.5 cm shorter by evening. You grow back while you sleep.",
+      "topic": "Humans have a fourth type of vision receptor",
+      "teaser": "You might be seeing colors right now that don't officially exist — and science can prove it.",
+      "video_title": "Some People Can See Colors That Don't Exist",
+      "video_description": "A rare genetic mutation gives some people a fourth type of cone cell in their eyes, allowing them to distinguish up to 100 million colors. Most humans only see around one million. These people are called tetrachromats.",
       "tags": [
+        "tetrachromacy",
+        "color vision",
+        "human eye",
+        "cone cells",
+        "vision science",
+        "rare genetics",
+        "color perception",
         "human body facts",
-        "spine",
-        "height change",
-        "cartilage",
-        "sleep science",
-        "body facts",
-        "gravity effects",
-        "spinal discs",
-        "biology facts",
-        "health facts",
-        "daily body changes",
-        "human anatomy",
-        "surprising body",
-        "morning vs night"
+        "biology",
+        "eye facts",
+        "genetic mutation",
+        "100 million colors",
+        "neuroscience"
       ],
-      "script": "When you wake up tomorrow morning, you will be taller than you are right now — by up to one and a half centimeters. Throughout the day, gravity constantly compresses the cartilage between your spinal discs. Every step you take, every hour you sit or stand, that soft tissue gets squeezed thinner and thinner. By evening, you've lost measurable height. But while you sleep horizontally, the pressure disappears, and the cartilage slowly expands back to its original size. Astronauts in zero gravity actually grow up to 5 centimeters taller in space because gravity never pulls them down at all. So technically, your true height? Nobody has ever accurately measured it.",
+      "script": "Most humans see around one million colors, and we think that's impressive. But some people are born with a genetic mutation that adds a fourth type of cone cell to their eyes — and those people can see up to one hundred million colors. They're called tetrachromats, and most of them are women. The extra cone sits between red and green, detecting shades the rest of us literally cannot process. What's wild is that many tetrachromats don't even know they have this ability — they assume everyone sees what they see. So what if the world you're seeing right now is actually a blurry, color-blind version of reality?",
       "visual_keywords": [
-        "spine anatomy",
-        "human skeleton",
-        "morning stretch",
-        "spinal column"
+        "colorful spectrum",
+        "human eye closeup",
+        "color prism",
+        "vision light"
+      ]
+    },
+    {
+      "topic": "The moon is drifting away from Earth",
+      "teaser": "Every single year, the Moon quietly moves a little further away — and the consequences are massive.",
+      "video_title": "The Moon Is Slowly Escaping Earth's Gravity",
+      "video_description": "The Moon drifts about 3.8 centimeters away from Earth every year due to tidal forces. Billions of years ago, it was dramatically closer — and Earth's days were only six hours long. Eventually, the Moon may leave us entirely.",
+      "tags": [
+        "moon",
+        "lunar drift",
+        "tidal forces",
+        "Earth moon distance",
+        "space facts",
+        "astronomy",
+        "gravity",
+        "moon orbit",
+        "Earth history",
+        "solar system",
+        "moon escape",
+        "space science",
+        "astrophysics"
+      ],
+      "script": "Every year, the Moon moves about three point eight centimeters further away from Earth — and it's been doing this for billions of years. When the Moon first formed, it was roughly fifteen times closer than it is today. Back then, Earth's days lasted only about six hours because the Moon's gravity was spinning our planet much faster. As the Moon drifts further, our days slowly get longer. Scientists calculate that in the far future, the Moon may drift so far that total solar eclipses become impossible — the Moon will simply be too small to cover the Sun. Makes you wonder — are we living in Earth's golden era right now?",
+      "visual_keywords": [
+        "moon",
+        "Earth from space",
+        "lunar orbit",
+        "night sky moon"
+      ]
+    },
+    {
+      "topic": "Nokia 3310 and radiation vs smartphones",
+      "teaser": "Your old brick phone was actually more dangerous than your modern smartphone — and the reason is counterintuitive.",
+      "video_title": "Old Nokia Phones Were More Harmful Than iPhones",
+      "video_description": "Older mobile phones like the Nokia 3310 emitted significantly higher levels of radiation than modern smartphones. Better network coverage means today's phones work harder with less power. The phone you think is safer might actually be the riskier one.",
+      "tags": [
+        "Nokia 3310",
+        "smartphone radiation",
+        "mobile phone safety",
+        "SAR rating",
+        "radiation exposure",
+        "phone facts",
+        "technology facts",
+        "iPhone vs Nokia",
+        "2G vs 4G",
+        "wireless technology",
+        "health and tech",
+        "mobile history"
+      ],
+      "script": "You probably think your old Nokia brick phone was safer than today's smartphones. It turns out the opposite is true. The Nokia 3310 had a radiation output nearly three times higher than most modern iPhones. Here's why — older phones had to work much harder to grab a weak 2G signal, blasting out more radio frequency energy in the process. Modern smartphones operate on dense, powerful networks, so they need far less power to stay connected. The phone that survived being thrown across the room was quietly the more intense emitter all along. So which phone do you think was sitting in your pocket the longest?",
+      "visual_keywords": [
+        "Nokia 3310",
+        "old mobile phone",
+        "smartphone comparison",
+        "cell phone radiation"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Cleopatra's needle obelisk hidden time capsule",
-    "teaser": "There's a secret box buried under one of the most famous monuments in New York — and most people walk right past it every day.",
-    "video_title": "A Secret Time Capsule Is Hidden in Central Park",
-    "video_description": "Cleopatra's needle obelisk hidden time capsule\n\n#timecapsule #CentralPark #NewYorksecrets #hiddenhistory #ancientEgypt",
-    "tags": [
-      "time capsule",
-      "Central Park",
-      "obelisk",
-      "New York secrets",
-      "hidden history",
-      "Egyptian artifacts",
-      "1880",
-      "buried treasure",
-      "NYC landmarks",
-      "ancient Egypt",
-      "history facts",
-      "hidden monuments",
-      "American history"
-    ],
-    "script": "There is a secret box buried right beneath Central Park, and almost nobody knows it exists. In 1880, when workers installed the ancient Egyptian obelisk known as Cleopatra's Needle in New York City, they buried a time capsule directly underneath it. Inside? A copy of the Declaration of Independence, a Bible, a US census, coins, newspapers, and even a guide to the English language. It has been sitting under millions of tourists' feet for over 140 years, completely untouched. No one has opened it since. So the real question is — what would you put inside a time capsule meant to last another 140 years?",
-    "visual_keywords": [
-      "Central Park obelisk",
-      "Egyptian monument",
-      "New York landmark",
-      "ancient stone pillar"
-    ]
-  },
-  "hashtag_options": [
-    "timecapsule",
-    "CentralPark",
-    "obelisk",
-    "NewYorksecrets",
-    "hiddenhistory",
-    "Egyptianartifacts",
-    "1880",
-    "buriedtreasure",
-    "NYClandmarks",
-    "ancientEgypt"
-  ],
-  "hashtag_message_id": 42,
-  "selected_hashtags": [
-    0,
-    1,
-    3,
-    4,
-    9
-  ],
-  "hashtag_started_at": "2026-08-04T20:12:55.629145+00:00",
-  "video_file_id": "BAACAgQAAxkDAAMtanJJgJu48v2fmQfWnfRlyOmHCycAAtwaAAK2jpFT9YJO2mXblew9BA",
-  "review_started_at": "2026-08-04T20:20:16.779354+00:00",
-  "attempts": 1
+  ]
 }
