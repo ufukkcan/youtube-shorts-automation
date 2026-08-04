@@ -34,8 +34,8 @@ CANDIDATE_SCHEMA = """{
   "topic": "kisa konu basligi (dahili takip icin)",
   "teaser": "Telegram'da gosterilecek, 1 cumlelik merak uyandirici on izleme (spoiler vermeden)",
   "video_title": "YouTube icin tiklanabilir, merak uyandiran baslik (60 karakter alti)",
-  "video_description": "2-3 cumlelik aciklama + sonunda 5-8 ilgili hashtag",
-  "tags": ["etiket1", "etiket2", "..."],
+  "video_description": "2-3 cumlelik aciklama (kullanilmayabilir, yedek)",
+  "tags": ["konuyla DOGRUDAN ilgili EN AZ 10, en fazla 14 kisa Ingilizce anahtar kelime -- bunlar hem YouTube etiketi hem de kullaniciya sunulacak hashtag adaylari olarak kullanilacak, bu yuzden somut ve spesifik olmali (genel/rastgele kelime degil)"],
   "script": "seslendirilecek tam metin, tek paragraf",
   "visual_keywords": ["pexels aramasi icin 3-5 ingilizce anahtar kelime, konuyla gorsel eslesecek somut nesneler/mekanlar"]
 }"""
