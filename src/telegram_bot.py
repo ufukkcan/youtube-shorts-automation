@@ -147,6 +147,78 @@ def find_manual_trigger(updates: list[dict]) -> bool:
     return False
 
 
+def send_hashtag_options(hashtags: list[str], batch_id: str) -> int:
+    """Konuyla ilgili hashtag adaylarini, secilebilir (tiklandikca isaretlenen)
+    butonlarla gonderir. Mesaj id'sini dondurur."""
+    text = _hashtag_message_text(hashtags, selected_indices=[])
+    resp = requests.post(
+        f"{API_BASE}/sendMessage",
+        json={
+            "chat_id": CHAT_ID,
+            "text": text,
+            "reply_markup": {"inline_keyboard": _hashtag_keyboard(hashtags, batch_id, [])},
+        },
+        timeout=20,
+    )
+    resp.raise_for_status()
+    return resp.json()["result"]["message_id"]
+
+
+def update_hashtag_message(message_id: int, hashtags: list[str], selected_indices: list[int], batch_id: str) -> None:
+    """Secim degistikce mesaji (metin + isaretli butonlar) gunceller."""
+    requests.post(
+        f"{API_BASE}/editMessageText",
+        json={
+            "chat_id": CHAT_ID,
+            "message_id": message_id,
+            "text": _hashtag_message_text(hashtags, selected_indices),
+            "reply_markup": {"inline_keyboard": _hashtag_keyboard(hashtags, batch_id, selected_indices)},
+        },
+        timeout=20,
+    )
+
+
+def _hashtag_message_text(hashtags: list[str], selected_indices: list[int]) -> str:
+    lines = [f"Bu konuyla ilgili 5 hashtag sec ({len(selected_indices)}/5 secildi):\n"]
+    for i, tag in enumerate(hashtags):
+        mark = "[secildi] " if i in selected_indices else ""
+        lines.append(f"{mark}{i + 1}) #{tag}")
+    return "\n".join(lines)
+
+
+def _hashtag_keyboard(hashtags: list[str], batch_id: str, selected_indices: list[int]) -> list[list[dict]]:
+    rows = []
+    for i in range(0, len(hashtags), 2):
+        row = []
+        for j in (i, i + 1):
+            if j < len(hashtags):
+                label = f"{'v ' if j in selected_indices else ''}{j + 1}"
+                row.append({"text": label, "callback_data": f"htag:{batch_id}:{j}"})
+        rows.append(row)
+    return rows
+
+
+def find_hashtag_toggles(updates: list[dict], batch_id: str) -> list[int]:
+    """Bu batch_id icin gelen TUM hashtag tiklamalarini SIRAYLA dondurur.
+    Yoklama araligi birkac dakika oldugu icin kullanici arka arkaya birden
+    fazla hashtag'e tiklamis olabilir -- hepsini sirayla isleriz, tek tek
+    degil (yoksa aradaki tiklamalari kaybederiz)."""
+    indices = []
+    prefix = f"htag:{batch_id}:"
+    for update in updates:
+        callback = update.get("callback_query")
+        if not callback:
+            continue
+        if str(callback["message"]["chat"]["id"]) != str(CHAT_ID):
+            continue
+        data = callback.get("data", "")
+        if not data.startswith(prefix):
+            continue
+        indices.append(int(data[len(prefix):]))
+        answer_callback_query(callback["id"])
+    return indices
+
+
 def find_selection(updates: list[dict], batch_id: str) -> int | None:
     """Bu batch_id icin, dogru chat_id'den gelen bir buton tiklamasi var mi bakar.
     Varsa secilen indexi (0-4) dondurur, callback'i yanitlar."""
