@@ -1,0 +1,43 @@
+name: Suggest daily topics (manuel yedek)
+
+# Artik otomatik cron BURADA degil -- tetikleme (manuel "video uret" veya
+# AUTO_TRIGGER_TIME saati) check_and_produce.yml'in her 10 dakikada bir
+# calisan dongusunde yonetiliyor. Bu workflow sadece Actions sekmesinden
+# elle test etmek / manuel bir dongu zorlamak istersen burada duruyor.
+on:
+  workflow_dispatch: {}
+
+jobs:
+  suggest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Repoyu al
+        uses: actions/checkout@v4
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bagimliliklari kur
+        run: pip install -r requirements.txt
+
+      - name: 5 konu onerisi uret ve Telegram'a gonder
+        working-directory: src
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          CONTENT_LANGUAGE: "en"
+        run: python suggest_topics.py
+
+      - name: State'i kaydet
+        run: |
+          git config user.name "shorts-bot"
+          git config user.email "shorts-bot@users.noreply.github.com"
+          git add state/
+          git diff --quiet --cached || git commit -m "Yeni konu onerileri gonderildi (manuel)"
+          git push

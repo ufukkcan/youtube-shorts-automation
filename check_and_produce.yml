@@ -1,0 +1,59 @@
+name: Check Telegram selection and produce
+
+on:
+  schedule:
+    # Her 10 dakikada bir kontrol eder. Bekleyen secim yoksa hemen biter, is yapmaz.
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: check-and-produce
+  cancel-in-progress: false  # uretim suren bir calisma varsa yenisi onu iptal etmesin, sirada beklesin
+
+jobs:
+  check-and-produce:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Repoyu al
+        uses: actions/checkout@v4
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bagimliliklari kur
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+          pip install -r requirements.txt
+
+      - name: Secimi kontrol et, varsa uret ve yukle
+        working-directory: src
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          CONTENT_LANGUAGE: "en"
+          TTS_VOICE: "en-US-AriaNeural"  # diger secenekler: en-US-GuyNeural, en-US-AndrewNeural, en-GB-SoniaNeural
+          PRIVACY_STATUS: "public"
+          AUTO_TRIGGER_TIME: "20:00"      # "video uret" yazilmazsa gunun dongusu bu Istanbul saatinde kendiliginden baslar
+          PUBLISH_TIME_ISTANBUL: "20:00"  # onaylanan video her gun bu Istanbul saatinde otomatik yayina girer (onay saatinden bagimsiz). Kapatmak icin "off" yap.
+          FALLBACK_HOURS: "20"       # yanit gelmezse kac saat sonra otomatik ilerlesin (secim/onay). Kapatmak icin 0 yap.
+          MAX_REDO_ATTEMPTS: "5"     # "tekrar uret" ile en fazla kac deneme yapilsin, sonra otomatik onaylanir
+        run: python check_and_produce.py
+
+      - name: State'i kaydet
+        if: always()
+        run: |
+          git config user.name "shorts-bot"
+          git config user.email "shorts-bot@users.noreply.github.com"
+          git add state/
+          git diff --quiet --cached || git commit -m "State guncellendi (secim/uretim)"
+          git push
