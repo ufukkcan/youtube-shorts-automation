@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-04",
   "message_id": 40,
   "created_at": "2026-08-04T20:11:30.339512+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Mantis shrimp can see 16 types of color",
@@ -145,5 +145,48 @@
         "spinal column"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Cleopatra's needle obelisk hidden time capsule",
+    "teaser": "There's a secret box buried under one of the most famous monuments in New York — and most people walk right past it every day.",
+    "video_title": "A Secret Time Capsule Is Hidden in Central Park",
+    "video_description": "Beneath the ancient Egyptian obelisk in Central Park lies a buried time capsule from 1880, filled with newspapers, coins, and a census. Almost no one knows it exists.",
+    "tags": [
+      "time capsule",
+      "Central Park",
+      "obelisk",
+      "New York secrets",
+      "hidden history",
+      "Egyptian artifacts",
+      "1880",
+      "buried treasure",
+      "NYC landmarks",
+      "ancient Egypt",
+      "history facts",
+      "hidden monuments",
+      "American history"
+    ],
+    "script": "There is a secret box buried right beneath Central Park, and almost nobody knows it exists. In 1880, when workers installed the ancient Egyptian obelisk known as Cleopatra's Needle in New York City, they buried a time capsule directly underneath it. Inside? A copy of the Declaration of Independence, a Bible, a US census, coins, newspapers, and even a guide to the English language. It has been sitting under millions of tourists' feet for over 140 years, completely untouched. No one has opened it since. So the real question is — what would you put inside a time capsule meant to last another 140 years?",
+    "visual_keywords": [
+      "Central Park obelisk",
+      "Egyptian monument",
+      "New York landmark",
+      "ancient stone pillar"
+    ]
+  },
+  "hashtag_options": [
+    "timecapsule",
+    "CentralPark",
+    "obelisk",
+    "NewYorksecrets",
+    "hiddenhistory",
+    "Egyptianartifacts",
+    "1880",
+    "buriedtreasure",
+    "NYClandmarks",
+    "ancientEgypt"
+  ],
+  "hashtag_message_id": 42,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-04T20:12:55.629145+00:00"
 }
