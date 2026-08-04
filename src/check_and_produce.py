@@ -1,22 +1,22 @@
 """
-Sik araliklarla calisir (cron, or. her 5-10 dakikada bir). UC asamali surec:
+Sik araliklarla calisir (cron, or. her 5-10 dakikada bir). DORT asamali surec:
 
   asama 0 "aktif dongu yok" -> Telegram'a "video uret" yazildi mi, ya da
                          AUTO_TRIGGER_TIME saatine gelindi mi? Ikisinden biri
-                         olduysa yeni bir 5-konu dongusu baslatir. Manuel
-                         istek her zaman calisir (gun icinde "done" olsa bile),
-                         otomatik saat tetiklemesi ise gunde sadece bir kez.
-  asama 1 "pending"   -> Telegram'da 5 konudan biri secildi mi? Secildiyse
+                         olduysa yeni bir 5-konu dongusu baslatir.
+  asama 1 "pending"            -> Telegram'da 5 konudan biri secildi mi?
+                         Secildiyse konuyla ilgili 10 hashtag onerisi gonderir
+                         -> durum "selecting_hashtags" olur.
+  asama 2 "selecting_hashtags" -> Kullanici 5 hashtag secti mi? Secildiyse
                          videoyu URETIR (henuz YUKLEMEZ) ve onaya Telegram'a
                          gonderir -> durum "reviewing" olur.
-  asama 2 "reviewing" -> Kullanici "Onayla" dedi mi, "Tekrar uret" mi dedi?
-                         Onayladiysa YouTube'a yukler -> durum "done".
+  asama 3 "reviewing"          -> Kullanici "Onayla" dedi mi, "Tekrar uret" mi
+                         dedi? Onayladiysa YouTube'a yukler -> durum "done".
                          Begenmediyse videoyu YENIDEN URETIR, tekrar onaya
                          sunar -> "reviewing" durumunda kalir (dongu).
 
 Kullanici hic yanit vermezse FALLBACK_HOURS sonra ilgili adim otomatik
-ilerletilir (secim icin ilk konu, onay icin mevcut video), boylece gunluk
-yayin sonsuza kadar beklemede kalmaz.
+ilerletilir, boylece gunluk yayin sonsuza kadar beklemede kalmaz.
 """
 import json
 import os
@@ -30,18 +30,22 @@ from pipeline import produce_video, upload_video
 from telegram_bot import (
     download_review_video,
     edit_message,
+    find_hashtag_toggles,
     find_manual_trigger,
     find_review_decision,
     find_selection,
     get_updates,
+    send_hashtag_options,
     send_message,
     send_video_for_review,
+    update_hashtag_message,
 )
 
 PENDING_FILE = Path(__file__).resolve().parent.parent / "state" / "pending_topics.json"
 OFFSET_FILE = Path(__file__).resolve().parent.parent / "state" / "telegram_offset.json"
 FALLBACK_HOURS = float(os.environ.get("FALLBACK_HOURS", "20"))
 MAX_REDO_ATTEMPTS = int(os.environ.get("MAX_REDO_ATTEMPTS", "5"))
+N_HASHTAGS_TO_PICK = 5
 # Manuel "video uret" gelmezse gunun dongusu bu Istanbul saatinde kendiliginden baslar.
 AUTO_TRIGGER_TIME = os.environ.get("AUTO_TRIGGER_TIME", "20:00")
 ISTANBUL = ZoneInfo("Europe/Istanbul")
@@ -52,11 +56,14 @@ def run() -> None:
     pending = _load_json(PENDING_FILE)
     today = datetime.now(ISTANBUL).date().isoformat()
 
-    active_cycle = bool(pending) and pending.get("status") in ("pending", "reviewing")
+    active_cycle = bool(pending) and pending.get("status") in ("pending", "selecting_hashtags", "reviewing")
 
     if active_cycle:
-        if pending["status"] == "pending":
+        status = pending["status"]
+        if status == "pending":
             _handle_topic_selection(pending, updates)
+        elif status == "selecting_hashtags":
+            _handle_hashtag_selection(pending, updates)
         else:
             _handle_review_decision(pending, updates)
         return
@@ -99,13 +106,84 @@ def _handle_topic_selection(pending: dict, updates: list[dict]) -> None:
     note = " [yanit gelmedigi icin otomatik secildi]" if auto_selected else ""
     edit_message(pending["message_id"], f"Secildi: {selected_index + 1}) {chosen['topic']}{note}")
 
-    try:
-        _produce_and_send_for_review(pending, chosen, attempt_note="Ilk versiyon uretiliyor...")
-    except Exception as exc:
-        send_message(f"Video uretiminde hata olustu: {exc}\nTekrar denemek icin 'video uret' yazabilirsin.")
-        pending["status"] = "error"
+    _start_hashtag_selection(pending, chosen)
+
+
+def _start_hashtag_selection(pending: dict, chosen: dict) -> None:
+    hashtag_options = _clean_hashtag_candidates(chosen.get("tags", []))
+    message_id = send_hashtag_options(hashtag_options, pending["batch_id"])
+
+    pending["status"] = "selecting_hashtags"
+    pending["candidate"] = chosen
+    pending["hashtag_options"] = hashtag_options
+    pending["hashtag_message_id"] = message_id
+    pending["selected_hashtags"] = []
+    pending["hashtag_started_at"] = datetime.now(timezone.utc).isoformat()
+    _save_json(PENDING_FILE, pending)
+
+
+def _clean_hashtag_candidates(tags: list[str]) -> list[str]:
+    """Etiketleri hashtag'e uygun (bosluksuz, alfanumerik) hale getirir,
+    tekrarlari eler, en fazla 10 tane birakir."""
+    cleaned = []
+    seen = set()
+    for tag in tags:
+        word = "".join(ch for ch in str(tag) if ch.isalnum())
+        if word and word.lower() not in seen:
+            cleaned.append(word)
+            seen.add(word.lower())
+    return cleaned[:10]
+
+
+def _handle_hashtag_selection(pending: dict, updates: list[dict]) -> None:
+    toggles = find_hashtag_toggles(updates, pending["batch_id"])
+    selected = pending.get("selected_hashtags", [])
+
+    for index in toggles:
+        if index in selected:
+            selected.remove(index)
+        else:
+            selected.append(index)
+        if len(selected) >= N_HASHTAGS_TO_PICK:
+            break
+
+    timed_out = (
+        len(selected) < N_HASHTAGS_TO_PICK
+        and _hours_since(pending["hashtag_started_at"]) >= FALLBACK_HOURS > 0
+    )
+    if timed_out:
+        # yanit gelmedi, eksik kalanlari listeden sirayla tamamla
+        for i in range(len(pending["hashtag_options"])):
+            if len(selected) >= N_HASHTAGS_TO_PICK:
+                break
+            if i not in selected:
+                selected.append(i)
+
+    pending["selected_hashtags"] = selected
+
+    if len(selected) >= N_HASHTAGS_TO_PICK:
+        hashtag_options = pending["hashtag_options"]
+        chosen_tags = [hashtag_options[i] for i in selected[:N_HASHTAGS_TO_PICK]]
+        chosen = pending["candidate"]
+        chosen["video_description"] = chosen["topic"] + "\n\n" + " ".join(f"#{t}" for t in chosen_tags)
+
+        edit_message(
+            pending["hashtag_message_id"],
+            "Hashtag secimi tamamlandi: " + " ".join(f"#{t}" for t in chosen_tags),
+        )
+
+        try:
+            _produce_and_send_for_review(pending, chosen, attempt_note="Video uretiliyor...")
+        except Exception as exc:
+            send_message(f"Video uretiminde hata olustu: {exc}\nTekrar denemek icin 'video uret' yazabilirsin.")
+            pending["status"] = "error"
+            _save_json(PENDING_FILE, pending)
+            raise
+    else:
+        update_hashtag_message(
+            pending["hashtag_message_id"], pending["hashtag_options"], selected, pending["batch_id"]
+        )
         _save_json(PENDING_FILE, pending)
-        raise
 
 
 def _handle_review_decision(pending: dict, updates: list[dict]) -> None:
