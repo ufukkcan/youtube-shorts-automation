@@ -1,3 +1,5 @@
+# cron tetiklemesini yenile
+
 """
 Sik araliklarla calisir (cron, or. her 5-10 dakikada bir). DORT asamali surec:
 
