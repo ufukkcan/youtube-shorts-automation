@@ -1,9 +1,9 @@
 {
   "batch_id": "20260805-1136",
   "trigger_date": "2026-08-05",
-  "message_id": 60,
+  "message_id": 65,
   "created_at": "2026-08-05T11:36:27.213351+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Tardigrades surviving in space",
@@ -147,7 +147,7 @@
     "topic": "The Voynich Manuscript unsolved mystery",
     "teaser": "For over 600 years, the world's smartest codebreakers have tried to read this book — and every single one has failed.",
     "video_title": "No One Can Read This 600-Year-Old Book",
-    "video_description": "The Voynich Manuscript is a medieval illustrated book written in a completely unknown language or code. Top cryptographers, linguists, and even World War II codebreakers have tried and failed to decipher it. Its origin and purpose remain completely unknown to this day.",
+    "video_description": "The Voynich Manuscript unsolved mystery\n\n#unsolvedmystery #ancientbook #secretcode #cryptography #weirdhistory",
     "tags": [
       "voynich manuscript",
       "unsolved mystery",
@@ -183,6 +183,15 @@
     "weirdhistory"
   ],
   "hashtag_message_id": 62,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-05T11:38:26.673583+00:00"
+  "selected_hashtags": [
+    1,
+    2,
+    7,
+    8,
+    9
+  ],
+  "hashtag_started_at": "2026-08-05T11:38:26.673583+00:00",
+  "video_file_id": "BAACAgQAAxkDAANBanMhnpwKTiXG6NSYj0uIPfprRpMAAioaAAL6J5hTTWHlel3WrgI9BA",
+  "review_started_at": "2026-08-05T11:42:22.236201+00:00",
+  "attempts": 1
 }
