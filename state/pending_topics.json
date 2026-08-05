@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-05",
   "message_id": 50,
   "created_at": "2026-08-04T22:33:48.209951+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Lobsters are biologically immortal",
@@ -142,5 +142,47 @@
         "cell phone radiation"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Lobsters are biologically immortal",
+    "teaser": "What if aging was optional? One creature on Earth might have figured it out...",
+    "video_title": "Lobsters Don't Actually Age — Here's Why",
+    "video_description": "Lobsters produce an enzyme that repairs their DNA indefinitely, making them biologically immortal. They don't weaken with age — they actually get stronger. Find out what eventually kills them.",
+    "tags": [
+      "lobster",
+      "biological immortality",
+      "aging",
+      "telomerase",
+      "marine biology",
+      "ocean facts",
+      "DNA repair",
+      "immortal animals",
+      "science facts",
+      "lifespan",
+      "biology",
+      "surprising nature"
+    ],
+    "script": "What if you never had to age? Lobsters might have cracked that code. Unlike most animals, lobsters produce an enzyme called telomerase that continuously repairs their DNA. This means they don't weaken, slow down, or deteriorate with age. In fact, older lobsters are often more fertile than younger ones. A lobster doesn't die of old age — it usually dies from exhaustion during molting, disease, or being caught. Some scientists believe lobsters could theoretically live forever under perfect conditions. So the real question is — if you could stop aging, would you want to live forever?",
+    "visual_keywords": [
+      "lobster",
+      "ocean floor",
+      "marine life",
+      "underwater"
+    ]
+  },
+  "hashtag_options": [
+    "lobster",
+    "biologicalimmortality",
+    "aging",
+    "telomerase",
+    "marinebiology",
+    "oceanfacts",
+    "DNArepair",
+    "immortalanimals",
+    "sciencefacts",
+    "lifespan"
+  ],
+  "hashtag_message_id": 52,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-05T05:43:38.946892+00:00"
 }
