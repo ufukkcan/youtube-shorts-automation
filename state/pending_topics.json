@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-05",
   "message_id": 60,
   "created_at": "2026-08-05T11:36:27.213351+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Tardigrades surviving in space",
@@ -142,5 +142,47 @@
         "hand fingers macro"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "The Voynich Manuscript unsolved mystery",
+    "teaser": "For over 600 years, the world's smartest codebreakers have tried to read this book — and every single one has failed.",
+    "video_title": "No One Can Read This 600-Year-Old Book",
+    "video_description": "The Voynich Manuscript is a medieval illustrated book written in a completely unknown language or code. Top cryptographers, linguists, and even World War II codebreakers have tried and failed to decipher it. Its origin and purpose remain completely unknown to this day.",
+    "tags": [
+      "voynich manuscript",
+      "unsolved mystery",
+      "ancient book",
+      "mysterious language",
+      "medieval mystery",
+      "undeciphered text",
+      "history mystery",
+      "secret code",
+      "cryptography",
+      "weird history",
+      "unexplained",
+      "oldest mysteries"
+    ],
+    "script": "There is a book that has never been decoded. Not by linguists, not by World War II cryptographers, not even by the most powerful AI systems today. The Voynich Manuscript is over 600 years old, filled with strange illustrations of unknown plants, naked figures, and astronomical diagrams — all written in a language no human has ever been able to identify. It follows real grammatical patterns, so it's not random nonsense. Someone wrote it deliberately. It was real to someone. Hundreds of scholars have dedicated their careers to cracking it — and every single one has failed. What do you think is hidden inside it?",
+    "visual_keywords": [
+      "voynich manuscript pages",
+      "ancient manuscript",
+      "medieval book",
+      "old parchment writing"
+    ]
+  },
+  "hashtag_options": [
+    "voynichmanuscript",
+    "unsolvedmystery",
+    "ancientbook",
+    "mysteriouslanguage",
+    "medievalmystery",
+    "undecipheredtext",
+    "historymystery",
+    "secretcode",
+    "cryptography",
+    "weirdhistory"
+  ],
+  "hashtag_message_id": 62,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-05T11:38:26.673583+00:00"
 }
