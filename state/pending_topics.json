@@ -1,9 +1,9 @@
 {
   "batch_id": "20260804-2233",
   "trigger_date": "2026-08-05",
-  "message_id": 50,
+  "message_id": 55,
   "created_at": "2026-08-04T22:33:48.209951+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Lobsters are biologically immortal",
@@ -147,7 +147,7 @@
     "topic": "Lobsters are biologically immortal",
     "teaser": "What if aging was optional? One creature on Earth might have figured it out...",
     "video_title": "Lobsters Don't Actually Age — Here's Why",
-    "video_description": "Lobsters produce an enzyme that repairs their DNA indefinitely, making them biologically immortal. They don't weaken with age — they actually get stronger. Find out what eventually kills them.",
+    "video_description": "Lobsters are biologically immortal\n\n#biologicalimmortality #aging #DNArepair #immortalanimals #sciencefacts",
     "tags": [
       "lobster",
       "biological immortality",
@@ -183,6 +183,15 @@
     "lifespan"
   ],
   "hashtag_message_id": 52,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-05T05:43:38.946892+00:00"
+  "selected_hashtags": [
+    1,
+    2,
+    6,
+    7,
+    8
+  ],
+  "hashtag_started_at": "2026-08-05T05:43:38.946892+00:00",
+  "video_file_id": "BAACAgQAAxkDAAM3anLO0ldN5xjOfpk5B_Fz97uwkjkAAhgbAAK2jpFTo31ZsjlBHIY9BA",
+  "review_started_at": "2026-08-05T05:49:07.003216+00:00",
+  "attempts": 1
 }
