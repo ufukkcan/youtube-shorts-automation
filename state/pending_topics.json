@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-07",
   "message_id": 113,
   "created_at": "2026-08-07T10:59:57.583872+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Polar bears are not white — they are transparent",
@@ -139,5 +139,47 @@
         "dinosaur museum exhibit"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Stomach growling has nothing to do with hunger",
+    "teaser": "That embarrassing growling sound your stomach makes? Science says hunger isn't actually the reason.",
+    "video_title": "Your Stomach Growls Even When You're Full 😳",
+    "video_description": "Most people assume stomach growling means you're hungry, but the truth is your gut makes that sound constantly — hunger just removes the one thing masking it.",
+    "tags": [
+      "stomach growling",
+      "human body facts",
+      "digestion facts",
+      "borborygmi",
+      "gut sounds",
+      "hunger myths",
+      "body science",
+      "human biology",
+      "digestive system",
+      "surprising body facts",
+      "food digestion",
+      "health facts",
+      "body myths"
+    ],
+    "script": "That embarrassing stomach growl in a quiet room? It has almost nothing to do with hunger. Your digestive system is constantly squeezing and pushing air and fluid through your intestines — a process called peristalsis. It produces gurgling sounds around the clock, even after a massive meal. The reason you only notice it when you're hungry is simple: when your stomach is full, food muffles the sound. Empty stomach, nothing to absorb the noise, so it echoes loudly. Your gut is basically always making noise — you just can't hear it most of the time. So next time your stomach growls in a meeting, you're not actually hungry. You're just… hollow.",
+    "visual_keywords": [
+      "human stomach anatomy",
+      "digestive system",
+      "body science illustration"
+    ]
+  },
+  "hashtag_options": [
+    "stomachgrowling",
+    "humanbodyfacts",
+    "digestionfacts",
+    "borborygmi",
+    "gutsounds",
+    "hungermyths",
+    "bodyscience",
+    "humanbiology",
+    "digestivesystem",
+    "surprisingbodyfacts"
+  ],
+  "hashtag_message_id": 114,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-07T11:36:24.532822+00:00"
 }
