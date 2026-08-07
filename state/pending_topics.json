@@ -1,9 +1,9 @@
 {
   "batch_id": "20260807-1239",
   "trigger_date": "2026-08-07",
-  "message_id": 141,
+  "message_id": 144,
   "created_at": "2026-08-07T12:39:00.898547+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Cleopatra's asp — actually not a cobra",
@@ -146,7 +146,7 @@
     "topic": "The Antikythera mechanism — ancient analog computer",
     "teaser": "Two thousand years ago, someone built a device so advanced that we couldn't explain how it worked until a few years ago.",
     "video_title": "Ancient Greeks Built a Computer in 100 BC",
-    "video_description": "The Antikythera mechanism, recovered from a Greek shipwreck, is a 2,000-year-old bronze device capable of predicting astronomical events, eclipses, and even the Olympic Games schedule — centuries before similar technology was thought possible.",
+    "video_description": "The Antikythera mechanism — ancient analog computer\n\n#oldestcomputer #ancientastronomy #historyoftechnology #eclipseprediction #ancientengineering",
     "tags": [
       "antikythera mechanism",
       "ancient greek technology",
@@ -182,6 +182,15 @@
     "ancientengineering"
   ],
   "hashtag_message_id": 142,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-07T12:49:43.816974+00:00"
+  "selected_hashtags": [
+    2,
+    3,
+    6,
+    8,
+    9
+  ],
+  "hashtag_started_at": "2026-08-07T12:49:43.816974+00:00",
+  "video_file_id": "BAACAgQAAxkDAAOQanXYfcA2VN314QnHv2D9f5dmJgADgSAAAp6OsFO5MrMf37Ny9D0E",
+  "review_started_at": "2026-08-07T13:07:09.751942+00:00",
+  "attempts": 1
 }
