@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-07",
   "message_id": 141,
   "created_at": "2026-08-07T12:39:00.898547+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Cleopatra's asp — actually not a cobra",
@@ -141,5 +141,47 @@
         "crow flock"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "The Antikythera mechanism — ancient analog computer",
+    "teaser": "Two thousand years ago, someone built a device so advanced that we couldn't explain how it worked until a few years ago.",
+    "video_title": "Ancient Greeks Built a Computer in 100 BC",
+    "video_description": "The Antikythera mechanism, recovered from a Greek shipwreck, is a 2,000-year-old bronze device capable of predicting astronomical events, eclipses, and even the Olympic Games schedule — centuries before similar technology was thought possible.",
+    "tags": [
+      "antikythera mechanism",
+      "ancient greek technology",
+      "oldest computer",
+      "ancient astronomy",
+      "bronze age machine",
+      "greek shipwreck",
+      "history of technology",
+      "ancient mysteries",
+      "eclipse prediction",
+      "ancient engineering",
+      "archaeological discovery",
+      "out of place artifact"
+    ],
+    "script": "In 1901, divers pulled a corroded lump of bronze from a 2,000-year-old shipwreck off the coast of Greece. It sat in a museum drawer for decades before anyone realized what it was — a fully functioning astronomical computer, built around 100 BC. The Antikythera mechanism could predict solar and lunar eclipses, track the positions of planets, calculate the date of the Olympic Games, and model the irregular orbit of the Moon — a mathematical problem that took modern scientists until the 1600s to solve. It has 37 interlocking bronze gears with precision that wasn't seen again in engineering for over 1,400 years. We still don't know who built it or how that knowledge completely vanished. What else do you think the ancient world invented that we've simply lost forever?",
+    "visual_keywords": [
+      "antikythera mechanism",
+      "ancient greek artifact",
+      "bronze gears",
+      "archaeological museum"
+    ]
+  },
+  "hashtag_options": [
+    "antikytheramechanism",
+    "ancientgreektechnology",
+    "oldestcomputer",
+    "ancientastronomy",
+    "bronzeagemachine",
+    "greekshipwreck",
+    "historyoftechnology",
+    "ancientmysteries",
+    "eclipseprediction",
+    "ancientengineering"
+  ],
+  "hashtag_message_id": 142,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-07T12:49:43.816974+00:00"
 }
