@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-07",
   "message_id": 99,
   "created_at": "2026-08-07T05:56:23.081378+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Humans produce enough saliva to fill two swimming pools in a lifetime",
@@ -137,5 +137,47 @@
         "South Africa coastline waves"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "There is a place on Earth where two oceans meet but don't mix",
+    "teaser": "Two of Earth's oceans crash into each other every single day — and refuse to mix.",
+    "video_title": "Two Oceans Meet Here But Never Mix. Here's Why.",
+    "video_description": "At the southern tip of Africa, the Atlantic and Indian Oceans collide in a stunning visible line on the water's surface. Despite being side by side, their waters maintain distinct temperatures, salinity levels, and even colors. The science behind it is fascinating.",
+    "tags": [
+      "two oceans meeting",
+      "Cape Agulhas",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "ocean facts",
+      "earth science",
+      "geography facts",
+      "oceanography",
+      "nature facts",
+      "surprising earth facts",
+      "halocline",
+      "ocean boundary",
+      "water science"
+    ],
+    "script": "At the very southern tip of Africa, something happens that looks like it belongs in a movie. The Atlantic Ocean and the Indian Ocean crash into each other — and you can actually see the line where they meet. The water on each side is a different color, a different temperature, and a different texture. But despite constantly colliding, they refuse to mix. The reason comes down to physics: the two oceans have dramatically different salt concentrations and densities, creating what scientists call a halocline — essentially an invisible wall of water pressure that keeps them separated. The same phenomenon happens where rivers meet the sea, and the line can persist for miles. It's one of the most visually stunning things on Earth, and most people have never even heard of it. What other boundaries like this do you think are hiding on this planet?",
+    "visual_keywords": [
+      "two oceans meeting Cape Agulhas",
+      "ocean water color contrast",
+      "South Africa coastline waves"
+    ]
+  },
+  "hashtag_options": [
+    "twooceansmeeting",
+    "CapeAgulhas",
+    "AtlanticOcean",
+    "IndianOcean",
+    "oceanfacts",
+    "earthscience",
+    "geographyfacts",
+    "oceanography",
+    "naturefacts",
+    "surprisingearthfacts"
+  ],
+  "hashtag_message_id": 100,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-07T05:58:38.217959+00:00"
 }
