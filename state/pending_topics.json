@@ -1,9 +1,9 @@
 {
   "batch_id": "20260807-1206",
   "trigger_date": "2026-08-07",
-  "message_id": 127,
+  "message_id": 130,
   "created_at": "2026-08-07T12:06:58.119005+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Oxford University older than the Aztec Empire",
@@ -143,7 +143,7 @@
     "topic": "The Pacific Ocean is shrinking and the Atlantic is growing",
     "teaser": "One of Earth's oceans is slowly disappearing — and it's been happening your entire life without you noticing.",
     "video_title": "The Pacific Ocean Is Slowly Disappearing 🌊",
-    "video_description": "Due to tectonic plate movement, the Pacific Ocean shrinks by a few centimeters every year while the Atlantic Ocean gradually expands. Earth's surface is in constant slow motion.",
+    "video_description": "The Pacific Ocean is shrinking and the Atlantic is growing\n\n#tectonicplates #earthscience #geologyfacts #oceanfacts #earthchanges",
     "tags": [
       "pacific ocean",
       "atlantic ocean",
@@ -179,6 +179,15 @@
     "surprisinggeography"
   ],
   "hashtag_message_id": 128,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-07T12:08:57.272061+00:00"
+  "selected_hashtags": [
+    2,
+    4,
+    5,
+    6,
+    7
+  ],
+  "hashtag_started_at": "2026-08-07T12:08:57.272061+00:00",
+  "video_file_id": "BAACAgQAAxkDAAOCanXMD9i2yohDmpm-6hH3KF2YYUQAAmggAAKejrBTE01n5cgzIm89BA",
+  "review_started_at": "2026-08-07T12:14:07.531427+00:00",
+  "attempts": 1
 }
