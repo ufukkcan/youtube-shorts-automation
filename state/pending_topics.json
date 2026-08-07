@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-07",
   "message_id": 120,
   "created_at": "2026-08-07T11:51:19.991438+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Octopuses have three hearts",
@@ -127,5 +127,45 @@
         "color spectrum light"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "There is a color the human eye cannot see — Stygian blue",
+    "teaser": "Scientists discovered a color that physically cannot exist in the real world — but your brain can be tricked into seeing it.",
+    "video_title": "There's a Color Your Eyes Can't See — But Your Brain Can",
+    "video_description": "Stygian blue is a color that cannot physically exist as light — it would require negative brightness. Yet in lab experiments, scientists have tricked the human brain into perceiving it through specific optical illusions targeting cone cells. It's a color that exists only in the mind.",
+    "tags": [
+      "stygian blue",
+      "impossible colors",
+      "human vision",
+      "optical illusion",
+      "color perception",
+      "eye science",
+      "brain tricks",
+      "neuroscience",
+      "color you cant see",
+      "visual cortex",
+      "forbidden colors"
+    ],
+    "script": "There is a color that cannot physically exist as light anywhere in the universe — yet scientists have made people see it. It's called Stygian blue, and it would require something called negative brightness to actually appear in nature, which is impossible. But researchers found that by overstimulating specific cone cells in your eye with a carefully designed optical illusion, your brain gets confused and generates this forbidden color entirely on its own. People who've seen it in lab experiments describe it as something they've never seen before and can't quite explain afterward. Your eyes aren't cameras — they're storytellers. So what other colors might your brain be hiding from you right now?",
+    "visual_keywords": [
+      "optical illusion",
+      "human eye closeup",
+      "color spectrum light"
+    ]
+  },
+  "hashtag_options": [
+    "stygianblue",
+    "impossiblecolors",
+    "humanvision",
+    "opticalillusion",
+    "colorperception",
+    "eyescience",
+    "braintricks",
+    "neuroscience",
+    "coloryoucantsee",
+    "visualcortex"
+  ],
+  "hashtag_message_id": 121,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-07T11:53:24.196969+00:00"
 }
