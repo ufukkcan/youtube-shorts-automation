@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-07",
   "message_id": 134,
   "created_at": "2026-08-07T12:22:11.502396+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Honey never spoils — 3000-year-old edible honey found in Egyptian tombs",
@@ -138,5 +138,47 @@
         "medical history old"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Honey never spoils — 3000-year-old edible honey found in Egyptian tombs",
+    "teaser": "Archaeologists found something in an Egyptian tomb that was still perfectly edible after 3,000 years — and it's probably in your kitchen right now.",
+    "video_title": "3,000-Year-Old Honey Found in Egypt — Still Edible",
+    "video_description": "Honey discovered in ancient Egyptian tombs was still perfectly edible after three millennia. Its unique chemistry makes it the only food that never truly expires. Find out why honey is biologically immortal.",
+    "tags": [
+      "honey",
+      "ancient egypt",
+      "never expires",
+      "egyptian tombs",
+      "food science",
+      "archaeology",
+      "eternal food",
+      "honey chemistry",
+      "hydrogen peroxide",
+      "low moisture food",
+      "immortal food",
+      "tomb discovery",
+      "oldest food"
+    ],
+    "script": "Archaeologists cracking open Egyptian tombs found 3,000-year-old honey — and tasted it. It was still perfect. No mold, no bacteria, completely edible. Here's why: honey is almost entirely sugar with almost zero water. Bacteria need moisture to survive, and honey simply doesn't give them any. On top of that, honey naturally produces tiny amounts of hydrogen peroxide — the same stuff used to disinfect wounds. It essentially sterilizes itself forever. As long as it stays sealed, honey has no expiration date. Literally none. So that jar sitting in your cabinet? It could outlive your great-great-grandchildren. Now the real question is — what other foods in your kitchen might actually last forever?",
+    "visual_keywords": [
+      "honey jar golden",
+      "egyptian tomb interior",
+      "ancient egypt artifacts"
+    ]
+  },
+  "hashtag_options": [
+    "honey",
+    "ancientegypt",
+    "neverexpires",
+    "egyptiantombs",
+    "foodscience",
+    "archaeology",
+    "eternalfood",
+    "honeychemistry",
+    "hydrogenperoxide",
+    "lowmoisturefood"
+  ],
+  "hashtag_message_id": 135,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-07T12:24:39.945065+00:00"
 }
