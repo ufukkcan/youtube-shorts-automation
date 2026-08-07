@@ -6,6 +6,12 @@ import subprocess
 from pathlib import Path
 
 WIDTH, HEIGHT = 1080, 1920
+# Telegram Bot API'nin sendVideo siniri 50MB -- guvenli pay birakmak icin
+# hedef dosya boyutunu daha dusuk tutuyoruz. Sabit CRF yerine sureye gore
+# hesaplanan bir bitrate kullanmak, video suresi/detay yogunlugu degiskenlik
+# gosterse bile dosyanin bu sinirin altinda kalmasini garantiler.
+TARGET_MAX_MB = 30.0
+AUDIO_BITRATE_KBPS = 128
 
 
 def assemble(clip_paths: list[str], audio_path: str, srt_path: str, output_path: str, target_duration: float) -> None:
@@ -34,17 +40,31 @@ def assemble(clip_paths: list[str], audio_path: str, srt_path: str, output_path:
         "Alignment=2,MarginV=140"
     )
 
+    video_kbps = _compute_video_bitrate_kbps(target_duration)
+
     subprocess.run(
         [
             "ffmpeg", "-y", "-i", str(silent_video), "-i", audio_path,
             "-vf", f"subtitles={srt_path}:force_style='{subtitle_style}'",
             "-map", "0:v:0", "-map", "1:a:0",
-            "-c:v", "libx264", "-preset", "medium", "-crf", "20",
-            "-c:a", "aac", "-b:a", "192k",
+            "-c:v", "libx264", "-preset", "medium",
+            "-b:v", f"{video_kbps}k", "-maxrate", f"{int(video_kbps * 1.3)}k",
+            "-bufsize", f"{int(video_kbps * 2)}k",
+            "-c:a", "aac", "-b:a", f"{AUDIO_BITRATE_KBPS}k",
             "-shortest", str(output_path),
         ],
         check=True, capture_output=True,
     )
+
+
+def _compute_video_bitrate_kbps(duration_seconds: float) -> int:
+    """Hedef dosya boyutuna (TARGET_MAX_MB) gore video bitrate'i hesaplar,
+    boylece uzun/detayli videolar bile Telegram'in 50MB sinirini asmaz.
+    Cok kisa videolarda gereksiz yuksek, cok uzun videolarda okunamayacak
+    kadar dusuk bitrate'e dusmemesi icin makul alt/ust sinir konur."""
+    total_kbps = (TARGET_MAX_MB * 8192) / max(duration_seconds, 1.0)  # 1 MB = 8192 kbit
+    video_kbps = total_kbps - AUDIO_BITRATE_KBPS
+    return int(max(700, min(video_kbps, 5000)))
 
 
 def _normalize_clips(clip_paths: list[str], work_dir: Path, target_duration: float) -> list[str]:
