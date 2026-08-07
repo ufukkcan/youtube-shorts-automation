@@ -1,9 +1,9 @@
 {
   "batch_id": "20260807-1151",
   "trigger_date": "2026-08-07",
-  "message_id": 120,
+  "message_id": 123,
   "created_at": "2026-08-07T11:51:19.991438+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Octopuses have three hearts",
@@ -132,7 +132,7 @@
     "topic": "There is a color the human eye cannot see — Stygian blue",
     "teaser": "Scientists discovered a color that physically cannot exist in the real world — but your brain can be tricked into seeing it.",
     "video_title": "There's a Color Your Eyes Can't See — But Your Brain Can",
-    "video_description": "Stygian blue is a color that cannot physically exist as light — it would require negative brightness. Yet in lab experiments, scientists have tricked the human brain into perceiving it through specific optical illusions targeting cone cells. It's a color that exists only in the mind.",
+    "video_description": "There is a color the human eye cannot see — Stygian blue\n\n#humanvision #opticalillusion #colorperception #braintricks #visualcortex",
     "tags": [
       "stygian blue",
       "impossible colors",
@@ -166,6 +166,15 @@
     "visualcortex"
   ],
   "hashtag_message_id": 121,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-07T11:53:24.196969+00:00"
+  "selected_hashtags": [
+    2,
+    3,
+    4,
+    6,
+    9
+  ],
+  "hashtag_started_at": "2026-08-07T11:53:24.196969+00:00",
+  "video_file_id": "BAACAgQAAxkDAAN7anXIZqlJVl-R_RnLNGQi_w226vEAAmAgAAKejrBTnEQbyFczxnM9BA",
+  "review_started_at": "2026-08-07T11:58:30.288521+00:00",
+  "attempts": 1
 }
