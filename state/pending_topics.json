@@ -1,193 +1,145 @@
 {
-  "batch_id": "20260807-1222",
+  "batch_id": "20260807-1239",
   "trigger_date": "2026-08-07",
-  "message_id": 137,
-  "created_at": "2026-08-07T12:22:11.502396+00:00",
-  "status": "done",
+  "message_id": 141,
+  "created_at": "2026-08-07T12:39:00.898547+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Honey never spoils — 3000-year-old edible honey found in Egyptian tombs",
-      "teaser": "Archaeologists found something in an Egyptian tomb that was still perfectly edible after 3,000 years — and it's probably in your kitchen right now.",
-      "video_title": "3,000-Year-Old Honey Found in Egypt — Still Edible",
-      "video_description": "Honey discovered in ancient Egyptian tombs was still perfectly edible after three millennia. Its unique chemistry makes it the only food that never truly expires. Find out why honey is biologically immortal.",
+      "topic": "Cleopatra's asp — actually not a cobra",
+      "teaser": "History got Cleopatra's death completely wrong — and we only found out recently.",
+      "video_title": "Cleopatra Didn't Die the Way You Think",
+      "video_description": "For centuries, historians assumed Cleopatra was killed by an Egyptian cobra. But modern toxicologists and historians now believe the real culprit was something far less dramatic — and possibly not a snake at all.",
       "tags": [
-        "honey",
+        "cleopatra",
+        "cleopatra death",
         "ancient egypt",
-        "never expires",
-        "egyptian tombs",
-        "food science",
-        "archaeology",
-        "eternal food",
-        "honey chemistry",
-        "hydrogen peroxide",
-        "low moisture food",
-        "immortal food",
-        "tomb discovery",
-        "oldest food"
+        "asp cobra myth",
+        "historical myths debunked",
+        "toxicology history",
+        "egyptian queen",
+        "snake venom",
+        "history facts",
+        "surprising history",
+        "death of cleopatra",
+        "ancient world mysteries"
       ],
-      "script": "Archaeologists cracking open Egyptian tombs found 3,000-year-old honey — and tasted it. It was still perfect. No mold, no bacteria, completely edible. Here's why: honey is almost entirely sugar with almost zero water. Bacteria need moisture to survive, and honey simply doesn't give them any. On top of that, honey naturally produces tiny amounts of hydrogen peroxide — the same stuff used to disinfect wounds. It essentially sterilizes itself forever. As long as it stays sealed, honey has no expiration date. Literally none. So that jar sitting in your cabinet? It could outlive your great-great-grandchildren. Now the real question is — what other foods in your kitchen might actually last forever?",
+      "script": "Everyone knows the story — Cleopatra pressed a cobra to her arm and died dramatically. Except toxicologists now say that's almost certainly wrong. An Egyptian cobra is massive — nearly two meters long. Smuggling one into a prison chamber in a fruit basket? Nearly impossible. The venom also takes hours to kill, and witnesses described a suspiciously quick, painless death. Some researchers now believe she used a cocktail of opium, hemlock, and aconite — a poison blend that Roman physicians actually documented. Others think there was no suicide at all — that she was murdered by Octavian's men. So the most iconic death in all of history... might be entirely made up. What do you think actually happened?",
       "visual_keywords": [
-        "honey jar golden",
-        "egyptian tomb interior",
-        "ancient egypt artifacts"
+        "ancient egypt tomb",
+        "cobra snake",
+        "cleopatra statue",
+        "egyptian artifacts"
       ]
     },
     {
-      "topic": "Butterflies can remember their lives as caterpillars despite full brain dissolution",
-      "teaser": "A butterfly completely dissolves its brain inside the cocoon — yet somehow still remembers things from when it was a caterpillar.",
-      "video_title": "Butterflies Dissolve Their Brain — But Still Remember",
-      "video_description": "Inside a chrysalis, a caterpillar doesn't just transform — it completely liquefies, including its brain. Yet butterflies have been shown to retain memories from their caterpillar stage. Science still can't fully explain how.",
+      "topic": "Turritopsis dohrnii — immortal jellyfish reverses age",
+      "teaser": "There's a creature on Earth that can literally reverse its own aging process — and scientists are studying it to understand human immortality.",
+      "video_title": "This Jellyfish Can Actually Live Forever",
+      "video_description": "The Turritopsis dohrnii jellyfish is the only known animal capable of reverting back to its juvenile state after reaching full maturity — essentially cheating death on a biological level.",
       "tags": [
-        "butterfly metamorphosis",
-        "caterpillar memory",
-        "chrysalis",
-        "insect brain",
-        "animal memory",
+        "immortal jellyfish",
+        "turritopsis dohrnii",
+        "biological immortality",
+        "jellyfish facts",
+        "aging reversal",
+        "marine biology",
+        "ocean science",
+        "animal facts",
+        "science facts",
+        "longevity research",
+        "cell regeneration",
+        "immortality science"
+      ],
+      "script": "What if you could hit a biological reset button every time you got old? There is a jellyfish — about the size of your pinky fingernail — that actually does exactly that. The Turritopsis dohrnii, when it gets sick, injured, or simply old, transforms its cells back into their earliest state and starts its entire life cycle over again from scratch. Scientists call this transdifferentiation, and it's the only known case of a complex animal literally reversing its own aging. The species is now spreading across every ocean on Earth — hitching rides in ship ballast water. Some biologists call it biologically immortal. Now here's the unsettling part — there could be trillions of them out there right now, silently never dying. Does that make you feel better or worse about your own expiration date?",
+      "visual_keywords": [
+        "jellyfish underwater",
+        "ocean deep sea",
+        "marine biology lab",
+        "transparent jellyfish"
+      ]
+    },
+    {
+      "topic": "The human nose can detect 1 trillion smells",
+      "teaser": "Your nose is hiding a superpower so extreme it makes your eyes look almost useless by comparison.",
+      "video_title": "Your Nose Is More Powerful Than You Think",
+      "video_description": "Scientists long believed humans could only detect around 10,000 distinct smells. A landmark 2014 study shattered that assumption entirely — and revealed the human sense of smell rivals that of animals we assumed were far superior.",
+      "tags": [
+        "human nose",
+        "sense of smell",
+        "olfactory system",
+        "human body facts",
+        "1 trillion smells",
+        "smell science",
+        "human senses",
         "biology facts",
-        "transformation",
-        "neuroscience",
-        "insect behavior",
-        "memory science",
-        "cocoon facts",
-        "surprising animal facts"
+        "surprising body facts",
+        "neuroscience smell",
+        "olfaction research",
+        "human superpower"
       ],
-      "script": "Inside a cocoon, a caterpillar doesn't just grow wings. It completely dissolves into liquid — organs, muscles, and most of its brain all break down into a kind of biological soup. Scientists assumed any memories would be wiped clean. Then they ran an experiment: they trained caterpillars to avoid a specific smell using mild shocks. After full transformation, the adult butterflies still avoided that exact smell. The memories survived total liquefaction. Nobody fully understands how. Some researchers think a tiny cluster of neurons holds onto information through the entire meltdown. Which raises a deeply unsettling question — if a butterfly can remember through that, what exactly are memories made of?",
+      "script": "For decades, scientists confidently told us humans can detect around ten thousand different smells. Turns out they were off — by about a trillion. A 2014 study from Rockefeller University tested people with carefully blended scent mixtures and calculated that the human nose can distinguish at least one trillion distinct odors. One trillion. For comparison, your eyes can only differentiate around ten million colors, and your ears detect roughly half a million tones. Your nose absolutely dominates every other sense you have. Even more surprising — smell is the only sense that connects directly to your brain's memory and emotion centers without any filtering. That's why a random scent can teleport you back to a childhood memory in an instant. So tell me — what's one smell that instantly takes you somewhere specific?",
       "visual_keywords": [
-        "butterfly chrysalis close up",
-        "caterpillar transformation",
-        "monarch butterfly wing"
+        "close up human nose",
+        "perfume laboratory",
+        "smell flowers",
+        "brain neuroscience"
       ]
     },
     {
-      "topic": "The Great Wall of China is not visible from space — it's a myth",
-      "teaser": "One of the most repeated facts you learned in school turns out to be completely false — and NASA proved it.",
-      "video_title": "You Were Lied to About the Great Wall of China",
-      "video_description": "Generations of students were taught the Great Wall of China is visible from space with the naked eye. NASA astronauts and Chinese taikonauts have confirmed this is simply not true. The myth has a surprisingly old origin.",
+      "topic": "The Antikythera mechanism — ancient analog computer",
+      "teaser": "Two thousand years ago, someone built a device so advanced that we couldn't explain how it worked until a few years ago.",
+      "video_title": "Ancient Greeks Built a Computer in 100 BC",
+      "video_description": "The Antikythera mechanism, recovered from a Greek shipwreck, is a 2,000-year-old bronze device capable of predicting astronomical events, eclipses, and even the Olympic Games schedule — centuries before similar technology was thought possible.",
       "tags": [
-        "great wall of china",
-        "space myth",
-        "NASA facts",
-        "visible from space",
-        "common misconceptions",
-        "school myths",
-        "debunked facts",
-        "chinese history",
-        "astronaut facts",
-        "earth from space",
-        "geography myth",
-        "taikonaut"
+        "antikythera mechanism",
+        "ancient greek technology",
+        "oldest computer",
+        "ancient astronomy",
+        "bronze age machine",
+        "greek shipwreck",
+        "history of technology",
+        "ancient mysteries",
+        "eclipse prediction",
+        "ancient engineering",
+        "archaeological discovery",
+        "out of place artifact"
       ],
-      "script": "You were probably taught in school that the Great Wall of China is the only man-made structure visible from space. It sounds incredible. It's also completely false. NASA confirmed it. Chinese astronaut Yang Liwei specifically looked for it during his 2003 mission — and couldn't see it. The wall is incredibly long, yes, but it's only about 5 to 8 meters wide — roughly the width of a highway lane. From space, that's invisible to the naked eye. Highways, airports, and cities are far easier to spot. The myth actually dates back to 1932 — decades before anyone had even been to space. So who decided to trust a claim nobody could verify for thirty years? And what other school facts are just as wrong?",
+      "script": "In 1901, divers pulled a corroded lump of bronze from a 2,000-year-old shipwreck off the coast of Greece. It sat in a museum drawer for decades before anyone realized what it was — a fully functioning astronomical computer, built around 100 BC. The Antikythera mechanism could predict solar and lunar eclipses, track the positions of planets, calculate the date of the Olympic Games, and model the irregular orbit of the Moon — a mathematical problem that took modern scientists until the 1600s to solve. It has 37 interlocking bronze gears with precision that wasn't seen again in engineering for over 1,400 years. We still don't know who built it or how that knowledge completely vanished. What else do you think the ancient world invented that we've simply lost forever?",
       "visual_keywords": [
-        "great wall of china aerial",
-        "earth from space satellite",
-        "china landmark"
+        "antikythera mechanism",
+        "ancient greek artifact",
+        "bronze gears",
+        "archaeological museum"
       ]
     },
     {
-      "topic": "Hot water can freeze faster than cold water — the Mpemba Effect",
-      "teaser": "A schoolboy in Tanzania told his teacher that hot water freezes faster than cold — and scientists have been arguing about it ever since.",
-      "video_title": "Hot Water Freezes Faster Than Cold — Here's Why",
-      "video_description": "The Mpemba Effect describes the counterintuitive phenomenon where hot water can freeze faster than cold water under certain conditions. Discovered by a Tanzanian student in 1963, it still divides scientists today. Physics has no clean answer.",
+      "topic": "Crows hold grudges and recognize faces",
+      "teaser": "There is a bird that will remember your face for years — and actively plan revenge against you if you cross it.",
+      "video_title": "Crows Will Remember Your Face and Hold Grudges",
+      "video_description": "Research from the University of Washington revealed that crows can recognize individual human faces, hold long-term grudges against people who've wronged them, and even teach other crows to target the same person.",
       "tags": [
-        "mpemba effect",
-        "hot water freezing",
-        "physics facts",
-        "counterintuitive science",
-        "water science",
-        "freezing point",
-        "thermodynamics",
-        "science myths",
-        "surprising physics",
-        "water experiment",
-        "cold water",
-        "science discovery",
-        "school science"
+        "crow intelligence",
+        "crows hold grudges",
+        "bird intelligence",
+        "crow behavior",
+        "animal cognition",
+        "crow facts",
+        "smart birds",
+        "corvid intelligence",
+        "crow memory",
+        "animal intelligence",
+        "wildlife science",
+        "surprising animal facts",
+        "birds recognizing faces"
       ],
-      "script": "In 1963, a Tanzanian schoolboy named Erasto Mpemba noticed that hot ice cream mix froze faster than cold mix. His teacher laughed at him. He wasn't wrong. He later asked a visiting physics professor to test it, and the professor was stunned — under certain conditions, hot water genuinely does freeze faster than cold water. This is now called the Mpemba Effect, and physicists have been arguing about why it happens for over sixty years. Theories include faster evaporation, dissolved gas escaping, or the way water molecules store energy. None of them fully explain every case. A kid got laughed at for noticing something real that science still can't completely explain. Makes you wonder — what else are we dismissing too quickly?",
+      "script": "If you ever mess with a crow, you might want to start wearing a disguise. Researchers at the University of Washington tested this by wearing a specific mask while trapping and releasing crows. Weeks later, those same crows — wearing no mask now — were dive-bombed and scolded on campus by the birds every single time. The crows remembered the face. But here's where it gets genuinely unsettling — they also taught the grudge to their flock. Other crows who weren't even there during the trapping started attacking the same researcher. The information spread like gossip. Crows have been documented holding grudges for over 17 years. They also bring gifts to people they like — small trinkets, buttons, shiny objects. So basically, a crow can either be your loyal admirer or your tiny feathered stalker. Which would you prefer?",
       "visual_keywords": [
-        "ice forming water",
-        "freezing water experiment",
-        "ice cube tray cold"
-      ]
-    },
-    {
-      "topic": "The inventor of the lobotomy won a Nobel Prize",
-      "teaser": "One of the most disturbing medical procedures in history didn't get its inventor fired — it got him a Nobel Prize.",
-      "video_title": "The Nobel Prize Was Given for This Horrifying Surgery",
-      "video_description": "António Egas Moniz invented the lobotomy — a procedure that involved severing connections in the brain's frontal lobe — and was awarded the Nobel Prize in Medicine in 1949. Tens of thousands of patients were lobotomized before the world realized the damage it caused.",
-      "tags": [
-        "lobotomy history",
-        "nobel prize controversy",
-        "medical history",
-        "egas moniz",
-        "brain surgery",
-        "dark history",
-        "psychiatry history",
-        "frontal lobe",
-        "medical ethics",
-        "controversial science",
-        "neurosurgery",
-        "walter freeman",
-        "mental health history"
-      ],
-      "script": "In 1949, a man won the Nobel Prize in Medicine for an operation that involved drilling into someone's skull and severing parts of their brain — with no anesthesia in some cases. His name was António Egas Moniz, and the procedure was the lobotomy. At the time, it was celebrated as a breakthrough for mental illness. Tens of thousands of people — including children — were lobotomized across the world. Many were left unable to speak, feel emotions, or care for themselves. By the time doctors admitted it was causing irreversible damage, the Nobel committee refused to take the prize back. They still haven't. The Nobel Prize in Medicine was given for something now considered one of medicine's greatest ethical disasters. So what does that say about how confident we should be in today's breakthroughs?",
-      "visual_keywords": [
-        "brain anatomy model",
-        "vintage hospital operating room",
-        "medical history old"
+        "crow closeup",
+        "crow in city",
+        "black crow perching",
+        "crow flock"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Honey never spoils — 3000-year-old edible honey found in Egyptian tombs",
-    "teaser": "Archaeologists found something in an Egyptian tomb that was still perfectly edible after 3,000 years — and it's probably in your kitchen right now.",
-    "video_title": "3,000-Year-Old Honey Found in Egypt — Still Edible",
-    "video_description": "Honey never spoils — 3000-year-old edible honey found in Egyptian tombs\n\n#honey #ancientegypt #egyptiantombs #eternalfood #honeychemistry",
-    "tags": [
-      "honey",
-      "ancient egypt",
-      "never expires",
-      "egyptian tombs",
-      "food science",
-      "archaeology",
-      "eternal food",
-      "honey chemistry",
-      "hydrogen peroxide",
-      "low moisture food",
-      "immortal food",
-      "tomb discovery",
-      "oldest food"
-    ],
-    "script": "Archaeologists cracking open Egyptian tombs found 3,000-year-old honey — and tasted it. It was still perfect. No mold, no bacteria, completely edible. Here's why: honey is almost entirely sugar with almost zero water. Bacteria need moisture to survive, and honey simply doesn't give them any. On top of that, honey naturally produces tiny amounts of hydrogen peroxide — the same stuff used to disinfect wounds. It essentially sterilizes itself forever. As long as it stays sealed, honey has no expiration date. Literally none. So that jar sitting in your cabinet? It could outlive your great-great-grandchildren. Now the real question is — what other foods in your kitchen might actually last forever?",
-    "visual_keywords": [
-      "honey jar golden",
-      "egyptian tomb interior",
-      "ancient egypt artifacts"
-    ]
-  },
-  "hashtag_options": [
-    "honey",
-    "ancientegypt",
-    "neverexpires",
-    "egyptiantombs",
-    "foodscience",
-    "archaeology",
-    "eternalfood",
-    "honeychemistry",
-    "hydrogenperoxide",
-    "lowmoisturefood"
-  ],
-  "hashtag_message_id": 135,
-  "selected_hashtags": [
-    0,
-    1,
-    3,
-    6,
-    7
-  ],
-  "hashtag_started_at": "2026-08-07T12:24:39.945065+00:00",
-  "video_file_id": "BAACAgQAAxkDAAOJanXPzbheuBgtgG8AAY61fuLZdMlCAAJ0IAACno6wUy5OgyUEeimbPQQ",
-  "review_started_at": "2026-08-07T12:30:05.465605+00:00",
-  "attempts": 1
+  ]
 }
