@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-07",
   "message_id": 127,
   "created_at": "2026-08-07T12:06:58.119005+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Oxford University older than the Aztec Empire",
@@ -138,5 +138,47 @@
         "cell biology"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "The Pacific Ocean is shrinking and the Atlantic is growing",
+    "teaser": "One of Earth's oceans is slowly disappearing — and it's been happening your entire life without you noticing.",
+    "video_title": "The Pacific Ocean Is Slowly Disappearing 🌊",
+    "video_description": "Due to tectonic plate movement, the Pacific Ocean shrinks by a few centimeters every year while the Atlantic Ocean gradually expands. Earth's surface is in constant slow motion.",
+    "tags": [
+      "pacific ocean",
+      "atlantic ocean",
+      "tectonic plates",
+      "plate tectonics",
+      "earth science",
+      "geology facts",
+      "ocean facts",
+      "earth changes",
+      "continental drift",
+      "surprising geography",
+      "earth movement",
+      "science facts"
+    ],
+    "script": "The Pacific Ocean is shrinking. Right now, as you watch this, it's getting smaller — about a few centimeters every single year. The tectonic plates beneath it are pulling the ocean floor under the surrounding continents in a process called subduction. Meanwhile, the Atlantic Ocean is quietly growing wider at roughly the same rate. It sounds slow, but over millions of years these tiny shifts completely redraw the map of our planet. The ocean you think of as the world's largest has an expiration date written into the geology of Earth itself. Scientists estimate the Pacific could eventually close entirely — in about 300 million years. Does it change how you see a map knowing the oceans themselves are moving?",
+    "visual_keywords": [
+      "pacific ocean aerial",
+      "tectonic plates diagram",
+      "ocean floor",
+      "world map"
+    ]
+  },
+  "hashtag_options": [
+    "pacificocean",
+    "atlanticocean",
+    "tectonicplates",
+    "platetectonics",
+    "earthscience",
+    "geologyfacts",
+    "oceanfacts",
+    "earthchanges",
+    "continentaldrift",
+    "surprisinggeography"
+  ],
+  "hashtag_message_id": 128,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-07T12:08:57.272061+00:00"
 }
