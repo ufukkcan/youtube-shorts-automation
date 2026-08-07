@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-07",
   "message_id": 80,
   "created_at": "2026-08-07T04:56:05.989682+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Cleopatra's needle obelisk hidden time capsule",
@@ -149,5 +149,48 @@
         "strawberry"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Cleopatra's needle obelisk hidden time capsule",
+    "teaser": "There's a hidden chamber inside a famous landmark that almost no one knows about — and what's inside will surprise you.",
+    "video_title": "The Secret Box Buried Under the Statue of Liberty",
+    "video_description": "The Statue of Liberty holds a hidden time capsule that most people have never heard of. Sealed inside its foundation are artifacts from 1884 that tell a fascinating story. What would you put in a time capsule for the next century?",
+    "tags": [
+      "statue of liberty",
+      "time capsule",
+      "hidden history",
+      "american landmarks",
+      "1884",
+      "foundation secrets",
+      "new york secrets",
+      "copper statue",
+      "liberty island",
+      "historical artifacts",
+      "hidden chambers",
+      "american history"
+    ],
+    "script": "The Statue of Liberty has a secret almost nobody talks about. When workers laid the cornerstone in 1884, they sealed a copper box inside the foundation — filled with coins, a copy of the Declaration of Independence, and even newspaper clippings from the day. It has never been opened since. The statue standing above it has turned green from weather and time, but that box is still sitting in the dark, perfectly preserved, waiting. The real question is — if they open it tomorrow, what do you think they'd find in the best condition?",
+    "visual_keywords": [
+      "Statue of Liberty",
+      "time capsule",
+      "foundation construction",
+      "copper box",
+      "New York harbor"
+    ]
+  },
+  "hashtag_options": [
+    "statueofliberty",
+    "timecapsule",
+    "hiddenhistory",
+    "americanlandmarks",
+    "1884",
+    "foundationsecrets",
+    "newyorksecrets",
+    "copperstatue",
+    "libertyisland",
+    "historicalartifacts"
+  ],
+  "hashtag_message_id": 82,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-07T04:58:31.873290+00:00"
 }
