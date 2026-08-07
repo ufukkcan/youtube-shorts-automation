@@ -1,9 +1,9 @@
 {
   "batch_id": "20260807-0617",
   "trigger_date": "2026-08-07",
-  "message_id": 105,
+  "message_id": 109,
   "created_at": "2026-08-07T06:17:17.156721+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Penguins propose with pebbles",
@@ -144,7 +144,7 @@
     "topic": "Vikings used sunstones to navigate",
     "teaser": "Vikings crossed entire oceans without a compass — here's the mysterious crystal they used instead. ⛵",
     "video_title": "Vikings Crossed Oceans With a Magic Crystal",
-    "video_description": "Viking sailors navigated cloudy, starless seas using a crystal called a sunstone that could detect the sun's position through cloud cover. Scientists have now confirmed it actually works.",
+    "video_description": "Vikings used sunstones to navigate\n\n#vikings #sunstone #navigationhistory #vikingships #ancientscience",
     "tags": [
       "vikings",
       "sunstone",
@@ -180,6 +180,15 @@
     "ancientscience"
   ],
   "hashtag_message_id": 106,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-07T06:18:54.821242+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    6,
+    8,
+    9
+  ],
+  "hashtag_started_at": "2026-08-07T06:18:54.821242+00:00",
+  "video_file_id": "BAACAgQAAxkDAANtanV8HiVqCcrVHKp077Gq4G4LFuEAAtsfAAKejrBTatETV-sM_CQ9BA",
+  "review_started_at": "2026-08-07T06:33:02.696225+00:00",
+  "attempts": 1
 }
