@@ -1,193 +1,142 @@
 {
-  "batch_id": "20260807-1206",
+  "batch_id": "20260807-1222",
   "trigger_date": "2026-08-07",
-  "message_id": 130,
-  "created_at": "2026-08-07T12:06:58.119005+00:00",
-  "status": "done",
+  "message_id": 134,
+  "created_at": "2026-08-07T12:22:11.502396+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Oxford University older than the Aztec Empire",
-      "teaser": "A university so old it makes the Aztec Empire look like a startup — wait until you hear this.",
-      "video_title": "Oxford Is Older Than the Aztec Empire 🤯",
-      "video_description": "Oxford University began teaching in 1096, centuries before the Aztec Empire even existed. This mind-bending timeline fact reshapes how we think about history.",
+      "topic": "Honey never spoils — 3000-year-old edible honey found in Egyptian tombs",
+      "teaser": "Archaeologists found something in an Egyptian tomb that was still perfectly edible after 3,000 years — and it's probably in your kitchen right now.",
+      "video_title": "3,000-Year-Old Honey Found in Egypt — Still Edible",
+      "video_description": "Honey discovered in ancient Egyptian tombs was still perfectly edible after three millennia. Its unique chemistry makes it the only food that never truly expires. Find out why honey is biologically immortal.",
       "tags": [
-        "oxford university",
-        "aztec empire",
-        "oldest university",
-        "history facts",
-        "mind blowing history",
-        "medieval education",
-        "ancient civilizations",
-        "timeline facts",
-        "surprising history",
-        "world history"
+        "honey",
+        "ancient egypt",
+        "never expires",
+        "egyptian tombs",
+        "food science",
+        "archaeology",
+        "eternal food",
+        "honey chemistry",
+        "hydrogen peroxide",
+        "low moisture food",
+        "immortal food",
+        "tomb discovery",
+        "oldest food"
       ],
-      "script": "Oxford University was already over 400 years old by the time the Aztec Empire was founded. Teaching began at Oxford around 1096 AD. The Aztecs didn't establish Tenochtitlan until 1325. That means students were sitting exams, writing essays, and debating philosophy in Oxford for four full centuries before the Aztecs even broke ground on their capital city. We tend to imagine ancient civilizations and medieval Europe as happening at the same time — but the timeline is wildly different from what most of us picture. So here's the question: what else in history are you picturing in completely the wrong order?",
+      "script": "Archaeologists cracking open Egyptian tombs found 3,000-year-old honey — and tasted it. It was still perfect. No mold, no bacteria, completely edible. Here's why: honey is almost entirely sugar with almost zero water. Bacteria need moisture to survive, and honey simply doesn't give them any. On top of that, honey naturally produces tiny amounts of hydrogen peroxide — the same stuff used to disinfect wounds. It essentially sterilizes itself forever. As long as it stays sealed, honey has no expiration date. Literally none. So that jar sitting in your cabinet? It could outlive your great-great-grandchildren. Now the real question is — what other foods in your kitchen might actually last forever?",
       "visual_keywords": [
-        "oxford university building",
-        "aztec pyramid",
-        "ancient manuscript",
-        "medieval architecture"
+        "honey jar golden",
+        "egyptian tomb interior",
+        "ancient egypt artifacts"
       ]
     },
     {
-      "topic": "Sharks are older than trees",
-      "teaser": "There's a creature swimming in our oceans that's older than trees — and it's still hunting today.",
-      "video_title": "Sharks Existed Before Trees Were Invented 🦈",
-      "video_description": "Sharks have been on Earth for around 450 million years — long before the first tree ever grew. They survived every single mass extinction event in Earth's history.",
+      "topic": "Butterflies can remember their lives as caterpillars despite full brain dissolution",
+      "teaser": "A butterfly completely dissolves its brain inside the cocoon — yet somehow still remembers things from when it was a caterpillar.",
+      "video_title": "Butterflies Dissolve Their Brain — But Still Remember",
+      "video_description": "Inside a chrysalis, a caterpillar doesn't just transform — it completely liquefies, including its brain. Yet butterflies have been shown to retain memories from their caterpillar stage. Science still can't fully explain how.",
       "tags": [
-        "sharks",
-        "shark evolution",
-        "prehistoric animals",
-        "oldest species",
-        "living fossils",
-        "mass extinction",
-        "ocean facts",
-        "ancient earth",
+        "butterfly metamorphosis",
+        "caterpillar memory",
+        "chrysalis",
+        "insect brain",
+        "animal memory",
         "biology facts",
-        "surprising nature",
-        "shark history",
-        "evolution facts"
+        "transformation",
+        "neuroscience",
+        "insect behavior",
+        "memory science",
+        "cocoon facts",
+        "surprising animal facts"
       ],
-      "script": "Sharks have been swimming in Earth's oceans for roughly 450 million years. Trees? They only appeared about 350 million years ago. That means sharks were already ancient by the time the first tree grew its first leaf. Sharks survived the asteroid that wiped out the dinosaurs. They survived four other mass extinctions before that. Their basic design was so perfect that evolution barely changed them. While entire ecosystems rose and collapsed around them, sharks just kept hunting. They are genuinely one of the oldest complex predators to ever exist on this planet. So the real question is — if sharks survived everything Earth has thrown at them, what could possibly threaten them now?",
+      "script": "Inside a cocoon, a caterpillar doesn't just grow wings. It completely dissolves into liquid — organs, muscles, and most of its brain all break down into a kind of biological soup. Scientists assumed any memories would be wiped clean. Then they ran an experiment: they trained caterpillars to avoid a specific smell using mild shocks. After full transformation, the adult butterflies still avoided that exact smell. The memories survived total liquefaction. Nobody fully understands how. Some researchers think a tiny cluster of neurons holds onto information through the entire meltdown. Which raises a deeply unsettling question — if a butterfly can remember through that, what exactly are memories made of?",
       "visual_keywords": [
-        "shark underwater",
-        "ancient forest",
-        "ocean deep",
-        "prehistoric sea"
+        "butterfly chrysalis close up",
+        "caterpillar transformation",
+        "monarch butterfly wing"
       ]
     },
     {
-      "topic": "Vending machines kill more people than sharks annually",
-      "teaser": "You're statistically more likely to be killed by a snack machine than by a shark — and the numbers don't lie.",
-      "video_title": "Vending Machines Kill More People Than Sharks",
-      "video_description": "On average, vending machines cause around 13 deaths per year globally, while shark attacks kill far fewer people annually. Your fear of sharks may be completely misplaced.",
+      "topic": "The Great Wall of China is not visible from space — it's a myth",
+      "teaser": "One of the most repeated facts you learned in school turns out to be completely false — and NASA proved it.",
+      "video_title": "You Were Lied to About the Great Wall of China",
+      "video_description": "Generations of students were taught the Great Wall of China is visible from space with the naked eye. NASA astronauts and Chinese taikonauts have confirmed this is simply not true. The myth has a surprisingly old origin.",
       "tags": [
-        "vending machine",
-        "shark attack",
-        "fear vs reality",
-        "statistics facts",
-        "everyday dangers",
-        "surprising statistics",
-        "phobia facts",
-        "human psychology",
-        "weird facts",
-        "risk perception",
-        "shark deaths",
-        "daily life danger"
+        "great wall of china",
+        "space myth",
+        "NASA facts",
+        "visible from space",
+        "common misconceptions",
+        "school myths",
+        "debunked facts",
+        "chinese history",
+        "astronaut facts",
+        "earth from space",
+        "geography myth",
+        "taikonaut"
       ],
-      "script": "Every year, vending machines kill more people than sharks do. Globally, around 13 people die annually from vending machines — usually from tipping one over trying to shake out a stuck snack. Shark attacks, despite all the movies and headlines, cause fewer fatalities worldwide per year. Yet almost nobody is afraid of a vending machine. Our brains are wired to fear things that look dramatic and dangerous, not the boring everyday things that are quietly more lethal. Sharks get the horror films and the news coverage. Vending machines just sit there looking innocent. So next time you reach for that stuck bag of chips — maybe step back first. Which everyday object do you think hides a surprising danger?",
+      "script": "You were probably taught in school that the Great Wall of China is the only man-made structure visible from space. It sounds incredible. It's also completely false. NASA confirmed it. Chinese astronaut Yang Liwei specifically looked for it during his 2003 mission — and couldn't see it. The wall is incredibly long, yes, but it's only about 5 to 8 meters wide — roughly the width of a highway lane. From space, that's invisible to the naked eye. Highways, airports, and cities are far easier to spot. The myth actually dates back to 1932 — decades before anyone had even been to space. So who decided to trust a claim nobody could verify for thirty years? And what other school facts are just as wrong?",
       "visual_keywords": [
-        "vending machine",
-        "shark swimming",
-        "snack machine",
-        "risk statistics"
+        "great wall of china aerial",
+        "earth from space satellite",
+        "china landmark"
       ]
     },
     {
-      "topic": "The Pacific Ocean is shrinking and the Atlantic is growing",
-      "teaser": "One of Earth's oceans is slowly disappearing — and it's been happening your entire life without you noticing.",
-      "video_title": "The Pacific Ocean Is Slowly Disappearing 🌊",
-      "video_description": "Due to tectonic plate movement, the Pacific Ocean shrinks by a few centimeters every year while the Atlantic Ocean gradually expands. Earth's surface is in constant slow motion.",
+      "topic": "Hot water can freeze faster than cold water — the Mpemba Effect",
+      "teaser": "A schoolboy in Tanzania told his teacher that hot water freezes faster than cold — and scientists have been arguing about it ever since.",
+      "video_title": "Hot Water Freezes Faster Than Cold — Here's Why",
+      "video_description": "The Mpemba Effect describes the counterintuitive phenomenon where hot water can freeze faster than cold water under certain conditions. Discovered by a Tanzanian student in 1963, it still divides scientists today. Physics has no clean answer.",
       "tags": [
-        "pacific ocean",
-        "atlantic ocean",
-        "tectonic plates",
-        "plate tectonics",
-        "earth science",
-        "geology facts",
-        "ocean facts",
-        "earth changes",
-        "continental drift",
-        "surprising geography",
-        "earth movement",
-        "science facts"
-      ],
-      "script": "The Pacific Ocean is shrinking. Right now, as you watch this, it's getting smaller — about a few centimeters every single year. The tectonic plates beneath it are pulling the ocean floor under the surrounding continents in a process called subduction. Meanwhile, the Atlantic Ocean is quietly growing wider at roughly the same rate. It sounds slow, but over millions of years these tiny shifts completely redraw the map of our planet. The ocean you think of as the world's largest has an expiration date written into the geology of Earth itself. Scientists estimate the Pacific could eventually close entirely — in about 300 million years. Does it change how you see a map knowing the oceans themselves are moving?",
-      "visual_keywords": [
-        "pacific ocean aerial",
-        "tectonic plates diagram",
-        "ocean floor",
-        "world map"
-      ]
-    },
-    {
-      "topic": "Humans glow in the dark with biophotons",
-      "teaser": "Your body is literally glowing right now — you just can't see it with the naked eye.",
-      "video_title": "Your Body Glows in the Dark — Seriously 💡",
-      "video_description": "The human body emits a faint visible light called biophotons, about 1,000 times too dim for our eyes to detect. Japanese researchers captured this glow on camera using ultra-sensitive equipment.",
-      "tags": [
-        "biophotons",
-        "human body glow",
-        "body light emission",
-        "human biology",
-        "body facts",
+        "mpemba effect",
+        "hot water freezing",
+        "physics facts",
+        "counterintuitive science",
+        "water science",
+        "freezing point",
+        "thermodynamics",
+        "science myths",
+        "surprising physics",
+        "water experiment",
+        "cold water",
         "science discovery",
-        "visible light",
-        "human body facts",
-        "surprising biology",
-        "japanese research",
-        "body radiation",
-        "weird science"
+        "school science"
       ],
-      "script": "Your body is glowing right now. Not metaphorically — literally emitting visible light. Human skin produces tiny particles of light called biophotons, a faint glow generated by chemical reactions happening inside your cells. It's real, measurable light, not heat — actual photons. Japanese scientists photographed this glow using cameras so sensitive they can detect a single particle of light. The glow is about a thousand times too dim for your eyes to see under normal conditions. Interestingly, the light is strongest around your face in the late afternoon and weakest early in the morning. Your body has its own light cycle. So the question is — if we could see each other's biophoton glow, what do you think we'd look like?",
+      "script": "In 1963, a Tanzanian schoolboy named Erasto Mpemba noticed that hot ice cream mix froze faster than cold mix. His teacher laughed at him. He wasn't wrong. He later asked a visiting physics professor to test it, and the professor was stunned — under certain conditions, hot water genuinely does freeze faster than cold water. This is now called the Mpemba Effect, and physicists have been arguing about why it happens for over sixty years. Theories include faster evaporation, dissolved gas escaping, or the way water molecules store energy. None of them fully explain every case. A kid got laughed at for noticing something real that science still can't completely explain. Makes you wonder — what else are we dismissing too quickly?",
       "visual_keywords": [
-        "human body glowing",
-        "biophoton light",
-        "dark room human silhouette",
-        "cell biology"
+        "ice forming water",
+        "freezing water experiment",
+        "ice cube tray cold"
+      ]
+    },
+    {
+      "topic": "The inventor of the lobotomy won a Nobel Prize",
+      "teaser": "One of the most disturbing medical procedures in history didn't get its inventor fired — it got him a Nobel Prize.",
+      "video_title": "The Nobel Prize Was Given for This Horrifying Surgery",
+      "video_description": "António Egas Moniz invented the lobotomy — a procedure that involved severing connections in the brain's frontal lobe — and was awarded the Nobel Prize in Medicine in 1949. Tens of thousands of patients were lobotomized before the world realized the damage it caused.",
+      "tags": [
+        "lobotomy history",
+        "nobel prize controversy",
+        "medical history",
+        "egas moniz",
+        "brain surgery",
+        "dark history",
+        "psychiatry history",
+        "frontal lobe",
+        "medical ethics",
+        "controversial science",
+        "neurosurgery",
+        "walter freeman",
+        "mental health history"
+      ],
+      "script": "In 1949, a man won the Nobel Prize in Medicine for an operation that involved drilling into someone's skull and severing parts of their brain — with no anesthesia in some cases. His name was António Egas Moniz, and the procedure was the lobotomy. At the time, it was celebrated as a breakthrough for mental illness. Tens of thousands of people — including children — were lobotomized across the world. Many were left unable to speak, feel emotions, or care for themselves. By the time doctors admitted it was causing irreversible damage, the Nobel committee refused to take the prize back. They still haven't. The Nobel Prize in Medicine was given for something now considered one of medicine's greatest ethical disasters. So what does that say about how confident we should be in today's breakthroughs?",
+      "visual_keywords": [
+        "brain anatomy model",
+        "vintage hospital operating room",
+        "medical history old"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Pacific Ocean is shrinking and the Atlantic is growing",
-    "teaser": "One of Earth's oceans is slowly disappearing — and it's been happening your entire life without you noticing.",
-    "video_title": "The Pacific Ocean Is Slowly Disappearing 🌊",
-    "video_description": "The Pacific Ocean is shrinking and the Atlantic is growing\n\n#tectonicplates #earthscience #geologyfacts #oceanfacts #earthchanges",
-    "tags": [
-      "pacific ocean",
-      "atlantic ocean",
-      "tectonic plates",
-      "plate tectonics",
-      "earth science",
-      "geology facts",
-      "ocean facts",
-      "earth changes",
-      "continental drift",
-      "surprising geography",
-      "earth movement",
-      "science facts"
-    ],
-    "script": "The Pacific Ocean is shrinking. Right now, as you watch this, it's getting smaller — about a few centimeters every single year. The tectonic plates beneath it are pulling the ocean floor under the surrounding continents in a process called subduction. Meanwhile, the Atlantic Ocean is quietly growing wider at roughly the same rate. It sounds slow, but over millions of years these tiny shifts completely redraw the map of our planet. The ocean you think of as the world's largest has an expiration date written into the geology of Earth itself. Scientists estimate the Pacific could eventually close entirely — in about 300 million years. Does it change how you see a map knowing the oceans themselves are moving?",
-    "visual_keywords": [
-      "pacific ocean aerial",
-      "tectonic plates diagram",
-      "ocean floor",
-      "world map"
-    ]
-  },
-  "hashtag_options": [
-    "pacificocean",
-    "atlanticocean",
-    "tectonicplates",
-    "platetectonics",
-    "earthscience",
-    "geologyfacts",
-    "oceanfacts",
-    "earthchanges",
-    "continentaldrift",
-    "surprisinggeography"
-  ],
-  "hashtag_message_id": 128,
-  "selected_hashtags": [
-    2,
-    4,
-    5,
-    6,
-    7
-  ],
-  "hashtag_started_at": "2026-08-07T12:08:57.272061+00:00",
-  "video_file_id": "BAACAgQAAxkDAAOCanXMD9i2yohDmpm-6hH3KF2YYUQAAmggAAKejrBTE01n5cgzIm89BA",
-  "review_started_at": "2026-08-07T12:14:07.531427+00:00",
-  "attempts": 1
+  ]
 }
