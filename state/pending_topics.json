@@ -1,9 +1,9 @@
 {
   "batch_id": "20260807-1059",
   "trigger_date": "2026-08-07",
-  "message_id": 113,
+  "message_id": 116,
   "created_at": "2026-08-07T10:59:57.583872+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Polar bears are not white — they are transparent",
@@ -144,7 +144,7 @@
     "topic": "Stomach growling has nothing to do with hunger",
     "teaser": "That embarrassing growling sound your stomach makes? Science says hunger isn't actually the reason.",
     "video_title": "Your Stomach Growls Even When You're Full 😳",
-    "video_description": "Most people assume stomach growling means you're hungry, but the truth is your gut makes that sound constantly — hunger just removes the one thing masking it.",
+    "video_description": "Stomach growling has nothing to do with hunger\n\n#stomachgrowling #humanbodyfacts #humanbiology #digestivesystem #surprisingbodyfacts",
     "tags": [
       "stomach growling",
       "human body facts",
@@ -180,6 +180,15 @@
     "surprisingbodyfacts"
   ],
   "hashtag_message_id": 114,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-07T11:36:24.532822+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    7,
+    8,
+    9
+  ],
+  "hashtag_started_at": "2026-08-07T11:36:24.532822+00:00",
+  "video_file_id": "BAACAgQAAxkDAAN0anXEW_3q3R0ys0oDXjPFUcbZ_LAAAlIgAAKejrBTM6_CwWbb73M9BA",
+  "review_started_at": "2026-08-07T11:41:16.001132+00:00",
+  "attempts": 1
 }
