@@ -1,194 +1,143 @@
 {
-  "batch_id": "20260807-0617",
+  "batch_id": "20260807-1059",
   "trigger_date": "2026-08-07",
-  "message_id": 109,
-  "created_at": "2026-08-07T06:17:17.156721+00:00",
-  "status": "done",
+  "message_id": 113,
+  "created_at": "2026-08-07T10:59:57.583872+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Penguins propose with pebbles",
-      "teaser": "What if the most romantic gesture in the animal kingdom came from a tiny rock? 🐧",
-      "video_title": "Penguins Use Pebbles as Engagement Rings",
-      "video_description": "Male Gentoo penguins search for the perfect pebble to propose to their mate. This behavior mirrors human engagement traditions in a surprisingly deep way.",
+      "topic": "Polar bears are not white — they are transparent",
+      "teaser": "Polar bears look white, but scientists discovered something shocking about their fur that changes everything.",
+      "video_title": "Polar Bears Are Actually Transparent 🐻‍❄️",
+      "video_description": "Polar bear fur isn't white at all — each strand is hollow and transparent. This optical illusion has fooled us for centuries, and the real reason behind it is even more surprising.",
       "tags": [
-        "penguins",
-        "gentoo penguin",
-        "animal behavior",
-        "penguin proposal",
-        "pebble ritual",
-        "wildlife romance",
+        "polar bear",
+        "polar bear fur",
+        "transparent fur",
         "animal facts",
-        "mating ritual",
+        "arctic animals",
+        "wildlife science",
+        "bear biology",
+        "optical illusion nature",
+        "animal camouflage",
         "surprising animal facts",
-        "penguin love",
-        "nature facts"
+        "nature secrets",
+        "arctic wildlife"
       ],
-      "script": "What if the most romantic thing you could do was hand someone a rock? Male Gentoo penguins do exactly that. They spend hours searching through thousands of pebbles to find the smoothest, most perfect one — then they walk up to a female and place it at her feet. If she accepts, they're bonded for life. These pebbles aren't just symbolic either. They're used to build nests, so a good one is genuinely valuable. Some penguins even steal pebbles from rivals when no one's looking. So here's the question — is a penguin with a stolen pebble really husband material?",
+      "script": "Polar bears aren't white. Not even close. Every single strand of their fur is actually hollow and completely transparent — like tiny clear tubes. The white color you see is just light scattering, the same trick that makes snow look white. But here's where it gets wild: scientists once believed those hollow hairs acted like fiber optics, channeling sunlight directly to the bear's black skin to keep it warm. Turns out that part wasn't quite true — but the black skin underneath really does absorb heat. So the question is: if you shaved a polar bear, what color would it actually look like to you?",
       "visual_keywords": [
-        "penguin colony",
-        "pebble beach",
-        "Antarctic wildlife",
-        "penguin nest"
+        "polar bear closeup",
+        "arctic snow",
+        "polar bear fur"
       ]
     },
     {
-      "topic": "Vikings used sunstones to navigate",
-      "teaser": "Vikings crossed entire oceans without a compass — here's the mysterious crystal they used instead. ⛵",
-      "video_title": "Vikings Crossed Oceans With a Magic Crystal",
-      "video_description": "Viking sailors navigated cloudy, starless seas using a crystal called a sunstone that could detect the sun's position through cloud cover. Scientists have now confirmed it actually works.",
+      "topic": "The Eiffel Tower was almost demolished and sold for scrap",
+      "teaser": "The most iconic tower in the world was minutes away from being turned into scrap metal — and almost nobody knows the story.",
+      "video_title": "The Eiffel Tower Was Almost Sold for Scrap 🗼",
+      "video_description": "The Eiffel Tower was only built as a temporary structure and was scheduled to be torn down after 20 years. One clever trick saved it from being melted into scrap metal forever.",
       "tags": [
-        "vikings",
-        "sunstone",
-        "viking navigation",
-        "Iceland spar",
-        "ancient technology",
-        "Norse history",
-        "navigation history",
-        "polarized light",
-        "viking ships",
-        "ancient science",
-        "history facts",
-        "mysterious artifacts"
+        "eiffel tower",
+        "eiffel tower history",
+        "paris history",
+        "demolished structures",
+        "eiffel tower facts",
+        "world landmarks",
+        "historical facts",
+        "paris facts",
+        "iron tower",
+        "architecture history",
+        "surprising history",
+        "landmark secrets"
       ],
-      "script": "Vikings crossed the Atlantic Ocean centuries before Columbus — with no compass, no GPS, and often no visible sun. So how did they do it? They used a crystal called a sunstone. By holding this translucent stone up to a cloudy sky and rotating it, a skilled navigator could pinpoint the exact position of the hidden sun using polarized light. For decades historians thought this was just a legend. Then in 2013, scientists found one of these crystals in a shipwreck and confirmed it actually works with astonishing precision. The Vikings weren't guessing. They had cracked a physics principle that science wouldn't formally explain for another thousand years. What other ancient tech are we still underestimating?",
+      "script": "The Eiffel Tower was never meant to last. When it was built in 1889, the contract stated it would be completely torn down after just 20 years and sold for scrap metal. For nearly two decades, Parisians called it an eyesore — a useless iron monster ruining the city's skyline. But in 1909, just as demolition crews were preparing, one thing saved it: radio. The tower had been quietly used as a giant radio antenna, and the military realized they couldn't afford to lose it. So an ugly temporary structure accidentally became the most photographed monument on Earth. Makes you wonder — how many things we hate today will become tomorrow's masterpiece?",
       "visual_keywords": [
-        "viking ship",
-        "Iceland spar crystal",
-        "cloudy ocean",
-        "Norse navigation"
+        "eiffel tower historic",
+        "paris 1889",
+        "iron tower construction"
       ]
     },
     {
-      "topic": "The sky on Mars is not red",
-      "teaser": "Everything you've seen in Mars photos might be the wrong color — and NASA knows it. 🔴",
-      "video_title": "The Sky on Mars Is NOT Actually Red",
-      "video_description": "Contrary to popular belief, the Martian sky is not red. Depending on the time of day and dust levels, it ranges from butterscotch yellow to blue sunsets — the opposite of Earth.",
+      "topic": "Stomach growling has nothing to do with hunger",
+      "teaser": "That embarrassing growling sound your stomach makes? Science says hunger isn't actually the reason.",
+      "video_title": "Your Stomach Growls Even When You're Full 😳",
+      "video_description": "Most people assume stomach growling means you're hungry, but the truth is your gut makes that sound constantly — hunger just removes the one thing masking it.",
       "tags": [
-        "Mars",
-        "Martian sky",
-        "space facts",
-        "NASA",
-        "Mars color",
-        "blue sunset Mars",
-        "space exploration",
-        "Mars atmosphere",
-        "planet facts",
-        "astronomy",
-        "surprising space facts",
-        "Mars rover"
-      ],
-      "script": "Everyone thinks Mars has a red sky — but that's not actually true. During the day, the Martian sky is closer to a butterscotch yellow or pale pink, caused by iron dust suspended in the thin atmosphere. But here's where it gets really strange — at sunset on Mars, the sky turns blue. The complete opposite of Earth. NASA's rovers have photographed this exact phenomenon, and it's stunning. While our sunsets blaze orange and red, a Martian sunset fades into a cool, eerie blue glow around the sun. So if humans ever live on Mars, every evening will look like something from a science fiction film. Would you trade Earth's sunsets for that?",
-      "visual_keywords": [
-        "Mars surface rover",
-        "Martian sunset",
-        "red planet landscape",
-        "NASA Mars photo"
-      ]
-    },
-    {
-      "topic": "Cleopatra's Needle obelisk and hidden time capsule",
-      "teaser": "A 19th-century time capsule is buried under one of the world's oldest monuments — and almost nobody knows what's inside. 🏛️",
-      "video_title": "A Secret Box Is Hidden Under an Ancient Obelisk",
-      "video_description": "When Egyptian obelisks were moved to New York and London in the 1800s, workers buried time capsules beneath their bases. The contents are stranger than you'd expect.",
-      "tags": [
-        "time capsule",
-        "obelisk",
-        "New York history",
-        "Central Park",
-        "Victorian era",
-        "ancient Egypt",
-        "hidden artifacts",
-        "history mystery",
-        "Cleopatra needle",
-        "hidden history",
-        "archaeology",
-        "unexpected history facts"
-      ],
-      "script": "There is a 3,500-year-old Egyptian obelisk standing in Central Park, New York — and buried directly beneath it is a secret box that most New Yorkers have no idea exists. When workers erected the monument in 1881, they sealed a time capsule underneath containing a Bible, a map of New York, the complete works of Shakespeare, a dictionary, and a box of cigars. Why cigars? Nobody really knows. The obelisk itself was already ancient when Julius Caesar was born, yet it's just casually sitting in a park between the joggers and hot dog stands. But here's what nobody talks about — the twin of this obelisk is in London, and it has its own buried box. What would you put in a time capsule meant to last 3,500 years?",
-      "visual_keywords": [
-        "Central Park obelisk",
-        "Egyptian monument",
-        "New York landmark",
-        "ancient stone pillar"
-      ]
-    },
-    {
-      "topic": "Your appendix actually has a function",
-      "teaser": "Doctors called it useless for 200 years — turns out your appendix has been secretly saving your life. 🫀",
-      "video_title": "Your 'Useless' Appendix Is Actually Saving You",
-      "video_description": "The appendix was long considered a vestigial organ with no purpose. New research reveals it serves as a safe house for beneficial gut bacteria, rebooting your digestive system after illness.",
-      "tags": [
-        "appendix",
-        "human body",
-        "gut bacteria",
-        "vestigial organs",
-        "immune system",
+        "stomach growling",
+        "human body facts",
+        "digestion facts",
+        "borborygmi",
+        "gut sounds",
+        "hunger myths",
+        "body science",
+        "human biology",
         "digestive system",
-        "body facts",
-        "medical myths",
-        "human anatomy",
-        "microbiome",
-        "biology facts",
-        "surprising body facts"
+        "surprising body facts",
+        "food digestion",
+        "health facts",
+        "body myths"
       ],
-      "script": "For nearly two centuries, doctors called the appendix a useless leftover from evolution — a biological dead end. They were wrong. Scientists now believe your appendix functions as a safe house for beneficial gut bacteria. When a severe infection or illness wipes out your digestive system's bacterial population, the appendix releases a reserve colony to reboot everything back to normal. People who've had their appendix removed take significantly longer to recover from serious gut illnesses. This tiny organ has been quietly protecting you your entire life while getting zero credit. Which makes you wonder — how many other body parts are we completely misunderstanding right now?",
+      "script": "That embarrassing stomach growl in a quiet room? It has almost nothing to do with hunger. Your digestive system is constantly squeezing and pushing air and fluid through your intestines — a process called peristalsis. It produces gurgling sounds around the clock, even after a massive meal. The reason you only notice it when you're hungry is simple: when your stomach is full, food muffles the sound. Empty stomach, nothing to absorb the noise, so it echoes loudly. Your gut is basically always making noise — you just can't hear it most of the time. So next time your stomach growls in a meeting, you're not actually hungry. You're just… hollow.",
       "visual_keywords": [
-        "human digestive system",
-        "gut bacteria microscope",
-        "human anatomy illustration",
-        "medical biology"
+        "human stomach anatomy",
+        "digestive system",
+        "body science illustration"
+      ]
+    },
+    {
+      "topic": "Clocks were originally only built with one hand",
+      "teaser": "For hundreds of years, clocks only had one hand — and the reason we added a second one will genuinely surprise you.",
+      "video_title": "Clocks Only Had ONE Hand for 300 Years ⏰",
+      "video_description": "Early mechanical clocks had no minute hand at all for nearly three centuries. The invention that forced clockmakers to add a second hand changed human civilization forever.",
+      "tags": [
+        "clock history",
+        "timekeeping history",
+        "mechanical clock",
+        "minute hand",
+        "history of time",
+        "invention history",
+        "clock facts",
+        "medieval technology",
+        "history facts",
+        "surprising history",
+        "horology",
+        "time measurement",
+        "pendulum clock"
+      ],
+      "script": "For nearly three hundred years, clocks only had one hand — the hour hand. Nobody needed minutes. Life was slow enough that knowing it was roughly two o'clock was perfectly fine. Then in 1656, Christiaan Huygens invented the pendulum clock, which was suddenly so accurate that only showing hours felt almost insulting. So clockmakers added a minute hand. But here's the real twist: this tiny mechanical upgrade quietly transformed human society. Factories could now coordinate workers by the minute, trains could run on precise schedules, and suddenly being five minutes late actually meant something. One extra hand on a clock effectively created the modern obsession with punctuality. Do you think we'd be less stressed if we'd never invented the minute hand?",
+      "visual_keywords": [
+        "antique clock face",
+        "pendulum clock",
+        "vintage timepiece"
+      ]
+    },
+    {
+      "topic": "Dinosaurs existed closer to seeing the first iPhone than to the Stegosaurus",
+      "teaser": "T-Rex and Stegosaurus never actually met — and the time gap between them is almost impossible to believe.",
+      "video_title": "T-Rex Never Met a Stegosaurus — Here's Why 🦕",
+      "video_description": "T-Rex and Stegosaurus are both famous dinosaurs, but they lived so far apart in time that T-Rex is actually closer to us today than it ever was to Stegosaurus.",
+      "tags": [
+        "dinosaur facts",
+        "t-rex",
+        "stegosaurus",
+        "jurassic period",
+        "cretaceous period",
+        "paleontology",
+        "prehistoric facts",
+        "dinosaur history",
+        "deep time",
+        "surprising science",
+        "fossil record",
+        "natural history",
+        "evolution facts",
+        "dinosaur timeline"
+      ],
+      "script": "T-Rex and Stegosaurus never once crossed paths. Not even close. Stegosaurus went extinct around 155 million years ago. T-Rex didn't appear until about 68 million years ago. That's an 87-million-year gap between them — almost twice the time separating T-Rex from us today. So in every Jurassic Park movie where they appear together, that's like showing a human hanging out with a creature from before the dinosaurs even existed. T-Rex is literally more our contemporary than it ever was Stegosaurus's. Next time someone calls something ancient, maybe the real question is: ancient compared to what exactly?",
+      "visual_keywords": [
+        "t-rex fossil",
+        "stegosaurus skeleton",
+        "dinosaur museum exhibit"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Vikings used sunstones to navigate",
-    "teaser": "Vikings crossed entire oceans without a compass — here's the mysterious crystal they used instead. ⛵",
-    "video_title": "Vikings Crossed Oceans With a Magic Crystal",
-    "video_description": "Vikings used sunstones to navigate\n\n#vikings #sunstone #navigationhistory #vikingships #ancientscience",
-    "tags": [
-      "vikings",
-      "sunstone",
-      "viking navigation",
-      "Iceland spar",
-      "ancient technology",
-      "Norse history",
-      "navigation history",
-      "polarized light",
-      "viking ships",
-      "ancient science",
-      "history facts",
-      "mysterious artifacts"
-    ],
-    "script": "Vikings crossed the Atlantic Ocean centuries before Columbus — with no compass, no GPS, and often no visible sun. So how did they do it? They used a crystal called a sunstone. By holding this translucent stone up to a cloudy sky and rotating it, a skilled navigator could pinpoint the exact position of the hidden sun using polarized light. For decades historians thought this was just a legend. Then in 2013, scientists found one of these crystals in a shipwreck and confirmed it actually works with astonishing precision. The Vikings weren't guessing. They had cracked a physics principle that science wouldn't formally explain for another thousand years. What other ancient tech are we still underestimating?",
-    "visual_keywords": [
-      "viking ship",
-      "Iceland spar crystal",
-      "cloudy ocean",
-      "Norse navigation"
-    ]
-  },
-  "hashtag_options": [
-    "vikings",
-    "sunstone",
-    "vikingnavigation",
-    "Icelandspar",
-    "ancienttechnology",
-    "Norsehistory",
-    "navigationhistory",
-    "polarizedlight",
-    "vikingships",
-    "ancientscience"
-  ],
-  "hashtag_message_id": 106,
-  "selected_hashtags": [
-    0,
-    1,
-    6,
-    8,
-    9
-  ],
-  "hashtag_started_at": "2026-08-07T06:18:54.821242+00:00",
-  "video_file_id": "BAACAgQAAxkDAANtanV8HiVqCcrVHKp077Gq4G4LFuEAAtsfAAKejrBTatETV-sM_CQ9BA",
-  "review_started_at": "2026-08-07T06:33:02.696225+00:00",
-  "attempts": 1
+  ]
 }
