@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-07",
   "message_id": 93,
   "created_at": "2026-08-07T05:46:08.365320+00:00",
-  "status": "selecting_hashtags",
+  "status": "error",
   "candidates": [
     {
       "topic": "Blind spot in human eye",
@@ -149,7 +149,7 @@
     "topic": "The sun's light takes 100,000 years to escape the core",
     "teaser": "The sunlight hitting your face right now started its journey before modern humans even existed.",
     "video_title": "Sunlight Took 100,000 Years to Reach Your Face",
-    "video_description": "A photon of light takes only 8 minutes to travel from the sun's surface to Earth — but escaping the sun's core to reach the surface takes around 100,000 years. The light you feel today is ancient.",
+    "video_description": "The sun's light takes 100,000 years to escape the core\n\n#sun #sunlight #astrophysics #nuclearfusion #astronomy",
     "tags": [
       "sun",
       "photon",
@@ -186,6 +186,12 @@
     "astronomy"
   ],
   "hashtag_message_id": 94,
-  "selected_hashtags": [],
+  "selected_hashtags": [
+    0,
+    3,
+    5,
+    7,
+    9
+  ],
   "hashtag_started_at": "2026-08-07T05:48:01.989607+00:00"
 }
