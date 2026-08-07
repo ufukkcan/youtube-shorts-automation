@@ -1,9 +1,9 @@
 {
   "batch_id": "20260807-1222",
   "trigger_date": "2026-08-07",
-  "message_id": 134,
+  "message_id": 137,
   "created_at": "2026-08-07T12:22:11.502396+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Honey never spoils — 3000-year-old edible honey found in Egyptian tombs",
@@ -143,7 +143,7 @@
     "topic": "Honey never spoils — 3000-year-old edible honey found in Egyptian tombs",
     "teaser": "Archaeologists found something in an Egyptian tomb that was still perfectly edible after 3,000 years — and it's probably in your kitchen right now.",
     "video_title": "3,000-Year-Old Honey Found in Egypt — Still Edible",
-    "video_description": "Honey discovered in ancient Egyptian tombs was still perfectly edible after three millennia. Its unique chemistry makes it the only food that never truly expires. Find out why honey is biologically immortal.",
+    "video_description": "Honey never spoils — 3000-year-old edible honey found in Egyptian tombs\n\n#honey #ancientegypt #egyptiantombs #eternalfood #honeychemistry",
     "tags": [
       "honey",
       "ancient egypt",
@@ -179,6 +179,15 @@
     "lowmoisturefood"
   ],
   "hashtag_message_id": 135,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-07T12:24:39.945065+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    3,
+    6,
+    7
+  ],
+  "hashtag_started_at": "2026-08-07T12:24:39.945065+00:00",
+  "video_file_id": "BAACAgQAAxkDAAOJanXPzbheuBgtgG8AAY61fuLZdMlCAAJ0IAACno6wUy5OgyUEeimbPQQ",
+  "review_started_at": "2026-08-07T12:30:05.465605+00:00",
+  "attempts": 1
 }
