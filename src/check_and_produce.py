@@ -1,5 +1,3 @@
-# cron tetiklemesini yenile
-
 """
 Sik araliklarla calisir (cron, or. her 5-10 dakikada bir). DORT asamali surec:
 
@@ -13,11 +11,7 @@ Sik araliklarla calisir (cron, or. her 5-10 dakikada bir). DORT asamali surec:
                          videoyu URETIR (henuz YUKLEMEZ) ve onaya Telegram'a
                          gonderir -> durum "reviewing" olur.
   asama 3 "reviewing"          -> Kullanici "Onayla" dedi mi, "Tekrar uret" mi
-                         dedi? Onayladiysa videoyu YENIDEN URETIP YouTube'a
-                         yukler -> durum "done" (Telegram'in getFile ile dosya
-                         indirme siniri 20MB oldugu icin -- shorts videolarimiz
-                         genelde bunu astigindan -- oradan geri indirmek yerine
-                         ayni icerikle tekrar uretip yuklemek daha guvenilir).
+                         dedi? Onayladiysa YouTube'a yukler -> durum "done".
                          Begenmediyse videoyu YENIDEN URETIR, tekrar onaya
                          sunar -> "reviewing" durumunda kalir (dongu).
 
@@ -61,6 +55,17 @@ def run() -> None:
     pending = _load_json(PENDING_FILE)
     today = datetime.now(ISTANBUL).date().isoformat()
 
+    # "video uret" HER ZAMAN, mevcut durum ne olursa olsun (bir cycle aktif
+    # olsa/tikanmis olsa bile) mevcut durumu sifirlayip YENI BIR DONGU baslatir.
+    # Bu, ornegin GitHub'da gecici bir kesinti yuzunden yarim kalan/tikanan bir
+    # durumu da kurtarir -- kullanici "video uret" dedigi halde hicbir sey
+    # olmuyorsa bunun nedeni budur, ve bu kontrol onu cozer.
+    if find_manual_trigger(updates):
+        send_message("Alindi! Yeni bir konu listesi hazirlaniyor (mevcut durum sifirlaniyor)...")
+        print("Manuel tetikleme alindi -- mevcut durumdan bagimsiz olarak yeni dongu baslatiliyor (force).")
+        suggest_topics.run(force=True)
+        return
+
     active_cycle = bool(pending) and pending.get("status") in ("pending", "selecting_hashtags", "reviewing")
 
     if active_cycle:
@@ -73,21 +78,14 @@ def run() -> None:
             _handle_review_decision(pending, updates)
         return
 
-    # Su an aktif bir dongu yok (hic olmadi / "done" / "error"). Manuel "video uret"
-    # HER ZAMAN yeni bir dongu baslatabilir -- bugun zaten bir video yayinlanmis
-    # olsa bile, kullanici acikca isterse ikinci bir video da uretilebilir.
-    # Otomatik saat tetiklemesi ise gunde sadece BIR kez calisir (onceki deneme
-    # hata vermediyse), boylece kullanici hic dokunmasa bile gun tekrar tekrar
-    # tetiklenip durmaz.
-    manual = find_manual_trigger(updates)
+    # Su an aktif bir dongu yok (hic olmadi / "done" / "error") ve manuel istek
+    # de yoktu. Otomatik saat tetiklemesi gunde sadece BIR kez calisir (onceki
+    # deneme hata vermediyse), boylece kullanici hic dokunmasa bile gun tekrar
+    # tekrar tetiklenip durmaz.
     started_today = bool(pending) and pending.get("trigger_date") == today
     auto_should_fire = not started_today or pending.get("status") == "error"
 
-    if manual:
-        send_message("Alindi! Yeni bir konu listesi hazirlaniyor...")
-        print("Manuel tetikleme alindi, yeni dongu baslatiliyor (force).")
-        suggest_topics.run(force=True)
-    elif auto_should_fire and datetime.now(ISTANBUL).strftime("%H:%M") >= AUTO_TRIGGER_TIME:
+    if auto_should_fire and datetime.now(ISTANBUL).strftime("%H:%M") >= AUTO_TRIGGER_TIME:
         print(f"Otomatik tetikleme saati geldi ({AUTO_TRIGGER_TIME}), yeni dongu baslatiliyor.")
         suggest_topics.run(force=False)
     else:
