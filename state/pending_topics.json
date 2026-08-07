@@ -1,180 +1,142 @@
 {
-  "batch_id": "20260807-1151",
+  "batch_id": "20260807-1206",
   "trigger_date": "2026-08-07",
-  "message_id": 123,
-  "created_at": "2026-08-07T11:51:19.991438+00:00",
-  "status": "done",
+  "message_id": 127,
+  "created_at": "2026-08-07T12:06:58.119005+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Octopuses have three hearts",
-      "teaser": "An octopus has something most creatures can only dream of — and it stops working every time it swims.",
-      "video_title": "Octopuses Have 3 Hearts — And 2 Stop When They Swim",
-      "video_description": "Octopuses have three hearts: two pump blood to the gills, and one pumps it to the body. But the moment they start swimming, the main heart stops beating — which is why octopuses prefer crawling. Nature's ultimate design flaw or masterpiece?",
+      "topic": "Oxford University older than the Aztec Empire",
+      "teaser": "A university so old it makes the Aztec Empire look like a startup — wait until you hear this.",
+      "video_title": "Oxford Is Older Than the Aztec Empire 🤯",
+      "video_description": "Oxford University began teaching in 1096, centuries before the Aztec Empire even existed. This mind-bending timeline fact reshapes how we think about history.",
       "tags": [
-        "octopus",
-        "three hearts",
-        "octopus heart",
-        "marine biology",
-        "sea creatures",
+        "oxford university",
+        "aztec empire",
+        "oldest university",
+        "history facts",
+        "mind blowing history",
+        "medieval education",
+        "ancient civilizations",
+        "timeline facts",
+        "surprising history",
+        "world history"
+      ],
+      "script": "Oxford University was already over 400 years old by the time the Aztec Empire was founded. Teaching began at Oxford around 1096 AD. The Aztecs didn't establish Tenochtitlan until 1325. That means students were sitting exams, writing essays, and debating philosophy in Oxford for four full centuries before the Aztecs even broke ground on their capital city. We tend to imagine ancient civilizations and medieval Europe as happening at the same time — but the timeline is wildly different from what most of us picture. So here's the question: what else in history are you picturing in completely the wrong order?",
+      "visual_keywords": [
+        "oxford university building",
+        "aztec pyramid",
+        "ancient manuscript",
+        "medieval architecture"
+      ]
+    },
+    {
+      "topic": "Sharks are older than trees",
+      "teaser": "There's a creature swimming in our oceans that's older than trees — and it's still hunting today.",
+      "video_title": "Sharks Existed Before Trees Were Invented 🦈",
+      "video_description": "Sharks have been on Earth for around 450 million years — long before the first tree ever grew. They survived every single mass extinction event in Earth's history.",
+      "tags": [
+        "sharks",
+        "shark evolution",
+        "prehistoric animals",
+        "oldest species",
+        "living fossils",
+        "mass extinction",
         "ocean facts",
-        "animal anatomy",
-        "weird animal facts",
-        "cephalopod",
-        "blue blood"
+        "ancient earth",
+        "biology facts",
+        "surprising nature",
+        "shark history",
+        "evolution facts"
       ],
-      "script": "What if your heart stopped every single time you ran? That's exactly what happens to an octopus. These creatures have three hearts — two pump blood through the gills, and one delivers it to the rest of the body. But the moment an octopus starts swimming, that main heart literally stops beating. That's why octopuses prefer crawling along the ocean floor instead of swimming — they actually get exhausted and faint if they push it too hard. Oh, and their blood is blue. So the question is: is the octopus the most fascinating animal alive, or the most poorly engineered?",
+      "script": "Sharks have been swimming in Earth's oceans for roughly 450 million years. Trees? They only appeared about 350 million years ago. That means sharks were already ancient by the time the first tree grew its first leaf. Sharks survived the asteroid that wiped out the dinosaurs. They survived four other mass extinctions before that. Their basic design was so perfect that evolution barely changed them. While entire ecosystems rose and collapsed around them, sharks just kept hunting. They are genuinely one of the oldest complex predators to ever exist on this planet. So the real question is — if sharks survived everything Earth has thrown at them, what could possibly threaten them now?",
       "visual_keywords": [
-        "octopus underwater",
+        "shark underwater",
+        "ancient forest",
+        "ocean deep",
+        "prehistoric sea"
+      ]
+    },
+    {
+      "topic": "Vending machines kill more people than sharks annually",
+      "teaser": "You're statistically more likely to be killed by a snack machine than by a shark — and the numbers don't lie.",
+      "video_title": "Vending Machines Kill More People Than Sharks",
+      "video_description": "On average, vending machines cause around 13 deaths per year globally, while shark attacks kill far fewer people annually. Your fear of sharks may be completely misplaced.",
+      "tags": [
+        "vending machine",
+        "shark attack",
+        "fear vs reality",
+        "statistics facts",
+        "everyday dangers",
+        "surprising statistics",
+        "phobia facts",
+        "human psychology",
+        "weird facts",
+        "risk perception",
+        "shark deaths",
+        "daily life danger"
+      ],
+      "script": "Every year, vending machines kill more people than sharks do. Globally, around 13 people die annually from vending machines — usually from tipping one over trying to shake out a stuck snack. Shark attacks, despite all the movies and headlines, cause fewer fatalities worldwide per year. Yet almost nobody is afraid of a vending machine. Our brains are wired to fear things that look dramatic and dangerous, not the boring everyday things that are quietly more lethal. Sharks get the horror films and the news coverage. Vending machines just sit there looking innocent. So next time you reach for that stuck bag of chips — maybe step back first. Which everyday object do you think hides a surprising danger?",
+      "visual_keywords": [
+        "vending machine",
+        "shark swimming",
+        "snack machine",
+        "risk statistics"
+      ]
+    },
+    {
+      "topic": "The Pacific Ocean is shrinking and the Atlantic is growing",
+      "teaser": "One of Earth's oceans is slowly disappearing — and it's been happening your entire life without you noticing.",
+      "video_title": "The Pacific Ocean Is Slowly Disappearing 🌊",
+      "video_description": "Due to tectonic plate movement, the Pacific Ocean shrinks by a few centimeters every year while the Atlantic Ocean gradually expands. Earth's surface is in constant slow motion.",
+      "tags": [
+        "pacific ocean",
+        "atlantic ocean",
+        "tectonic plates",
+        "plate tectonics",
+        "earth science",
+        "geology facts",
+        "ocean facts",
+        "earth changes",
+        "continental drift",
+        "surprising geography",
+        "earth movement",
+        "science facts"
+      ],
+      "script": "The Pacific Ocean is shrinking. Right now, as you watch this, it's getting smaller — about a few centimeters every single year. The tectonic plates beneath it are pulling the ocean floor under the surrounding continents in a process called subduction. Meanwhile, the Atlantic Ocean is quietly growing wider at roughly the same rate. It sounds slow, but over millions of years these tiny shifts completely redraw the map of our planet. The ocean you think of as the world's largest has an expiration date written into the geology of Earth itself. Scientists estimate the Pacific could eventually close entirely — in about 300 million years. Does it change how you see a map knowing the oceans themselves are moving?",
+      "visual_keywords": [
+        "pacific ocean aerial",
+        "tectonic plates diagram",
         "ocean floor",
-        "marine life"
+        "world map"
       ]
     },
     {
-      "topic": "Napoleon was once attacked by rabbits",
-      "teaser": "One of history's most feared military commanders was completely defeated — by the most unexpected enemy imaginable.",
-      "video_title": "Napoleon Was Defeated by an Army of Rabbits",
-      "video_description": "After the signing of the Peace of Tilsit in 1807, Napoleon organized a celebratory rabbit hunt. But instead of wild rabbits, his staff had gathered hundreds of tame ones — and they swarmed straight at Napoleon, overwhelming his entire party. Even his marshals couldn't stop them.",
+      "topic": "Humans glow in the dark with biophotons",
+      "teaser": "Your body is literally glowing right now — you just can't see it with the naked eye.",
+      "video_title": "Your Body Glows in the Dark — Seriously 💡",
+      "video_description": "The human body emits a faint visible light called biophotons, about 1,000 times too dim for our eyes to detect. Japanese researchers captured this glow on camera using ultra-sensitive equipment.",
       "tags": [
-        "napoleon",
-        "napoleon rabbit attack",
-        "weird history",
-        "battle of rabbits",
-        "french history",
-        "historical facts",
-        "bizarre events",
-        "napoleon bonaparte",
-        "funny history",
-        "19th century"
+        "biophotons",
+        "human body glow",
+        "body light emission",
+        "human biology",
+        "body facts",
+        "science discovery",
+        "visible light",
+        "human body facts",
+        "surprising biology",
+        "japanese research",
+        "body radiation",
+        "weird science"
       ],
-      "script": "Napoleon Bonaparte survived countless battles and conquered most of Europe — but one morning in 1807, he was completely overwhelmed and had to flee. His own celebration rabbit hunt turned into chaos. After signing a major peace treaty, Napoleon arranged a festive hunt and ordered hundreds of rabbits to be collected. The problem? His staff gathered tame rabbits instead of wild ones. The moment they were released, instead of running away, they swarmed directly toward Napoleon and his men — climbing boots, scaling jackets, ignoring every attempt to drive them off. Napoleon himself had to retreat to his carriage. So what finally stopped the great conqueror: cannon fire, or hungry bunnies?",
+      "script": "Your body is glowing right now. Not metaphorically — literally emitting visible light. Human skin produces tiny particles of light called biophotons, a faint glow generated by chemical reactions happening inside your cells. It's real, measurable light, not heat — actual photons. Japanese scientists photographed this glow using cameras so sensitive they can detect a single particle of light. The glow is about a thousand times too dim for your eyes to see under normal conditions. Interestingly, the light is strongest around your face in the late afternoon and weakest early in the morning. Your body has its own light cycle. So the question is — if we could see each other's biophoton glow, what do you think we'd look like?",
       "visual_keywords": [
-        "rabbits field",
-        "napoleon era",
-        "historic countryside"
-      ]
-    },
-    {
-      "topic": "Bananas are technically radioactive",
-      "teaser": "There's something sitting in your kitchen right now that is, technically, radioactive — and you've probably eaten one today.",
-      "video_title": "Bananas Are Radioactive — Here's Why It's Fine",
-      "video_description": "Bananas contain a naturally occurring radioactive isotope called Potassium-40. Scientists even created a unit called the 'Banana Equivalent Dose' to measure radiation exposure. You'd need to eat around 10 million bananas at once for the radiation to be dangerous.",
-      "tags": [
-        "banana radioactive",
-        "potassium-40",
-        "banana equivalent dose",
-        "radiation facts",
-        "food science",
-        "nuclear science",
-        "weird food facts",
-        "science facts",
-        "everyday radiation",
-        "potassium"
-      ],
-      "script": "The fruit sitting on your kitchen counter right now is technically radioactive. Bananas contain a naturally occurring radioactive element called Potassium-40, and scientists take it so seriously they created an actual unit of measurement called the Banana Equivalent Dose — used to help people understand low-level radiation exposure. Now before you panic, you would need to eat roughly ten million bananas all at once for the radiation to actually harm you. In fact, you're exposed to more radiation from a single chest X-ray than from eating bananas your entire life. But here's what nobody tells you — Brazil nuts are actually far more radioactive than bananas. So should we rename the scale?",
-      "visual_keywords": [
-        "banana closeup",
-        "fruit market",
-        "yellow bananas"
-      ]
-    },
-    {
-      "topic": "Time moves faster at your head than your feet",
-      "teaser": "Right now, time is literally passing at a different speed for different parts of your body — and Einstein predicted it.",
-      "video_title": "Time Moves Faster at Your Head Than Your Feet",
-      "video_description": "Einstein's general relativity predicts that time moves faster farther from a gravitational source. Your head, being slightly farther from Earth's core than your feet, ages a tiny bit faster — about 90 nanoseconds over a lifetime. GPS satellites must account for this daily.",
-      "tags": [
-        "time dilation",
-        "general relativity",
-        "einstein",
-        "gravity and time",
-        "physics facts",
-        "space time",
-        "GPS time correction",
-        "time passes differently",
-        "relativity explained",
-        "mind blowing physics",
-        "quantum facts"
-      ],
-      "script": "Right now, time is moving faster at the top of your head than at the bottom of your feet. This isn't science fiction — it's Einstein's theory of general relativity. Gravity warps time, and since your head sits slightly farther from Earth's gravitational center than your feet, time ticks just a tiny bit quicker there. Over a full lifetime, your head ages roughly 90 nanoseconds more than your feet. It sounds trivial, but this effect is so real that GPS satellites — which orbit far from Earth's gravity — must constantly correct for time dilation or navigation systems would drift by miles every single day. So technically, taller people are aging faster. How does that make you feel?",
-      "visual_keywords": [
-        "hourglass closeup",
-        "earth gravity",
-        "space satellite"
-      ]
-    },
-    {
-      "topic": "There is a color the human eye cannot see — Stygian blue",
-      "teaser": "Scientists discovered a color that physically cannot exist in the real world — but your brain can be tricked into seeing it.",
-      "video_title": "There's a Color Your Eyes Can't See — But Your Brain Can",
-      "video_description": "Stygian blue is a color that cannot physically exist as light — it would require negative brightness. Yet in lab experiments, scientists have tricked the human brain into perceiving it through specific optical illusions targeting cone cells. It's a color that exists only in the mind.",
-      "tags": [
-        "stygian blue",
-        "impossible colors",
-        "human vision",
-        "optical illusion",
-        "color perception",
-        "eye science",
-        "brain tricks",
-        "neuroscience",
-        "color you cant see",
-        "visual cortex",
-        "forbidden colors"
-      ],
-      "script": "There is a color that cannot physically exist as light anywhere in the universe — yet scientists have made people see it. It's called Stygian blue, and it would require something called negative brightness to actually appear in nature, which is impossible. But researchers found that by overstimulating specific cone cells in your eye with a carefully designed optical illusion, your brain gets confused and generates this forbidden color entirely on its own. People who've seen it in lab experiments describe it as something they've never seen before and can't quite explain afterward. Your eyes aren't cameras — they're storytellers. So what other colors might your brain be hiding from you right now?",
-      "visual_keywords": [
-        "optical illusion",
-        "human eye closeup",
-        "color spectrum light"
+        "human body glowing",
+        "biophoton light",
+        "dark room human silhouette",
+        "cell biology"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "There is a color the human eye cannot see — Stygian blue",
-    "teaser": "Scientists discovered a color that physically cannot exist in the real world — but your brain can be tricked into seeing it.",
-    "video_title": "There's a Color Your Eyes Can't See — But Your Brain Can",
-    "video_description": "There is a color the human eye cannot see — Stygian blue\n\n#humanvision #opticalillusion #colorperception #braintricks #visualcortex",
-    "tags": [
-      "stygian blue",
-      "impossible colors",
-      "human vision",
-      "optical illusion",
-      "color perception",
-      "eye science",
-      "brain tricks",
-      "neuroscience",
-      "color you cant see",
-      "visual cortex",
-      "forbidden colors"
-    ],
-    "script": "There is a color that cannot physically exist as light anywhere in the universe — yet scientists have made people see it. It's called Stygian blue, and it would require something called negative brightness to actually appear in nature, which is impossible. But researchers found that by overstimulating specific cone cells in your eye with a carefully designed optical illusion, your brain gets confused and generates this forbidden color entirely on its own. People who've seen it in lab experiments describe it as something they've never seen before and can't quite explain afterward. Your eyes aren't cameras — they're storytellers. So what other colors might your brain be hiding from you right now?",
-    "visual_keywords": [
-      "optical illusion",
-      "human eye closeup",
-      "color spectrum light"
-    ]
-  },
-  "hashtag_options": [
-    "stygianblue",
-    "impossiblecolors",
-    "humanvision",
-    "opticalillusion",
-    "colorperception",
-    "eyescience",
-    "braintricks",
-    "neuroscience",
-    "coloryoucantsee",
-    "visualcortex"
-  ],
-  "hashtag_message_id": 121,
-  "selected_hashtags": [
-    2,
-    3,
-    4,
-    6,
-    9
-  ],
-  "hashtag_started_at": "2026-08-07T11:53:24.196969+00:00",
-  "video_file_id": "BAACAgQAAxkDAAN7anXIZqlJVl-R_RnLNGQi_w226vEAAmAgAAKejrBTnEQbyFczxnM9BA",
-  "review_started_at": "2026-08-07T11:58:30.288521+00:00",
-  "attempts": 1
+  ]
 }
