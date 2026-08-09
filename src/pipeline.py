@@ -18,14 +18,11 @@ from upload_youtube import upload_short
 
 LANGUAGE = os.environ.get("CONTENT_LANGUAGE", "en")
 PRIVACY_STATUS = os.environ.get("PRIVACY_STATUS", "public")
-# Bos string veya "off" = zamanlama kapali, onaylanir onaylanmaz hemen yayinla.
 PUBLISH_TIME_ISTANBUL = os.environ.get("PUBLISH_TIME_ISTANBUL", "20:00")
 ISTANBUL = ZoneInfo("Europe/Istanbul")
 
 
 def _next_publish_at_utc(hhmm: str) -> str:
-    """'20:00' gibi bir Istanbul saatini alir, bir sonraki gelecek
-    zamanlanmis anini (bugun gectiyse yarin) UTC ISO8601 olarak dondurur."""
     hour, minute = (int(part) for part in hhmm.split(":"))
     now_ist = datetime.now(ISTANBUL)
     target_ist = now_ist.replace(hour=hour, minute=minute, second=0, microsecond=0)
@@ -34,10 +31,16 @@ def _next_publish_at_utc(hhmm: str) -> str:
     return target_ist.astimezone(ZoneInfo("UTC")).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
+def _extract_hook(script: str) -> str:
+    script = script.strip()
+    for sep in (". ", "! ", "? "):
+        idx = script.find(sep)
+        if idx != -1:
+            return script[: idx + 1].strip()
+    return script[:60].strip()
+
+
 def produce_video(content: dict, work_dir: Path) -> str:
-    """content: generate_script.py'nin urettigi tek bir aday sozlugu.
-    work_dir: cagiran tarafindan yonetilen (ve temizlenen) bir klasor.
-    Donus: uretilen mp4'un yolu (work_dir icinde)."""
     work_dir = Path(work_dir)
 
     print("1/4 Seslendirme yapiliyor...")
@@ -56,23 +59,18 @@ def produce_video(content: dict, work_dir: Path) -> str:
 
     print("4/4 Video montajlaniyor...")
     output_path = work_dir / "final.mp4"
-    assemble(clip_paths, str(audio_path), str(srt_path), str(output_path), duration)
+    hook_text = _extract_hook(content["script"])
+    assemble(clip_paths, str(audio_path), str(srt_path), str(output_path), duration, hook_text=hook_text)
     return str(output_path)
 
 
 def upload_video(video_path: str, content: dict) -> str:
-    """Onaylanmis videoyu YouTube'a yukler, video id dondurur.
-    PUBLISH_TIME_ISTANBUL ayarliysa video 'private' yuklenir ve YouTube
-    otomatik olarak o Istanbul saatinde yayina alir (onay saatinden bagimsiz)."""
     publish_at = None
     if PUBLISH_TIME_ISTANBUL and PUBLISH_TIME_ISTANBUL.lower() != "off":
         publish_at = _next_publish_at_utc(PUBLISH_TIME_ISTANBUL)
         print(f"   Zamanlanmis yayin: {publish_at} (UTC) / Istanbul {PUBLISH_TIME_ISTANBUL}")
 
     description = content["video_description"]
-    # YouTube, API ile yuklenen dikey/kisa videolari "Shorts" olarak dogru
-    # siniflandirmasi icin aciklamada #Shorts etiketinin bulunmasini bekliyor
-    # -- bu olmadan video normal "Videos" sekmesine dusebiliyor.
     if "#shorts" not in description.lower():
         description = description.rstrip() + "\n\n#Shorts"
 
@@ -87,7 +85,6 @@ def upload_video(video_path: str, content: dict) -> str:
 
 
 def produce_and_upload(content: dict) -> str:
-    """TAM OTOMATIK mod icin: uret + onaysiz direkt yukle."""
     import tempfile
     with tempfile.TemporaryDirectory() as tmp:
         video_path = produce_video(content, Path(tmp))
