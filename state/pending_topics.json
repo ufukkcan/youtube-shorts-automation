@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-09",
   "message_id": 150,
   "created_at": "2026-08-09T10:13:11.104375+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Cleopatra's death — the asp myth debunked",
@@ -147,5 +147,48 @@
         "blizzard wilderness"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Cleopatra's death — the asp myth debunked",
+    "teaser": "Everything you know about Cleopatra's death might be completely wrong — and the truth is even stranger.",
+    "video_title": "Cleopatra Didn't Die the Way You Think",
+    "video_description": "The story of Cleopatra dying from a snake bite is one of history's most famous tales — but modern scholars seriously doubt it ever happened. The real cause of her death may shock you.",
+    "tags": [
+      "cleopatra",
+      "ancient egypt",
+      "cleopatra death",
+      "asp snake",
+      "history myths",
+      "roman history",
+      "egyptian queen",
+      "snake bite myth",
+      "mark antony",
+      "historical mystery",
+      "debunked history",
+      "cleopatra facts"
+    ],
+    "script": "Everyone knows Cleopatra died from the bite of an asp snake — except that probably never happened. The snake story comes almost entirely from Roman propaganda written by her enemies. Here's the problem: a single asp bite is rarely fatal, and smuggling a snake large enough to kill quickly into a heavily guarded room is nearly impossible. Modern toxicologists believe she more likely drank a cocktail of hemlock, opium, and wolfsbane — a painless, controlled death fitting a queen who refused to be paraded through Rome in chains. So the most famous death in history might be completely fictional. What else have we been told wrong?",
+    "visual_keywords": [
+      "ancient egypt queen",
+      "egyptian tomb",
+      "cobra snake",
+      "roman empire",
+      "cleopatra statue"
+    ]
+  },
+  "hashtag_options": [
+    "cleopatra",
+    "ancientegypt",
+    "cleopatradeath",
+    "aspsnake",
+    "historymyths",
+    "romanhistory",
+    "egyptianqueen",
+    "snakebitemyth",
+    "markantony",
+    "historicalmystery"
+  ],
+  "hashtag_message_id": 151,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-09T10:15:01.942934+00:00"
 }
