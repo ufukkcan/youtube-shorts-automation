@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-08",
   "message_id": 146,
   "created_at": "2026-08-08T13:32:35.689386+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Cleopatra's Needle and the hidden time capsule",
@@ -150,5 +150,49 @@
         "woodland ecosystem"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Cleopatra's Needle and the hidden time capsule",
+    "teaser": "There's a secret box buried beneath one of the world's most famous ancient monuments — and almost nobody knows what's inside.",
+    "video_title": "What's Hidden Under New York's Ancient Obelisk?",
+    "video_description": "New York City's Central Park holds an ancient Egyptian obelisk — and buried beneath it is a Victorian-era time capsule. The contents will surprise you.",
+    "tags": [
+      "cleopatra needle",
+      "central park obelisk",
+      "time capsule",
+      "egyptian obelisk",
+      "victorian secrets",
+      "new york hidden history",
+      "ancient egypt",
+      "obelisk new york",
+      "hidden artifacts",
+      "1880s america",
+      "hieroglyphics",
+      "archaeological secrets",
+      "manhattan mysteries"
+    ],
+    "script": "There's a 3,500-year-old Egyptian obelisk standing in Central Park, New York — and almost nobody notices it. But here's where it gets strange. When workers installed it in 1881, they buried a time capsule underneath it. Inside? A Bible, a map of New York, the complete works of Shakespeare, a US census, and weirdly — a set of coins, a deck of cards, and someone's business card. It's still sitting there right now, beneath millions of footsteps every single day. So here's the question — if you could add one thing to a time capsule for the year 4500, what would you choose?",
+    "visual_keywords": [
+      "Egyptian obelisk",
+      "Central Park New York",
+      "ancient stone monument",
+      "time capsule",
+      "hieroglyphics"
+    ]
+  },
+  "hashtag_options": [
+    "cleopatraneedle",
+    "centralparkobelisk",
+    "timecapsule",
+    "egyptianobelisk",
+    "victoriansecrets",
+    "newyorkhiddenhistory",
+    "ancientegypt",
+    "obelisknewyork",
+    "hiddenartifacts",
+    "1880samerica"
+  ],
+  "hashtag_message_id": 147,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-09T09:50:43.640335+00:00"
 }
