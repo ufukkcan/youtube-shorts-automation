@@ -40,8 +40,8 @@ jobs:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
-          CONTENT_LANGUAGE: "en"
-          TTS_VOICE: "en-US-AriaNeural"  # diger secenekler: en-US-GuyNeural, en-US-AndrewNeural, en-GB-SoniaNeural
+          CONTENT_LANGUAGE: "tr"
+          TTS_VOICE: "tr-TR-EmelNeural"  # diger secenekler: en-US-GuyNeural, en-US-AndrewNeural, en-GB-SoniaNeural
           PRIVACY_STATUS: "public"
           AUTO_TRIGGER_TIME: "16:30"      # "video uret" yazilmazsa gunun dongusu bu Istanbul saatinde kendiliginden baslar
           PUBLISH_TIME_ISTANBUL: "20:00"  # onaylanan video her gun bu Istanbul saatinde otomatik yayina girer (onay saatinden bagimsiz). Kapatmak icin "off" yap.
