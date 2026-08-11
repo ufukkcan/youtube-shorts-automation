@@ -1,0 +1,36 @@
+name: TikTok OAuth code exchange (tek seferlik yardimci)
+
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "callback.html sayfasindan kopyaladigin 'code' degeri (DECODE edilmis hali)"
+        required: true
+      code_verifier:
+        description: "Linki olusturdugumuzda verdigim CODE_VERIFIER degeri"
+        required: true
+
+jobs:
+  exchange:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Repoyu al
+        uses: actions/checkout@v4
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bagimlilik kur
+        run: pip install requests
+
+      - name: Kodu token'a cevir
+        working-directory: src
+        env:
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_AUTH_CODE: ${{ github.event.inputs.code }}
+          TIKTOK_CODE_VERIFIER: ${{ github.event.inputs.code_verifier }}
+        run: python tiktok_oauth_exchange.py
