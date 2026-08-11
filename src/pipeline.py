@@ -1,28 +1,34 @@
 """
 Konu+script hazir oldugunda calisan uretim adimlari.
-produce_video(): sadece videoyu uretir, YOUTUBE'A YUKLEMEZ (once Telegram'da
-onaya sunulacak). upload_video(): onaylanmis videoyu YouTube'a yukler.
+produce_video(): sadece videoyu uretir, TIKTOK'A YUKLEMEZ (once Telegram'da
+onaya sunulacak). upload_video(): onaylanmis videoyu TikTok'a yukler.
 produce_and_upload(): TAM OTOMATIK mod icin ikisini art arda calistiran
 geriye-donuk-uyumlu kisayol (main.py bunu kullanir).
+
+NOT: TikTok'un Content Posting API'sinde YouTube'daki gibi native bir
+"belirli saatte yayinla" ozelligi bulunmuyor (ya da en azindan dogrulayamadim).
+Bu yuzden PUBLISH_TIME_ISTANBUL ozelligini KENDI KODUMUZLA koruyoruz:
+onay geldiginde hemen yuklemek yerine, check_and_produce.py o saat gelene
+kadar bekleyip, o an videoyu (yeniden uretip) TikTok'a yukluyor.
 """
 import os
 from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+import tiktok_upload
 from assemble_video import assemble
 from fetch_visuals import fetch_clips
 from generate_captions import generate_srt
 from generate_voice import generate_voice
-from upload_youtube import upload_short
 
 LANGUAGE = os.environ.get("CONTENT_LANGUAGE", "en")
-PRIVACY_STATUS = os.environ.get("PRIVACY_STATUS", "public")
-PUBLISH_TIME_ISTANBUL = os.environ.get("PUBLISH_TIME_ISTANBUL", "20:00")
 ISTANBUL = ZoneInfo("Europe/Istanbul")
 
 
-def _next_publish_at_utc(hhmm: str) -> str:
+def next_publish_at_utc(hhmm: str) -> str:
+    """'20:00' gibi bir Istanbul saatini alir, bir sonraki gelecek
+    zamanlanmis anini (bugun gectiyse yarin) UTC ISO8601 olarak dondurur."""
     hour, minute = (int(part) for part in hhmm.split(":"))
     now_ist = datetime.now(ISTANBUL)
     target_ist = now_ist.replace(hour=hour, minute=minute, second=0, microsecond=0)
@@ -32,6 +38,8 @@ def _next_publish_at_utc(hhmm: str) -> str:
 
 
 def _extract_hook(script: str) -> str:
+    """Scriptin ilk cumlesini (kanca) cikarir, ilk 3 saniyede ekranda
+    buyuk metin olarak gosterilecek."""
     script = script.strip()
     for sep in (". ", "! ", "? "):
         idx = script.find(sep)
@@ -41,6 +49,9 @@ def _extract_hook(script: str) -> str:
 
 
 def produce_video(content: dict, work_dir: Path) -> str:
+    """content: generate_script.py'nin urettigi tek bir aday sozlugu.
+    work_dir: cagiran tarafindan yonetilen (ve temizlenen) bir klasor.
+    Donus: uretilen mp4'un yolu (work_dir icinde)."""
     work_dir = Path(work_dir)
 
     print("1/4 Seslendirme yapiliyor...")
@@ -65,29 +76,18 @@ def produce_video(content: dict, work_dir: Path) -> str:
 
 
 def upload_video(video_path: str, content: dict) -> str:
-    publish_at = None
-    if PUBLISH_TIME_ISTANBUL and PUBLISH_TIME_ISTANBUL.lower() != "off":
-        publish_at = _next_publish_at_utc(PUBLISH_TIME_ISTANBUL)
-        print(f"   Zamanlanmis yayin: {publish_at} (UTC) / Istanbul {PUBLISH_TIME_ISTANBUL}")
-
-    description = content["video_description"]
-    if "#shorts" not in description.lower():
-        description = description.rstrip() + "\n\n#Shorts"
-
-    return upload_short(
-        video_path=video_path,
-        title=content["video_title"],
-        description=description,
-        tags=content["tags"],
-        privacy_status=PRIVACY_STATUS,
-        publish_at=publish_at,
-    )
+    """Onaylanmis videoyu TikTok'a yukler, publish_id dondurur.
+    TikTok'ta YouTube'daki gibi ayri baslik/aciklama alani yok -- ikisini
+    birlestirip tek bir "title" (video altinda gorunen metin) olarak gonderiyoruz."""
+    title = f"{content['video_title']}\n\n{content['video_description']}".strip()
+    return tiktok_upload.upload_video(video_path, title)
 
 
 def produce_and_upload(content: dict) -> str:
+    """TAM OTOMATIK mod icin: uret + onaysiz direkt yukle."""
     import tempfile
     with tempfile.TemporaryDirectory() as tmp:
         video_path = produce_video(content, Path(tmp))
-        video_id = upload_video(video_path, content)
-        print(f"Tamamlandi: https://youtube.com/shorts/{video_id}")
-        return video_id
+        publish_id = upload_video(video_path, content)
+        print(f"Tamamlandi, TikTok publish_id: {publish_id}")
+        return publish_id
