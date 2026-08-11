@@ -24,8 +24,8 @@ import webbrowser
 
 import requests
 
-CLIENT_KEY = "BURAYA_CLIENT_KEY_YAPISTIR"
-CLIENT_SECRET = "BURAYA_CLIENT_SECRET_YAPISTIR"
+CLIENT_KEY = "aw13r75vleik22av"
+CLIENT_SECRET = "zx8nbtPkWXcbLDhvUMHoBwTdrEY1n39i"
 REDIRECT_URI = "http://localhost:8912/callback"
 SCOPE = "video.publish"
 PORT = 8912
