@@ -1,9 +1,9 @@
 {
   "batch_id": "20260811-1332",
   "trigger_date": "2026-08-11",
-  "message_id": 160,
+  "message_id": 165,
   "created_at": "2026-08-11T13:32:47.658175+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Ay'ın kendi ışığı yok — yalnızca yansıma",
@@ -134,7 +134,7 @@
     "topic": "Dünyanın en derin noktası — Mariana Çukuru hakkında bilinmeyenler",
     "teaser": "Uzayı keşfettik ama okyanusun dibini hâlâ tam olarak görmedik — orada ne var?",
     "video_title": "Okyanusun Dibinde Neler Saklı?",
-    "video_description": "Mariana Çukuru, Everest Dağı'ndan çok daha derindir ve hâlâ büyük ölçüde keşfedilmemiştir. Orada yaşayan canlılar bilim insanlarını şaşırtmaya devam ediyor.",
+    "video_description": "Dünyanın en derin noktası — Mariana Çukuru hakkında bilinmeyenler\n\n#MarianaTrench #deepocean #oceanfloor #unexploredocean #deepseacreatures",
     "tags": [
       "Mariana Trench",
       "deep ocean",
@@ -168,6 +168,15 @@
     "marinebiology"
   ],
   "hashtag_message_id": 161,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-11T13:35:08.840387+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-08-11T13:35:08.840387+00:00",
+  "video_file_id": "BAACAgQAAxkDAAOlanxOZPg-YzgLi8decnKjsjEFhEwAAn8dAALN7uFTlUz-fpCVzfg9BA",
+  "review_started_at": "2026-08-12T10:43:48.646565+00:00",
+  "attempts": 1
 }
