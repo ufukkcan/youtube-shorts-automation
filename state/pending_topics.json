@@ -1,183 +1,134 @@
 {
-  "batch_id": "20260811-1332",
-  "trigger_date": "2026-08-11",
-  "message_id": 165,
-  "created_at": "2026-08-11T13:32:47.658175+00:00",
-  "status": "error",
+  "batch_id": "20260812-1811",
+  "trigger_date": "2026-08-12",
+  "message_id": 168,
+  "created_at": "2026-08-12T18:11:52.605576+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Ay'ın kendi ışığı yok — yalnızca yansıma",
-      "teaser": "Geceleri bize ışık veren Ay aslında tamamen karanlık — peki bu nasıl mümkün?",
-      "video_title": "Ay'ın Aslında Hiç Işığı Yok!",
-      "video_description": "Ay'ın ışığının aslında Güneş'ten yansıyan ışık olduğunu biliyoruz ama bu gerçeğin ne kadar derin olduğunu hiç düşündünüz mü? Ay'ın yüzeyi asfalttan daha kara. Yine de geceleri her şeyi aydınlatıyor.",
+      "topic": "Okyanus'un karanlık bölgesi — güneş ışığının ulaşamadığı derinlik",
+      "teaser": "Okyanusun belirli bir derinliğinin altında güneş ışığı hiç ulaşmaz — peki orada yaşam var mı?",
+      "video_title": "Okyanusun Bu Katmanına Işık Hiç Ulaşmaz",
+      "video_description": "Okyanusun 200 metrenin altında güneş ışığı tamamen kaybolur ve burası 'gece bölgesi' olarak adlandırılır. Oysa burada binlerce canlı türü, kendi ışığını üreterek hayatta kalır. Karanlık, bu dünya için bir engel değil.",
       "tags": [
-        "moon light",
-        "moonlight reflection",
-        "lunar surface",
-        "sun reflection",
-        "moon facts",
-        "space facts",
-        "albedo moon",
-        "dark moon surface",
-        "astronomy",
-        "night sky science"
+        "okyanus",
+        "derindeniz",
+        "biyoluminesans",
+        "denizbiologi",
+        "karanlıkzone",
+        "bilim",
+        "dogadosyasi",
+        "fyp",
+        "foryou",
+        "viral"
       ],
-      "script": "Ay'ın ışığı diye bir şey aslında yok. Ay, kendi ışığını üretemeyen, tamamen karanlık bir kaya kütlesi. Peki geceleri o muhteşem parlaklık nereden geliyor? Güneş ışığının Ay yüzeyine çarpıp size yansımasından. Dahası, Ay'ın yüzeyi asfalttan daha koyu bir renge sahip; albedo değeri yani yansıtma oranı yalnızca yüzde on iki. Bu, gelen ışığın neredeyse tamamını emdiği anlamına geliyor. Yani aslında çok kötü bir ayna kullanıyoruz geceleri. Peki Ay bu kadar az ışığı yansıtıyorsa, bize bu kadar parlak görünmesinin sırrı ne?",
+      "script": "Okyanusun 200 metre altına güneş ışığı hiç ulaşmaz — orada ebedi gece hüküm sürer. Ama bu karanlıkta 8.500'den fazla tür yaşıyor. Nasıl mı? Kendi ışıklarını üretiyorlar. Biyolüminesans adı verilen bu yeteneği okyanustaki canlıların yüzde sekseninden fazlası kullanıyor. Evren'in en yalnız yerinde hayat, pes etmek yerine parlıyor. Peki siz hangi karanlıkta ışık üretirdiniz?",
       "visual_keywords": [
-        "full moon night sky",
-        "moonlight reflection",
-        "lunar surface dark"
+        "deep ocean bioluminescence",
+        "underwater dark zone",
+        "glowing sea creatures",
+        "abyssal depth"
       ]
     },
     {
-      "topic": "Dünyanın en derin noktası — Mariana Çukuru hakkında bilinmeyenler",
-      "teaser": "Uzayı keşfettik ama okyanusun dibini hâlâ tam olarak görmedik — orada ne var?",
-      "video_title": "Okyanusun Dibinde Neler Saklı?",
-      "video_description": "Mariana Çukuru, Everest Dağı'ndan çok daha derindir ve hâlâ büyük ölçüde keşfedilmemiştir. Orada yaşayan canlılar bilim insanlarını şaşırtmaya devam ediyor.",
+      "topic": "İnsan beyni — enerji tüketimi ve süperbilgisayar karşılaştırması",
+      "teaser": "Beyniniz çalışırken yalnızca 20 watt enerji harcıyor — peki bu ne anlama geliyor?",
+      "video_title": "Beyniniz Bir Ampulden Az Enerji Kullanıyor",
+      "video_description": "İnsan beyni, dünyanın en güçlü süperbilgisayarlarından daha karmaşık işlemler yaparken yalnızca 20 watt enerji tüketiyor. Aynı gücü taklit etmek için bir süperbilgisayar milyonlarca watt harcıyor. Evrimin yarattığı bu verimlilik hâlâ çözülemedi.",
       "tags": [
-        "Mariana Trench",
-        "deep ocean",
-        "ocean floor",
-        "unexplored ocean",
-        "deep sea creatures",
-        "hadal zone",
-        "ocean pressure",
-        "Challenger Deep",
-        "deep sea facts",
-        "marine biology",
-        "ocean discovery"
+        "insan beyni",
+        "nörobilim",
+        "süperbilgisayar",
+        "beyin gücü",
+        "bilim",
+        "ilginç gerçekler",
+        "teknoloji",
+        "fyp",
+        "foryou",
+        "viral"
       ],
-      "script": "Ay'ın yüzeyini haritalandırdık, Mars'a araç gönderdik ama okyanusun yüzde seksenini hâlâ hiç görmedik. Mariana Çukuru'nun en derin noktası, Everest Dağı'nı tamamen yutabilir; üstüne iki kilometre daha su kalır. Oradaki basınç, deniz seviyesinin bin kat üzerinde. İnsan kemiklerini anında ezer. Ama yine de canlılar var. Işıksız, dondurucu soğukta, ezici basınç altında yaşayan balıklar, mikroplar, hatta plastik atıklar bulundu. Dünyamızın en uzak köşesine insanlığın izi bile ulaştıysa, bu bize ne söylüyor?",
+      "script": "Beyniniz şu an çalışırken yalnızca 20 watt harcıyor — bir buzdolabı ampulünden az. Aynı hesaplama gücünü taklit etmeye çalışan dünyanın en pahalı süperbilgisayarı, Frontier, 21 milyon watt tüketiyor. Ve hâlâ beyni tam olarak kopyalayamıyor. 86 milyar nöronunuz, elektrik faturanıza tek kuruş eklemeden evreni anlamlandırıyor. Bu verimlilik sizi neden şaşırtmıyor?",
       "visual_keywords": [
-        "deep ocean trench",
-        "underwater darkness",
-        "deep sea fish bioluminescence"
+        "human brain neural activity",
+        "supercomputer data center",
+        "neuron network",
+        "brain scan MRI"
       ]
     },
     {
-      "topic": "Uyku sırasında beyin toksinleri temizliyor — glimfatik sistem",
-      "teaser": "Uyurken beyninizde inanılmaz bir temizlik operasyonu başlıyor — hiç duydunuz mu?",
-      "video_title": "Uyurken Beyniniz Kendini Yıkıyor!",
-      "video_description": "Bilim insanları uyku sırasında beynin özel bir sistem aracılığıyla zararlı toksinleri temizlediğini keşfetti. Bu sistem çalışmazsa Alzheimer riski artıyor.",
+      "topic": "Çatal — Ortaçağ'da şeytan aleti sayılması",
+      "teaser": "Bugün masanın vazgeçilmezi olan çatal, bir dönem Avrupa'da yasaklandı — sebebi aklınıza gelmez.",
+      "video_title": "Çatal Bir Zamanlar Yasaklı Bir Aygıttı",
+      "video_description": "11. yüzyılda Avrupa'ya giren çatal, Kilise tarafından 'şeytanın aleti' ilan edildi. Tanrı'nın verdiği elleri kullanmak yerine metal bir nesne kullanmak günah sayılıyordu. Çatalı ilk kullanan Bizanslı prenses, ölümünden sonra Tanrı tarafından cezalandırıldığı söylenerek aşağılandı.",
       "tags": [
-        "glymphatic system",
-        "brain cleansing",
-        "sleep science",
-        "brain health",
-        "sleep facts",
-        "alzheimer prevention",
-        "cerebrospinal fluid",
-        "neuroscience",
-        "sleep benefits",
-        "brain toxins",
-        "deep sleep"
+        "çatal",
+        "ortaçağtarihi",
+        "kilise",
+        "yasaklınesne",
+        "ilginçtarih",
+        "tarih",
+        "günlükhayat",
+        "fyp",
+        "foryou",
+        "viral"
       ],
-      "script": "Uyku sadece dinlenmek için değil. Siz uyurken beyniniz tam kapasiteyle çalışmaya başlıyor ama bu sefer farklı bir iş için: temizlik. Glimfatik sistem adı verilen bu ağ, beyin hücreleri arasındaki zararlı protein atıklarını beyin omurilik sıvısıyla yıkayıp atıyor. Alzheimer hastalığıyla bağlantılı tau ve beta-amiloid proteinleri de bunlar arasında. Yani iyi uyumayanların beyni zamanla bu toksinleri biriktirebiliyor. 2013'te keşfedilen bu sistem, uykunun neden bu kadar kritik olduğunu açıklıyor. Peki siz kaç saatlik uyku uyuyorsunuz?",
+      "script": "Masanın en sıradan nesnesi, 1000 yıl önce Avrupa'da şeytan aleti ilan edildi. Bizanslı bir prenses çatalı Venedik'e getirdiğinde din adamları dehşete düştü; Tanrı'nın elleri varken metal dişlere ihtiyaç duymak küstahlıktı. Prenses birkaç gün sonra hastalanıp öldü — kilise bunu ilahi ceza olarak duyurdu. Bugün günde üç kez kullandığınız o nesnenin yasak tarihini hiç düşündünüz mü?",
       "visual_keywords": [
-        "sleeping brain scan",
-        "neuroscience brain",
-        "deep sleep peaceful"
+        "medieval dining table",
+        "antique fork cutlery",
+        "middle ages feast",
+        "church history artifact"
       ]
     },
     {
-      "topic": "Ateş rengi sıcaklığı gösterir — mavi ateş kırmızıdan sıcaktır",
-      "teaser": "Kırmızı ateş tehlikelidir diye düşünüyorsunuz ama asıl korkmanız gereken renk çok farklı!",
-      "video_title": "Mavi Alev Kırmızıdan Kat Kat Sıcak!",
-      "video_description": "Ateşin rengi rastgele değil, sıcaklığın doğrudan göstergesidir. Mavi alev, kırmızı alevin neredeyse iki katı sıcaklığa ulaşabilir.",
+      "topic": "Ay'ın yüzeyinde ayak izleri — milyonlarca yıl bozulmaz",
+      "teaser": "1969'da Ay'a basılan ayak izleri hâlâ orada duruyor — ve milyonlarca yıl silinmeyecek.",
+      "video_title": "Ay'daki Ayak İzleri Milyonlarca Yıl Silinmez",
+      "video_description": "Ay'ın yüzeyinde rüzgar, yağmur veya hava olayı yoktur. Bu yüzden 1969'da Neil Armstrong'un bıraktığı ayak izleri bugün hâlâ aynı şekilde duruyor. Bilim insanlarına göre bu izler, küçük meteor çarpmaları olmadığı sürece yaklaşık 10 milyon yıl silinmeyecek.",
       "tags": [
-        "blue flame temperature",
-        "fire color science",
-        "flame color",
-        "combustion science",
-        "fire facts",
-        "blackbody radiation",
-        "candle flame",
-        "fire temperature",
-        "physics facts",
-        "thermal radiation",
-        "science facts"
+        "ay",
+        "apollomisyonu",
+        "neilarmstrong",
+        "uzay",
+        "ayizleri",
+        "uzaybilimi",
+        "keşif",
+        "fyp",
+        "foryou",
+        "viral"
       ],
-      "script": "Kırmızıyı gördüğünüzde dur dersiniz, ateşte de öyle düşünürsünüz. Ama tamamen yanlış. Ateşin rengi doğrudan sıcaklığını gösterir. Kırmızı alev yaklaşık sekiz yüz derece, turuncu bin derece, sarı bin iki yüz derece civarındadır. Mavi alev ise bin dört yüzden başlar ve bazı koşullarda üç bin dereceye kadar çıkabilir. Bu yüzden kaynak yaparken gördüğünüz mavi ışık, size en tehlikeli noktayı işaret ediyor. Yıldızlar da aynı prensiple çalışır: kırmızı yıldızlar soğuk, mavi yıldızlar inanılmaz derecede sıcak. Güneşimiz hangi renk kategorisinde sizce?",
+      "script": "1969'da Neil Armstrong'un Ay'a bastığı ayak izleri hâlâ orada, bozulmadan duruyor. Ay'da rüzgar yok, yağmur yok, hava yok — hiçbir şey o izi silemiyor. Bilim insanları bu izlerin yaklaşık 10 milyon yıl daha kalacağını söylüyor. Yani Armstrong'un izi, insanlık tarihi boyunca var olan tüm medeniyetlerden çok daha uzun yaşayacak. Peki siz geride ne bırakıyorsunuz?",
       "visual_keywords": [
-        "blue flame close up",
-        "fire color temperature",
-        "gas flame burning"
+        "moon surface footprint",
+        "Apollo 11 landing site",
+        "lunar dust close up",
+        "astronaut moon walk"
       ]
     },
     {
-      "topic": "Dünyanın en eski ağacı — 9500 yaşında yaşayan bir kök",
-      "teaser": "Dünyanın en yaşlı canlısı bir ağaç — ama onu görünce hiç tahmin edemezsiniz!",
-      "video_title": "9500 Yaşındaki Bu Ağaç Hâlâ Yaşıyor!",
-      "video_description": "İsveç'te keşfedilen Old Tjikko adlı ladin ağacının kök sistemi 9500 yıllıktır. Üstelik görünüşü sizi şaşırtacak.",
+      "topic": "Flamingolar — renkleri yediklerinden geliyor",
+      "teaser": "Flamingolar aslında beyaz doğuyor — o ikonik pembe renk tamamen başka bir şeyden geliyor.",
+      "video_title": "Flamingolar Aslında Beyaz Doğar",
+      "video_description": "Flamingolar beyaz tüylerle dünyaya gelir. O karakteristik pembe renk, yedikleri yosun ve karides türlerindeki karotenoid pigmentlerden kaynaklanır. Yeterince beslenemeyen flamingolar zamanla solar ve beyazlaşır. Yani bir flamingonun rengi, sağlık durumunun doğrudan göstergesidir.",
       "tags": [
-        "oldest tree world",
-        "Old Tjikko",
-        "ancient tree",
-        "Sweden spruce tree",
-        "tree age record",
-        "living organism age",
-        "carbon dating tree",
-        "oldest living thing",
-        "nature facts",
-        "biology facts",
-        "ancient life"
+        "flamingo",
+        "hayvanlar",
+        "dogabilimi",
+        "ilginçhayvanlar",
+        "karotenoid",
+        "pembe",
+        "dogabelgeseli",
+        "fyp",
+        "foryou",
+        "viral"
       ],
-      "script": "Dünyanın en yaşlı ağacını hayal edin. Dev, görkemli, yüzlerce metrelik bir dev mi? Yanılıyorsunuz. İsveç'in dağlarında duran Old Tjikko adlı ladin ağacı, göründüğünden çok daha sıradan. Ama kök sistemi dokuz bin beş yüz yıllıktır. Mısır piramitleri inşa edildiğinde bu ağaç zaten büyüyordu. Gövdesi yüzyıllar içinde defalarca çürüdü ve yeniden filizlendi ama aynı kök hep hayatta kaldı. Yani aslında gördüğünüz gövde değil, toprak altındaki o kadim kök yaşıyor. Peki bir organizmanın kimliğini ne belirler, gövdesi mi yoksa kökleri mi?",
+      "script": "Flamingolar pembe doğmaz — bembeyaz doğarlar. O ikonik renk, yedikleri yosun ve karidesteki pigmentlerden geliyor. Az yiyen flamingo solar, beyazlaşır; bol yiyen daha koyu pembe olur. Yani gördüğünüz flamingonun rengi aslında ne kadar iyi beslendiğini söylüyor. Bir hayvan, rengini menüsüyle değiştiriyor. Peki siz olsaydınız ne yemek isterdiniz?",
       "visual_keywords": [
-        "ancient tree forest Sweden",
-        "old tree roots",
-        "spruce tree mountain"
+        "flamingo flock pink",
+        "flamingo feeding shrimp",
+        "white flamingo chick",
+        "wildlife nature bird"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Dünyanın en derin noktası — Mariana Çukuru hakkında bilinmeyenler",
-    "teaser": "Uzayı keşfettik ama okyanusun dibini hâlâ tam olarak görmedik — orada ne var?",
-    "video_title": "Okyanusun Dibinde Neler Saklı?",
-    "video_description": "Dünyanın en derin noktası — Mariana Çukuru hakkında bilinmeyenler\n\n#MarianaTrench #deepocean #oceanfloor #unexploredocean #deepseacreatures",
-    "tags": [
-      "Mariana Trench",
-      "deep ocean",
-      "ocean floor",
-      "unexplored ocean",
-      "deep sea creatures",
-      "hadal zone",
-      "ocean pressure",
-      "Challenger Deep",
-      "deep sea facts",
-      "marine biology",
-      "ocean discovery"
-    ],
-    "script": "Ay'ın yüzeyini haritalandırdık, Mars'a araç gönderdik ama okyanusun yüzde seksenini hâlâ hiç görmedik. Mariana Çukuru'nun en derin noktası, Everest Dağı'nı tamamen yutabilir; üstüne iki kilometre daha su kalır. Oradaki basınç, deniz seviyesinin bin kat üzerinde. İnsan kemiklerini anında ezer. Ama yine de canlılar var. Işıksız, dondurucu soğukta, ezici basınç altında yaşayan balıklar, mikroplar, hatta plastik atıklar bulundu. Dünyamızın en uzak köşesine insanlığın izi bile ulaştıysa, bu bize ne söylüyor?",
-    "visual_keywords": [
-      "deep ocean trench",
-      "underwater darkness",
-      "deep sea fish bioluminescence"
-    ]
-  },
-  "hashtag_options": [
-    "MarianaTrench",
-    "deepocean",
-    "oceanfloor",
-    "unexploredocean",
-    "deepseacreatures",
-    "hadalzone",
-    "oceanpressure",
-    "ChallengerDeep",
-    "deepseafacts",
-    "marinebiology"
-  ],
-  "hashtag_message_id": 161,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-08-11T13:35:08.840387+00:00",
-  "video_file_id": "BAACAgQAAxkDAAOlanxOZPg-YzgLi8decnKjsjEFhEwAAn8dAALN7uFTlUz-fpCVzfg9BA",
-  "review_started_at": "2026-08-12T10:43:48.646565+00:00",
-  "attempts": 1,
-  "scheduled_publish_utc": "2026-08-12T17:00:00Z"
+  ]
 }
