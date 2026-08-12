@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-11",
   "message_id": 165,
   "created_at": "2026-08-11T13:32:47.658175+00:00",
-  "status": "approved_pending_publish",
+  "status": "error",
   "candidates": [
     {
       "topic": "Ay'ın kendi ışığı yok — yalnızca yansıma",
