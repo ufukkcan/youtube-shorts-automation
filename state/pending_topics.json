@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-12",
   "message_id": 168,
   "created_at": "2026-08-12T18:11:52.605576+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Okyanus'un karanlık bölgesi — güneş ışığının ulaşamadığı derinlik",
@@ -130,5 +130,45 @@
         "wildlife nature bird"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Okyanus'un karanlık bölgesi — güneş ışığının ulaşamadığı derinlik",
+    "teaser": "Okyanusun belirli bir derinliğinin altında güneş ışığı hiç ulaşmaz — peki orada yaşam var mı?",
+    "video_title": "Okyanusun Bu Katmanına Işık Hiç Ulaşmaz",
+    "video_description": "Okyanusun 200 metrenin altında güneş ışığı tamamen kaybolur ve burası 'gece bölgesi' olarak adlandırılır. Oysa burada binlerce canlı türü, kendi ışığını üreterek hayatta kalır. Karanlık, bu dünya için bir engel değil.",
+    "tags": [
+      "okyanus",
+      "derindeniz",
+      "biyoluminesans",
+      "denizbiologi",
+      "karanlıkzone",
+      "bilim",
+      "dogadosyasi",
+      "fyp",
+      "foryou",
+      "viral"
+    ],
+    "script": "Okyanusun 200 metre altına güneş ışığı hiç ulaşmaz — orada ebedi gece hüküm sürer. Ama bu karanlıkta 8.500'den fazla tür yaşıyor. Nasıl mı? Kendi ışıklarını üretiyorlar. Biyolüminesans adı verilen bu yeteneği okyanustaki canlıların yüzde sekseninden fazlası kullanıyor. Evren'in en yalnız yerinde hayat, pes etmek yerine parlıyor. Peki siz hangi karanlıkta ışık üretirdiniz?",
+    "visual_keywords": [
+      "deep ocean bioluminescence",
+      "underwater dark zone",
+      "glowing sea creatures",
+      "abyssal depth"
+    ]
+  },
+  "hashtag_options": [
+    "okyanus",
+    "derindeniz",
+    "biyoluminesans",
+    "denizbiologi",
+    "karanlıkzone",
+    "bilim",
+    "dogadosyasi",
+    "fyp",
+    "foryou",
+    "viral"
+  ],
+  "hashtag_message_id": 169,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-13T15:13:09.712971+00:00"
 }
