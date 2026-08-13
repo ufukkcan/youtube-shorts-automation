@@ -1,184 +1,139 @@
 {
-  "batch_id": "20260812-1811",
-  "trigger_date": "2026-08-12",
-  "message_id": 171,
-  "created_at": "2026-08-12T18:11:52.605576+00:00",
-  "status": "error",
+  "batch_id": "20260813-1717",
+  "trigger_date": "2026-08-13",
+  "message_id": 174,
+  "created_at": "2026-08-13T17:17:57.728961+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Okyanus'un karanlık bölgesi — güneş ışığının ulaşamadığı derinlik",
-      "teaser": "Okyanusun belirli bir derinliğinin altında güneş ışığı hiç ulaşmaz — peki orada yaşam var mı?",
-      "video_title": "Okyanusun Bu Katmanına Işık Hiç Ulaşmaz",
-      "video_description": "Okyanusun 200 metrenin altında güneş ışığı tamamen kaybolur ve burası 'gece bölgesi' olarak adlandırılır. Oysa burada binlerce canlı türü, kendi ışığını üreterek hayatta kalır. Karanlık, bu dünya için bir engel değil.",
-      "tags": [
-        "okyanus",
-        "derindeniz",
-        "biyoluminesans",
-        "denizbiologi",
-        "karanlıkzone",
-        "bilim",
-        "dogadosyasi",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Okyanusun 200 metre altına güneş ışığı hiç ulaşmaz — orada ebedi gece hüküm sürer. Ama bu karanlıkta 8.500'den fazla tür yaşıyor. Nasıl mı? Kendi ışıklarını üretiyorlar. Biyolüminesans adı verilen bu yeteneği okyanustaki canlıların yüzde sekseninden fazlası kullanıyor. Evren'in en yalnız yerinde hayat, pes etmek yerine parlıyor. Peki siz hangi karanlıkta ışık üretirdiniz?",
-      "visual_keywords": [
-        "deep ocean bioluminescence",
-        "underwater dark zone",
-        "glowing sea creatures",
-        "abyssal depth"
-      ]
-    },
-    {
-      "topic": "İnsan beyni — enerji tüketimi ve süperbilgisayar karşılaştırması",
-      "teaser": "Beyniniz çalışırken yalnızca 20 watt enerji harcıyor — peki bu ne anlama geliyor?",
-      "video_title": "Beyniniz Bir Ampulden Az Enerji Kullanıyor",
-      "video_description": "İnsan beyni, dünyanın en güçlü süperbilgisayarlarından daha karmaşık işlemler yaparken yalnızca 20 watt enerji tüketiyor. Aynı gücü taklit etmek için bir süperbilgisayar milyonlarca watt harcıyor. Evrimin yarattığı bu verimlilik hâlâ çözülemedi.",
-      "tags": [
-        "insan beyni",
-        "nörobilim",
-        "süperbilgisayar",
-        "beyin gücü",
-        "bilim",
-        "ilginç gerçekler",
-        "teknoloji",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Beyniniz şu an çalışırken yalnızca 20 watt harcıyor — bir buzdolabı ampulünden az. Aynı hesaplama gücünü taklit etmeye çalışan dünyanın en pahalı süperbilgisayarı, Frontier, 21 milyon watt tüketiyor. Ve hâlâ beyni tam olarak kopyalayamıyor. 86 milyar nöronunuz, elektrik faturanıza tek kuruş eklemeden evreni anlamlandırıyor. Bu verimlilik sizi neden şaşırtmıyor?",
-      "visual_keywords": [
-        "human brain neural activity",
-        "supercomputer data center",
-        "neuron network",
-        "brain scan MRI"
-      ]
-    },
-    {
-      "topic": "Çatal — Ortaçağ'da şeytan aleti sayılması",
-      "teaser": "Bugün masanın vazgeçilmezi olan çatal, bir dönem Avrupa'da yasaklandı — sebebi aklınıza gelmez.",
-      "video_title": "Çatal Bir Zamanlar Yasaklı Bir Aygıttı",
-      "video_description": "11. yüzyılda Avrupa'ya giren çatal, Kilise tarafından 'şeytanın aleti' ilan edildi. Tanrı'nın verdiği elleri kullanmak yerine metal bir nesne kullanmak günah sayılıyordu. Çatalı ilk kullanan Bizanslı prenses, ölümünden sonra Tanrı tarafından cezalandırıldığı söylenerek aşağılandı.",
-      "tags": [
-        "çatal",
-        "ortaçağtarihi",
-        "kilise",
-        "yasaklınesne",
-        "ilginçtarih",
-        "tarih",
-        "günlükhayat",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Masanın en sıradan nesnesi, 1000 yıl önce Avrupa'da şeytan aleti ilan edildi. Bizanslı bir prenses çatalı Venedik'e getirdiğinde din adamları dehşete düştü; Tanrı'nın elleri varken metal dişlere ihtiyaç duymak küstahlıktı. Prenses birkaç gün sonra hastalanıp öldü — kilise bunu ilahi ceza olarak duyurdu. Bugün günde üç kez kullandığınız o nesnenin yasak tarihini hiç düşündünüz mü?",
-      "visual_keywords": [
-        "medieval dining table",
-        "antique fork cutlery",
-        "middle ages feast",
-        "church history artifact"
-      ]
-    },
-    {
-      "topic": "Ay'ın yüzeyinde ayak izleri — milyonlarca yıl bozulmaz",
-      "teaser": "1969'da Ay'a basılan ayak izleri hâlâ orada duruyor — ve milyonlarca yıl silinmeyecek.",
-      "video_title": "Ay'daki Ayak İzleri Milyonlarca Yıl Silinmez",
-      "video_description": "Ay'ın yüzeyinde rüzgar, yağmur veya hava olayı yoktur. Bu yüzden 1969'da Neil Armstrong'un bıraktığı ayak izleri bugün hâlâ aynı şekilde duruyor. Bilim insanlarına göre bu izler, küçük meteor çarpmaları olmadığı sürece yaklaşık 10 milyon yıl silinmeyecek.",
+      "topic": "Ay'ın Çekimi Olmasa Dünya Durur",
+      "teaser": "Ay yarın yok olsa, Dünya'da ne kalır biliyor musun?",
+      "video_title": "Ay olmasaydı Dünya 6 saatte bir yıl geçirirdi",
+      "video_description": "Ay'ın varlığı yalnızca gelgitleri değil, gezegenimizin dönüş hızını, eksen eğimini ve hatta yaşamın varlığını doğrudan etkiliyor. Ay olmasaydı Dünya bambaşka bir yer olurdu.",
       "tags": [
         "ay",
-        "apollomisyonu",
-        "neilarmstrong",
+        "dünya",
         "uzay",
-        "ayizleri",
-        "uzaybilimi",
-        "keşif",
+        "gezegenler",
+        "astronomi",
+        "gelgit",
+        "bilim",
         "fyp",
         "foryou",
         "viral"
       ],
-      "script": "1969'da Neil Armstrong'un Ay'a bastığı ayak izleri hâlâ orada, bozulmadan duruyor. Ay'da rüzgar yok, yağmur yok, hava yok — hiçbir şey o izi silemiyor. Bilim insanları bu izlerin yaklaşık 10 milyon yıl daha kalacağını söylüyor. Yani Armstrong'un izi, insanlık tarihi boyunca var olan tüm medeniyetlerden çok daha uzun yaşayacak. Peki siz geride ne bırakıyorsunuz?",
+      "script": "Ay bu gece yok olsa, Dünya saatler içinde tanınmaz hale gelir. Şu an gezegenimiz 24 saatte bir tur atıyor; Ay olmasaydı bu süre yalnızca 6-8 saate düşerdi. Bu kadar hızlı dönen bir gezegende rüzgarlar saatte 500 kilometreyi aşar, mevsimler tamamen çöker, eksen kontrolsüz sallanmaya başlar. Milyarlarca yıl önce Ay tam da bunu durduran frendi. Peki ya Ay yavaşlamaya devam ederse?",
       "visual_keywords": [
-        "moon surface footprint",
-        "Apollo 11 landing site",
-        "lunar dust close up",
-        "astronaut moon walk"
+        "moon surface",
+        "Earth from space",
+        "tidal waves",
+        "planet rotation",
+        "night sky"
       ]
     },
     {
-      "topic": "Flamingolar — renkleri yediklerinden geliyor",
-      "teaser": "Flamingolar aslında beyaz doğuyor — o ikonik pembe renk tamamen başka bir şeyden geliyor.",
-      "video_title": "Flamingolar Aslında Beyaz Doğar",
-      "video_description": "Flamingolar beyaz tüylerle dünyaya gelir. O karakteristik pembe renk, yedikleri yosun ve karides türlerindeki karotenoid pigmentlerden kaynaklanır. Yeterince beslenemeyen flamingolar zamanla solar ve beyazlaşır. Yani bir flamingonun rengi, sağlık durumunun doğrudan göstergesidir.",
+      "topic": "Kleopatra'nın Burnu Tarihi Değiştirdi",
+      "teaser": "Tarihin en ünlü burnunun birkaç milimetre farklı olması tüm Roma İmparatorluğu'nu yok edebilirdi.",
+      "video_title": "Kleopatra'nın burnu olmasaydı Roma çökmezdi",
+      "video_description": "Fransız matematikçi Pascal, Kleopatra'nın burnu biraz daha kısa olsaydı dünyanın yüzü değişirdi dedi. Kulağa saçma geliyor ama arkasında ciddi bir tarihsel mantık var.",
       "tags": [
-        "flamingo",
-        "hayvanlar",
-        "dogabilimi",
-        "ilginçhayvanlar",
-        "karotenoid",
-        "pembe",
-        "dogabelgeseli",
+        "kleopatra",
+        "romaİmparatorluğu",
+        "antiktarih",
+        "tarih",
+        "sezar",
+        "antonius",
+        "arkeoloji",
         "fyp",
         "foryou",
         "viral"
       ],
-      "script": "Flamingolar pembe doğmaz — bembeyaz doğarlar. O ikonik renk, yedikleri yosun ve karidesteki pigmentlerden geliyor. Az yiyen flamingo solar, beyazlaşır; bol yiyen daha koyu pembe olur. Yani gördüğünüz flamingonun rengi aslında ne kadar iyi beslendiğini söylüyor. Bir hayvan, rengini menüsüyle değiştiriyor. Peki siz olsaydınız ne yemek isterdiniz?",
+      "script": "Bir matematikçi 400 yıl önce şunu söyledi: Kleopatra'nın burnu biraz daha kısa olsaydı, dünyanın tüm yüzü değişirdi. Bu alaycı bir yorum değil, somut bir tarih teziydi. Jül Sezar Kleopatra'ya aşık olmasaydı Roma'nın müttefiki olmayacak, ardından Antonius da peşinden gitmeyecekti. İki güçlü Roma generalini siyasi oyundan çıkaran tek şey bir kadının cazibesiydi. Peki tarihi gerçekten bireyler mi, yoksa sistemler mi yazar?",
       "visual_keywords": [
-        "flamingo flock pink",
-        "flamingo feeding shrimp",
-        "white flamingo chick",
-        "wildlife nature bird"
+        "Cleopatra bust sculpture",
+        "ancient Rome",
+        "Egyptian queen",
+        "Roman empire ruins",
+        "Alexandria Egypt"
+      ]
+    },
+    {
+      "topic": "Ölü Yıldızların Işığını Görüyoruz",
+      "teaser": "Bu gece gökyüzüne baktığında, aslında çoktan ölmüş yıldızlara bakıyor olabilirsin.",
+      "video_title": "Gece gökyüzündeki yıldızların çoğu artık yok",
+      "video_description": "Gözlerimize ulaşan yıldız ışığı binlerce, hatta milyonlarca yıl önce yola çıkmış olabilir. O yıldız artık var olmayabilir ama biz hâlâ ışığını görmeye devam ediyoruz.",
+      "tags": [
+        "yıldızlar",
+        "uzay",
+        "ışıkhızı",
+        "evren",
+        "astronomi",
+        "gökyüzü",
+        "bilim",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Bu gece gökyüzüne baktığında gördüklerin geçmiş — bazıları binlerce yıl öncesine ait. En yakın yıldız Proxima Centauri'nin ışığı sana ulaşmak için 4 yıl yol etti. Samanyolu'nun karşı ucundaki yıldızlar? 100.000 yıl. Yani o yıldızın bir kısmı çoktan patlamış, yok olmuş olabilir ama ışığı hâlâ yolculuğunu sürdürüyor. Geceyi izlerken aslında bir zaman makinesinin içindesin. Peki 'şu an' dediğimiz şey gerçekten var mı?",
+      "visual_keywords": [
+        "starry night sky",
+        "galaxy milky way",
+        "supernova explosion",
+        "telescope stars",
+        "deep space"
+      ]
+    },
+    {
+      "topic": "İnsan Derisi Tamamen Yenileniyor",
+      "teaser": "Şu an taşıdığın derinin hiçbiri 30 gün önce seninle yoktu.",
+      "video_title": "Her ay tamamen yeni bir deriyle yaşıyorsun",
+      "video_description": "İnsan derisi yaklaşık 27-30 günde bir tamamen kendini yeniler. Yaşam boyunca ortalama 40 kilogram deri döküyoruz ve ev tozunun büyük çoğunluğu aslında bu dökülen hücrelerden oluşuyor.",
+      "tags": [
+        "insanvücudu",
+        "deri",
+        "biyoloji",
+        "bilim",
+        "hücreler",
+        "sağlık",
+        "vücut",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Şu an üzerinde taşıdığın derinin tek bir hücresi bile 30 gün önce seninle yoktu. Deri her ay tamamen sıfırlanıyor; ömür boyu bu 40 kilograma ulaşıyor. Daha rahatsız edici kısım şu: dökülen bu hücreler bir yere gitmiyor. Evindeki tozun yüzde seksenini, yıllardır soluyorsun. Ayna karşısında baktığın yüz aslında bir ay önceki sen değil. Peki bu gerçeği öğrendikten sonra ev temizliğine bakışın değişti mi?",
+      "visual_keywords": [
+        "human skin microscope",
+        "skin cells",
+        "dust particles light",
+        "biology cell",
+        "dermatology"
+      ]
+    },
+    {
+      "topic": "Romalılar Gladyatör Terini Satıyordu",
+      "teaser": "Antik Roma'da en pahalı güzellik ürünü bir gladyatörün ter ve kanıydı.",
+      "video_title": "Roma'da kadınlar gladyatör terini yüzlerine sürdü",
+      "video_description": "Antik Roma'da gladyatörlerin dövüş sonrası derilerinden kazınan ter, kir ve kan karışımı 'gloios' adıyla satılıyor; kadınlar bunu cilt bakımı ve çekicilik için kullanıyordu. Gladyatörler hem ölüm hem de arzu nesneleriydi.",
+      "tags": [
+        "antikroma",
+        "gladyatör",
+        "tarih",
+        "romalılar",
+        "güzellik",
+        "ilginçtarih",
+        "arkeoloji",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Antik Roma'da bir kadın güzel görünmek istiyorsa gladyatörün terini satın alırdı. Dövüş sonrası arenada savaşçıların derisini kazıyan kişiler vardı — ter, kir ve kan karışımı 'gloios' adıyla şişelere doldurulup pazarda satılırdı. Zengin Romalı kadınlar bunu yüzlerine sürerdi. Hem arzu hem ölüm sembolü olan bu adamların vücutları bir güzellik endüstrisine dönüştü. 2000 yıl sonra içerik çok değişti mi gerçekten?",
+      "visual_keywords": [
+        "roman gladiator arena",
+        "ancient Rome colosseum",
+        "roman market",
+        "gladiator fight",
+        "ancient cosmetics"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Okyanus'un karanlık bölgesi — güneş ışığının ulaşamadığı derinlik",
-    "teaser": "Okyanusun belirli bir derinliğinin altında güneş ışığı hiç ulaşmaz — peki orada yaşam var mı?",
-    "video_title": "Okyanusun Bu Katmanına Işık Hiç Ulaşmaz",
-    "video_description": "Okyanus'un karanlık bölgesi — güneş ışığının ulaşamadığı derinlik\n\n#okyanus #derindeniz #karanlıkzone #bilim #fyp",
-    "tags": [
-      "okyanus",
-      "derindeniz",
-      "biyoluminesans",
-      "denizbiologi",
-      "karanlıkzone",
-      "bilim",
-      "dogadosyasi",
-      "fyp",
-      "foryou",
-      "viral"
-    ],
-    "script": "Okyanusun 200 metre altına güneş ışığı hiç ulaşmaz — orada ebedi gece hüküm sürer. Ama bu karanlıkta 8.500'den fazla tür yaşıyor. Nasıl mı? Kendi ışıklarını üretiyorlar. Biyolüminesans adı verilen bu yeteneği okyanustaki canlıların yüzde sekseninden fazlası kullanıyor. Evren'in en yalnız yerinde hayat, pes etmek yerine parlıyor. Peki siz hangi karanlıkta ışık üretirdiniz?",
-    "visual_keywords": [
-      "deep ocean bioluminescence",
-      "underwater dark zone",
-      "glowing sea creatures",
-      "abyssal depth"
-    ]
-  },
-  "hashtag_options": [
-    "okyanus",
-    "derindeniz",
-    "biyoluminesans",
-    "denizbiologi",
-    "karanlıkzone",
-    "bilim",
-    "dogadosyasi",
-    "fyp",
-    "foryou",
-    "viral"
-  ],
-  "hashtag_message_id": 169,
-  "selected_hashtags": [
-    0,
-    1,
-    4,
-    5,
-    7
-  ],
-  "hashtag_started_at": "2026-08-13T15:13:09.712971+00:00",
-  "video_file_id": "BAACAgQAAxkDAAOran3xEZDPUB8jLRhS2m22iVYn-TUAAj0fAAK76fFTGAxRiVfju-Q9BA",
-  "review_started_at": "2026-08-13T16:30:09.630472+00:00",
-  "attempts": 1,
-  "scheduled_publish_utc": "2026-08-13T17:00:00Z"
+  ]
 }
