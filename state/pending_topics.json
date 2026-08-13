@@ -1,9 +1,9 @@
 {
   "batch_id": "20260812-1811",
   "trigger_date": "2026-08-12",
-  "message_id": 168,
+  "message_id": 171,
   "created_at": "2026-08-12T18:11:52.605576+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Okyanus'un karanlık bölgesi — güneş ışığının ulaşamadığı derinlik",
@@ -135,7 +135,7 @@
     "topic": "Okyanus'un karanlık bölgesi — güneş ışığının ulaşamadığı derinlik",
     "teaser": "Okyanusun belirli bir derinliğinin altında güneş ışığı hiç ulaşmaz — peki orada yaşam var mı?",
     "video_title": "Okyanusun Bu Katmanına Işık Hiç Ulaşmaz",
-    "video_description": "Okyanusun 200 metrenin altında güneş ışığı tamamen kaybolur ve burası 'gece bölgesi' olarak adlandırılır. Oysa burada binlerce canlı türü, kendi ışığını üreterek hayatta kalır. Karanlık, bu dünya için bir engel değil.",
+    "video_description": "Okyanus'un karanlık bölgesi — güneş ışığının ulaşamadığı derinlik\n\n#okyanus #derindeniz #karanlıkzone #bilim #fyp",
     "tags": [
       "okyanus",
       "derindeniz",
@@ -169,6 +169,15 @@
     "viral"
   ],
   "hashtag_message_id": 169,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-13T15:13:09.712971+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    4,
+    5,
+    7
+  ],
+  "hashtag_started_at": "2026-08-13T15:13:09.712971+00:00",
+  "video_file_id": "BAACAgQAAxkDAAOran3xEZDPUB8jLRhS2m22iVYn-TUAAj0fAAK76fFTGAxRiVfju-Q9BA",
+  "review_started_at": "2026-08-13T16:30:09.630472+00:00",
+  "attempts": 1
 }
