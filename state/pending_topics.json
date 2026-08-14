@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-14",
   "message_id": 180,
   "created_at": "2026-08-14T11:31:15.175002+00:00",
-  "status": "reviewing",
+  "status": "error",
   "candidates": [
     {
       "topic": "Satürn'ün Halkalarının Yok Olması",
