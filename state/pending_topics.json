@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-14",
   "message_id": 184,
   "created_at": "2026-08-14T12:01:46.120374+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Ay'ın Yavaş Uzaklaşması",
@@ -135,5 +135,46 @@
         "medical research"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Viking'lerin Kuzey Amerika'yı Keşfi",
+    "teaser": "Kolomb Amerika'ya ayak bastığında, oraya çoktan 500 yıl önce gelmiş biri vardı — ve neredeyse hiç kimse bunu öğretmiyor.",
+    "video_title": "Amerika'yı Kolomb Keşfetmedi",
+    "video_description": "Leif Eriksson, Kristof Kolomb'dan tam 500 yıl önce Kuzey Amerika kıyılarına çıktı. Newfoundland'daki arkeolojik kanıtlar bunu kesin olarak ispatladı. Tarih kitapları neden hâlâ Kolomb'u anlatıyor?",
+    "tags": [
+      "viking",
+      "leiferiksson",
+      "amerikanınkeşfi",
+      "kolomb",
+      "tarih",
+      "antikçağ",
+      "fyp",
+      "foryou",
+      "viral",
+      "kesfet"
+    ],
+    "script": "Kolomb 1492'de Amerika'ya vardığında kıyıda zaten bir şeyler vardı — Viking izleri. Leif Eriksson tam 500 yıl önce, 1000 yılında Kuzey Amerika'ya ayak basmıştı. Kanada'da Newfoundland'da bulunan Viking yerleşimi 1960'ta kazıldı ve her şey ortaya döküldü. Avrupa bunu yüzyıllarca görmezden geldi çünkü bu, yazılı tarihin en büyük hatalarından biriydi. Peki okul kitaplarınızda bu yazıyor muydu?",
+    "visual_keywords": [
+      "viking ship",
+      "newfoundland canada ruins",
+      "norse explorer",
+      "ancient settlement",
+      "medieval warrior"
+    ]
+  },
+  "hashtag_options": [
+    "viking",
+    "leiferiksson",
+    "amerikanınkeşfi",
+    "kolomb",
+    "tarih",
+    "antikçağ",
+    "fyp",
+    "foryou",
+    "viral",
+    "kesfet"
+  ],
+  "hashtag_message_id": 185,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-14T12:04:51.726499+00:00"
 }
