@@ -1,189 +1,139 @@
 {
-  "batch_id": "20260814-1201",
+  "batch_id": "20260814-1235",
   "trigger_date": "2026-08-14",
-  "message_id": 187,
-  "created_at": "2026-08-14T12:01:46.120374+00:00",
-  "status": "error",
+  "message_id": 191,
+  "created_at": "2026-08-14T12:35:38.934043+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Ay'ın Yavaş Uzaklaşması",
-      "teaser": "Ay her yıl biraz daha uzaklaşıyor — ve bunun insanlık için ne anlama geldiğini duymak sizi şaşırtacak.",
-      "video_title": "Ay Her Yıl Dünya'dan Kaçıyor",
-      "video_description": "Ay, Dünya'dan yılda 3,8 santimetre uzaklaşıyor. Bu küçük mesafe, milyarlarca yıl önce günlerin çok daha kısa olduğu anlamına geliyor. Gelecekte Ay tamamen kaybolursa ne olur?",
+      "topic": "Ay'da Ses Olmaması — Apollo Astronotlarının Duyduğu Titreşim",
+      "teaser": "Uzayda ses yoktur derler — ama Apollo astronotları Ay'da bir şeyler 'duydu'.",
+      "video_title": "Ay'da Ses Yok Dediler Ama Astronotlar Duydu",
+      "video_description": "Uzayda ses yayılamaz, bu doğru. Ama Apollo 12 ekibi Ay'ın yüzeyine iniş modülünü bıraktığında, Ay tam 55 dakika boyunca çan gibi titredi. Bilim insanları bu titreşimi bugün hâlâ tam olarak açıklayamıyor.",
       "tags": [
         "ay",
+        "apollo",
         "uzay",
-        "dünyadanuzaklaşma",
-        "astronomi",
-        "evren",
-        "bilim",
+        "astronot",
+        "titresim",
+        "nasa",
+        "uzaygizemi",
         "fyp",
         "foryou",
-        "viral",
-        "kesfet"
+        "viral"
       ],
-      "script": "Ay bu gece biraz daha uzakta. Dün geceden 1 milimetre değil, tam olarak 0,01 milimetre daha uzak — her yıl 3,8 santimetre ilerliyor. 1,4 milyar yıl önce Ay o kadar yakındı ki bir gün sadece 18 saatti. Ay yeterince uzaklaştığında yer çekimi dengesi bozulacak, okyanuslar kontrolsüz salınacak. Peki bu ne zaman olacak? Belki 5 milyar yıl içinde. Ya sen bu geceyi hâlâ sıradan mı sanıyorsun?",
+      "script": "Apollo 12 ekibi iniş modülünü Ay yüzeyine bıraktığında, Ay tam 55 dakika boyunca çan gibi titredi. Uzayda ses yoktur — ama bu titreşim sismograflarla ölçüldü. Sıradan bir çarpma bu kadar uzun sürmez; Dünya'da olsa birkaç saniyede durur. Ay'ın içi bomboş mu, yoksa orada başka bir şey mi var? Bilim dünyası hâlâ tartışıyor.",
       "visual_keywords": [
         "moon surface",
-        "earth from space",
-        "lunar orbit",
-        "night sky moon",
-        "ocean tides"
+        "Apollo astronaut",
+        "seismograph",
+        "lunar landing",
+        "space vibration"
       ]
     },
     {
-      "topic": "Viking'lerin Kuzey Amerika'yı Keşfi",
-      "teaser": "Kolomb Amerika'ya ayak bastığında, oraya çoktan 500 yıl önce gelmiş biri vardı — ve neredeyse hiç kimse bunu öğretmiyor.",
-      "video_title": "Amerika'yı Kolomb Keşfetmedi",
-      "video_description": "Leif Eriksson, Kristof Kolomb'dan tam 500 yıl önce Kuzey Amerika kıyılarına çıktı. Newfoundland'daki arkeolojik kanıtlar bunu kesin olarak ispatladı. Tarih kitapları neden hâlâ Kolomb'u anlatıyor?",
+      "topic": "Atatürk'ün Uyku Alışkanlığı — Polifazik Uyku",
+      "teaser": "Tarihin en üretken insanlarından bazıları günde sadece 2 saat uyudu — ve bunun bilimsel bir sırrı var.",
+      "video_title": "Günde 2 Saat Uyuyan İnsanlar Nasıl Hayatta Kalır?",
+      "video_description": "Leonardo da Vinci, Nikola Tesla, Napoleon — hepsi 'polifazik uyku' adı verilen sistemi kullandı. Günde toplam 2-4 saat uyumak mümkün mü? Beyin buna nasıl tepki veriyor?",
       "tags": [
-        "viking",
-        "leiferiksson",
-        "amerikanınkeşfi",
-        "kolomb",
-        "tarih",
-        "antikçağ",
-        "fyp",
-        "foryou",
-        "viral",
-        "kesfet"
-      ],
-      "script": "Kolomb 1492'de Amerika'ya vardığında kıyıda zaten bir şeyler vardı — Viking izleri. Leif Eriksson tam 500 yıl önce, 1000 yılında Kuzey Amerika'ya ayak basmıştı. Kanada'da Newfoundland'da bulunan Viking yerleşimi 1960'ta kazıldı ve her şey ortaya döküldü. Avrupa bunu yüzyıllarca görmezden geldi çünkü bu, yazılı tarihin en büyük hatalarından biriydi. Peki okul kitaplarınızda bu yazıyor muydu?",
-      "visual_keywords": [
-        "viking ship",
-        "newfoundland canada ruins",
-        "norse explorer",
-        "ancient settlement",
-        "medieval warrior"
-      ]
-    },
-    {
-      "topic": "Beynin Kendini Silmesi — Bellek Yeniden Yazımı",
-      "teaser": "Bir anıyı her hatırladığınızda, onu silip yeniden yazıyorsunuz — ve hiç farkında değilsiniz.",
-      "video_title": "Anılarınız Aslında Sahte",
-      "video_description": "Nörobilim araştırmaları, her hatırlama eyleminin anıyı değiştirdiğini kanıtladı. Beyin, anıyı getirdiği anda onu yeniden kodluyor. Yani en net sandığınız anılar bile artık orijinal değil.",
-      "tags": [
+        "polifazikuyku",
+        "uyku",
         "beyin",
-        "bellek",
-        "anı",
-        "nörobilim",
-        "psikoloji",
-        "insanvücudu",
-        "fyp",
-        "foryou",
-        "viral",
-        "ilginç"
-      ],
-      "script": "En net hatırladığınız o an — büyük ihtimalle yaşandığı gibi değil. Nörobilimciler, bir anıyı her hatırladığınızda beynin onu silip hafifçe değiştirerek yeniden kaydettiğini kanıtladı. Buna 'yeniden pekiştirme' deniyor. Yani 20 yıldır anlattığınız o hikâye, onlarca kez yeniden yazılmış bir kopya. Orijinali artık yok. Bu sizi rahatsız etti mi, yoksa zaten her şeyi böyle mi yaşadınız?",
-      "visual_keywords": [
-        "human brain neuron",
-        "memory concept",
-        "brain scan",
-        "mind thought",
-        "neuroscience lab"
-      ]
-    },
-    {
-      "topic": "Tunguzka Patlaması — Tarihin En Büyük Açıklanamaz Patlaması",
-      "teaser": "1908'de Sibirya'da nükleer bomba büyüklüğünde bir patlama oldu — ne bir kratere, ne de bir nedene ulaşıldı.",
-      "video_title": "2000 km² Ormanı Silen Gizemli Patlama",
-      "video_description": "1908'de Sibirya'nın Tunguzka bölgesinde 2000 kilometre karelik ormanı yok eden dev bir patlama yaşandı. Hiçbir krater bulunamadı, hiçbir enkaz tespit edilemedi. 100 yılı aşkın süredir bilim insanları hâlâ kesin bir açıklama yapamıyor.",
-      "tags": [
-        "tunguzka",
-        "sibirya",
-        "gizemipatlama",
-        "meteor",
-        "uzay",
-        "tarih",
-        "fyp",
-        "foryou",
-        "viral",
-        "kesfet"
-      ],
-      "script": "30 Haziran 1908, Sibirya — 2000 kilometre karelik orman bir anda yerle bir oldu. Hiroşima'dan 1000 kat güçlü bir patlama, ama ne krater var ne enkaz. 800 kilometre ötede pencereler patladı, insanlar havaya savruldu. Bilim insanları 100 yılı aşkındır bu patlamanın kaynağını bulmaya çalışıyor. Asteroid mi, kuyruklu yıldız mı, yoksa bambaşka bir şey mi? Hiçbiri kanıtlanamadı. Peki siz ne olduğunu düşünüyorsunuz?",
-      "visual_keywords": [
-        "siberian forest destruction",
-        "Tunguska explosion",
-        "meteor impact",
-        "fallen trees aerial",
-        "explosion forest"
-      ]
-    },
-    {
-      "topic": "Ölüm Sonrası Büyüme — Saç ve Tırnak Efsanesi",
-      "teaser": "Öldükten sonra saçlarınızın uzadığı söylenir — ama gerçek çok daha tuhaf.",
-      "video_title": "Ölüm Sonrası Vücudunuza Ne Olur?",
-      "video_description": "Yaygın inanışın aksine, ölümden sonra saç ve tırnaklar uzamaz. Ancak vücutta gerçekten şaşırtıcı şeyler olur. Kaslar saatlerce hareket edebilir, bağırsak bakterileri vücudu içten tüketmeye başlar.",
-      "tags": [
-        "ölümsonrası",
-        "insan vücudu",
-        "biyoloji",
+        "nikola tesla",
+        "leonardodavinci",
+        "uykubilimi",
         "bilim",
-        "tıp",
-        "vücut",
         "fyp",
         "foryou",
-        "viral",
-        "ilginç"
+        "viral"
       ],
-      "script": "Öldükten sonra saçlarınız uzamaz — bu bir efsane. Ama gerçek çok daha karanlık. Ölümden sonra vücudunuzdaki 38 trilyon bakteri sahibini tüketmeye başlar. Kaslar 12 saate kadar kasılabilir. Bağırsaklar sindirime devam eder — ama bu sefer sizi sindirirler. Ve bunların hepsi ilk 24 saat içinde olur. Vücudunuz sizi terk etmiyor; sadece sizi geri alıyor.",
+      "script": "Da Vinci günde yalnızca 2 saat uyudu — ama günde 6 kez, 20'şer dakika. Tesla, Edison, Napoleon da aynı sistemi kullandı. Buna polifazik uyku deniyor. Beyin REM uykusuna normalde 90 dakikada girer; bu yöntemde 5 dakikada giriyor. Vücut kendini ekstrem koşullara uyarlamış. Peki siz 8 saati bırakabilir misiniz, yoksa bu onlara mı özgü bir yetenek?",
       "visual_keywords": [
-        "human body biology",
-        "microscopic bacteria",
-        "anatomy science",
-        "decomposition nature",
-        "medical research"
+        "sleeping person",
+        "brain activity",
+        "clock night",
+        "tired man desk",
+        "REM sleep"
+      ]
+    },
+    {
+      "topic": "Dünyanın En Yüksek Sesi — Krakatoa Patlaması 1883",
+      "teaser": "Bir ses o kadar yüksek çıktı ki, 5.000 kilometre ötede bile duyuldu.",
+      "video_title": "Tarihin En Yüksek Sesi 5000 KM Öteye Ulaştı",
+      "video_description": "1883'te Krakatoa yanardağı patladığında çıkardığı ses, Avustralya'dan Rodrigues Adası'na kadar duyuldu. Bu mesafe İstanbul'dan Londra'nın neredeyse iki katı. Atmosfer bu sesin basıncıyla tam 7 kez titreşti.",
+      "tags": [
+        "krakatoa",
+        "yanardağ",
+        "ses",
+        "1883",
+        "dogalafet",
+        "fizik",
+        "tariholaylar",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "1883'te bir patlama sesi 5.000 kilometre ötede duyuldu — bu, İstanbul'dan Londra'nın iki katı uzaklık. Krakatoa yanardağı patladığında basınç dalgası atmosferi tam 7 kez turladı. Yakınındaki gemilerde bulunanlar anında sağırdı. Ölü sayısı 36.000'i geçti — çoğu patlama değil, devasa tsunamiden. Bu sesi bugün yaşasaydınız, şehrinizden duyabilirdiniz.",
+      "visual_keywords": [
+        "Krakatoa volcano eruption",
+        "massive explosion",
+        "ocean wave tsunami",
+        "volcanic ash sky",
+        "1883 disaster"
+      ]
+    },
+    {
+      "topic": "Bebekler Acı Hissetmez Efsanesi — Tıp Tarihinin Karanlık Dönemi",
+      "teaser": "1980'lere kadar doktorlar bebeklere ameliyat sırasında anestezi uygulamıyordu — ve bunun 'bilimsel' bir gerekçesi vardı.",
+      "video_title": "1980'e Kadar Bebeklere Anestezi Verilmiyordu",
+      "video_description": "Tıp dünyası onlarca yıl boyunca bebeklerin ağrı hissedemeyeceğine inandı. Bu yanlış inanç yüzünden binlerce bebek ameliyat sırasında sadece kas gevşetici verilerek — tamamen bilincinde — ameliyat edildi.",
+      "tags": [
+        "tıptarihi",
+        "anestezi",
+        "bebek",
+        "agri",
+        "bilim",
+        "tibbihata",
+        "insan vücudu",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "1980'lere kadar tıp dünyası şuna inanıyordu: bebekler ağrı hissedemez, sinir sistemi gelişmemiş. Bu yüzden açık kalp ameliyatları dahil pek çok operasyon, sadece kas gevşetici verilerek yapıldı. Bebekler hareket edemiyordu ama bilinçliydi. Bu inanç 1987'de bir annenin oğlunun ameliyat raporlarını okuyup tepki göstermesiyle yıkıldı. Tıbbın 'kesin doğru' dediği şeylere ne kadar güvenebiliriz?",
+      "visual_keywords": [
+        "newborn baby hospital",
+        "surgery operating room",
+        "medical history",
+        "doctor anesthesia",
+        "infant care"
+      ]
+    },
+    {
+      "topic": "Dünya'nın Manyetik Kutuplarının Yer Değiştirmesi",
+      "teaser": "Pusulalar bir gün güneyi gösterecek — ve bu daha önce defalarca oldu.",
+      "video_title": "Pusulanın Yönü Tersine Dönüyor — Ve Yaklaşıyor",
+      "video_description": "Dünya'nın manyetik kutupları tarih boyunca yüzlerce kez yer değiştirdi. Son değişim 780.000 yıl önce oldu ve bir sonraki 'gecikmeli' sayılıyor. Bu olduğunda GPS, elektrik şebekeleri ve hayvan göçleri kaosa girebilir.",
+      "tags": [
+        "manyetikkutup",
+        "dünya",
+        "jeoloji",
+        "pusula",
+        "uzay",
+        "dogaldünya",
+        "bilim",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Dünya'nın manyetik kutupları 780.000 yıldır yer değiştirmedi — ama ortalama her 200.000-300.000 yılda bir tersine dönüyor. Yani bir sonraki 'devrilme' gecikmiş sayılır. Bu olduğunda pusula güneyi gösterir, GPS sistemleri çöker, elektrik şebekeleri hasar görür. Göç eden kuşlar, balinalar ve arılar tamamen yön kaybeder. Bilim insanları kutup kaymasının son 200 yılda dramatik biçimde hızlandığını söylüyor.",
+      "visual_keywords": [
+        "magnetic field earth",
+        "compass direction",
+        "aurora borealis",
+        "earth core",
+        "polar shift"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Viking'lerin Kuzey Amerika'yı Keşfi",
-    "teaser": "Kolomb Amerika'ya ayak bastığında, oraya çoktan 500 yıl önce gelmiş biri vardı — ve neredeyse hiç kimse bunu öğretmiyor.",
-    "video_title": "Amerika'yı Kolomb Keşfetmedi",
-    "video_description": "Viking'lerin Kuzey Amerika'yı Keşfi\n\n#viking #amerikanınkeşfi #foryou #viral #kesfet",
-    "tags": [
-      "viking",
-      "leiferiksson",
-      "amerikanınkeşfi",
-      "kolomb",
-      "tarih",
-      "antikçağ",
-      "fyp",
-      "foryou",
-      "viral",
-      "kesfet"
-    ],
-    "script": "Kolomb 1492'de Amerika'ya vardığında kıyıda zaten bir şeyler vardı — Viking izleri. Leif Eriksson tam 500 yıl önce, 1000 yılında Kuzey Amerika'ya ayak basmıştı. Kanada'da Newfoundland'da bulunan Viking yerleşimi 1960'ta kazıldı ve her şey ortaya döküldü. Avrupa bunu yüzyıllarca görmezden geldi çünkü bu, yazılı tarihin en büyük hatalarından biriydi. Peki okul kitaplarınızda bu yazıyor muydu?",
-    "visual_keywords": [
-      "viking ship",
-      "newfoundland canada ruins",
-      "norse explorer",
-      "ancient settlement",
-      "medieval warrior"
-    ]
-  },
-  "hashtag_options": [
-    "viking",
-    "leiferiksson",
-    "amerikanınkeşfi",
-    "kolomb",
-    "tarih",
-    "antikçağ",
-    "fyp",
-    "foryou",
-    "viral",
-    "kesfet"
-  ],
-  "hashtag_message_id": 185,
-  "selected_hashtags": [
-    0,
-    2,
-    7,
-    8,
-    9
-  ],
-  "hashtag_started_at": "2026-08-14T12:04:51.726499+00:00",
-  "video_file_id": "BAACAgQAAxkDAAO7an8FhlZrJHQkZgLnlNBXTkMRNPsAAvIfAAILZPlTf2_L_V5D6bw9BA",
-  "review_started_at": "2026-08-14T12:09:42.194594+00:00",
-  "attempts": 1
+  ]
 }
