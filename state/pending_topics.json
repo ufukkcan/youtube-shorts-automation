@@ -1,9 +1,9 @@
 {
   "batch_id": "20260814-1201",
   "trigger_date": "2026-08-14",
-  "message_id": 184,
+  "message_id": 187,
   "created_at": "2026-08-14T12:01:46.120374+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Ay'ın Yavaş Uzaklaşması",
@@ -140,7 +140,7 @@
     "topic": "Viking'lerin Kuzey Amerika'yı Keşfi",
     "teaser": "Kolomb Amerika'ya ayak bastığında, oraya çoktan 500 yıl önce gelmiş biri vardı — ve neredeyse hiç kimse bunu öğretmiyor.",
     "video_title": "Amerika'yı Kolomb Keşfetmedi",
-    "video_description": "Leif Eriksson, Kristof Kolomb'dan tam 500 yıl önce Kuzey Amerika kıyılarına çıktı. Newfoundland'daki arkeolojik kanıtlar bunu kesin olarak ispatladı. Tarih kitapları neden hâlâ Kolomb'u anlatıyor?",
+    "video_description": "Viking'lerin Kuzey Amerika'yı Keşfi\n\n#viking #amerikanınkeşfi #foryou #viral #kesfet",
     "tags": [
       "viking",
       "leiferiksson",
@@ -175,6 +175,15 @@
     "kesfet"
   ],
   "hashtag_message_id": 185,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-14T12:04:51.726499+00:00"
+  "selected_hashtags": [
+    0,
+    2,
+    7,
+    8,
+    9
+  ],
+  "hashtag_started_at": "2026-08-14T12:04:51.726499+00:00",
+  "video_file_id": "BAACAgQAAxkDAAO7an8FhlZrJHQkZgLnlNBXTkMRNPsAAvIfAAILZPlTf2_L_V5D6bw9BA",
+  "review_started_at": "2026-08-14T12:09:42.194594+00:00",
+  "attempts": 1
 }
