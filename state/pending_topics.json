@@ -1,138 +1,138 @@
 {
-  "batch_id": "20260813-1717",
-  "trigger_date": "2026-08-13",
-  "message_id": 174,
-  "created_at": "2026-08-13T17:17:57.728961+00:00",
+  "batch_id": "20260814-1131",
+  "trigger_date": "2026-08-14",
+  "message_id": 177,
+  "created_at": "2026-08-14T11:31:15.175002+00:00",
   "status": "pending",
   "candidates": [
     {
-      "topic": "Ay'ın Çekimi Olmasa Dünya Durur",
-      "teaser": "Ay yarın yok olsa, Dünya'da ne kalır biliyor musun?",
-      "video_title": "Ay olmasaydı Dünya 6 saatte bir yıl geçirirdi",
-      "video_description": "Ay'ın varlığı yalnızca gelgitleri değil, gezegenimizin dönüş hızını, eksen eğimini ve hatta yaşamın varlığını doğrudan etkiliyor. Ay olmasaydı Dünya bambaşka bir yer olurdu.",
+      "topic": "Satürn'ün Halkalarının Yok Olması",
+      "teaser": "Satürn'ün o ikonik halkalarını sonuna kadar göremeyebiliriz — ve sebebi sizi şaşırtacak.",
+      "video_title": "Satürn'ün Halkaları Kayboluyor",
+      "video_description": "Satürn'ün halkaları göründüğü kadar kalıcı değil. Milyonlarca yıl içinde tamamen yok olacaklar. Peki biz bu süreci canlı mı yaşıyoruz?",
       "tags": [
-        "ay",
-        "dünya",
+        "satürn",
         "uzay",
         "gezegenler",
+        "halkalar",
         "astronomi",
-        "gelgit",
+        "güneşsistemi",
         "bilim",
         "fyp",
-        "foryou",
-        "viral"
+        "viral",
+        "kesfet"
       ],
-      "script": "Ay bu gece yok olsa, Dünya saatler içinde tanınmaz hale gelir. Şu an gezegenimiz 24 saatte bir tur atıyor; Ay olmasaydı bu süre yalnızca 6-8 saate düşerdi. Bu kadar hızlı dönen bir gezegende rüzgarlar saatte 500 kilometreyi aşar, mevsimler tamamen çöker, eksen kontrolsüz sallanmaya başlar. Milyarlarca yıl önce Ay tam da bunu durduran frendi. Peki ya Ay yavaşlamaya devam ederse?",
+      "script": "Satürn'ün o muhteşem halkaları aslında ölüyor. NASA, halkaların saatte yaklaşık 10 ton buz ve tozu gezegenin atmosferine döktüğünü tespit etti. Bu hızla 100 milyon yıl içinde tamamen yok olacaklar. Üstelik evrenin yaşına kıyasla bu bir göz kırpması. Biz insanlar, Satürn'ün tarihinde tam da halkalarının silinmeye başladığı o kısa pencereye denk geldik. Bu tesadüf mü, yoksa başka bir şey mi?",
       "visual_keywords": [
-        "moon surface",
-        "Earth from space",
-        "tidal waves",
-        "planet rotation",
-        "night sky"
+        "Saturn rings space",
+        "planet rings astronomy",
+        "NASA Saturn closeup",
+        "space telescope galaxy",
+        "cosmic dust ring"
       ]
     },
     {
-      "topic": "Kleopatra'nın Burnu Tarihi Değiştirdi",
-      "teaser": "Tarihin en ünlü burnunun birkaç milimetre farklı olması tüm Roma İmparatorluğu'nu yok edebilirdi.",
-      "video_title": "Kleopatra'nın burnu olmasaydı Roma çökmezdi",
-      "video_description": "Fransız matematikçi Pascal, Kleopatra'nın burnu biraz daha kısa olsaydı dünyanın yüzü değişirdi dedi. Kulağa saçma geliyor ama arkasında ciddi bir tarihsel mantık var.",
+      "topic": "Dünyanın En Zehirli Maddesi — Botulinum Toksini",
+      "teaser": "Dünyanın en ölümcül zehri, her gün milyonlarca insanın yüzüne enjekte ediliyor.",
+      "video_title": "En Ölümcül Zehir Yüzlere Sürülüyor",
+      "video_description": "Botulinum toksini, bilinen en güçlü zehir. Ama aynı zamanda botoks olarak güzellik kliniklerinde kullanılıyor. Bir gramı tüm insanlığı yok edebilir.",
       "tags": [
-        "kleopatra",
-        "romaİmparatorluğu",
-        "antiktarih",
-        "tarih",
-        "sezar",
-        "antonius",
-        "arkeoloji",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Bir matematikçi 400 yıl önce şunu söyledi: Kleopatra'nın burnu biraz daha kısa olsaydı, dünyanın tüm yüzü değişirdi. Bu alaycı bir yorum değil, somut bir tarih teziydi. Jül Sezar Kleopatra'ya aşık olmasaydı Roma'nın müttefiki olmayacak, ardından Antonius da peşinden gitmeyecekti. İki güçlü Roma generalini siyasi oyundan çıkaran tek şey bir kadının cazibesiydi. Peki tarihi gerçekten bireyler mi, yoksa sistemler mi yazar?",
-      "visual_keywords": [
-        "Cleopatra bust sculpture",
-        "ancient Rome",
-        "Egyptian queen",
-        "Roman empire ruins",
-        "Alexandria Egypt"
-      ]
-    },
-    {
-      "topic": "Ölü Yıldızların Işığını Görüyoruz",
-      "teaser": "Bu gece gökyüzüne baktığında, aslında çoktan ölmüş yıldızlara bakıyor olabilirsin.",
-      "video_title": "Gece gökyüzündeki yıldızların çoğu artık yok",
-      "video_description": "Gözlerimize ulaşan yıldız ışığı binlerce, hatta milyonlarca yıl önce yola çıkmış olabilir. O yıldız artık var olmayabilir ama biz hâlâ ışığını görmeye devam ediyoruz.",
-      "tags": [
-        "yıldızlar",
-        "uzay",
-        "ışıkhızı",
-        "evren",
-        "astronomi",
-        "gökyüzü",
+        "botoks",
+        "zehir",
+        "güzellik",
         "bilim",
+        "kimya",
+        "sağlık",
+        "ilginçbilgi",
         "fyp",
         "foryou",
         "viral"
       ],
-      "script": "Bu gece gökyüzüne baktığında gördüklerin geçmiş — bazıları binlerce yıl öncesine ait. En yakın yıldız Proxima Centauri'nin ışığı sana ulaşmak için 4 yıl yol etti. Samanyolu'nun karşı ucundaki yıldızlar? 100.000 yıl. Yani o yıldızın bir kısmı çoktan patlamış, yok olmuş olabilir ama ışığı hâlâ yolculuğunu sürdürüyor. Geceyi izlerken aslında bir zaman makinesinin içindesin. Peki 'şu an' dediğimiz şey gerçekten var mı?",
+      "script": "Dünyanın en zehirli maddesi her gün gönüllü olarak insanların yüzüne enjekte ediliyor. Botulinum toksini, bilinen tüm doğal ve sentetik zehirlerin en güçlüsü — bir gramının milyonda biri, bir insanı öldürmeye yetiyor. Teorik olarak tek bir gram, tüm insanlığı yok edebilir. Bu maddenin adı: Botoks. Güzellik kliniklerinin vitrinlerinden dünyanın en tehlikeli silahına dönüşen bir molekülden korkmalı mıyız, yoksa şükretmeli mi?",
       "visual_keywords": [
-        "starry night sky",
-        "galaxy milky way",
-        "supernova explosion",
-        "telescope stars",
-        "deep space"
+        "botox injection clinic",
+        "toxin laboratory science",
+        "beauty treatment syringe",
+        "medical cosmetic procedure",
+        "microscope bacteria"
       ]
     },
     {
-      "topic": "İnsan Derisi Tamamen Yenileniyor",
-      "teaser": "Şu an taşıdığın derinin hiçbiri 30 gün önce seninle yoktu.",
-      "video_title": "Her ay tamamen yeni bir deriyle yaşıyorsun",
-      "video_description": "İnsan derisi yaklaşık 27-30 günde bir tamamen kendini yeniler. Yaşam boyunca ortalama 40 kilogram deri döküyoruz ve ev tozunun büyük çoğunluğu aslında bu dökülen hücrelerden oluşuyor.",
+      "topic": "Filler Zıplayamaz",
+      "teaser": "Bir fil ne kadar uğraşırsa uğraşsın, dört ayağını yerden aynı anda kaldıramaz — ve bunun sebebi fiziği değiştiriyor.",
+      "video_title": "Filler Neden Asla Zıplayamaz?",
+      "video_description": "Filler, dünyanın en büyük kara hayvanları ama tek zıplayamayan memeli onlar. Bunun ardında basit bir fizik yasası var.",
       "tags": [
-        "insanvücudu",
-        "deri",
+        "filler",
+        "hayvanlar",
         "biyoloji",
+        "fizik",
+        "ilginçbilgi",
+        "doğabelgeseli",
+        "vahşidoğa",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Filler koşabilir, yüzebilir, ağaç devirebilir — ama hayatları boyunca tek bir kez bile zıplayamazlar. Dünyadaki tüm memeliler içinde bu özelliğe sahip tek büyük hayvan onlar. Sebebi kemik yapıları: bir filin bacakları vücudun 5 ila 7 tonunu taşımak için dikey sütunlar gibi inşa edilmiş, kaslar sıçramaya izin vermiyor. Zıplamaya kalksalar iskeletleri çöker. Peki evrimin en güçlü hayvanlarından birine bu kısıtlamayı koyması sizi düşündürmüyor mu?",
+      "visual_keywords": [
+        "elephant walking savanna",
+        "elephant herd Africa",
+        "elephant legs closeup",
+        "wildlife documentary elephant",
+        "elephant running nature"
+      ]
+    },
+    {
+      "topic": "Oxford'un Kuruluşundan Önce Bile Var Olan Şehir: Kyoto",
+      "teaser": "Japonya'nın eski başkenti, bugün hâlâ ayakta duran yapılarıyla 1200 yıllık bir sırrı saklıyor.",
+      "video_title": "1200 Yıl Önce İnşa Edildi, Hâlâ Ayakta",
+      "video_description": "Kyoto, 794 yılında Japonya'nın başkenti oldu ve yaklaşık 1100 yıl bu unvanı korudu. İkinci Dünya Savaşı'nda atom bombasından kurtulmasının arkasında ise tuhaf bir hikâye var.",
+      "tags": [
+        "kyoto",
+        "japonya",
+        "tarih",
+        "savaş",
+        "atombombası",
+        "antikşehirler",
+        "kültür",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "1945'te ABD, atom bombası için hedef listesi hazırlarken Kyoto'yu sildi — çünkü Savaş Bakanı Henry Stimson balayını orada geçirmişti ve şehre aşıktı. 794'ten 1869'a kadar 1075 yıl Japonya'nın başkenti olan bu şehir, bir adamın kişisel anıları yüzünden tarihin en büyük yıkımından kurtuldu. Bugün Kyoto'daki 1600 Budist tapınak hâlâ ayakta. Tarih bazen en beklenmedik kararlarla şekilleniyor — bu sizi rahatsız etmiyor mu?",
+      "visual_keywords": [
+        "Kyoto Japan temple",
+        "Japanese ancient city",
+        "Fushimi Inari shrine",
+        "traditional Japan architecture",
+        "Japan historical landmark"
+      ]
+    },
+    {
+      "topic": "İnsan Vücudunda Bakteri Sayısı Hücre Sayısını Geçiyor",
+      "teaser": "Vücudunuzdaki hücrelerden daha fazla yabancı varlık var — ve onlar olmadan tek gün bile yaşayamazsınız.",
+      "video_title": "Sen Aslında Daha Az İnsansın",
+      "video_description": "Vücudunuzda insan hücrelerinden daha fazla bakteri yaşıyor. Bu bakteriler olmadan bağışıklık sisteminiz çöker, sindirim durur ve beyin kimyasalları dengesini kaybeder.",
+      "tags": [
+        "mikrobiyom",
+        "bakteri",
+        "insanvücudu",
+        "biyoloji",
+        "sağlık",
         "bilim",
         "hücreler",
-        "sağlık",
-        "vücut",
         "fyp",
         "foryou",
         "viral"
       ],
-      "script": "Şu an üzerinde taşıdığın derinin tek bir hücresi bile 30 gün önce seninle yoktu. Deri her ay tamamen sıfırlanıyor; ömür boyu bu 40 kilograma ulaşıyor. Daha rahatsız edici kısım şu: dökülen bu hücreler bir yere gitmiyor. Evindeki tozun yüzde seksenini, yıllardır soluyorsun. Ayna karşısında baktığın yüz aslında bir ay önceki sen değil. Peki bu gerçeği öğrendikten sonra ev temizliğine bakışın değişti mi?",
+      "script": "Vücudunuzda sizden daha fazla 'yabancı' var. Her bir insan hücresi için yaklaşık 1,3 bakteri bulunuyor — toplamda 38 trilyon. Bu bakteriler bağırsakta mutluluk hormonu serotoninin yüzde 90'ını üretiyor, bağışıklık sisteminizi eğitiyor ve sindiriminizi yönetiyor. Onlar olmadan birkaç gün içinde sistemleriniz birer birer çöker. Yani 'ben' dediğiniz şey aslında milyarlarca türün ortak yönettiği bir ekosistem. Peki gerçekten kim kontrol ediyor?",
       "visual_keywords": [
-        "human skin microscope",
-        "skin cells",
-        "dust particles light",
-        "biology cell",
-        "dermatology"
-      ]
-    },
-    {
-      "topic": "Romalılar Gladyatör Terini Satıyordu",
-      "teaser": "Antik Roma'da en pahalı güzellik ürünü bir gladyatörün ter ve kanıydı.",
-      "video_title": "Roma'da kadınlar gladyatör terini yüzlerine sürdü",
-      "video_description": "Antik Roma'da gladyatörlerin dövüş sonrası derilerinden kazınan ter, kir ve kan karışımı 'gloios' adıyla satılıyor; kadınlar bunu cilt bakımı ve çekicilik için kullanıyordu. Gladyatörler hem ölüm hem de arzu nesneleriydi.",
-      "tags": [
-        "antikroma",
-        "gladyatör",
-        "tarih",
-        "romalılar",
-        "güzellik",
-        "ilginçtarih",
-        "arkeoloji",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Antik Roma'da bir kadın güzel görünmek istiyorsa gladyatörün terini satın alırdı. Dövüş sonrası arenada savaşçıların derisini kazıyan kişiler vardı — ter, kir ve kan karışımı 'gloios' adıyla şişelere doldurulup pazarda satılırdı. Zengin Romalı kadınlar bunu yüzlerine sürerdi. Hem arzu hem ölüm sembolü olan bu adamların vücutları bir güzellik endüstrisine dönüştü. 2000 yıl sonra içerik çok değişti mi gerçekten?",
-      "visual_keywords": [
-        "roman gladiator arena",
-        "ancient Rome colosseum",
-        "roman market",
-        "gladiator fight",
-        "ancient cosmetics"
+        "bacteria microscope closeup",
+        "human gut microbiome",
+        "microorganism biology",
+        "intestinal flora science",
+        "human cell microscopy"
       ]
     }
   ]
