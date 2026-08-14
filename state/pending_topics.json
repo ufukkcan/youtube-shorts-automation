@@ -1,189 +1,134 @@
 {
-  "batch_id": "20260814-1235",
+  "batch_id": "20260814-1341",
   "trigger_date": "2026-08-14",
-  "message_id": 194,
-  "created_at": "2026-08-14T12:35:38.934043+00:00",
-  "status": "error",
+  "message_id": 196,
+  "created_at": "2026-08-14T13:41:56.038307+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Ay'da Ses Olmaması — Apollo Astronotlarının Duyduğu Titreşim",
-      "teaser": "Uzayda ses yoktur derler — ama Apollo astronotları Ay'da bir şeyler 'duydu'.",
-      "video_title": "Ay'da Ses Yok Dediler Ama Astronotlar Duydu",
-      "video_description": "Uzayda ses yayılamaz, bu doğru. Ama Apollo 12 ekibi Ay'ın yüzeyine iniş modülünü bıraktığında, Ay tam 55 dakika boyunca çan gibi titredi. Bilim insanları bu titreşimi bugün hâlâ tam olarak açıklayamıyor.",
+      "topic": "Okyanus Oksijeni — Nefes Aldığımız Oksijenin Yarısı Ormandan Değil",
+      "teaser": "Her iki nefesten birini ormanlara borçlu olduğunu sanıyorsun — ama bu tamamen yanlış.",
+      "video_title": "Nefes Aldığın Oksijenin Yarısı Nereden Geliyor?",
+      "video_description": "Dünya'daki oksijenin %50'sini ağaçlar değil, okyanus yüzeyindeki mikroskobik fitoplanktonlar üretiyor. Bu canlılar görünmez ama hayatımızın temel taşı.",
       "tags": [
-        "ay",
-        "apollo",
-        "uzay",
+        "fitoplankton",
+        "okyanus",
+        "oksijen",
+        "bilim",
+        "dogabilimi",
+        "mikrobiyoloji",
+        "deniz",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Her nefes aldığında ağaçlara teşekkür ediyorsun — ama yanlış adrese gidiyorsun. Dünya oksijeninin tam yarısı, gözle görülemeyen mikroskobik canlılardan geliyor: fitoplanktonlar. Okyanus yüzeyinde trilyonlarca adet yaşıyorlar, her biri tek hücreli. Amazon ormanından daha fazla oksijen üretiyorlar. Ve şu an onlar olmasa, dakikalar içinde nefes alamazdın. Peki onlar yok olursa ne olur?",
+      "visual_keywords": [
+        "ocean surface sunlight",
+        "phytoplankton microscope",
+        "underwater light rays",
+        "ocean waves aerial"
+      ]
+    },
+    {
+      "topic": "Kleopatra'nın Burnu değil — Sezar'ın Saç Çizgisi: Julius Caesar'ın Epilepsi Gizemi",
+      "teaser": "Roma'nın en büyük komutanı, her savaştan önce beynini kontrol edemiyordu — ve bunu kimseye söylemedi.",
+      "video_title": "Roma'nın En Güçlü Adamının Gizli Hastalığı",
+      "video_description": "Julius Caesar'ın epilepsi nöbetleri geçirdiği antik kaynaklarda geçiyor. Ancak bazı tarihçiler bu nöbetlerin strateji kararlarını doğrudan etkilediğini öne sürüyor.",
+      "tags": [
+        "juliuscaesar",
+        "roma",
+        "antiktarih",
+        "epilepsi",
+        "tarih",
+        "imparator",
+        "gizemlitarih",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Julius Caesar, 50 bin kişilik orduları yönetirken aniden yere yığılıyordu. Epilepsi nöbetleri geçirdiği antik kaynaklarda açıkça yazıyor. Ama asıl şok edici olan bu değil — Rubicon Nehri'ni geçme kararını, yani Roma'yı sonsuza dek değiştiren o anı, bir nöbetin hemen ardından verdiği ileri sürülüyor. Tarihin en büyük kararı, kontrolden çıkmış bir beynin ürünü müydü?",
+      "visual_keywords": [
+        "Julius Caesar bust marble",
+        "ancient Rome colosseum",
+        "Roman army battlefield",
+        "historical sculpture"
+      ]
+    },
+    {
+      "topic": "Köpekbalıkları Kanser Olmaz Efsanesi — ve Bunun Neden Milyonlarca Hayvana Mal Olduğu",
+      "teaser": "Yıllarca inanılan bir efsane, milyonlarca köpekbalığını katletti — üstelik tamamen yanlıştı.",
+      "video_title": "Milyonlarca Köpekbalığını Öldüren Yanlış Bilgi",
+      "video_description": "1992'de yayımlanan bir kitap 'köpekbalıkları kanser olmaz' iddiasıyla kıkırdak hapı sektörünü yarattı. Oysa köpekbalıklarının kansere yakalandığı onlarca kez belgelenmiş durumda.",
+      "tags": [
+        "kopekbaligi",
+        "bilimyanlisi",
+        "denizbiologi",
+        "hayvanlar",
+        "kanser",
+        "efsane",
+        "okyanusyasami",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "1992'de bir kitap 'köpekbalıkları kanser olmaz' dedi. Bu tek cümle, yıllar içinde 73 milyon köpekbalığının katledilmesine zemin hazırladı — kıkırdakları kanseri iyileştiriyor inancıyla. Problem şu: köpekbalıkları kanser oluyor. Onlarca vakası belgelenmiş durumda. Bilimsel dayanağı sıfır olan bir iddia, bir türü neredeyse yok etti. Peki bu kitabı durdurmak için kimse neden sesini çıkarmadı?",
+      "visual_keywords": [
+        "shark underwater ocean",
+        "shark fin close up",
+        "ocean predator swimming",
+        "marine biology research"
+      ]
+    },
+    {
+      "topic": "İnsanlar Uyurken Büyür — Uzay Boşluğunda da Aynısı Olur",
+      "teaser": "Astronotlar Uluslararası Uzay İstasyonu'ndan döndüklerinde giysilerine sığamıyorlar — ve bunun sebebi tahmin ettiğinden çok daha tuhaf.",
+      "video_title": "Uzayda İnsan Neden Uzuyor?",
+      "video_description": "Yerçekiminin yokluğunda omurlar arası diskler genişliyor ve astronotlar 5-7 cm kadar uzayabiliyor. Dünya'ya döndüklerinde ise bu değişim tersine dönüyor.",
+      "tags": [
         "astronot",
-        "titresim",
-        "nasa",
-        "uzaygizemi",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Apollo 12 ekibi iniş modülünü Ay yüzeyine bıraktığında, Ay tam 55 dakika boyunca çan gibi titredi. Uzayda ses yoktur — ama bu titreşim sismograflarla ölçüldü. Sıradan bir çarpma bu kadar uzun sürmez; Dünya'da olsa birkaç saniyede durur. Ay'ın içi bomboş mu, yoksa orada başka bir şey mi var? Bilim dünyası hâlâ tartışıyor.",
-      "visual_keywords": [
-        "moon surface",
-        "Apollo astronaut",
-        "seismograph",
-        "lunar landing",
-        "space vibration"
-      ]
-    },
-    {
-      "topic": "Atatürk'ün Uyku Alışkanlığı — Polifazik Uyku",
-      "teaser": "Tarihin en üretken insanlarından bazıları günde sadece 2 saat uyudu — ve bunun bilimsel bir sırrı var.",
-      "video_title": "Günde 2 Saat Uyuyan İnsanlar Nasıl Hayatta Kalır?",
-      "video_description": "Leonardo da Vinci, Nikola Tesla, Napoleon — hepsi 'polifazik uyku' adı verilen sistemi kullandı. Günde toplam 2-4 saat uyumak mümkün mü? Beyin buna nasıl tepki veriyor?",
-      "tags": [
-        "polifazikuyku",
-        "uyku",
-        "beyin",
-        "nikola tesla",
-        "leonardodavinci",
-        "uykubilimi",
-        "bilim",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Da Vinci günde yalnızca 2 saat uyudu — ama günde 6 kez, 20'şer dakika. Tesla, Edison, Napoleon da aynı sistemi kullandı. Buna polifazik uyku deniyor. Beyin REM uykusuna normalde 90 dakikada girer; bu yöntemde 5 dakikada giriyor. Vücut kendini ekstrem koşullara uyarlamış. Peki siz 8 saati bırakabilir misiniz, yoksa bu onlara mı özgü bir yetenek?",
-      "visual_keywords": [
-        "sleeping person",
-        "brain activity",
-        "clock night",
-        "tired man desk",
-        "REM sleep"
-      ]
-    },
-    {
-      "topic": "Dünyanın En Yüksek Sesi — Krakatoa Patlaması 1883",
-      "teaser": "Bir ses o kadar yüksek çıktı ki, 5.000 kilometre ötede bile duyuldu.",
-      "video_title": "Tarihin En Yüksek Sesi 5000 KM Öteye Ulaştı",
-      "video_description": "1883'te Krakatoa yanardağı patladığında çıkardığı ses, Avustralya'dan Rodrigues Adası'na kadar duyuldu. Bu mesafe İstanbul'dan Londra'nın neredeyse iki katı. Atmosfer bu sesin basıncıyla tam 7 kez titreşti.",
-      "tags": [
-        "krakatoa",
-        "yanardağ",
-        "ses",
-        "1883",
-        "dogalafet",
-        "fizik",
-        "tariholaylar",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "1883'te bir patlama sesi 5.000 kilometre ötede duyuldu — bu, İstanbul'dan Londra'nın iki katı uzaklık. Krakatoa yanardağı patladığında basınç dalgası atmosferi tam 7 kez turladı. Yakınındaki gemilerde bulunanlar anında sağırdı. Ölü sayısı 36.000'i geçti — çoğu patlama değil, devasa tsunamiden. Bu sesi bugün yaşasaydınız, şehrinizden duyabilirdiniz.",
-      "visual_keywords": [
-        "Krakatoa volcano eruption",
-        "massive explosion",
-        "ocean wave tsunami",
-        "volcanic ash sky",
-        "1883 disaster"
-      ]
-    },
-    {
-      "topic": "Bebekler Acı Hissetmez Efsanesi — Tıp Tarihinin Karanlık Dönemi",
-      "teaser": "1980'lere kadar doktorlar bebeklere ameliyat sırasında anestezi uygulamıyordu — ve bunun 'bilimsel' bir gerekçesi vardı.",
-      "video_title": "1980'e Kadar Bebeklere Anestezi Verilmiyordu",
-      "video_description": "Tıp dünyası onlarca yıl boyunca bebeklerin ağrı hissedemeyeceğine inandı. Bu yanlış inanç yüzünden binlerce bebek ameliyat sırasında sadece kas gevşetici verilerek — tamamen bilincinde — ameliyat edildi.",
-      "tags": [
-        "tıptarihi",
-        "anestezi",
-        "bebek",
-        "agri",
-        "bilim",
-        "tibbihata",
-        "insan vücudu",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "1980'lere kadar tıp dünyası şuna inanıyordu: bebekler ağrı hissedemez, sinir sistemi gelişmemiş. Bu yüzden açık kalp ameliyatları dahil pek çok operasyon, sadece kas gevşetici verilerek yapıldı. Bebekler hareket edemiyordu ama bilinçliydi. Bu inanç 1987'de bir annenin oğlunun ameliyat raporlarını okuyup tepki göstermesiyle yıkıldı. Tıbbın 'kesin doğru' dediği şeylere ne kadar güvenebiliriz?",
-      "visual_keywords": [
-        "newborn baby hospital",
-        "surgery operating room",
-        "medical history",
-        "doctor anesthesia",
-        "infant care"
-      ]
-    },
-    {
-      "topic": "Dünya'nın Manyetik Kutuplarının Yer Değiştirmesi",
-      "teaser": "Pusulalar bir gün güneyi gösterecek — ve bu daha önce defalarca oldu.",
-      "video_title": "Pusulanın Yönü Tersine Dönüyor — Ve Yaklaşıyor",
-      "video_description": "Dünya'nın manyetik kutupları tarih boyunca yüzlerce kez yer değiştirdi. Son değişim 780.000 yıl önce oldu ve bir sonraki 'gecikmeli' sayılıyor. Bu olduğunda GPS, elektrik şebekeleri ve hayvan göçleri kaosa girebilir.",
-      "tags": [
-        "manyetikkutup",
-        "dünya",
-        "jeoloji",
-        "pusula",
         "uzay",
-        "dogaldünya",
-        "bilim",
+        "insan vucudu",
+        "omurga",
+        "nasa",
+        "uluslarararasiuzayistasyonu",
+        "biyoloji",
         "fyp",
         "foryou",
         "viral"
       ],
-      "script": "Dünya'nın manyetik kutupları 780.000 yıldır yer değiştirmedi — ama ortalama her 200.000-300.000 yılda bir tersine dönüyor. Yani bir sonraki 'devrilme' gecikmiş sayılır. Bu olduğunda pusula güneyi gösterir, GPS sistemleri çöker, elektrik şebekeleri hasar görür. Göç eden kuşlar, balinalar ve arılar tamamen yön kaybeder. Bilim insanları kutup kaymasının son 200 yılda dramatik biçimde hızlandığını söylüyor.",
+      "script": "Astronotlar Uluslararası Uzay İstasyonu'ndan döndüklerinde 7 santimetreye kadar uzamış olabiliyor. Yerçekimi olmayınca omurlar arasındaki diskler basınçtan kurtulup genişliyor — tıpkı sabah uyandığında birkaç milimetre daha uzun olman gibi, ama çok daha aşırı. Ama asıl sorun şu: Dünya'ya dönerken bu ani geri çekilme ciddi bel ağrısına yol açıyor. Uzay seni hem uzatıyor hem de kırıyor.",
       "visual_keywords": [
-        "magnetic field earth",
-        "compass direction",
-        "aurora borealis",
-        "earth core",
-        "polar shift"
+        "astronaut floating space station",
+        "spine xray vertebrae",
+        "ISS interior zero gravity",
+        "space weightlessness"
+      ]
+    },
+    {
+      "topic": "Dünyanın En Uzun Yankısı — İskoçya'daki Yeraltı Deposu",
+      "teaser": "Bir ses, tam 112 saniye boyunca hiç bitmeden yankılandı — ve bu dünya rekoru hâlâ kırılamadı.",
+      "video_title": "Dünyanın En Uzun Yankısı 112 Saniye Sürdü",
+      "video_description": "İskoçya'daki Inchindown yeraltı yakıt depolarında ölçülen 112 saniyelik yankı, dünyanın en uzun doğal akustik yankısı olarak kayıtlara geçti.",
+      "tags": [
+        "yanki",
+        "akustik",
+        "iskocya",
+        "ses",
+        "fizik",
+        "doga",
+        "rekor",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Bir silah ateşlendi — ve sesi tam 112 saniye boyunca bitmedi. İskoçya'nın altında, İkinci Dünya Savaşı'ndan kalma devasa bir yakıt deposu var: Inchindown. Beton duvarları o kadar pürüzsüz ki ses, sönmek yerine dakikalarca yansımaya devam ediyor. Bu dünya rekoru 2014'te resmen ölçüldü. Ve o depo hâlâ orada, karanlıkta, sessizce beklemeye devam ediyor.",
+      "visual_keywords": [
+        "underground tunnel concrete corridor",
+        "sound wave visualization",
+        "Scotland bunker interior",
+        "echo cave dark"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Ay'da Ses Olmaması — Apollo Astronotlarının Duyduğu Titreşim",
-    "teaser": "Uzayda ses yoktur derler — ama Apollo astronotları Ay'da bir şeyler 'duydu'.",
-    "video_title": "Ay'da Ses Yok Dediler Ama Astronotlar Duydu",
-    "video_description": "Ay'da Ses Olmaması — Apollo Astronotlarının Duyduğu Titreşim\n\n#apollo #nasa #fyp #foryou #viral",
-    "tags": [
-      "ay",
-      "apollo",
-      "uzay",
-      "astronot",
-      "titresim",
-      "nasa",
-      "uzaygizemi",
-      "fyp",
-      "foryou",
-      "viral"
-    ],
-    "script": "Apollo 12 ekibi iniş modülünü Ay yüzeyine bıraktığında, Ay tam 55 dakika boyunca çan gibi titredi. Uzayda ses yoktur — ama bu titreşim sismograflarla ölçüldü. Sıradan bir çarpma bu kadar uzun sürmez; Dünya'da olsa birkaç saniyede durur. Ay'ın içi bomboş mu, yoksa orada başka bir şey mi var? Bilim dünyası hâlâ tartışıyor.",
-    "visual_keywords": [
-      "moon surface",
-      "Apollo astronaut",
-      "seismograph",
-      "lunar landing",
-      "space vibration"
-    ]
-  },
-  "hashtag_options": [
-    "ay",
-    "apollo",
-    "uzay",
-    "astronot",
-    "titresim",
-    "nasa",
-    "uzaygizemi",
-    "fyp",
-    "foryou",
-    "viral"
-  ],
-  "hashtag_message_id": 192,
-  "selected_hashtags": [
-    1,
-    5,
-    7,
-    8,
-    9
-  ],
-  "hashtag_started_at": "2026-08-14T12:37:26.569694+00:00",
-  "video_file_id": "BAACAgQAAxkDAAPCan8NGbOytt6Hb1o0eVvgTZjWQPgAAvkfAAILZPlTnyDlcpsYGbg9BA",
-  "review_started_at": "2026-08-14T12:42:01.803862+00:00",
-  "attempts": 1
+  ]
 }
