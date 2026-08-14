@@ -1,9 +1,9 @@
 {
   "batch_id": "20260814-1131",
   "trigger_date": "2026-08-14",
-  "message_id": 177,
+  "message_id": 180,
   "created_at": "2026-08-14T11:31:15.175002+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Satürn'ün Halkalarının Yok Olması",
@@ -140,7 +140,7 @@
     "topic": "Filler Zıplayamaz",
     "teaser": "Bir fil ne kadar uğraşırsa uğraşsın, dört ayağını yerden aynı anda kaldıramaz — ve bunun sebebi fiziği değiştiriyor.",
     "video_title": "Filler Neden Asla Zıplayamaz?",
-    "video_description": "Filler, dünyanın en büyük kara hayvanları ama tek zıplayamayan memeli onlar. Bunun ardında basit bir fizik yasası var.",
+    "video_description": "Filler Zıplayamaz\n\n#hayvanlar #biyoloji #fyp #foryou #viral",
     "tags": [
       "filler",
       "hayvanlar",
@@ -175,6 +175,15 @@
     "viral"
   ],
   "hashtag_message_id": 178,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-14T11:33:18.510943+00:00"
+  "selected_hashtags": [
+    1,
+    2,
+    7,
+    8,
+    9
+  ],
+  "hashtag_started_at": "2026-08-14T11:33:18.510943+00:00",
+  "video_file_id": "BAACAgQAAxkDAAO0an79559JmUeCNrEtLx8AAcO6GyFLAALkHwACC2T5Uz7edE5gLDmFPQQ",
+  "review_started_at": "2026-08-14T11:37:11.487401+00:00",
+  "attempts": 1
 }
