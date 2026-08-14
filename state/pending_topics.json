@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-14",
   "message_id": 191,
   "created_at": "2026-08-14T12:35:38.934043+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Ay'da Ses Olmaması — Apollo Astronotlarının Duyduğu Titreşim",
@@ -135,5 +135,46 @@
         "polar shift"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Ay'da Ses Olmaması — Apollo Astronotlarının Duyduğu Titreşim",
+    "teaser": "Uzayda ses yoktur derler — ama Apollo astronotları Ay'da bir şeyler 'duydu'.",
+    "video_title": "Ay'da Ses Yok Dediler Ama Astronotlar Duydu",
+    "video_description": "Uzayda ses yayılamaz, bu doğru. Ama Apollo 12 ekibi Ay'ın yüzeyine iniş modülünü bıraktığında, Ay tam 55 dakika boyunca çan gibi titredi. Bilim insanları bu titreşimi bugün hâlâ tam olarak açıklayamıyor.",
+    "tags": [
+      "ay",
+      "apollo",
+      "uzay",
+      "astronot",
+      "titresim",
+      "nasa",
+      "uzaygizemi",
+      "fyp",
+      "foryou",
+      "viral"
+    ],
+    "script": "Apollo 12 ekibi iniş modülünü Ay yüzeyine bıraktığında, Ay tam 55 dakika boyunca çan gibi titredi. Uzayda ses yoktur — ama bu titreşim sismograflarla ölçüldü. Sıradan bir çarpma bu kadar uzun sürmez; Dünya'da olsa birkaç saniyede durur. Ay'ın içi bomboş mu, yoksa orada başka bir şey mi var? Bilim dünyası hâlâ tartışıyor.",
+    "visual_keywords": [
+      "moon surface",
+      "Apollo astronaut",
+      "seismograph",
+      "lunar landing",
+      "space vibration"
+    ]
+  },
+  "hashtag_options": [
+    "ay",
+    "apollo",
+    "uzay",
+    "astronot",
+    "titresim",
+    "nasa",
+    "uzaygizemi",
+    "fyp",
+    "foryou",
+    "viral"
+  ],
+  "hashtag_message_id": 192,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-14T12:37:26.569694+00:00"
 }
