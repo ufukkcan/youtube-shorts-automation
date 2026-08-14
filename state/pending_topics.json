@@ -1,189 +1,139 @@
 {
-  "batch_id": "20260814-1131",
+  "batch_id": "20260814-1201",
   "trigger_date": "2026-08-14",
-  "message_id": 180,
-  "created_at": "2026-08-14T11:31:15.175002+00:00",
-  "status": "error",
+  "message_id": 184,
+  "created_at": "2026-08-14T12:01:46.120374+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Satürn'ün Halkalarının Yok Olması",
-      "teaser": "Satürn'ün o ikonik halkalarını sonuna kadar göremeyebiliriz — ve sebebi sizi şaşırtacak.",
-      "video_title": "Satürn'ün Halkaları Kayboluyor",
-      "video_description": "Satürn'ün halkaları göründüğü kadar kalıcı değil. Milyonlarca yıl içinde tamamen yok olacaklar. Peki biz bu süreci canlı mı yaşıyoruz?",
+      "topic": "Ay'ın Yavaş Uzaklaşması",
+      "teaser": "Ay her yıl biraz daha uzaklaşıyor — ve bunun insanlık için ne anlama geldiğini duymak sizi şaşırtacak.",
+      "video_title": "Ay Her Yıl Dünya'dan Kaçıyor",
+      "video_description": "Ay, Dünya'dan yılda 3,8 santimetre uzaklaşıyor. Bu küçük mesafe, milyarlarca yıl önce günlerin çok daha kısa olduğu anlamına geliyor. Gelecekte Ay tamamen kaybolursa ne olur?",
       "tags": [
-        "satürn",
+        "ay",
         "uzay",
-        "gezegenler",
-        "halkalar",
+        "dünyadanuzaklaşma",
         "astronomi",
-        "güneşsistemi",
+        "evren",
         "bilim",
         "fyp",
+        "foryou",
         "viral",
         "kesfet"
       ],
-      "script": "Satürn'ün o muhteşem halkaları aslında ölüyor. NASA, halkaların saatte yaklaşık 10 ton buz ve tozu gezegenin atmosferine döktüğünü tespit etti. Bu hızla 100 milyon yıl içinde tamamen yok olacaklar. Üstelik evrenin yaşına kıyasla bu bir göz kırpması. Biz insanlar, Satürn'ün tarihinde tam da halkalarının silinmeye başladığı o kısa pencereye denk geldik. Bu tesadüf mü, yoksa başka bir şey mi?",
+      "script": "Ay bu gece biraz daha uzakta. Dün geceden 1 milimetre değil, tam olarak 0,01 milimetre daha uzak — her yıl 3,8 santimetre ilerliyor. 1,4 milyar yıl önce Ay o kadar yakındı ki bir gün sadece 18 saatti. Ay yeterince uzaklaştığında yer çekimi dengesi bozulacak, okyanuslar kontrolsüz salınacak. Peki bu ne zaman olacak? Belki 5 milyar yıl içinde. Ya sen bu geceyi hâlâ sıradan mı sanıyorsun?",
       "visual_keywords": [
-        "Saturn rings space",
-        "planet rings astronomy",
-        "NASA Saturn closeup",
-        "space telescope galaxy",
-        "cosmic dust ring"
+        "moon surface",
+        "earth from space",
+        "lunar orbit",
+        "night sky moon",
+        "ocean tides"
       ]
     },
     {
-      "topic": "Dünyanın En Zehirli Maddesi — Botulinum Toksini",
-      "teaser": "Dünyanın en ölümcül zehri, her gün milyonlarca insanın yüzüne enjekte ediliyor.",
-      "video_title": "En Ölümcül Zehir Yüzlere Sürülüyor",
-      "video_description": "Botulinum toksini, bilinen en güçlü zehir. Ama aynı zamanda botoks olarak güzellik kliniklerinde kullanılıyor. Bir gramı tüm insanlığı yok edebilir.",
+      "topic": "Viking'lerin Kuzey Amerika'yı Keşfi",
+      "teaser": "Kolomb Amerika'ya ayak bastığında, oraya çoktan 500 yıl önce gelmiş biri vardı — ve neredeyse hiç kimse bunu öğretmiyor.",
+      "video_title": "Amerika'yı Kolomb Keşfetmedi",
+      "video_description": "Leif Eriksson, Kristof Kolomb'dan tam 500 yıl önce Kuzey Amerika kıyılarına çıktı. Newfoundland'daki arkeolojik kanıtlar bunu kesin olarak ispatladı. Tarih kitapları neden hâlâ Kolomb'u anlatıyor?",
       "tags": [
-        "botoks",
-        "zehir",
-        "güzellik",
-        "bilim",
-        "kimya",
-        "sağlık",
-        "ilginçbilgi",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Dünyanın en zehirli maddesi her gün gönüllü olarak insanların yüzüne enjekte ediliyor. Botulinum toksini, bilinen tüm doğal ve sentetik zehirlerin en güçlüsü — bir gramının milyonda biri, bir insanı öldürmeye yetiyor. Teorik olarak tek bir gram, tüm insanlığı yok edebilir. Bu maddenin adı: Botoks. Güzellik kliniklerinin vitrinlerinden dünyanın en tehlikeli silahına dönüşen bir molekülden korkmalı mıyız, yoksa şükretmeli mi?",
-      "visual_keywords": [
-        "botox injection clinic",
-        "toxin laboratory science",
-        "beauty treatment syringe",
-        "medical cosmetic procedure",
-        "microscope bacteria"
-      ]
-    },
-    {
-      "topic": "Filler Zıplayamaz",
-      "teaser": "Bir fil ne kadar uğraşırsa uğraşsın, dört ayağını yerden aynı anda kaldıramaz — ve bunun sebebi fiziği değiştiriyor.",
-      "video_title": "Filler Neden Asla Zıplayamaz?",
-      "video_description": "Filler, dünyanın en büyük kara hayvanları ama tek zıplayamayan memeli onlar. Bunun ardında basit bir fizik yasası var.",
-      "tags": [
-        "filler",
-        "hayvanlar",
-        "biyoloji",
-        "fizik",
-        "ilginçbilgi",
-        "doğabelgeseli",
-        "vahşidoğa",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Filler koşabilir, yüzebilir, ağaç devirebilir — ama hayatları boyunca tek bir kez bile zıplayamazlar. Dünyadaki tüm memeliler içinde bu özelliğe sahip tek büyük hayvan onlar. Sebebi kemik yapıları: bir filin bacakları vücudun 5 ila 7 tonunu taşımak için dikey sütunlar gibi inşa edilmiş, kaslar sıçramaya izin vermiyor. Zıplamaya kalksalar iskeletleri çöker. Peki evrimin en güçlü hayvanlarından birine bu kısıtlamayı koyması sizi düşündürmüyor mu?",
-      "visual_keywords": [
-        "elephant walking savanna",
-        "elephant herd Africa",
-        "elephant legs closeup",
-        "wildlife documentary elephant",
-        "elephant running nature"
-      ]
-    },
-    {
-      "topic": "Oxford'un Kuruluşundan Önce Bile Var Olan Şehir: Kyoto",
-      "teaser": "Japonya'nın eski başkenti, bugün hâlâ ayakta duran yapılarıyla 1200 yıllık bir sırrı saklıyor.",
-      "video_title": "1200 Yıl Önce İnşa Edildi, Hâlâ Ayakta",
-      "video_description": "Kyoto, 794 yılında Japonya'nın başkenti oldu ve yaklaşık 1100 yıl bu unvanı korudu. İkinci Dünya Savaşı'nda atom bombasından kurtulmasının arkasında ise tuhaf bir hikâye var.",
-      "tags": [
-        "kyoto",
-        "japonya",
+        "viking",
+        "leiferiksson",
+        "amerikanınkeşfi",
+        "kolomb",
         "tarih",
-        "savaş",
-        "atombombası",
-        "antikşehirler",
-        "kültür",
+        "antikçağ",
         "fyp",
         "foryou",
-        "viral"
+        "viral",
+        "kesfet"
       ],
-      "script": "1945'te ABD, atom bombası için hedef listesi hazırlarken Kyoto'yu sildi — çünkü Savaş Bakanı Henry Stimson balayını orada geçirmişti ve şehre aşıktı. 794'ten 1869'a kadar 1075 yıl Japonya'nın başkenti olan bu şehir, bir adamın kişisel anıları yüzünden tarihin en büyük yıkımından kurtuldu. Bugün Kyoto'daki 1600 Budist tapınak hâlâ ayakta. Tarih bazen en beklenmedik kararlarla şekilleniyor — bu sizi rahatsız etmiyor mu?",
+      "script": "Kolomb 1492'de Amerika'ya vardığında kıyıda zaten bir şeyler vardı — Viking izleri. Leif Eriksson tam 500 yıl önce, 1000 yılında Kuzey Amerika'ya ayak basmıştı. Kanada'da Newfoundland'da bulunan Viking yerleşimi 1960'ta kazıldı ve her şey ortaya döküldü. Avrupa bunu yüzyıllarca görmezden geldi çünkü bu, yazılı tarihin en büyük hatalarından biriydi. Peki okul kitaplarınızda bu yazıyor muydu?",
       "visual_keywords": [
-        "Kyoto Japan temple",
-        "Japanese ancient city",
-        "Fushimi Inari shrine",
-        "traditional Japan architecture",
-        "Japan historical landmark"
+        "viking ship",
+        "newfoundland canada ruins",
+        "norse explorer",
+        "ancient settlement",
+        "medieval warrior"
       ]
     },
     {
-      "topic": "İnsan Vücudunda Bakteri Sayısı Hücre Sayısını Geçiyor",
-      "teaser": "Vücudunuzdaki hücrelerden daha fazla yabancı varlık var — ve onlar olmadan tek gün bile yaşayamazsınız.",
-      "video_title": "Sen Aslında Daha Az İnsansın",
-      "video_description": "Vücudunuzda insan hücrelerinden daha fazla bakteri yaşıyor. Bu bakteriler olmadan bağışıklık sisteminiz çöker, sindirim durur ve beyin kimyasalları dengesini kaybeder.",
+      "topic": "Beynin Kendini Silmesi — Bellek Yeniden Yazımı",
+      "teaser": "Bir anıyı her hatırladığınızda, onu silip yeniden yazıyorsunuz — ve hiç farkında değilsiniz.",
+      "video_title": "Anılarınız Aslında Sahte",
+      "video_description": "Nörobilim araştırmaları, her hatırlama eyleminin anıyı değiştirdiğini kanıtladı. Beyin, anıyı getirdiği anda onu yeniden kodluyor. Yani en net sandığınız anılar bile artık orijinal değil.",
       "tags": [
-        "mikrobiyom",
-        "bakteri",
+        "beyin",
+        "bellek",
+        "anı",
+        "nörobilim",
+        "psikoloji",
         "insanvücudu",
-        "biyoloji",
-        "sağlık",
-        "bilim",
-        "hücreler",
         "fyp",
         "foryou",
-        "viral"
+        "viral",
+        "ilginç"
       ],
-      "script": "Vücudunuzda sizden daha fazla 'yabancı' var. Her bir insan hücresi için yaklaşık 1,3 bakteri bulunuyor — toplamda 38 trilyon. Bu bakteriler bağırsakta mutluluk hormonu serotoninin yüzde 90'ını üretiyor, bağışıklık sisteminizi eğitiyor ve sindiriminizi yönetiyor. Onlar olmadan birkaç gün içinde sistemleriniz birer birer çöker. Yani 'ben' dediğiniz şey aslında milyarlarca türün ortak yönettiği bir ekosistem. Peki gerçekten kim kontrol ediyor?",
+      "script": "En net hatırladığınız o an — büyük ihtimalle yaşandığı gibi değil. Nörobilimciler, bir anıyı her hatırladığınızda beynin onu silip hafifçe değiştirerek yeniden kaydettiğini kanıtladı. Buna 'yeniden pekiştirme' deniyor. Yani 20 yıldır anlattığınız o hikâye, onlarca kez yeniden yazılmış bir kopya. Orijinali artık yok. Bu sizi rahatsız etti mi, yoksa zaten her şeyi böyle mi yaşadınız?",
       "visual_keywords": [
-        "bacteria microscope closeup",
-        "human gut microbiome",
-        "microorganism biology",
-        "intestinal flora science",
-        "human cell microscopy"
+        "human brain neuron",
+        "memory concept",
+        "brain scan",
+        "mind thought",
+        "neuroscience lab"
+      ]
+    },
+    {
+      "topic": "Tunguzka Patlaması — Tarihin En Büyük Açıklanamaz Patlaması",
+      "teaser": "1908'de Sibirya'da nükleer bomba büyüklüğünde bir patlama oldu — ne bir kratere, ne de bir nedene ulaşıldı.",
+      "video_title": "2000 km² Ormanı Silen Gizemli Patlama",
+      "video_description": "1908'de Sibirya'nın Tunguzka bölgesinde 2000 kilometre karelik ormanı yok eden dev bir patlama yaşandı. Hiçbir krater bulunamadı, hiçbir enkaz tespit edilemedi. 100 yılı aşkın süredir bilim insanları hâlâ kesin bir açıklama yapamıyor.",
+      "tags": [
+        "tunguzka",
+        "sibirya",
+        "gizemipatlama",
+        "meteor",
+        "uzay",
+        "tarih",
+        "fyp",
+        "foryou",
+        "viral",
+        "kesfet"
+      ],
+      "script": "30 Haziran 1908, Sibirya — 2000 kilometre karelik orman bir anda yerle bir oldu. Hiroşima'dan 1000 kat güçlü bir patlama, ama ne krater var ne enkaz. 800 kilometre ötede pencereler patladı, insanlar havaya savruldu. Bilim insanları 100 yılı aşkındır bu patlamanın kaynağını bulmaya çalışıyor. Asteroid mi, kuyruklu yıldız mı, yoksa bambaşka bir şey mi? Hiçbiri kanıtlanamadı. Peki siz ne olduğunu düşünüyorsunuz?",
+      "visual_keywords": [
+        "siberian forest destruction",
+        "Tunguska explosion",
+        "meteor impact",
+        "fallen trees aerial",
+        "explosion forest"
+      ]
+    },
+    {
+      "topic": "Ölüm Sonrası Büyüme — Saç ve Tırnak Efsanesi",
+      "teaser": "Öldükten sonra saçlarınızın uzadığı söylenir — ama gerçek çok daha tuhaf.",
+      "video_title": "Ölüm Sonrası Vücudunuza Ne Olur?",
+      "video_description": "Yaygın inanışın aksine, ölümden sonra saç ve tırnaklar uzamaz. Ancak vücutta gerçekten şaşırtıcı şeyler olur. Kaslar saatlerce hareket edebilir, bağırsak bakterileri vücudu içten tüketmeye başlar.",
+      "tags": [
+        "ölümsonrası",
+        "insan vücudu",
+        "biyoloji",
+        "bilim",
+        "tıp",
+        "vücut",
+        "fyp",
+        "foryou",
+        "viral",
+        "ilginç"
+      ],
+      "script": "Öldükten sonra saçlarınız uzamaz — bu bir efsane. Ama gerçek çok daha karanlık. Ölümden sonra vücudunuzdaki 38 trilyon bakteri sahibini tüketmeye başlar. Kaslar 12 saate kadar kasılabilir. Bağırsaklar sindirime devam eder — ama bu sefer sizi sindirirler. Ve bunların hepsi ilk 24 saat içinde olur. Vücudunuz sizi terk etmiyor; sadece sizi geri alıyor.",
+      "visual_keywords": [
+        "human body biology",
+        "microscopic bacteria",
+        "anatomy science",
+        "decomposition nature",
+        "medical research"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Filler Zıplayamaz",
-    "teaser": "Bir fil ne kadar uğraşırsa uğraşsın, dört ayağını yerden aynı anda kaldıramaz — ve bunun sebebi fiziği değiştiriyor.",
-    "video_title": "Filler Neden Asla Zıplayamaz?",
-    "video_description": "Filler Zıplayamaz\n\n#hayvanlar #biyoloji #fyp #foryou #viral",
-    "tags": [
-      "filler",
-      "hayvanlar",
-      "biyoloji",
-      "fizik",
-      "ilginçbilgi",
-      "doğabelgeseli",
-      "vahşidoğa",
-      "fyp",
-      "foryou",
-      "viral"
-    ],
-    "script": "Filler koşabilir, yüzebilir, ağaç devirebilir — ama hayatları boyunca tek bir kez bile zıplayamazlar. Dünyadaki tüm memeliler içinde bu özelliğe sahip tek büyük hayvan onlar. Sebebi kemik yapıları: bir filin bacakları vücudun 5 ila 7 tonunu taşımak için dikey sütunlar gibi inşa edilmiş, kaslar sıçramaya izin vermiyor. Zıplamaya kalksalar iskeletleri çöker. Peki evrimin en güçlü hayvanlarından birine bu kısıtlamayı koyması sizi düşündürmüyor mu?",
-    "visual_keywords": [
-      "elephant walking savanna",
-      "elephant herd Africa",
-      "elephant legs closeup",
-      "wildlife documentary elephant",
-      "elephant running nature"
-    ]
-  },
-  "hashtag_options": [
-    "filler",
-    "hayvanlar",
-    "biyoloji",
-    "fizik",
-    "ilginçbilgi",
-    "doğabelgeseli",
-    "vahşidoğa",
-    "fyp",
-    "foryou",
-    "viral"
-  ],
-  "hashtag_message_id": 178,
-  "selected_hashtags": [
-    1,
-    2,
-    7,
-    8,
-    9
-  ],
-  "hashtag_started_at": "2026-08-14T11:33:18.510943+00:00",
-  "video_file_id": "BAACAgQAAxkDAAO0an79559JmUeCNrEtLx8AAcO6GyFLAALkHwACC2T5Uz7edE5gLDmFPQQ",
-  "review_started_at": "2026-08-14T11:37:11.487401+00:00",
-  "attempts": 1
+  ]
 }
