@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-14",
   "message_id": 177,
   "created_at": "2026-08-14T11:31:15.175002+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Satürn'ün Halkalarının Yok Olması",
@@ -135,5 +135,46 @@
         "human cell microscopy"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Filler Zıplayamaz",
+    "teaser": "Bir fil ne kadar uğraşırsa uğraşsın, dört ayağını yerden aynı anda kaldıramaz — ve bunun sebebi fiziği değiştiriyor.",
+    "video_title": "Filler Neden Asla Zıplayamaz?",
+    "video_description": "Filler, dünyanın en büyük kara hayvanları ama tek zıplayamayan memeli onlar. Bunun ardında basit bir fizik yasası var.",
+    "tags": [
+      "filler",
+      "hayvanlar",
+      "biyoloji",
+      "fizik",
+      "ilginçbilgi",
+      "doğabelgeseli",
+      "vahşidoğa",
+      "fyp",
+      "foryou",
+      "viral"
+    ],
+    "script": "Filler koşabilir, yüzebilir, ağaç devirebilir — ama hayatları boyunca tek bir kez bile zıplayamazlar. Dünyadaki tüm memeliler içinde bu özelliğe sahip tek büyük hayvan onlar. Sebebi kemik yapıları: bir filin bacakları vücudun 5 ila 7 tonunu taşımak için dikey sütunlar gibi inşa edilmiş, kaslar sıçramaya izin vermiyor. Zıplamaya kalksalar iskeletleri çöker. Peki evrimin en güçlü hayvanlarından birine bu kısıtlamayı koyması sizi düşündürmüyor mu?",
+    "visual_keywords": [
+      "elephant walking savanna",
+      "elephant herd Africa",
+      "elephant legs closeup",
+      "wildlife documentary elephant",
+      "elephant running nature"
+    ]
+  },
+  "hashtag_options": [
+    "filler",
+    "hayvanlar",
+    "biyoloji",
+    "fizik",
+    "ilginçbilgi",
+    "doğabelgeseli",
+    "vahşidoğa",
+    "fyp",
+    "foryou",
+    "viral"
+  ],
+  "hashtag_message_id": 178,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-14T11:33:18.510943+00:00"
 }
