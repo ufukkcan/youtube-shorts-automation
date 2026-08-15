@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-14",
   "message_id": 196,
   "created_at": "2026-08-14T13:41:56.038307+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Okyanus Oksijeni — Nefes Aldığımız Oksijenin Yarısı Ormandan Değil",
@@ -130,5 +130,45 @@
         "echo cave dark"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Okyanus Oksijeni — Nefes Aldığımız Oksijenin Yarısı Ormandan Değil",
+    "teaser": "Her iki nefesten birini ormanlara borçlu olduğunu sanıyorsun — ama bu tamamen yanlış.",
+    "video_title": "Nefes Aldığın Oksijenin Yarısı Nereden Geliyor?",
+    "video_description": "Dünya'daki oksijenin %50'sini ağaçlar değil, okyanus yüzeyindeki mikroskobik fitoplanktonlar üretiyor. Bu canlılar görünmez ama hayatımızın temel taşı.",
+    "tags": [
+      "fitoplankton",
+      "okyanus",
+      "oksijen",
+      "bilim",
+      "dogabilimi",
+      "mikrobiyoloji",
+      "deniz",
+      "fyp",
+      "foryou",
+      "viral"
+    ],
+    "script": "Her nefes aldığında ağaçlara teşekkür ediyorsun — ama yanlış adrese gidiyorsun. Dünya oksijeninin tam yarısı, gözle görülemeyen mikroskobik canlılardan geliyor: fitoplanktonlar. Okyanus yüzeyinde trilyonlarca adet yaşıyorlar, her biri tek hücreli. Amazon ormanından daha fazla oksijen üretiyorlar. Ve şu an onlar olmasa, dakikalar içinde nefes alamazdın. Peki onlar yok olursa ne olur?",
+    "visual_keywords": [
+      "ocean surface sunlight",
+      "phytoplankton microscope",
+      "underwater light rays",
+      "ocean waves aerial"
+    ]
+  },
+  "hashtag_options": [
+    "fitoplankton",
+    "okyanus",
+    "oksijen",
+    "bilim",
+    "dogabilimi",
+    "mikrobiyoloji",
+    "deniz",
+    "fyp",
+    "foryou",
+    "viral"
+  ],
+  "hashtag_message_id": 197,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-15T09:57:33.096498+00:00"
 }
