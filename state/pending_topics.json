@@ -1,9 +1,9 @@
 {
   "batch_id": "20260814-1341",
   "trigger_date": "2026-08-14",
-  "message_id": 196,
+  "message_id": 199,
   "created_at": "2026-08-14T13:41:56.038307+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Okyanus Oksijeni — Nefes Aldığımız Oksijenin Yarısı Ormandan Değil",
@@ -135,7 +135,7 @@
     "topic": "Okyanus Oksijeni — Nefes Aldığımız Oksijenin Yarısı Ormandan Değil",
     "teaser": "Her iki nefesten birini ormanlara borçlu olduğunu sanıyorsun — ama bu tamamen yanlış.",
     "video_title": "Nefes Aldığın Oksijenin Yarısı Nereden Geliyor?",
-    "video_description": "Dünya'daki oksijenin %50'sini ağaçlar değil, okyanus yüzeyindeki mikroskobik fitoplanktonlar üretiyor. Bu canlılar görünmez ama hayatımızın temel taşı.",
+    "video_description": "Okyanus Oksijeni — Nefes Aldığımız Oksijenin Yarısı Ormandan Değil\n\n#fitoplankton #okyanus #oksijen #bilim #dogabilimi",
     "tags": [
       "fitoplankton",
       "okyanus",
@@ -169,6 +169,15 @@
     "viral"
   ],
   "hashtag_message_id": 197,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-15T09:57:33.096498+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-08-15T09:57:33.096498+00:00",
+  "video_file_id": "BAACAgQAAxkDAAPHaoFYl4F3ArPF-4fkKiulXoYTTPAAAp8eAAJPpwlQNB_mOZlKDFU9BA",
+  "review_started_at": "2026-08-16T06:28:39.559370+00:00",
+  "attempts": 1
 }
