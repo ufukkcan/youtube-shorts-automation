@@ -1,183 +1,134 @@
 {
-  "batch_id": "20260814-1341",
-  "trigger_date": "2026-08-14",
-  "message_id": 199,
-  "created_at": "2026-08-14T13:41:56.038307+00:00",
-  "status": "error",
+  "batch_id": "20260817-1350",
+  "trigger_date": "2026-08-17",
+  "message_id": 202,
+  "created_at": "2026-08-17T13:50:16.691375+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Okyanus Oksijeni — Nefes Aldığımız Oksijenin Yarısı Ormandan Değil",
-      "teaser": "Her iki nefesten birini ormanlara borçlu olduğunu sanıyorsun — ama bu tamamen yanlış.",
-      "video_title": "Nefes Aldığın Oksijenin Yarısı Nereden Geliyor?",
-      "video_description": "Dünya'daki oksijenin %50'sini ağaçlar değil, okyanus yüzeyindeki mikroskobik fitoplanktonlar üretiyor. Bu canlılar görünmez ama hayatımızın temel taşı.",
+      "topic": "Oktopusların Üç Kalbi ve Mavi Kanı",
+      "teaser": "Ahtapotun kanı mavi — ve bu onun süper gücünün sırrı.",
+      "video_title": "Ahtapotun 3 Kalbi Var — Biri Durduğunda Ne Olur?",
+      "video_description": "Ahtapotlar yalnızca üç kalple değil, mavi kanla da yaşıyor. Bu kan rengi bir kusur değil, kutup sularında bile hayatta kalmalarını sağlayan evrimsel bir silah. Peki ya o kalpler yüzerken ne yapıyor?",
       "tags": [
-        "fitoplankton",
+        "ahtapot",
         "okyanus",
-        "oksijen",
-        "bilim",
-        "dogabilimi",
-        "mikrobiyoloji",
-        "deniz",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Her nefes aldığında ağaçlara teşekkür ediyorsun — ama yanlış adrese gidiyorsun. Dünya oksijeninin tam yarısı, gözle görülemeyen mikroskobik canlılardan geliyor: fitoplanktonlar. Okyanus yüzeyinde trilyonlarca adet yaşıyorlar, her biri tek hücreli. Amazon ormanından daha fazla oksijen üretiyorlar. Ve şu an onlar olmasa, dakikalar içinde nefes alamazdın. Peki onlar yok olursa ne olur?",
-      "visual_keywords": [
-        "ocean surface sunlight",
-        "phytoplankton microscope",
-        "underwater light rays",
-        "ocean waves aerial"
-      ]
-    },
-    {
-      "topic": "Kleopatra'nın Burnu değil — Sezar'ın Saç Çizgisi: Julius Caesar'ın Epilepsi Gizemi",
-      "teaser": "Roma'nın en büyük komutanı, her savaştan önce beynini kontrol edemiyordu — ve bunu kimseye söylemedi.",
-      "video_title": "Roma'nın En Güçlü Adamının Gizli Hastalığı",
-      "video_description": "Julius Caesar'ın epilepsi nöbetleri geçirdiği antik kaynaklarda geçiyor. Ancak bazı tarihçiler bu nöbetlerin strateji kararlarını doğrudan etkilediğini öne sürüyor.",
-      "tags": [
-        "juliuscaesar",
-        "roma",
-        "antiktarih",
-        "epilepsi",
-        "tarih",
-        "imparator",
-        "gizemlitarih",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Julius Caesar, 50 bin kişilik orduları yönetirken aniden yere yığılıyordu. Epilepsi nöbetleri geçirdiği antik kaynaklarda açıkça yazıyor. Ama asıl şok edici olan bu değil — Rubicon Nehri'ni geçme kararını, yani Roma'yı sonsuza dek değiştiren o anı, bir nöbetin hemen ardından verdiği ileri sürülüyor. Tarihin en büyük kararı, kontrolden çıkmış bir beynin ürünü müydü?",
-      "visual_keywords": [
-        "Julius Caesar bust marble",
-        "ancient Rome colosseum",
-        "Roman army battlefield",
-        "historical sculpture"
-      ]
-    },
-    {
-      "topic": "Köpekbalıkları Kanser Olmaz Efsanesi — ve Bunun Neden Milyonlarca Hayvana Mal Olduğu",
-      "teaser": "Yıllarca inanılan bir efsane, milyonlarca köpekbalığını katletti — üstelik tamamen yanlıştı.",
-      "video_title": "Milyonlarca Köpekbalığını Öldüren Yanlış Bilgi",
-      "video_description": "1992'de yayımlanan bir kitap 'köpekbalıkları kanser olmaz' iddiasıyla kıkırdak hapı sektörünü yarattı. Oysa köpekbalıklarının kansere yakalandığı onlarca kez belgelenmiş durumda.",
-      "tags": [
-        "kopekbaligi",
-        "bilimyanlisi",
-        "denizbiologi",
+        "denizbiyolojisi",
         "hayvanlar",
-        "kanser",
-        "efsane",
-        "okyanusyasami",
+        "evrim",
+        "ilginçbilgiler",
+        "bilim",
         "fyp",
         "foryou",
         "viral"
       ],
-      "script": "1992'de bir kitap 'köpekbalıkları kanser olmaz' dedi. Bu tek cümle, yıllar içinde 73 milyon köpekbalığının katledilmesine zemin hazırladı — kıkırdakları kanseri iyileştiriyor inancıyla. Problem şu: köpekbalıkları kanser oluyor. Onlarca vakası belgelenmiş durumda. Bilimsel dayanağı sıfır olan bir iddia, bir türü neredeyse yok etti. Peki bu kitabı durdurmak için kimse neden sesini çıkarmadı?",
+      "script": "Ahtapot yüzerken üç kalbinden ikisi tamamen durur. Kırmızı kan değil, mavi kan taşır damarlarında — çünkü oksijeni demir değil, bakır taşıyor. Bu mavi kan, sıfırın altındaki sularda bile çalışır; kırmızı kan donup işlevsiz kalırken bakır bazlı hemosyanin aktif kalmaya devam eder. Üstelik her kalp ayrı bir organı besler. Peki üç kalbi olan bir canlı neden sadece birkaç yıl yaşıyor?",
       "visual_keywords": [
-        "shark underwater ocean",
-        "shark fin close up",
-        "ocean predator swimming",
-        "marine biology research"
+        "octopus underwater",
+        "blue blood",
+        "ocean deep",
+        "tentacles closeup"
       ]
     },
     {
-      "topic": "İnsanlar Uyurken Büyür — Uzay Boşluğunda da Aynısı Olur",
-      "teaser": "Astronotlar Uluslararası Uzay İstasyonu'ndan döndüklerinde giysilerine sığamıyorlar — ve bunun sebebi tahmin ettiğinden çok daha tuhaf.",
-      "video_title": "Uzayda İnsan Neden Uzuyor?",
-      "video_description": "Yerçekiminin yokluğunda omurlar arası diskler genişliyor ve astronotlar 5-7 cm kadar uzayabiliyor. Dünya'ya döndüklerinde ise bu değişim tersine dönüyor.",
+      "topic": "Çernobil Ormanı'nın Çürümemesi",
+      "teaser": "Çernobil'deki ağaçlar onlarca yıldır yerde yatıyor — ama hiç çürümüyor.",
+      "video_title": "Çernobil'de Yapraklar Neden Çürümüyor?",
+      "video_description": "1986 patlamasından bu yana Çernobil ormanındaki düşmüş yapraklar ve ağaçlar neredeyse hiç ayrışmadı. Radyasyon, çürümeyi sağlayan mikropları öldürdü — bu da ormanı adeta dondurulmuş bir mezarlığa çevirdi. Doğanın sıfırlama düğmesine basılmış gibi.",
       "tags": [
-        "astronot",
-        "uzay",
-        "insan vucudu",
-        "omurga",
-        "nasa",
-        "uluslarararasiuzayistasyonu",
+        "çernobil",
+        "radyasyon",
+        "nükleer",
+        "orman",
+        "çevre",
+        "bilim",
+        "ilginçtarih",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Çernobil'de 1986'dan bu yana yerde yatan yapraklar hâlâ çürümemiş durumda. Normalde bir yaprağı toprağa karıştıran milyarlarca bakteri ve mantar, o bölgede radyasyon tarafından yok edildi. Bilim insanları bu alanı 'Kızıl Orman' olarak adlandırıyor; ağaçlar turuncu-kırmızıya dönerek öldü ama ayrışmayı reddediyor. 40 yıldır birikmekte olan bu kuru kütle, tek bir kıvılcımla ne yapabilir sence?",
+      "visual_keywords": [
+        "Chernobyl forest",
+        "red forest nuclear",
+        "abandoned zone",
+        "dead trees radiation"
+      ]
+    },
+    {
+      "topic": "Napolyon'un Boyunun Efsane Olması",
+      "teaser": "Napolyon aslında kısa değildi — bu yanlışlık tarihte en büyük ölçüm hatasından doğdu.",
+      "video_title": "Napolyon Kısa Değildi — Tarihin En Büyük Yanılgısı",
+      "video_description": "Napolyon Bonapart'ın 'bodur' olduğu yüzyıllardır tekrarlanan bir mit. Gerçekte 1.69 metre boyuyla döneminin ortalamasının üzerindeydi. Yanılgı, Fransız ve İngiliz ölçü birimlerinin karıştırılmasından ve düşman karikatüristlerin işinden doğdu.",
+      "tags": [
+        "napolyon",
+        "tarih",
+        "mitler",
+        "fransatarihi",
+        "yanlışbilgiler",
+        "tarihgerçekleri",
+        "ilginç",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Napolyon'un bodur olduğunu düşünüyorsanız, 200 yıldır İngiliz propagandasına inanıyorsunuz demektir. Fransız kayıtlarına göre boyu 5 feet 7 inç, yani yaklaşık 1.69 metreydi — döneminin Fransız erkeği ortalamasının tam üzerinde. Yanılgı, Fransız ve İngiliz inç ölçülerinin birbiriyle karıştırılmasından kaynaklandı. Üstüne bir de düşman karikatüristler onu kasıtlı olarak cüce çizdi. Peki tarihin hangi 'gerçeği' aslında birer propaganda ürünü?",
+      "visual_keywords": [
+        "Napoleon Bonaparte portrait",
+        "historical painting",
+        "French emperor",
+        "vintage caricature"
+      ]
+    },
+    {
+      "topic": "Bebeklerin Diz Kapağı Olmaması",
+      "teaser": "Bebekler diz kapağıyla doğmuyor — ama bu kemikler bir gün aniden ortaya çıkıyor.",
+      "video_title": "Bebekler Diz Kapağı Olmadan Doğuyor — Neden?",
+      "video_description": "Yeni doğan bebekler teknik olarak diz kapağına sahip değil; bu bölge doğumda tamamen kıkırdaktan oluşuyor. Kemikleşme süreci 3 ila 5 yaşları arasında başlıyor ve röntgende ancak o zaman görünür hale geliyor. İnsan iskeletinin en geç oluşan kemiklerinden biri.",
+      "tags": [
+        "insan vücudu",
+        "bebekler",
+        "anatomi",
+        "iskelet",
         "biyoloji",
+        "sağlık",
+        "ilginçbilgi",
         "fyp",
         "foryou",
         "viral"
       ],
-      "script": "Astronotlar Uluslararası Uzay İstasyonu'ndan döndüklerinde 7 santimetreye kadar uzamış olabiliyor. Yerçekimi olmayınca omurlar arasındaki diskler basınçtan kurtulup genişliyor — tıpkı sabah uyandığında birkaç milimetre daha uzun olman gibi, ama çok daha aşırı. Ama asıl sorun şu: Dünya'ya dönerken bu ani geri çekilme ciddi bel ağrısına yol açıyor. Uzay seni hem uzatıyor hem de kırıyor.",
+      "script": "Şu an dizinize dokunun — hissettiğiniz kemik, doğduğunuzda orada yoktu. Bebekler diz kapağı olmadan dünyaya gelir; o bölge ilk yıllarda tamamen kıkırdaktan oluşur ve röntgende görünmez. Yaklaşık 3-5 yaşları arasında kıkırdak yavaş yavaş kemikleşmeye başlar. Evrimsel sebep muhtemelen doğum kanalından geçişi kolaylaştırmak. Peki vücudunuzda hâlâ kıkırdak olarak kalan başka kaç parça var dersiniz?",
       "visual_keywords": [
-        "astronaut floating space station",
-        "spine xray vertebrae",
-        "ISS interior zero gravity",
-        "space weightlessness"
+        "baby skeleton xray",
+        "knee cap anatomy",
+        "infant bones",
+        "human anatomy"
       ]
     },
     {
-      "topic": "Dünyanın En Uzun Yankısı — İskoçya'daki Yeraltı Deposu",
-      "teaser": "Bir ses, tam 112 saniye boyunca hiç bitmeden yankılandı — ve bu dünya rekoru hâlâ kırılamadı.",
-      "video_title": "Dünyanın En Uzun Yankısı 112 Saniye Sürdü",
-      "video_description": "İskoçya'daki Inchindown yeraltı yakıt depolarında ölçülen 112 saniyelik yankı, dünyanın en uzun doğal akustik yankısı olarak kayıtlara geçti.",
+      "topic": "Satürn'ün Yoğunluğu ve Suya Batmaması",
+      "teaser": "Satürn'ü dev bir kovaya koyabilseydiniz, yüzerdi.",
+      "video_title": "Satürn Sudan Hafif — Dev Gezegen Neden Batar?",
+      "video_description": "Güneş sisteminin ikinci büyük gezegeni Satürn, ortalama yoğunluğu bakımından sudan bile hafif. Eğer onu sığdıracak kadar büyük bir kap su olsaydı, Satürn yüzeyde yüzerdi. Bu, onun büyük ölçüde helyum ve hidrojen gazından oluşmasının sonucu.",
       "tags": [
-        "yanki",
-        "akustik",
-        "iskocya",
-        "ses",
+        "satürn",
+        "uzay",
+        "gezegenler",
+        "güneşsistemi",
+        "astronomi",
         "fizik",
-        "doga",
-        "rekor",
+        "ilginçuzay",
         "fyp",
         "foryou",
         "viral"
       ],
-      "script": "Bir silah ateşlendi — ve sesi tam 112 saniye boyunca bitmedi. İskoçya'nın altında, İkinci Dünya Savaşı'ndan kalma devasa bir yakıt deposu var: Inchindown. Beton duvarları o kadar pürüzsüz ki ses, sönmek yerine dakikalarca yansımaya devam ediyor. Bu dünya rekoru 2014'te resmen ölçüldü. Ve o depo hâlâ orada, karanlıkta, sessizce beklemeye devam ediyor.",
+      "script": "Satürn güneş sisteminin ikinci büyük gezegeni ama aynı zamanda en hafifi. Ortalama yoğunluğu metreküp başına sadece 687 kilogram — suyun yoğunluğu ise 1000. Yani yeterince büyük bir kaba su doldurursanız, Satürn içine bırakıldığında dibe değil, yüzeye çıkar. Neredeyse tamamen hidrojen ve helyumdan oluştuğu için bu mümkün. Güneş sisteminin en büyük gezegeni Jüpiter için aynı şey geçerli değil — o batar. Bunları aynı kaba koysaydınız ne olurdu?",
       "visual_keywords": [
-        "underground tunnel concrete corridor",
-        "sound wave visualization",
-        "Scotland bunker interior",
-        "echo cave dark"
+        "Saturn planet rings",
+        "solar system space",
+        "gas giant",
+        "Saturn atmosphere"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Okyanus Oksijeni — Nefes Aldığımız Oksijenin Yarısı Ormandan Değil",
-    "teaser": "Her iki nefesten birini ormanlara borçlu olduğunu sanıyorsun — ama bu tamamen yanlış.",
-    "video_title": "Nefes Aldığın Oksijenin Yarısı Nereden Geliyor?",
-    "video_description": "Okyanus Oksijeni — Nefes Aldığımız Oksijenin Yarısı Ormandan Değil\n\n#fitoplankton #okyanus #oksijen #bilim #dogabilimi",
-    "tags": [
-      "fitoplankton",
-      "okyanus",
-      "oksijen",
-      "bilim",
-      "dogabilimi",
-      "mikrobiyoloji",
-      "deniz",
-      "fyp",
-      "foryou",
-      "viral"
-    ],
-    "script": "Her nefes aldığında ağaçlara teşekkür ediyorsun — ama yanlış adrese gidiyorsun. Dünya oksijeninin tam yarısı, gözle görülemeyen mikroskobik canlılardan geliyor: fitoplanktonlar. Okyanus yüzeyinde trilyonlarca adet yaşıyorlar, her biri tek hücreli. Amazon ormanından daha fazla oksijen üretiyorlar. Ve şu an onlar olmasa, dakikalar içinde nefes alamazdın. Peki onlar yok olursa ne olur?",
-    "visual_keywords": [
-      "ocean surface sunlight",
-      "phytoplankton microscope",
-      "underwater light rays",
-      "ocean waves aerial"
-    ]
-  },
-  "hashtag_options": [
-    "fitoplankton",
-    "okyanus",
-    "oksijen",
-    "bilim",
-    "dogabilimi",
-    "mikrobiyoloji",
-    "deniz",
-    "fyp",
-    "foryou",
-    "viral"
-  ],
-  "hashtag_message_id": 197,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-08-15T09:57:33.096498+00:00",
-  "video_file_id": "BAACAgQAAxkDAAPHaoFYl4F3ArPF-4fkKiulXoYTTPAAAp8eAAJPpwlQNB_mOZlKDFU9BA",
-  "review_started_at": "2026-08-16T06:28:39.559370+00:00",
-  "attempts": 1
+  ]
 }
