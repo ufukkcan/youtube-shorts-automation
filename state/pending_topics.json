@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-17",
   "message_id": 202,
   "created_at": "2026-08-17T13:50:16.691375+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Oktopusların Üç Kalbi ve Mavi Kanı",
@@ -130,5 +130,45 @@
         "Saturn atmosphere"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Oktopusların Üç Kalbi ve Mavi Kanı",
+    "teaser": "Ahtapotun kanı mavi — ve bu onun süper gücünün sırrı.",
+    "video_title": "Ahtapotun 3 Kalbi Var — Biri Durduğunda Ne Olur?",
+    "video_description": "Ahtapotlar yalnızca üç kalple değil, mavi kanla da yaşıyor. Bu kan rengi bir kusur değil, kutup sularında bile hayatta kalmalarını sağlayan evrimsel bir silah. Peki ya o kalpler yüzerken ne yapıyor?",
+    "tags": [
+      "ahtapot",
+      "okyanus",
+      "denizbiyolojisi",
+      "hayvanlar",
+      "evrim",
+      "ilginçbilgiler",
+      "bilim",
+      "fyp",
+      "foryou",
+      "viral"
+    ],
+    "script": "Ahtapot yüzerken üç kalbinden ikisi tamamen durur. Kırmızı kan değil, mavi kan taşır damarlarında — çünkü oksijeni demir değil, bakır taşıyor. Bu mavi kan, sıfırın altındaki sularda bile çalışır; kırmızı kan donup işlevsiz kalırken bakır bazlı hemosyanin aktif kalmaya devam eder. Üstelik her kalp ayrı bir organı besler. Peki üç kalbi olan bir canlı neden sadece birkaç yıl yaşıyor?",
+    "visual_keywords": [
+      "octopus underwater",
+      "blue blood",
+      "ocean deep",
+      "tentacles closeup"
+    ]
+  },
+  "hashtag_options": [
+    "ahtapot",
+    "okyanus",
+    "denizbiyolojisi",
+    "hayvanlar",
+    "evrim",
+    "ilginçbilgiler",
+    "bilim",
+    "fyp",
+    "foryou",
+    "viral"
+  ],
+  "hashtag_message_id": 203,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-18T09:56:02.196374+00:00"
 }
