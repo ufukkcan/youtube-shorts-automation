@@ -1,9 +1,9 @@
 {
   "batch_id": "20260817-1350",
   "trigger_date": "2026-08-17",
-  "message_id": 202,
+  "message_id": 205,
   "created_at": "2026-08-17T13:50:16.691375+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Oktopusların Üç Kalbi ve Mavi Kanı",
@@ -135,7 +135,7 @@
     "topic": "Oktopusların Üç Kalbi ve Mavi Kanı",
     "teaser": "Ahtapotun kanı mavi — ve bu onun süper gücünün sırrı.",
     "video_title": "Ahtapotun 3 Kalbi Var — Biri Durduğunda Ne Olur?",
-    "video_description": "Ahtapotlar yalnızca üç kalple değil, mavi kanla da yaşıyor. Bu kan rengi bir kusur değil, kutup sularında bile hayatta kalmalarını sağlayan evrimsel bir silah. Peki ya o kalpler yüzerken ne yapıyor?",
+    "video_description": "Oktopusların Üç Kalbi ve Mavi Kanı\n\n#ahtapot #okyanus #denizbiyolojisi #hayvanlar #evrim",
     "tags": [
       "ahtapot",
       "okyanus",
@@ -169,6 +169,15 @@
     "viral"
   ],
   "hashtag_message_id": 203,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-18T09:56:02.196374+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-08-18T09:56:02.196374+00:00",
+  "video_file_id": "BAACAgQAAxkDAAPNaoVHxG5Hz7jBeAmj7gnj0nWYJggAAqwgAAIahChQsY0ud_1MLec9BA",
+  "review_started_at": "2026-08-19T06:05:56.917400+00:00",
+  "attempts": 1
 }
