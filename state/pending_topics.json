@@ -1,183 +1,139 @@
 {
-  "batch_id": "20260817-1350",
-  "trigger_date": "2026-08-17",
-  "message_id": 205,
-  "created_at": "2026-08-17T13:50:16.691375+00:00",
-  "status": "error",
+  "batch_id": "20260820-1336",
+  "trigger_date": "2026-08-20",
+  "message_id": 208,
+  "created_at": "2026-08-20T13:36:32.995703+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Oktopusların Üç Kalbi ve Mavi Kanı",
-      "teaser": "Ahtapotun kanı mavi — ve bu onun süper gücünün sırrı.",
-      "video_title": "Ahtapotun 3 Kalbi Var — Biri Durduğunda Ne Olur?",
-      "video_description": "Ahtapotlar yalnızca üç kalple değil, mavi kanla da yaşıyor. Bu kan rengi bir kusur değil, kutup sularında bile hayatta kalmalarını sağlayan evrimsel bir silah. Peki ya o kalpler yüzerken ne yapıyor?",
+      "topic": "Kuzey Yıldızı'nın Sabit Olmadığı Gerçeği",
+      "teaser": "Binlerce yıldır gemicilerin güvendiği Kuzey Yıldızı aslında hiç de sabit değil — üstelik bir gün tamamen değişecek.",
+      "video_title": "Kuzey Yıldızı Hep Aynı Yıldız Değildi",
+      "video_description": "Polaris her zaman kuzey yıldızı olmadı ve olmayacak. Dünya'nın ekseni yavaşça döndükçe kuzey yıldızı da değişiyor. Bu döngü yaklaşık 26.000 yılda bir tamamlanıyor.",
       "tags": [
-        "ahtapot",
-        "okyanus",
-        "denizbiyolojisi",
-        "hayvanlar",
-        "evrim",
-        "ilginçbilgiler",
-        "bilim",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Ahtapot yüzerken üç kalbinden ikisi tamamen durur. Kırmızı kan değil, mavi kan taşır damarlarında — çünkü oksijeni demir değil, bakır taşıyor. Bu mavi kan, sıfırın altındaki sularda bile çalışır; kırmızı kan donup işlevsiz kalırken bakır bazlı hemosyanin aktif kalmaya devam eder. Üstelik her kalp ayrı bir organı besler. Peki üç kalbi olan bir canlı neden sadece birkaç yıl yaşıyor?",
-      "visual_keywords": [
-        "octopus underwater",
-        "blue blood",
-        "ocean deep",
-        "tentacles closeup"
-      ]
-    },
-    {
-      "topic": "Çernobil Ormanı'nın Çürümemesi",
-      "teaser": "Çernobil'deki ağaçlar onlarca yıldır yerde yatıyor — ama hiç çürümüyor.",
-      "video_title": "Çernobil'de Yapraklar Neden Çürümüyor?",
-      "video_description": "1986 patlamasından bu yana Çernobil ormanındaki düşmüş yapraklar ve ağaçlar neredeyse hiç ayrışmadı. Radyasyon, çürümeyi sağlayan mikropları öldürdü — bu da ormanı adeta dondurulmuş bir mezarlığa çevirdi. Doğanın sıfırlama düğmesine basılmış gibi.",
-      "tags": [
-        "çernobil",
-        "radyasyon",
-        "nükleer",
-        "orman",
-        "çevre",
-        "bilim",
-        "ilginçtarih",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Çernobil'de 1986'dan bu yana yerde yatan yapraklar hâlâ çürümemiş durumda. Normalde bir yaprağı toprağa karıştıran milyarlarca bakteri ve mantar, o bölgede radyasyon tarafından yok edildi. Bilim insanları bu alanı 'Kızıl Orman' olarak adlandırıyor; ağaçlar turuncu-kırmızıya dönerek öldü ama ayrışmayı reddediyor. 40 yıldır birikmekte olan bu kuru kütle, tek bir kıvılcımla ne yapabilir sence?",
-      "visual_keywords": [
-        "Chernobyl forest",
-        "red forest nuclear",
-        "abandoned zone",
-        "dead trees radiation"
-      ]
-    },
-    {
-      "topic": "Napolyon'un Boyunun Efsane Olması",
-      "teaser": "Napolyon aslında kısa değildi — bu yanlışlık tarihte en büyük ölçüm hatasından doğdu.",
-      "video_title": "Napolyon Kısa Değildi — Tarihin En Büyük Yanılgısı",
-      "video_description": "Napolyon Bonapart'ın 'bodur' olduğu yüzyıllardır tekrarlanan bir mit. Gerçekte 1.69 metre boyuyla döneminin ortalamasının üzerindeydi. Yanılgı, Fransız ve İngiliz ölçü birimlerinin karıştırılmasından ve düşman karikatüristlerin işinden doğdu.",
-      "tags": [
-        "napolyon",
-        "tarih",
-        "mitler",
-        "fransatarihi",
-        "yanlışbilgiler",
-        "tarihgerçekleri",
-        "ilginç",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Napolyon'un bodur olduğunu düşünüyorsanız, 200 yıldır İngiliz propagandasına inanıyorsunuz demektir. Fransız kayıtlarına göre boyu 5 feet 7 inç, yani yaklaşık 1.69 metreydi — döneminin Fransız erkeği ortalamasının tam üzerinde. Yanılgı, Fransız ve İngiliz inç ölçülerinin birbiriyle karıştırılmasından kaynaklandı. Üstüne bir de düşman karikatüristler onu kasıtlı olarak cüce çizdi. Peki tarihin hangi 'gerçeği' aslında birer propaganda ürünü?",
-      "visual_keywords": [
-        "Napoleon Bonaparte portrait",
-        "historical painting",
-        "French emperor",
-        "vintage caricature"
-      ]
-    },
-    {
-      "topic": "Bebeklerin Diz Kapağı Olmaması",
-      "teaser": "Bebekler diz kapağıyla doğmuyor — ama bu kemikler bir gün aniden ortaya çıkıyor.",
-      "video_title": "Bebekler Diz Kapağı Olmadan Doğuyor — Neden?",
-      "video_description": "Yeni doğan bebekler teknik olarak diz kapağına sahip değil; bu bölge doğumda tamamen kıkırdaktan oluşuyor. Kemikleşme süreci 3 ila 5 yaşları arasında başlıyor ve röntgende ancak o zaman görünür hale geliyor. İnsan iskeletinin en geç oluşan kemiklerinden biri.",
-      "tags": [
-        "insan vücudu",
-        "bebekler",
-        "anatomi",
-        "iskelet",
-        "biyoloji",
-        "sağlık",
-        "ilginçbilgi",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Şu an dizinize dokunun — hissettiğiniz kemik, doğduğunuzda orada yoktu. Bebekler diz kapağı olmadan dünyaya gelir; o bölge ilk yıllarda tamamen kıkırdaktan oluşur ve röntgende görünmez. Yaklaşık 3-5 yaşları arasında kıkırdak yavaş yavaş kemikleşmeye başlar. Evrimsel sebep muhtemelen doğum kanalından geçişi kolaylaştırmak. Peki vücudunuzda hâlâ kıkırdak olarak kalan başka kaç parça var dersiniz?",
-      "visual_keywords": [
-        "baby skeleton xray",
-        "knee cap anatomy",
-        "infant bones",
-        "human anatomy"
-      ]
-    },
-    {
-      "topic": "Satürn'ün Yoğunluğu ve Suya Batmaması",
-      "teaser": "Satürn'ü dev bir kovaya koyabilseydiniz, yüzerdi.",
-      "video_title": "Satürn Sudan Hafif — Dev Gezegen Neden Batar?",
-      "video_description": "Güneş sisteminin ikinci büyük gezegeni Satürn, ortalama yoğunluğu bakımından sudan bile hafif. Eğer onu sığdıracak kadar büyük bir kap su olsaydı, Satürn yüzeyde yüzerdi. Bu, onun büyük ölçüde helyum ve hidrojen gazından oluşmasının sonucu.",
-      "tags": [
-        "satürn",
+        "kuzeyyıldızı",
+        "polaris",
         "uzay",
-        "gezegenler",
-        "güneşsistemi",
         "astronomi",
-        "fizik",
-        "ilginçuzay",
+        "dünya",
+        "gökyüzü",
         "fyp",
         "foryou",
-        "viral"
+        "viral",
+        "kesfet"
       ],
-      "script": "Satürn güneş sisteminin ikinci büyük gezegeni ama aynı zamanda en hafifi. Ortalama yoğunluğu metreküp başına sadece 687 kilogram — suyun yoğunluğu ise 1000. Yani yeterince büyük bir kaba su doldurursanız, Satürn içine bırakıldığında dibe değil, yüzeye çıkar. Neredeyse tamamen hidrojen ve helyumdan oluştuğu için bu mümkün. Güneş sisteminin en büyük gezegeni Jüpiter için aynı şey geçerli değil — o batar. Bunları aynı kaba koysaydınız ne olurdu?",
+      "script": "Binlerce yıl boyunca denizcilerin hayatını kurtaran Kuzey Yıldızı, aslında her zaman Polaris değildi. Dünya'nın ekseni dev bir topaç gibi yavaşça sallantı yapıyor — buna 'presesyon' deniyor. Bundan 5.000 yıl önce kuzey yıldızı Thuban'dı; Mısırlılar piramitleri ona göre hizaladı. Yaklaşık 12.000 yıl sonra ise parlak Vega bu görevi üstlenecek. Peki şu an güvendiğin her şeyin zamanla değişeceğini öğrenmek seni nasıl hissettiriyor?",
       "visual_keywords": [
-        "Saturn planet rings",
-        "solar system space",
-        "gas giant",
-        "Saturn atmosphere"
+        "north star night sky",
+        "star trails long exposure",
+        "ancient compass navigation",
+        "earth axis tilt",
+        "pyramid alignment stars"
+      ]
+    },
+    {
+      "topic": "Bal Hiç Bozulmaz — 3000 Yıllık Bal",
+      "teaser": "Bir arkeolog Mısır mezarında 3.000 yıllık bal buldu ve tattı — hâlâ yenilebilirdi.",
+      "video_title": "3000 Yıllık Bal Hâlâ Yenebilir",
+      "video_description": "Mısır piramitlerinde bulunan balın binlerce yıl sonra bile bozulmadığı kanıtlandı. Balın kimyası onu neredeyse ölümsüz kılıyor. Arkeologlar bu balı gerçekten tattı.",
+      "tags": [
+        "bal",
+        "mısır",
+        "piramit",
+        "arkeoloji",
+        "ilginçbilim",
+        "gıda",
+        "fyp",
+        "foryou",
+        "viral",
+        "kesfet"
+      ],
+      "script": "Bir arkeolog Firavun mezarında 3.000 yıllık bal buldu ve kaşığa döküp tattı — bozulmamıştı. Bal, doğada bozulmayan tek gıda maddesi. Sebebi şaşırtıcı: son derece düşük nem içeriği, yüksek asitliği ve doğal olarak ürettiği hidrojen peroksit bakterilerin yaşamasını imkânsız kılıyor. Arılar bu formülü 40 milyon yıl önce geliştirdi. İnsanlık en gelişmiş koruma yöntemlerini ararken, küçük bir böcek sorunu çoktan çözmüştü.",
+      "visual_keywords": [
+        "golden honey jar closeup",
+        "ancient egypt tomb artifact",
+        "honeycomb beeswax macro",
+        "bees hive slow motion",
+        "archaeology excavation"
+      ]
+    },
+    {
+      "topic": "Ağaçların Yaşlandıkça Daha Hızlı Büyümesi",
+      "teaser": "Bilim insanları yüzyıllarca yanılıyordu — yaşlı ağaçlar yavaşlamıyor, aksine giderek daha hızlı büyüyor.",
+      "video_title": "Yaşlı Ağaçlar Gençlerden Hızlı Büyür",
+      "video_description": "500 yıllık bir ağaç, genç bir fidana kıyasla çok daha fazla karbon emer. Büyük ağaçların yavaşladığı fikri artık çürütüldü. Bu, iklim bilimi için de sonuçları değiştiriyor.",
+      "tags": [
+        "ağaç",
+        "orman",
+        "doğa",
+        "bitki",
+        "iklim",
+        "bilim",
+        "fyp",
+        "foryou",
+        "viral",
+        "kesfet"
+      ],
+      "script": "500 yıllık kocaman bir meşe, genç bir fidandan çok daha hızlı büyüyor — ve bilim insanları bunu ancak 2014'te fark edebildi. Nature dergisinde yayımlanan araştırma 400.000'den fazla ağacı inceledi; sonuç netti: ağaçlar yaşlandıkça büyüme hızı artıyor. Dev ağaçlar tek yılda küçük ağaçların ömür boyu emdiği kadar karbon çekiyor. Yani ormanı korumak, yüzlerce yıllık ağacı korumak demek. Ormanlarımızı hâlâ 'elden çıkarılabilir' görmemiz ne kadar akıllıca?",
+      "visual_keywords": [
+        "ancient giant tree forest",
+        "tree rings close up",
+        "old growth forest canopy",
+        "carbon forest nature",
+        "massive oak tree trunk"
+      ]
+    },
+    {
+      "topic": "İnsanın Renk Körlüğü — Belki Herkeste Var",
+      "teaser": "Renkleri normal gördüğünü düşünüyorsun ama beynin sana şu an bir yalan söylüyor olabilir.",
+      "video_title": "Renkleri Aynı Görmüyoruz — Kimse Görmüyor",
+      "video_description": "İki insan aynı 'kırmızı'ya baksa da beyinleri farklı bir renk işliyor olabilir. Bunu kanıtlamanın bilimsel olarak hiçbir yolu yok. Renk tamamen beynin ürettiği bir yorum.",
+      "tags": [
+        "renk",
+        "beyin",
+        "algı",
+        "psikoloji",
+        "göz",
+        "nörobilim",
+        "fyp",
+        "foryou",
+        "viral",
+        "kesfet"
+      ],
+      "script": "Şu an kırmızı gördüğün rengi başka biri tamamen farklı algılıyor olabilir — ve bunu kanıtlamanın hiçbir yolu yok. Renk, gözde değil beyinde oluşuyor; nöronların ışığı yorumlama biçimi kişiden kişiye değişiyor. Stanford nörobilimcileri, aynı dalga boyuna verilen beyin tepkilerinin bireyler arasında belirgin şekilde farklılaştığını gösterdi. 'Kırmızı' dediğinde ikimiz de anlaşıyoruz, ama zihnindeki tablo bambaşka olabilir. Bu fikir seni rahatsız etti mi?",
+      "visual_keywords": [
+        "colorful paint spectrum",
+        "human eye iris close up",
+        "brain neuron activity",
+        "color perception test",
+        "rainbow light prism"
+      ]
+    },
+    {
+      "topic": "Dünyanın En Büyük Canlısı — Bir Mantar",
+      "teaser": "Dünyanın en büyük canlısı bir balina ya da ağaç değil — toprak altında sessizce yayılıyor ve tam 2.400 yaşında.",
+      "video_title": "Dünyanın En Büyük Canlısı Bir Mantardır",
+      "video_description": "Oregon'da toprak altında yayılan dev bir bal mantarı, 965 hektarı kaplıyor ve tek bir organizma. Yaşı yaklaşık 2.400 yıl. Balinaları, filleri, hatta ormanları geçerek gezegenin en büyük canlısı oldu.",
+      "tags": [
+        "mantar",
+        "doğa",
+        "canlılar",
+        "oregon",
+        "biyoloji",
+        "dünya",
+        "fyp",
+        "foryou",
+        "viral",
+        "kesfet"
+      ],
+      "script": "Dünyanın en büyük canlısı okyanusta yüzmüyor — Oregon'da toprağın altında uzanıyor. Armillaria ostoyae adlı bal mantarı 965 hektar alana yayılmış tek bir organizma; bu 1.300 futbol sahası demek. Yaşı yaklaşık 2.400 yıl. Yüzeyde masum küçük mantarlar görürsün ama hepsi aynı devasa ağın parçası. 2000 yılında keşfedildi ve bilim dünyasını alt üst etti. Sence yeraltında başka ne büyüklükleri saklıyor olabilir?",
+      "visual_keywords": [
+        "honey mushroom forest floor",
+        "underground fungal network",
+        "giant organism aerial view",
+        "Oregon forest dense trees",
+        "mycelium network macro"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Oktopusların Üç Kalbi ve Mavi Kanı",
-    "teaser": "Ahtapotun kanı mavi — ve bu onun süper gücünün sırrı.",
-    "video_title": "Ahtapotun 3 Kalbi Var — Biri Durduğunda Ne Olur?",
-    "video_description": "Oktopusların Üç Kalbi ve Mavi Kanı\n\n#ahtapot #okyanus #denizbiyolojisi #hayvanlar #evrim",
-    "tags": [
-      "ahtapot",
-      "okyanus",
-      "denizbiyolojisi",
-      "hayvanlar",
-      "evrim",
-      "ilginçbilgiler",
-      "bilim",
-      "fyp",
-      "foryou",
-      "viral"
-    ],
-    "script": "Ahtapot yüzerken üç kalbinden ikisi tamamen durur. Kırmızı kan değil, mavi kan taşır damarlarında — çünkü oksijeni demir değil, bakır taşıyor. Bu mavi kan, sıfırın altındaki sularda bile çalışır; kırmızı kan donup işlevsiz kalırken bakır bazlı hemosyanin aktif kalmaya devam eder. Üstelik her kalp ayrı bir organı besler. Peki üç kalbi olan bir canlı neden sadece birkaç yıl yaşıyor?",
-    "visual_keywords": [
-      "octopus underwater",
-      "blue blood",
-      "ocean deep",
-      "tentacles closeup"
-    ]
-  },
-  "hashtag_options": [
-    "ahtapot",
-    "okyanus",
-    "denizbiyolojisi",
-    "hayvanlar",
-    "evrim",
-    "ilginçbilgiler",
-    "bilim",
-    "fyp",
-    "foryou",
-    "viral"
-  ],
-  "hashtag_message_id": 203,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-08-18T09:56:02.196374+00:00",
-  "video_file_id": "BAACAgQAAxkDAAPNaoVHxG5Hz7jBeAmj7gnj0nWYJggAAqwgAAIahChQsY0ud_1MLec9BA",
-  "review_started_at": "2026-08-19T06:05:56.917400+00:00",
-  "attempts": 1
+  ]
 }
