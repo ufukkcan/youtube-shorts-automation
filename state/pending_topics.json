@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-20",
   "message_id": 208,
   "created_at": "2026-08-20T13:36:32.995703+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Kuzey Yıldızı'nın Sabit Olmadığı Gerçeği",
@@ -135,5 +135,46 @@
         "mycelium network macro"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Kuzey Yıldızı'nın Sabit Olmadığı Gerçeği",
+    "teaser": "Binlerce yıldır gemicilerin güvendiği Kuzey Yıldızı aslında hiç de sabit değil — üstelik bir gün tamamen değişecek.",
+    "video_title": "Kuzey Yıldızı Hep Aynı Yıldız Değildi",
+    "video_description": "Polaris her zaman kuzey yıldızı olmadı ve olmayacak. Dünya'nın ekseni yavaşça döndükçe kuzey yıldızı da değişiyor. Bu döngü yaklaşık 26.000 yılda bir tamamlanıyor.",
+    "tags": [
+      "kuzeyyıldızı",
+      "polaris",
+      "uzay",
+      "astronomi",
+      "dünya",
+      "gökyüzü",
+      "fyp",
+      "foryou",
+      "viral",
+      "kesfet"
+    ],
+    "script": "Binlerce yıl boyunca denizcilerin hayatını kurtaran Kuzey Yıldızı, aslında her zaman Polaris değildi. Dünya'nın ekseni dev bir topaç gibi yavaşça sallantı yapıyor — buna 'presesyon' deniyor. Bundan 5.000 yıl önce kuzey yıldızı Thuban'dı; Mısırlılar piramitleri ona göre hizaladı. Yaklaşık 12.000 yıl sonra ise parlak Vega bu görevi üstlenecek. Peki şu an güvendiğin her şeyin zamanla değişeceğini öğrenmek seni nasıl hissettiriyor?",
+    "visual_keywords": [
+      "north star night sky",
+      "star trails long exposure",
+      "ancient compass navigation",
+      "earth axis tilt",
+      "pyramid alignment stars"
+    ]
+  },
+  "hashtag_options": [
+    "kuzeyyıldızı",
+    "polaris",
+    "uzay",
+    "astronomi",
+    "dünya",
+    "gökyüzü",
+    "fyp",
+    "foryou",
+    "viral",
+    "kesfet"
+  ],
+  "hashtag_message_id": 209,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-21T09:47:06.822644+00:00"
 }
