@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-20",
   "message_id": 211,
   "created_at": "2026-08-20T13:36:32.995703+00:00",
-  "status": "reviewing",
+  "status": "error",
   "candidates": [
     {
       "topic": "Kuzey Yıldızı'nın Sabit Olmadığı Gerçeği",
