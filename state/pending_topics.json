@@ -1,189 +1,134 @@
 {
-  "batch_id": "20260820-1336",
-  "trigger_date": "2026-08-20",
-  "message_id": 211,
-  "created_at": "2026-08-20T13:36:32.995703+00:00",
-  "status": "error",
+  "batch_id": "20260823-1350",
+  "trigger_date": "2026-08-23",
+  "message_id": 214,
+  "created_at": "2026-08-23T13:50:43.746531+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Kuzey Yıldızı'nın Sabit Olmadığı Gerçeği",
-      "teaser": "Binlerce yıldır gemicilerin güvendiği Kuzey Yıldızı aslında hiç de sabit değil — üstelik bir gün tamamen değişecek.",
-      "video_title": "Kuzey Yıldızı Hep Aynı Yıldız Değildi",
-      "video_description": "Polaris her zaman kuzey yıldızı olmadı ve olmayacak. Dünya'nın ekseni yavaşça döndükçe kuzey yıldızı da değişiyor. Bu döngü yaklaşık 26.000 yılda bir tamamlanıyor.",
+      "topic": "Ay'da Zaman Daha Yavaş Geçiyor — Relativite Etkisi",
+      "teaser": "Ay'da geçirdiğin her saniye, Dünya'dakinden farklı sürüyor — ve bu sadece bir teori değil.",
+      "video_title": "Ay'da Saat Neden Farklı İşliyor?",
+      "video_description": "Einstein'ın genel görelilik teorisi, yerçekimi ne kadar azsa zamanın o kadar hızlı aktığını söylüyor. Ay'daki saatler Dünya'dakilere göre günde 56 mikrosaniye ileri gidiyor. GPS uydularının düzeltme yapması da bunun yüzünden.",
       "tags": [
-        "kuzeyyıldızı",
-        "polaris",
+        "relativite",
         "uzay",
-        "astronomi",
-        "dünya",
-        "gökyüzü",
-        "fyp",
-        "foryou",
-        "viral",
-        "kesfet"
-      ],
-      "script": "Binlerce yıl boyunca denizcilerin hayatını kurtaran Kuzey Yıldızı, aslında her zaman Polaris değildi. Dünya'nın ekseni dev bir topaç gibi yavaşça sallantı yapıyor — buna 'presesyon' deniyor. Bundan 5.000 yıl önce kuzey yıldızı Thuban'dı; Mısırlılar piramitleri ona göre hizaladı. Yaklaşık 12.000 yıl sonra ise parlak Vega bu görevi üstlenecek. Peki şu an güvendiğin her şeyin zamanla değişeceğini öğrenmek seni nasıl hissettiriyor?",
-      "visual_keywords": [
-        "north star night sky",
-        "star trails long exposure",
-        "ancient compass navigation",
-        "earth axis tilt",
-        "pyramid alignment stars"
-      ]
-    },
-    {
-      "topic": "Bal Hiç Bozulmaz — 3000 Yıllık Bal",
-      "teaser": "Bir arkeolog Mısır mezarında 3.000 yıllık bal buldu ve tattı — hâlâ yenilebilirdi.",
-      "video_title": "3000 Yıllık Bal Hâlâ Yenebilir",
-      "video_description": "Mısır piramitlerinde bulunan balın binlerce yıl sonra bile bozulmadığı kanıtlandı. Balın kimyası onu neredeyse ölümsüz kılıyor. Arkeologlar bu balı gerçekten tattı.",
-      "tags": [
-        "bal",
-        "mısır",
-        "piramit",
-        "arkeoloji",
-        "ilginçbilim",
-        "gıda",
-        "fyp",
-        "foryou",
-        "viral",
-        "kesfet"
-      ],
-      "script": "Bir arkeolog Firavun mezarında 3.000 yıllık bal buldu ve kaşığa döküp tattı — bozulmamıştı. Bal, doğada bozulmayan tek gıda maddesi. Sebebi şaşırtıcı: son derece düşük nem içeriği, yüksek asitliği ve doğal olarak ürettiği hidrojen peroksit bakterilerin yaşamasını imkânsız kılıyor. Arılar bu formülü 40 milyon yıl önce geliştirdi. İnsanlık en gelişmiş koruma yöntemlerini ararken, küçük bir böcek sorunu çoktan çözmüştü.",
-      "visual_keywords": [
-        "golden honey jar closeup",
-        "ancient egypt tomb artifact",
-        "honeycomb beeswax macro",
-        "bees hive slow motion",
-        "archaeology excavation"
-      ]
-    },
-    {
-      "topic": "Ağaçların Yaşlandıkça Daha Hızlı Büyümesi",
-      "teaser": "Bilim insanları yüzyıllarca yanılıyordu — yaşlı ağaçlar yavaşlamıyor, aksine giderek daha hızlı büyüyor.",
-      "video_title": "Yaşlı Ağaçlar Gençlerden Hızlı Büyür",
-      "video_description": "500 yıllık bir ağaç, genç bir fidana kıyasla çok daha fazla karbon emer. Büyük ağaçların yavaşladığı fikri artık çürütüldü. Bu, iklim bilimi için de sonuçları değiştiriyor.",
-      "tags": [
-        "ağaç",
-        "orman",
-        "doğa",
-        "bitki",
-        "iklim",
+        "einstein",
+        "ay",
+        "zaman",
+        "fizik",
         "bilim",
         "fyp",
         "foryou",
-        "viral",
-        "kesfet"
+        "viral"
       ],
-      "script": "500 yıllık kocaman bir meşe, genç bir fidandan çok daha hızlı büyüyor — ve bilim insanları bunu ancak 2014'te fark edebildi. Nature dergisinde yayımlanan araştırma 400.000'den fazla ağacı inceledi; sonuç netti: ağaçlar yaşlandıkça büyüme hızı artıyor. Dev ağaçlar tek yılda küçük ağaçların ömür boyu emdiği kadar karbon çekiyor. Yani ormanı korumak, yüzlerce yıllık ağacı korumak demek. Ormanlarımızı hâlâ 'elden çıkarılabilir' görmemiz ne kadar akıllıca?",
+      "script": "Ay'da bir gün geçirirsen, Dünya'dakilere göre 56 mikrosaniye gençleşmiş olarak dönersin. Einstein bunu 1915'te öngördü: yerçekimi ne kadar zayıfsa zaman o kadar hızlı akar. Ay, Dünya'dan 6 kat daha az çekime sahip, bu yüzden oradaki saatler bizimkilerden ölçülebilir şekilde farklı işliyor. NASA'nın Ay'a baz istasyonu kurma planları bu yüzden ayrı bir saat dilimine ihtiyaç duyuyor. Peki sen hangi zaman diliminde yaşamak isterdin?",
       "visual_keywords": [
-        "ancient giant tree forest",
-        "tree rings close up",
-        "old growth forest canopy",
-        "carbon forest nature",
-        "massive oak tree trunk"
+        "moon surface clock",
+        "space time relativity",
+        "lunar landscape",
+        "NASA astronaut"
       ]
     },
     {
-      "topic": "İnsanın Renk Körlüğü — Belki Herkeste Var",
-      "teaser": "Renkleri normal gördüğünü düşünüyorsun ama beynin sana şu an bir yalan söylüyor olabilir.",
-      "video_title": "Renkleri Aynı Görmüyoruz — Kimse Görmüyor",
-      "video_description": "İki insan aynı 'kırmızı'ya baksa da beyinleri farklı bir renk işliyor olabilir. Bunu kanıtlamanın bilimsel olarak hiçbir yolu yok. Renk tamamen beynin ürettiği bir yorum.",
+      "topic": "İnsan Gözü Kendi Kendine Hareket Eder — Sakkad Hareketi",
+      "teaser": "Gözlerin her gün milyonlarca kez hareket ediyor — ama sen bunların büyük çoğunluğunu hiç fark etmiyorsun.",
+      "video_title": "Gözlerin Seni Kandırıyor — Bunu Bilmiyordun",
+      "video_description": "Gözler anlık ve hızlı sıçramalar yaparak dünyayı tarar; buna 'sakkad' denir. Beyin bu hareketler sırasındaki görüntüyü siler, yoksa her şey bulanık görünürdü. Aynaya baktığında kendi gözlerinin hareket ettiğini görememen de bu yüzdendir.",
       "tags": [
-        "renk",
-        "beyin",
-        "algı",
-        "psikoloji",
         "göz",
-        "nörobilim",
+        "beyin",
+        "sakkad",
+        "insanvücudu",
+        "algı",
+        "biyoloji",
+        "bilim",
         "fyp",
         "foryou",
-        "viral",
-        "kesfet"
+        "viral"
       ],
-      "script": "Şu an kırmızı gördüğün rengi başka biri tamamen farklı algılıyor olabilir — ve bunu kanıtlamanın hiçbir yolu yok. Renk, gözde değil beyinde oluşuyor; nöronların ışığı yorumlama biçimi kişiden kişiye değişiyor. Stanford nörobilimcileri, aynı dalga boyuna verilen beyin tepkilerinin bireyler arasında belirgin şekilde farklılaştığını gösterdi. 'Kırmızı' dediğinde ikimiz de anlaşıyoruz, ama zihnindeki tablo bambaşka olabilir. Bu fikir seni rahatsız etti mi?",
+      "script": "Şu an aynaya bak ve gözlerini bir noktadan diğerine taşı — kendi gözlerinin hareket ettiğini asla göremezsin. Beyin, göz her hareket ettiğinde görüntüyü bilinçten siliyor; aksi hâlde dünya sürekli sallanan bir video gibi görünürdü. Buna sakkad bastırması deniyor ve hayatın boyunca 150 milyon kez gerçekleşiyor. Demek ki şu an baktığın dünya, beynin sana izin verdiği kadarıyla var.",
       "visual_keywords": [
-        "colorful paint spectrum",
-        "human eye iris close up",
-        "brain neuron activity",
-        "color perception test",
-        "rainbow light prism"
+        "human eye closeup",
+        "eye movement tracking",
+        "brain neuroscience",
+        "vision perception"
       ]
     },
     {
-      "topic": "Dünyanın En Büyük Canlısı — Bir Mantar",
-      "teaser": "Dünyanın en büyük canlısı bir balina ya da ağaç değil — toprak altında sessizce yayılıyor ve tam 2.400 yaşında.",
-      "video_title": "Dünyanın En Büyük Canlısı Bir Mantardır",
-      "video_description": "Oregon'da toprak altında yayılan dev bir bal mantarı, 965 hektarı kaplıyor ve tek bir organizma. Yaşı yaklaşık 2.400 yıl. Balinaları, filleri, hatta ormanları geçerek gezegenin en büyük canlısı oldu.",
+      "topic": "Dünyanın En Soğuk Yeri Uzayda Değil — laboratuvarda",
+      "teaser": "Evrenin bilinen en soğuk noktası ne uzayda ne de Antarktika'da — insanlar onu bizzat yarattı.",
+      "video_title": "Evrenden Daha Soğuk Bir Yer Yarattık",
+      "video_description": "Mutlak sıfır teorik olarak -273,15°C'dir ve doğada bu sıcaklığa ulaşılamaz. Ancak MIT fizikçileri 2003'te sodyum atomlarını mutlak sıfırın yalnızca 500 trilyon'da biri derece üstüne soğuttular. Derin uzayın ortalama sıcaklığı -270°C'dir; bu deney onu bile geride bıraktı.",
       "tags": [
-        "mantar",
-        "doğa",
-        "canlılar",
-        "oregon",
-        "biyoloji",
-        "dünya",
+        "mutlaksıfır",
+        "fizik",
+        "soğuk",
+        "MIT",
+        "kuantum",
+        "bilim",
+        "deney",
         "fyp",
         "foryou",
-        "viral",
-        "kesfet"
+        "viral"
       ],
-      "script": "Dünyanın en büyük canlısı okyanusta yüzmüyor — Oregon'da toprağın altında uzanıyor. Armillaria ostoyae adlı bal mantarı 965 hektar alana yayılmış tek bir organizma; bu 1.300 futbol sahası demek. Yaşı yaklaşık 2.400 yıl. Yüzeyde masum küçük mantarlar görürsün ama hepsi aynı devasa ağın parçası. 2000 yılında keşfedildi ve bilim dünyasını alt üst etti. Sence yeraltında başka ne büyüklükleri saklıyor olabilir?",
+      "script": "Derin uzayın sıcaklığı eksi 270 derece — ama insanlar bunu çoktan geride bıraktı. MIT'deki fizikçiler 2003'te bir avuç sodyum atomunu mutlak sıfırın yalnızca 500 trilyonda bir derece üstüne soğuttular; bu, doğada hiçbir yerde rastlanmayan bir rakam. O noktada atomlar neredeyse tamamen durma noktasına geliyor ve kuantum fiziğinin tuhaf kuralları gözle görülür hâle geliyor. İnsanlar evreni kendi laboratuvarında geçti.",
       "visual_keywords": [
-        "honey mushroom forest floor",
-        "underground fungal network",
-        "giant organism aerial view",
-        "Oregon forest dense trees",
-        "mycelium network macro"
+        "laboratory liquid nitrogen",
+        "absolute zero experiment",
+        "cold science lab",
+        "quantum physics"
+      ]
+    },
+    {
+      "topic": "Romalıların Diş Macunu — İdrar Kullanımı",
+      "teaser": "Antik Roma'nın en popüler ağız bakım ürününün içinde ne olduğunu öğrenince bir daha diş fırçalamak isteyeceksin.",
+      "video_title": "Romalılar Dişlerini Bununla Fırçalıyordu",
+      "video_description": "Antik Romalılar diş temizliği için insan ve hayvan idrarı kullanırdı. İdrar içindeki amonyak, güçlü bir temizleme maddesidir ve dişleri beyazlatırdı. Portekiz'den toplanan insan idrarı Roma'ya gemi ile taşınır ve yüksek fiyata satılırdı.",
+      "tags": [
+        "antikroma",
+        "tarih",
+        "dişbakımı",
+        "Roma",
+        "ilginçtarih",
+        "arkeoloji",
+        "merak",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Antik Roma'nın zenginleri dişlerini fırçalamak için Portekiz'den gemilerle getirilen insan idrarına servet ödüyordu. Saçma gelir — ama işe yarıyordu. İdrar içindeki amonyak güçlü bir beyazlatıcıdır ve Romalı dişleri çağdaşlarından çok daha sağlıklıydı. İmparator Vespasian bu idrara o kadar büyük bir pazar gördü ki üzerine özel bir vergi koydu. Tarihin en başarılı ağız bakım markası buymuş meğer.",
+      "visual_keywords": [
+        "ancient Rome ruins",
+        "roman artifacts",
+        "ancient teeth dental",
+        "roman market"
+      ]
+    },
+    {
+      "topic": "Gökyüzünün Maviliği — Diğer Gezegenlerden Farklı",
+      "teaser": "Dünya'da gökyüzü mavidir — ama Mars'ta tam tersi saatte tam tersi renk görünür, ve sebebi seni şaşırtacak.",
+      "video_title": "Mars'ta Gün Batımı Neden Mavi?",
+      "video_description": "Dünya'da gün batımları kırmızı-turuncu görünürken Mars'ta tam tersidir: gündüz gökyüzü pembemsi-kırmızı, gün batımı ise mavi görünür. Bunun nedeni iki gezegenin atmosferindeki toz boyutu ve yoğunluğunun ışığı farklı dağıtmasıdır.",
+      "tags": [
+        "mars",
+        "uzay",
+        "gökyüzü",
+        "günbatımı",
+        "gezegen",
+        "NASA",
+        "astronomi",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Dünya'da gün batımı kırmızıdır — Mars'ta tam tersi. NASA'nın Curiosity robotu bunu 2012'de fotoğrafladı: Mars gökyüzü gündüz pas rengi, gün batımında ise soluk mavi. Sebebi atmosferdeki ince demir tozu; bu toz kırmızı ışığı yayarken mavi ışığı Güneş'in hemen çevresinde tutuyor. Aynı fizik, iki farklı dünyada tam zıt tablolar yaratıyor. Peki orada yaşasaydın mavi gün batımına alışabilir miydin?",
+      "visual_keywords": [
+        "Mars sunset NASA",
+        "red planet sky",
+        "Curiosity rover Mars",
+        "Mars landscape dusk"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Kuzey Yıldızı'nın Sabit Olmadığı Gerçeği",
-    "teaser": "Binlerce yıldır gemicilerin güvendiği Kuzey Yıldızı aslında hiç de sabit değil — üstelik bir gün tamamen değişecek.",
-    "video_title": "Kuzey Yıldızı Hep Aynı Yıldız Değildi",
-    "video_description": "Kuzey Yıldızı'nın Sabit Olmadığı Gerçeği\n\n#kuzeyyıldızı #polaris #uzay #astronomi #dünya",
-    "tags": [
-      "kuzeyyıldızı",
-      "polaris",
-      "uzay",
-      "astronomi",
-      "dünya",
-      "gökyüzü",
-      "fyp",
-      "foryou",
-      "viral",
-      "kesfet"
-    ],
-    "script": "Binlerce yıl boyunca denizcilerin hayatını kurtaran Kuzey Yıldızı, aslında her zaman Polaris değildi. Dünya'nın ekseni dev bir topaç gibi yavaşça sallantı yapıyor — buna 'presesyon' deniyor. Bundan 5.000 yıl önce kuzey yıldızı Thuban'dı; Mısırlılar piramitleri ona göre hizaladı. Yaklaşık 12.000 yıl sonra ise parlak Vega bu görevi üstlenecek. Peki şu an güvendiğin her şeyin zamanla değişeceğini öğrenmek seni nasıl hissettiriyor?",
-    "visual_keywords": [
-      "north star night sky",
-      "star trails long exposure",
-      "ancient compass navigation",
-      "earth axis tilt",
-      "pyramid alignment stars"
-    ]
-  },
-  "hashtag_options": [
-    "kuzeyyıldızı",
-    "polaris",
-    "uzay",
-    "astronomi",
-    "dünya",
-    "gökyüzü",
-    "fyp",
-    "foryou",
-    "viral",
-    "kesfet"
-  ],
-  "hashtag_message_id": 209,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-08-21T09:47:06.822644+00:00",
-  "video_file_id": "BAACAgQAAxkDAAPTaok7-usefY2Bwkt5vf0Qsgwy6f8AAk4eAAIe71FQXBd5zqtPCqg9BA",
-  "review_started_at": "2026-08-22T06:04:42.993867+00:00",
-  "attempts": 1
+  ]
 }
