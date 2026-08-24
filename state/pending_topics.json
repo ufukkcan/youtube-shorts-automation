@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-23",
   "message_id": 214,
   "created_at": "2026-08-23T13:50:43.746531+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Ay'da Zaman Daha Yavaş Geçiyor — Relativite Etkisi",
@@ -130,5 +130,45 @@
         "Mars landscape dusk"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Ay'da Zaman Daha Yavaş Geçiyor — Relativite Etkisi",
+    "teaser": "Ay'da geçirdiğin her saniye, Dünya'dakinden farklı sürüyor — ve bu sadece bir teori değil.",
+    "video_title": "Ay'da Saat Neden Farklı İşliyor?",
+    "video_description": "Einstein'ın genel görelilik teorisi, yerçekimi ne kadar azsa zamanın o kadar hızlı aktığını söylüyor. Ay'daki saatler Dünya'dakilere göre günde 56 mikrosaniye ileri gidiyor. GPS uydularının düzeltme yapması da bunun yüzünden.",
+    "tags": [
+      "relativite",
+      "uzay",
+      "einstein",
+      "ay",
+      "zaman",
+      "fizik",
+      "bilim",
+      "fyp",
+      "foryou",
+      "viral"
+    ],
+    "script": "Ay'da bir gün geçirirsen, Dünya'dakilere göre 56 mikrosaniye gençleşmiş olarak dönersin. Einstein bunu 1915'te öngördü: yerçekimi ne kadar zayıfsa zaman o kadar hızlı akar. Ay, Dünya'dan 6 kat daha az çekime sahip, bu yüzden oradaki saatler bizimkilerden ölçülebilir şekilde farklı işliyor. NASA'nın Ay'a baz istasyonu kurma planları bu yüzden ayrı bir saat dilimine ihtiyaç duyuyor. Peki sen hangi zaman diliminde yaşamak isterdin?",
+    "visual_keywords": [
+      "moon surface clock",
+      "space time relativity",
+      "lunar landscape",
+      "NASA astronaut"
+    ]
+  },
+  "hashtag_options": [
+    "relativite",
+    "uzay",
+    "einstein",
+    "ay",
+    "zaman",
+    "fizik",
+    "bilim",
+    "fyp",
+    "foryou",
+    "viral"
+  ],
+  "hashtag_message_id": 215,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-24T10:13:51.661051+00:00"
 }
