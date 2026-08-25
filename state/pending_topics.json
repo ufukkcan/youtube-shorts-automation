@@ -1,9 +1,9 @@
 {
   "batch_id": "20260823-1350",
   "trigger_date": "2026-08-23",
-  "message_id": 214,
+  "message_id": 217,
   "created_at": "2026-08-23T13:50:43.746531+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Ay'da Zaman Daha Yavaş Geçiyor — Relativite Etkisi",
@@ -135,7 +135,7 @@
     "topic": "Ay'da Zaman Daha Yavaş Geçiyor — Relativite Etkisi",
     "teaser": "Ay'da geçirdiğin her saniye, Dünya'dakinden farklı sürüyor — ve bu sadece bir teori değil.",
     "video_title": "Ay'da Saat Neden Farklı İşliyor?",
-    "video_description": "Einstein'ın genel görelilik teorisi, yerçekimi ne kadar azsa zamanın o kadar hızlı aktığını söylüyor. Ay'daki saatler Dünya'dakilere göre günde 56 mikrosaniye ileri gidiyor. GPS uydularının düzeltme yapması da bunun yüzünden.",
+    "video_description": "Ay'da Zaman Daha Yavaş Geçiyor — Relativite Etkisi\n\n#relativite #uzay #einstein #ay #zaman",
     "tags": [
       "relativite",
       "uzay",
@@ -169,6 +169,15 @@
     "viral"
   ],
   "hashtag_message_id": 215,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-24T10:13:51.661051+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-08-24T10:13:51.661051+00:00",
+  "video_file_id": "BAACAgQAAxkDAAPZao006NJdStvlccx0V1uBfqcuQPsAAjYtAAJRcGlQLHyT-b27fg09BA",
+  "review_started_at": "2026-08-25T06:23:36.346396+00:00",
+  "attempts": 1
 }
