@@ -1,183 +1,139 @@
 {
-  "batch_id": "20260823-1350",
-  "trigger_date": "2026-08-23",
-  "message_id": 217,
-  "created_at": "2026-08-23T13:50:43.746531+00:00",
-  "status": "error",
+  "batch_id": "20260826-1408",
+  "trigger_date": "2026-08-26",
+  "message_id": 220,
+  "created_at": "2026-08-26T14:08:15.222755+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Ay'da Zaman Daha Yavaş Geçiyor — Relativite Etkisi",
-      "teaser": "Ay'da geçirdiğin her saniye, Dünya'dakinden farklı sürüyor — ve bu sadece bir teori değil.",
-      "video_title": "Ay'da Saat Neden Farklı İşliyor?",
-      "video_description": "Einstein'ın genel görelilik teorisi, yerçekimi ne kadar azsa zamanın o kadar hızlı aktığını söylüyor. Ay'daki saatler Dünya'dakilere göre günde 56 mikrosaniye ileri gidiyor. GPS uydularının düzeltme yapması da bunun yüzünden.",
+      "topic": "Ay'da Depremler — Apollo Sismografları",
+      "teaser": "Apollo astronotları Ay'ı terk ederken geride bir şey bıraktı — ve o şey hâlâ titreşiyor.",
+      "video_title": "Ay hâlâ titriyor ve sebebi sizi şaşırtacak",
+      "video_description": "Apollo görevleri sırasında Ay'a bırakılan sismograflar, onlarca yıl boyunca gizemli depremler kaydetti. Bu titreşimlerin bir kısmı saatlerce sürdü ve kaynağı hâlâ tam olarak açıklanamadı.",
       "tags": [
-        "relativite",
+        "aydepreme",
+        "apollo",
         "uzay",
-        "einstein",
-        "ay",
-        "zaman",
-        "fizik",
+        "nasa",
+        "sismograf",
+        "aygizemleri",
         "bilim",
         "fyp",
         "foryou",
         "viral"
       ],
-      "script": "Ay'da bir gün geçirirsen, Dünya'dakilere göre 56 mikrosaniye gençleşmiş olarak dönersin. Einstein bunu 1915'te öngördü: yerçekimi ne kadar zayıfsa zaman o kadar hızlı akar. Ay, Dünya'dan 6 kat daha az çekime sahip, bu yüzden oradaki saatler bizimkilerden ölçülebilir şekilde farklı işliyor. NASA'nın Ay'a baz istasyonu kurma planları bu yüzden ayrı bir saat dilimine ihtiyaç duyuyor. Peki sen hangi zaman diliminde yaşamak isterdin?",
+      "script": "Apollo astronotları Ay'dan ayrılırken kasıtlı olarak kullanılmış roket parçalarını yüzeye çarptırdı — ve Ay tam 55 dakika boyunca bir çan gibi titredi. Ay'a bırakılan sismograflar, hiçbir atmosfer veya su olmadığı için titreşimleri söndürecek hiçbir şeyin bulunmadığını kanıtladı. Peki Ay içten boş mu? Bilim insanları hâlâ kesin bir cevap veremiyor.",
       "visual_keywords": [
-        "moon surface clock",
-        "space time relativity",
+        "moon surface",
+        "Apollo mission",
+        "seismograph",
         "lunar landscape",
-        "NASA astronaut"
+        "astronaut footprint"
       ]
     },
     {
-      "topic": "İnsan Gözü Kendi Kendine Hareket Eder — Sakkad Hareketi",
-      "teaser": "Gözlerin her gün milyonlarca kez hareket ediyor — ama sen bunların büyük çoğunluğunu hiç fark etmiyorsun.",
-      "video_title": "Gözlerin Seni Kandırıyor — Bunu Bilmiyordun",
-      "video_description": "Gözler anlık ve hızlı sıçramalar yaparak dünyayı tarar; buna 'sakkad' denir. Beyin bu hareketler sırasındaki görüntüyü siler, yoksa her şey bulanık görünürdü. Aynaya baktığında kendi gözlerinin hareket ettiğini görememen de bu yüzdendir.",
+      "topic": "Gözyaşlarının Türleri Mikroskopla Farklı Görünür",
+      "teaser": "Mutluluktan ağladığınızda dökülen gözyaşı ile soğan kesince akan gözyaşı mikroskop altında bambaşka görünüyor.",
+      "video_title": "Mutluluk gözyaşı soğan gözyaşından farklı mı?",
+      "video_description": "Mikroskop altında incelenen farklı gözyaşı türleri birbirinden tamamen ayrı kristal yapılar oluşturuyor. Fotoğrafçı Rose-Lynn Fisher bu farkı belgeleyen çarpıcı görüntüler yayımladı.",
       "tags": [
-        "göz",
-        "beyin",
-        "sakkad",
+        "gözyaşı",
+        "mikroskop",
         "insanvücudu",
-        "algı",
+        "bilim",
         "biyoloji",
-        "bilim",
+        "ilginçgerçek",
+        "gözyaşıtürleri",
         "fyp",
         "foryou",
         "viral"
       ],
-      "script": "Şu an aynaya bak ve gözlerini bir noktadan diğerine taşı — kendi gözlerinin hareket ettiğini asla göremezsin. Beyin, göz her hareket ettiğinde görüntüyü bilinçten siliyor; aksi hâlde dünya sürekli sallanan bir video gibi görünürdü. Buna sakkad bastırması deniyor ve hayatın boyunca 150 milyon kez gerçekleşiyor. Demek ki şu an baktığın dünya, beynin sana izin verdiği kadarıyla var.",
+      "script": "Acıdan ağladığınızda dökülen gözyaşı ile soğanın gözünüzü yakmasıyla akan gözyaşı mikroskop altında tamamen farklı kristal desenler oluşturuyor — sanki iki ayrı madde gibi. Duygusal gözyaşları protein ve hormon içerirken refleks gözyaşları neredeyse saf tuzlu su. Yani vücudunuz, hissettiğiniz duyguyu tam anlamıyla dökülmüş kristallere kodluyor. Siz hangisinin daha güzel göründüğünü merak ettiniz mi?",
       "visual_keywords": [
-        "human eye closeup",
-        "eye movement tracking",
-        "brain neuroscience",
-        "vision perception"
+        "tear drop microscope",
+        "crystal structure",
+        "macro photography",
+        "human eye",
+        "emotional closeup"
       ]
     },
     {
-      "topic": "Dünyanın En Soğuk Yeri Uzayda Değil — laboratuvarda",
-      "teaser": "Evrenin bilinen en soğuk noktası ne uzayda ne de Antarktika'da — insanlar onu bizzat yarattı.",
-      "video_title": "Evrenden Daha Soğuk Bir Yer Yarattık",
-      "video_description": "Mutlak sıfır teorik olarak -273,15°C'dir ve doğada bu sıcaklığa ulaşılamaz. Ancak MIT fizikçileri 2003'te sodyum atomlarını mutlak sıfırın yalnızca 500 trilyon'da biri derece üstüne soğuttular. Derin uzayın ortalama sıcaklığı -270°C'dir; bu deney onu bile geride bıraktı.",
+      "topic": "Dünyanın En Uzun Savaşı — 335 Yıl",
+      "teaser": "Tarihin en uzun savaşı 335 yıl sürdü — ama tek bir kurşun bile atılmadı.",
+      "video_title": "335 yıl süren savaşta tek kurşun atılmadı",
+      "video_description": "Hollanda ile İngiliz Scilly Adaları arasındaki savaş, 1651'de başladı ve resmi barış antlaşması 1986'ya kadar imzalanmadı. Bu süre zarfında hiç çatışma yaşanmadı çünkü iki taraf da savaş halinde olduklarını unutmuştu.",
       "tags": [
-        "mutlaksıfır",
-        "fizik",
-        "soğuk",
-        "MIT",
-        "kuantum",
-        "bilim",
-        "deney",
-        "fyp",
-        "foryou",
-        "viral"
-      ],
-      "script": "Derin uzayın sıcaklığı eksi 270 derece — ama insanlar bunu çoktan geride bıraktı. MIT'deki fizikçiler 2003'te bir avuç sodyum atomunu mutlak sıfırın yalnızca 500 trilyonda bir derece üstüne soğuttular; bu, doğada hiçbir yerde rastlanmayan bir rakam. O noktada atomlar neredeyse tamamen durma noktasına geliyor ve kuantum fiziğinin tuhaf kuralları gözle görülür hâle geliyor. İnsanlar evreni kendi laboratuvarında geçti.",
-      "visual_keywords": [
-        "laboratory liquid nitrogen",
-        "absolute zero experiment",
-        "cold science lab",
-        "quantum physics"
-      ]
-    },
-    {
-      "topic": "Romalıların Diş Macunu — İdrar Kullanımı",
-      "teaser": "Antik Roma'nın en popüler ağız bakım ürününün içinde ne olduğunu öğrenince bir daha diş fırçalamak isteyeceksin.",
-      "video_title": "Romalılar Dişlerini Bununla Fırçalıyordu",
-      "video_description": "Antik Romalılar diş temizliği için insan ve hayvan idrarı kullanırdı. İdrar içindeki amonyak, güçlü bir temizleme maddesidir ve dişleri beyazlatırdı. Portekiz'den toplanan insan idrarı Roma'ya gemi ile taşınır ve yüksek fiyata satılırdı.",
-      "tags": [
-        "antikroma",
+        "scillysavaşı",
+        "hollanda",
         "tarih",
-        "dişbakımı",
-        "Roma",
         "ilginçtarih",
-        "arkeoloji",
-        "merak",
+        "savaş",
+        "dünyatarihi",
+        "bilinmeyentarih",
         "fyp",
         "foryou",
         "viral"
       ],
-      "script": "Antik Roma'nın zenginleri dişlerini fırçalamak için Portekiz'den gemilerle getirilen insan idrarına servet ödüyordu. Saçma gelir — ama işe yarıyordu. İdrar içindeki amonyak güçlü bir beyazlatıcıdır ve Romalı dişleri çağdaşlarından çok daha sağlıklıydı. İmparator Vespasian bu idrara o kadar büyük bir pazar gördü ki üzerine özel bir vergi koydu. Tarihin en başarılı ağız bakım markası buymuş meğer.",
+      "script": "Hollanda ile küçük bir İngiliz adası arasındaki savaş 1651'de başladı — ve 335 yıl boyunca kimse onu bitirmeyi hatırlamadı. Tek bir çatışma yaşanmadı, tek bir asker ölmedi. 1986'da bir tarihçi durumu fark edip iki ülkeyi uyarınca, Hollanda büyükelçisi adaya giderek resmi barış antlaşmasını imzaladı. Tarihin en uzun ve en kansız savaşı böyle sona erdi.",
       "visual_keywords": [
-        "ancient Rome ruins",
-        "roman artifacts",
-        "ancient teeth dental",
-        "roman market"
+        "old war ship",
+        "historical map",
+        "Dutch flag",
+        "Scilly Islands aerial",
+        "peace treaty signing"
       ]
     },
     {
-      "topic": "Gökyüzünün Maviliği — Diğer Gezegenlerden Farklı",
-      "teaser": "Dünya'da gökyüzü mavidir — ama Mars'ta tam tersi saatte tam tersi renk görünür, ve sebebi seni şaşırtacak.",
-      "video_title": "Mars'ta Gün Batımı Neden Mavi?",
-      "video_description": "Dünya'da gün batımları kırmızı-turuncu görünürken Mars'ta tam tersidir: gündüz gökyüzü pembemsi-kırmızı, gün batımı ise mavi görünür. Bunun nedeni iki gezegenin atmosferindeki toz boyutu ve yoğunluğunun ışığı farklı dağıtmasıdır.",
+      "topic": "Karıncaların Uyku Düzeni",
+      "teaser": "Karıncalar hiç uyumaz diye düşünüyorsanız — yanılıyorsunuz, hem de çok ilginç bir şekilde.",
+      "video_title": "Karıncalar günde 250 kez uyuyor",
+      "video_description": "Araştırmalar, işçi karıncaların günde yaklaşık 250 kez şekerleme yaptığını ortaya koydu. Her şekerleme yalnızca 1 dakika sürüyor. Kraliçe karıncalar ise çok daha uzun ve derin uyuyor.",
       "tags": [
-        "mars",
-        "uzay",
-        "gökyüzü",
-        "günbatımı",
-        "gezegen",
-        "NASA",
-        "astronomi",
+        "karıncalar",
+        "hayvanlar",
+        "uyku",
+        "böcekler",
+        "doğa",
+        "ilginçhayvanlar",
+        "biyoloji",
         "fyp",
         "foryou",
         "viral"
       ],
-      "script": "Dünya'da gün batımı kırmızıdır — Mars'ta tam tersi. NASA'nın Curiosity robotu bunu 2012'de fotoğrafladı: Mars gökyüzü gündüz pas rengi, gün batımında ise soluk mavi. Sebebi atmosferdeki ince demir tozu; bu toz kırmızı ışığı yayarken mavi ışığı Güneş'in hemen çevresinde tutuyor. Aynı fizik, iki farklı dünyada tam zıt tablolar yaratıyor. Peki orada yaşasaydın mavi gün batımına alışabilir miydin?",
+      "script": "Karıncalar hiç uyumaz sanıyorsunuz — ama bir işçi karınca günde tam 250 kez şekerleme yapıyor. Her uyku yalnızca 1 dakika sürüyor. Bu sayede koloni sürekli uyanık kalıyor; her zaman yarısı aktif, yarısı uykuda. Kraliçe karınca ise günde 9 saat kesintisiz uyuyor — çünkü o dinlenirse koloni yaşar, dinlenmezse koloni ölür. Hangi sistemi tercih ederdiniz?",
       "visual_keywords": [
-        "Mars sunset NASA",
-        "red planet sky",
-        "Curiosity rover Mars",
-        "Mars landscape dusk"
+        "ant colony closeup",
+        "macro ant photography",
+        "ant nest",
+        "insect sleep",
+        "worker ants"
+      ]
+    },
+    {
+      "topic": "Işığın Güneş'ten Çıkış Süresi",
+      "teaser": "Şu an güneş ışığını görüyorsunuz — ama o ışık yolculuğuna çok daha önce başlamış olabilir.",
+      "video_title": "Güneş ışığı aslında binlerce yıl önce doğdu",
+      "video_description": "Güneş'in çekirdeğinde üretilen bir foton, yüzeye ulaşmak için ortalama 100.000 ila 170.000 yıl harcıyor. Yüzeyden Dünya'ya ulaşması ise yalnızca 8 dakika sürüyor.",
+      "tags": [
+        "güneş",
+        "ışık",
+        "foton",
+        "uzay",
+        "fizik",
+        "astrofizik",
+        "güneşenerjisi",
+        "fyp",
+        "foryou",
+        "viral"
+      ],
+      "script": "Şu an yüzünüzde hissettiğiniz güneş ışığı, aslında Dünya'ya ulaşmadan yaklaşık 170.000 yıl önce yola çıktı. Güneş'in çekirdeğinde doğan bir foton, katman katman gaz duvarlarına çarparak yüzeye ulaşmak için bu kadar bekliyor. Oradan size gelmesi ise yalnızca 8 dakika. Yani tüm insanlık tarihi boyunca atılan her adım, bu ışık yolculuğunun son saniyelerinde yaşandı.",
+      "visual_keywords": [
+        "sunlight rays",
+        "solar core illustration",
+        "photon journey",
+        "sun surface",
+        "golden sunlight"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Ay'da Zaman Daha Yavaş Geçiyor — Relativite Etkisi",
-    "teaser": "Ay'da geçirdiğin her saniye, Dünya'dakinden farklı sürüyor — ve bu sadece bir teori değil.",
-    "video_title": "Ay'da Saat Neden Farklı İşliyor?",
-    "video_description": "Ay'da Zaman Daha Yavaş Geçiyor — Relativite Etkisi\n\n#relativite #uzay #einstein #ay #zaman",
-    "tags": [
-      "relativite",
-      "uzay",
-      "einstein",
-      "ay",
-      "zaman",
-      "fizik",
-      "bilim",
-      "fyp",
-      "foryou",
-      "viral"
-    ],
-    "script": "Ay'da bir gün geçirirsen, Dünya'dakilere göre 56 mikrosaniye gençleşmiş olarak dönersin. Einstein bunu 1915'te öngördü: yerçekimi ne kadar zayıfsa zaman o kadar hızlı akar. Ay, Dünya'dan 6 kat daha az çekime sahip, bu yüzden oradaki saatler bizimkilerden ölçülebilir şekilde farklı işliyor. NASA'nın Ay'a baz istasyonu kurma planları bu yüzden ayrı bir saat dilimine ihtiyaç duyuyor. Peki sen hangi zaman diliminde yaşamak isterdin?",
-    "visual_keywords": [
-      "moon surface clock",
-      "space time relativity",
-      "lunar landscape",
-      "NASA astronaut"
-    ]
-  },
-  "hashtag_options": [
-    "relativite",
-    "uzay",
-    "einstein",
-    "ay",
-    "zaman",
-    "fizik",
-    "bilim",
-    "fyp",
-    "foryou",
-    "viral"
-  ],
-  "hashtag_message_id": 215,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-08-24T10:13:51.661051+00:00",
-  "video_file_id": "BAACAgQAAxkDAAPZao006NJdStvlccx0V1uBfqcuQPsAAjYtAAJRcGlQLHyT-b27fg09BA",
-  "review_started_at": "2026-08-25T06:23:36.346396+00:00",
-  "attempts": 1
+  ]
 }
