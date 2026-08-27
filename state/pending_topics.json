@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-26",
   "message_id": 220,
   "created_at": "2026-08-26T14:08:15.222755+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Ay'da Depremler — Apollo Sismografları",
@@ -135,5 +135,46 @@
         "golden sunlight"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Ay'da Depremler — Apollo Sismografları",
+    "teaser": "Apollo astronotları Ay'ı terk ederken geride bir şey bıraktı — ve o şey hâlâ titreşiyor.",
+    "video_title": "Ay hâlâ titriyor ve sebebi sizi şaşırtacak",
+    "video_description": "Apollo görevleri sırasında Ay'a bırakılan sismograflar, onlarca yıl boyunca gizemli depremler kaydetti. Bu titreşimlerin bir kısmı saatlerce sürdü ve kaynağı hâlâ tam olarak açıklanamadı.",
+    "tags": [
+      "aydepreme",
+      "apollo",
+      "uzay",
+      "nasa",
+      "sismograf",
+      "aygizemleri",
+      "bilim",
+      "fyp",
+      "foryou",
+      "viral"
+    ],
+    "script": "Apollo astronotları Ay'dan ayrılırken kasıtlı olarak kullanılmış roket parçalarını yüzeye çarptırdı — ve Ay tam 55 dakika boyunca bir çan gibi titredi. Ay'a bırakılan sismograflar, hiçbir atmosfer veya su olmadığı için titreşimleri söndürecek hiçbir şeyin bulunmadığını kanıtladı. Peki Ay içten boş mu? Bilim insanları hâlâ kesin bir cevap veremiyor.",
+    "visual_keywords": [
+      "moon surface",
+      "Apollo mission",
+      "seismograph",
+      "lunar landscape",
+      "astronaut footprint"
+    ]
+  },
+  "hashtag_options": [
+    "aydepreme",
+    "apollo",
+    "uzay",
+    "nasa",
+    "sismograf",
+    "aygizemleri",
+    "bilim",
+    "fyp",
+    "foryou",
+    "viral"
+  ],
+  "hashtag_message_id": 221,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-27T10:38:40.132686+00:00"
 }
