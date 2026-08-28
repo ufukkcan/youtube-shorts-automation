@@ -1,9 +1,9 @@
 {
   "batch_id": "20260826-1408",
   "trigger_date": "2026-08-26",
-  "message_id": 220,
+  "message_id": 223,
   "created_at": "2026-08-26T14:08:15.222755+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Ay'da Depremler — Apollo Sismografları",
@@ -140,7 +140,7 @@
     "topic": "Ay'da Depremler — Apollo Sismografları",
     "teaser": "Apollo astronotları Ay'ı terk ederken geride bir şey bıraktı — ve o şey hâlâ titreşiyor.",
     "video_title": "Ay hâlâ titriyor ve sebebi sizi şaşırtacak",
-    "video_description": "Apollo görevleri sırasında Ay'a bırakılan sismograflar, onlarca yıl boyunca gizemli depremler kaydetti. Bu titreşimlerin bir kısmı saatlerce sürdü ve kaynağı hâlâ tam olarak açıklanamadı.",
+    "video_description": "Ay'da Depremler — Apollo Sismografları\n\n#aydepreme #apollo #uzay #nasa #sismograf",
     "tags": [
       "aydepreme",
       "apollo",
@@ -175,6 +175,15 @@
     "viral"
   ],
   "hashtag_message_id": 221,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-27T10:38:40.132686+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-08-27T10:38:40.132686+00:00",
+  "video_file_id": "BAACAgQAAxkDAAPfapHCKkDpgpMjHAK_6XJsizumkBkAAiceAAImzJFQAAFgaY2dLcqBPQQ",
+  "review_started_at": "2026-08-28T17:15:22.229958+00:00",
+  "attempts": 1
 }
