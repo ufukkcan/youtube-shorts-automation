@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-29",
   "message_id": 230,
   "created_at": "2026-08-29T15:09:10.451257+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Sharks predate trees on Earth",
@@ -135,5 +135,46 @@
         "body science research"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "A day on Venus is longer than its year",
+    "teaser": "On one planet in our solar system, a single day lasts longer than an entire year — and it spins backwards.",
+    "video_title": "On Venus, a Day Is Longer Than a Year",
+    "video_description": "Venus rotates so slowly on its axis that a single Venusian day lasts 243 Earth days — yet it completes a full orbit around the Sun in just 225 days. That means its day is longer than its year. Even stranger, it spins in the opposite direction to most planets.",
+    "tags": [
+      "venus",
+      "solarsystem",
+      "space",
+      "astronomy",
+      "planets",
+      "spacefacts",
+      "universe",
+      "shorts",
+      "viral",
+      "didyouknow"
+    ],
+    "script": "On Venus, the sun rises in the west and sets in the east — because the planet spins backwards. But here's the part that breaks your brain: one day on Venus lasts 243 Earth days. Its orbit around the Sun? Only 225 days. That means a single day there is longer than an entire year. You could celebrate New Year before you even finish breakfast. How is that even physically possible?",
+    "visual_keywords": [
+      "venus planet surface",
+      "solar system orbit",
+      "venus atmosphere",
+      "space planet rotation",
+      "sunrise planet"
+    ]
+  },
+  "hashtag_options": [
+    "venus",
+    "solarsystem",
+    "space",
+    "astronomy",
+    "planets",
+    "spacefacts",
+    "universe",
+    "shorts",
+    "viral",
+    "didyouknow"
+  ],
+  "hashtag_message_id": 231,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-29T15:10:54.923166+00:00"
 }
