@@ -31,7 +31,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import suggest_topics
-from pipeline import next_publish_at_utc, produce_video, upload_video
+from pipeline import produce_video, upload_video
 from telegram_bot import (
     edit_message,
     find_hashtag_toggles,
