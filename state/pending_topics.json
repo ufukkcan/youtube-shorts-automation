@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-29",
   "message_id": 243,
   "created_at": "2026-08-29T15:48:04.507692+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Turritopsis dohrnii — biologically immortal jellyfish",
@@ -133,5 +133,45 @@
         "vast forest landscape"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Tardigrade survival — indestructible microscopic animal",
+    "teaser": "There's an animal alive right now that has survived every mass extinction on Earth — including the one that wiped out the dinosaurs.",
+    "video_title": "The Animal That Survived Every Extinction",
+    "video_description": "Tardigrades are microscopic animals that have survived all five of Earth's mass extinctions. They can endure the vacuum of space, radiation 1,000 times lethal to humans, and temperatures from -272°C to 150°C.",
+    "tags": [
+      "tardigrade",
+      "waterbear",
+      "microscopic",
+      "extinction",
+      "survival",
+      "biology",
+      "sciencefacts",
+      "shorts",
+      "viral",
+      "facts"
+    ],
+    "script": "Something is living on your roof right now that survived every single mass extinction on Earth — including the asteroid that killed the dinosaurs. It's called a tardigrade, and it's less than 1 millimeter long. Send it into the vacuum of space — it survives. Hit it with radiation 1,000 times the lethal human dose — it survives. Freeze it to -272 degrees — it wakes back up. Whatever ends life on Earth, scientists say this thing will probably outlive it.",
+    "visual_keywords": [
+      "tardigrade microscope",
+      "water bear close up",
+      "microscopic organism",
+      "survival extreme conditions"
+    ]
+  },
+  "hashtag_options": [
+    "tardigrade",
+    "waterbear",
+    "microscopic",
+    "extinction",
+    "survival",
+    "biology",
+    "sciencefacts",
+    "shorts",
+    "viral",
+    "facts"
+  ],
+  "hashtag_message_id": 244,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-29T15:56:25.417177+00:00"
 }
