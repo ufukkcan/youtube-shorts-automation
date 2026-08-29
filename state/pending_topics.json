@@ -1,186 +1,139 @@
 {
-  "batch_id": "20260829-1509",
+  "batch_id": "20260829-1523",
   "trigger_date": "2026-08-29",
-  "message_id": 230,
-  "created_at": "2026-08-29T15:09:10.451257+00:00",
-  "status": "error",
+  "message_id": 236,
+  "created_at": "2026-08-29T15:23:51.060686+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Sharks predate trees on Earth",
-      "teaser": "Sharks existed before trees — and that changes everything you thought you knew about ancient Earth.",
-      "video_title": "Sharks Are Older Than Trees (This Is Wild)",
-      "video_description": "Sharks have roamed Earth's oceans for over 450 million years — nearly 90 million years before the first tree ever grew. While sharks evolved and thrived, trees hadn't even been invented by nature yet. This fact quietly rewrites how we picture prehistoric Earth.",
+      "topic": "Bananas are radioactive",
+      "teaser": "Every banana you've ever eaten was slightly radioactive — and nobody told you.",
+      "video_title": "Every Banana You've Eaten Is Radioactive",
+      "video_description": "Bananas contain potassium-40, a naturally radioactive isotope. While a single banana won't harm you, the radiation is real and measurable — and it's even used as an informal unit of measurement by scientists.",
       "tags": [
-        "sharks",
-        "prehistoric",
-        "evolution",
-        "ancientearth",
-        "marinelife",
-        "paleontology",
-        "nature",
+        "banana",
+        "radioactive",
+        "radiation",
+        "potassium",
+        "foodscience",
+        "sciencefacts",
+        "naturescience",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Sharks were already ancient by the time the first tree appeared on Earth. Sharks have existed for 450 million years. Trees? Only 360 million. That means for 90 million years, sharks hunted in oceans on a planet with no forests, no leaves, no shade — just bare rock and open water. The ocean had apex predators before land had plants. So next time someone calls sharks primitive — they outlived almost everything that came after them.",
+      "script": "Every banana you've ever eaten was radioactive. Not metaphorically — literally. Bananas contain potassium-40, a naturally occurring radioactive isotope. Scientists actually invented an unofficial unit called the 'Banana Equivalent Dose' to compare radiation levels. A dental X-ray? About 50 bananas. A flight from New York to London? Roughly 400 bananas. You've been eating tiny doses of radiation your entire life. So — how many bananas is too many?",
       "visual_keywords": [
-        "great white shark underwater",
-        "prehistoric ocean",
-        "ancient forest",
-        "shark fossil",
-        "deep sea"
+        "bananas bunch closeup",
+        "radiation symbol",
+        "science laboratory",
+        "potassium food",
+        "X-ray dental"
       ]
     },
     {
-      "topic": "A day on Venus is longer than its year",
-      "teaser": "On one planet in our solar system, a single day lasts longer than an entire year — and it spins backwards.",
-      "video_title": "On Venus, a Day Is Longer Than a Year",
-      "video_description": "Venus rotates so slowly on its axis that a single Venusian day lasts 243 Earth days — yet it completes a full orbit around the Sun in just 225 days. That means its day is longer than its year. Even stranger, it spins in the opposite direction to most planets.",
+      "topic": "Oxford University older than the Aztec Empire",
+      "teaser": "One of the world's greatest empires rose and fell — and Oxford University was already ancient by then.",
+      "video_title": "Oxford Is Older Than the Entire Aztec Empire",
+      "video_description": "Oxford University began teaching as early as 1096 AD. The Aztec Empire wasn't founded until 1428 — meaning Oxford was already over 300 years old when the Aztecs built Tenochtitlan. History has a strange sense of scale.",
       "tags": [
-        "venus",
-        "solarsystem",
-        "space",
-        "astronomy",
-        "planets",
-        "spacefacts",
-        "universe",
-        "shorts",
-        "viral",
-        "didyouknow"
-      ],
-      "script": "On Venus, the sun rises in the west and sets in the east — because the planet spins backwards. But here's the part that breaks your brain: one day on Venus lasts 243 Earth days. Its orbit around the Sun? Only 225 days. That means a single day there is longer than an entire year. You could celebrate New Year before you even finish breakfast. How is that even physically possible?",
-      "visual_keywords": [
-        "venus planet surface",
-        "solar system orbit",
-        "venus atmosphere",
-        "space planet rotation",
-        "sunrise planet"
-      ]
-    },
-    {
-      "topic": "The inventor of the lobotomy won a Nobel Prize",
-      "teaser": "A doctor received the Nobel Prize for a procedure that destroyed thousands of minds — and it was considered a breakthrough.",
-      "video_title": "The Nobel Prize Winner Who Destroyed Brains",
-      "video_description": "In 1949, António Egas Moniz won the Nobel Prize in Medicine for inventing the lobotomy — a surgery that severed connections in the brain's frontal lobe. Over 40,000 Americans alone underwent the procedure, many left permanently damaged. The prize has never been revoked.",
-      "tags": [
-        "lobotomy",
-        "medicalhistory",
-        "nobelprize",
-        "brainsurgery",
-        "darkhistory",
-        "psychology",
-        "historyofmedicine",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "In 1949, a doctor won the Nobel Prize in Medicine for drilling into people's skulls and cutting their brain apart. António Egas Moniz invented the lobotomy — a procedure performed on over 40,000 Americans, including children. Patients were left unable to feel emotion, make decisions, or live independently. The Nobel committee called it a landmark achievement. That prize has never been taken back. Does a discovery that ruins 40,000 lives deserve the world's highest honor?",
-      "visual_keywords": [
-        "vintage hospital surgery",
-        "human brain anatomy",
-        "medical history 1940s",
-        "neuroscience brain scan",
-        "old operating room"
-      ]
-    },
-    {
-      "topic": "Cleopatra lived closer in time to the Moon landing than to the pyramids",
-      "teaser": "Cleopatra and the Moon landing have something in common that no one ever tells you about the pyramids.",
-      "video_title": "Cleopatra Was Closer to the Moon Landing Than the Pyramids",
-      "video_description": "The Great Pyramid of Giza was built around 2560 BC. Cleopatra lived around 30 BC — making her 2,500 years removed from the pyramids. The Moon landing happened in 1969, just roughly 2,000 years after Cleopatra. She was chronologically closer to Armstrong's footstep than to the pharaohs who built Giza.",
-      "tags": [
-        "cleopatra",
-        "ancientegypt",
-        "pyramids",
-        "moonlanding",
+        "oxford",
+        "aztec",
         "history",
+        "university",
+        "ancienthistory",
         "historyfacts",
-        "timeline",
+        "civilization",
         "shorts",
         "viral",
         "didyouknow"
       ],
-      "script": "Cleopatra never saw the pyramids as ancient ruins — to her, they already were. The Great Pyramid was built in 2560 BC. Cleopatra lived in 30 BC. That's a 2,500-year gap between her and the builders of Giza. The Moon landing? 1969 AD — only about 2,000 years after Cleopatra. She was closer in time to Neil Armstrong stepping on the Moon than to the people who raised the pyramids. History isn't a straight line — it's a loop.",
+      "script": "Oxford University was already 300 years old before the Aztec Empire even existed. Oxford began teaching in 1096. The Aztecs didn't found their empire until 1428. By the time Aztec warriors were building Tenochtitlan, Oxford students had already graduated for over three centuries. The empire that seemed eternal? Gone by 1521. Oxford? Still running. Which one do you think history got right?",
       "visual_keywords": [
-        "Cleopatra ancient egypt",
-        "Great Pyramid of Giza",
-        "moon landing 1969",
-        "ancient ruins timeline",
-        "space history"
+        "Oxford University historic building",
+        "Aztec temple ruins",
+        "ancient civilization",
+        "medieval university",
+        "Tenochtitlan illustration"
       ]
     },
     {
-      "topic": "Humans glow in the dark — just too faint to see",
-      "teaser": "Your body is emitting light right now — not metaphorically, literally — and scientists have captured it on camera.",
-      "video_title": "Your Body Glows in the Dark (You Just Can't See It)",
-      "video_description": "The human body emits biophotons — actual visible light particles — produced by chemical reactions in our cells. The glow is roughly 1,000 times too dim for the naked eye to detect. In 2009, Japanese scientists used ultra-sensitive cameras to photograph this human glow for the first time, revealing it fluctuates throughout the day.",
+      "topic": "Mantis shrimp can see colors humans cannot",
+      "teaser": "There's a creature on Earth that sees an entire universe of color you will never be able to imagine.",
+      "video_title": "This Animal Sees Colors You Can't Even Imagine",
+      "video_description": "Humans see the world through 3 color receptors. The mantis shrimp has 16 — giving it access to colors completely outside human perception, including ultraviolet and infrared. Its punch is also fast enough to boil water on impact.",
       "tags": [
+        "mantisshrimp",
+        "color",
+        "vision",
+        "oceanlife",
+        "marinelife",
+        "biology",
+        "animalkingdom",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "There's a creature that sees colors your brain is physically incapable of processing. The mantis shrimp has 16 types of color receptors. Humans have 3. It perceives ultraviolet light, infrared, and hues that have no name in any human language because no human has ever seen them. It also punches hard enough to shatter aquarium glass. It's been sharing our planet for 400 million years — seeing a world completely invisible to us.",
+      "visual_keywords": [
+        "mantis shrimp underwater",
+        "colorful ocean creature",
+        "marine biology",
+        "rainbow colors",
+        "underwater photography"
+      ]
+    },
+    {
+      "topic": "Stomach acid strong enough to dissolve metal",
+      "teaser": "Inside your body right now, there's an acid powerful enough to dissolve a razor blade.",
+      "video_title": "Your Stomach Acid Can Dissolve a Razor Blade",
+      "video_description": "Human stomach acid (hydrochloric acid) has a pH between 1.5 and 3.5 — corrosive enough to dissolve metal. The only reason it doesn't destroy your stomach is a protective mucus lining that regenerates every two weeks.",
+      "tags": [
+        "stomachacid",
         "humanbody",
-        "biophotons",
+        "biology",
+        "hydrochloric",
+        "digestion",
         "bodyfacts",
         "science",
-        "biology",
-        "humanscience",
-        "lightbody",
+        "shorts",
+        "viral",
+        "didyouknow"
+      ],
+      "script": "Right now, inside your stomach, there's an acid strong enough to dissolve a razor blade. Hydrochloric acid — with a pH as low as 1.5 — can corrode certain metals on contact. The only thing standing between that acid and your own body is a thin layer of mucus. That mucus completely replaces itself every two weeks. If it fails even slightly, the acid starts digesting you from the inside. It's already happened to millions of people — they call it an ulcer.",
+      "visual_keywords": [
+        "stomach anatomy illustration",
+        "acid corrosion metal",
+        "human digestive system",
+        "biology science",
+        "hydrochloric acid laboratory"
+      ]
+    },
+    {
+      "topic": "The Great Wall of China is not visible from space",
+      "teaser": "One of the most repeated facts you learned in school is completely false — and astronauts proved it.",
+      "video_title": "Astronauts Debunked This 'Fact' You Learned in School",
+      "video_description": "Contrary to popular belief, the Great Wall of China cannot be seen from space with the naked eye. Chinese astronaut Yang Liwei confirmed this after his 2003 mission. The wall is simply too narrow — it's like trying to spot a single human hair from two miles away.",
+      "tags": [
+        "greatwall",
+        "china",
+        "space",
+        "myth",
+        "historyfacts",
+        "debunked",
+        "astronaut",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Your body is glowing right now. Not heat — actual light. Human cells produce biophotons, real visible-spectrum light particles, as a byproduct of chemical reactions. In 2009, Japanese scientists used cameras 1,000 times more sensitive than the human eye and photographed people in complete darkness — glowing faintly, brightest in the afternoon, dimming at night. Every person in this room is a slow, silent light source. The only reason you can't see it is that your eyes aren't sensitive enough.",
+      "script": "The Great Wall of China is visible from space — except it's completely false, and a Chinese astronaut proved it. Yang Liwei orbited Earth in 2003 specifically looking for it. He saw nothing. The wall is only about 5 meters wide. Spotting it from orbit would be like seeing a single human hair from two miles away. You were taught this 'fact' in school, it's in encyclopedias — and none of it is real. What else did they get wrong?",
       "visual_keywords": [
-        "human body glowing dark",
-        "biophotons cell light",
-        "scientific camera imaging",
-        "human cells microscope",
-        "body science research"
+        "Great Wall of China aerial view",
+        "space orbit Earth",
+        "astronaut spacecraft",
+        "satellite view landscape",
+        "China landmark"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "A day on Venus is longer than its year",
-    "teaser": "On one planet in our solar system, a single day lasts longer than an entire year — and it spins backwards.",
-    "video_title": "On Venus, a Day Is Longer Than a Year",
-    "video_description": "A day on Venus is longer than its year\n\n#venus #space #astronomy #planets #viral",
-    "tags": [
-      "venus",
-      "solarsystem",
-      "space",
-      "astronomy",
-      "planets",
-      "spacefacts",
-      "universe",
-      "shorts",
-      "viral",
-      "didyouknow"
-    ],
-    "script": "On Venus, the sun rises in the west and sets in the east — because the planet spins backwards. But here's the part that breaks your brain: one day on Venus lasts 243 Earth days. Its orbit around the Sun? Only 225 days. That means a single day there is longer than an entire year. You could celebrate New Year before you even finish breakfast. How is that even physically possible?",
-    "visual_keywords": [
-      "venus planet surface",
-      "solar system orbit",
-      "venus atmosphere",
-      "space planet rotation",
-      "sunrise planet"
-    ]
-  },
-  "hashtag_options": [
-    "venus",
-    "solarsystem",
-    "space",
-    "astronomy",
-    "planets",
-    "spacefacts",
-    "universe",
-    "shorts",
-    "viral",
-    "didyouknow"
-  ],
-  "hashtag_message_id": 231,
-  "selected_hashtags": [
-    0,
-    2,
-    3,
-    4,
-    8
-  ],
-  "hashtag_started_at": "2026-08-29T15:10:54.923166+00:00"
+  ]
 }
