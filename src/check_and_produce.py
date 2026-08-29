@@ -206,7 +206,7 @@ def _handle_review_decision(pending: dict, updates: list[dict]) -> None:
     if decision == "approve" or timed_out:
         if timed_out:
             send_message("Yanit gelmedigi icin mevcut video otomatik onaylanip yukleniyor.")
-        _handle_approval(pending, chosen)
+                _produce_and_upload(pending, chosen)
         return
 
     if decision == "redo":
