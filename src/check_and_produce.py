@@ -1,5 +1,5 @@
 """
-Sik araliklarla calisir (cron, or. her 5-10 dakikada bir). BES asamali surec:
+Sik araliklarla calisir (cron, or. her 5-10 dakikada bir). DORT asamali surec:
 
   asama 0 "aktif dongu yok" -> Telegram'a "video uret" yazildi mi, ya da
                          AUTO_TRIGGER_TIME saatine gelindi mi? Ikisinden biri
@@ -11,14 +11,10 @@ Sik araliklarla calisir (cron, or. her 5-10 dakikada bir). BES asamali surec:
                          videoyu URETIR (henuz YUKLEMEZ) ve onaya Telegram'a
                          gonderir -> durum "reviewing" olur.
   asama 3 "reviewing"          -> Kullanici "Onayla" dedi mi, "Tekrar uret" mi
-                         dedi? Onayladiysa -- PUBLISH_TIME_ISTANBUL ayarliysa
-                         hemen yuklemez, "approved_pending_publish" durumuna
-                         gecer (asama 4); kapaliysa hemen yukler -> "done".
+                         dedi? Onayladiysa YouTube'a yukler (YouTube'un kendi
+                         PUBLISH_TIME_ISTANBUL zamanlamasiyla) -> durum "done".
                          Begenmediyse videoyu YENIDEN URETIR, tekrar onaya
                          sunar -> "reviewing" durumunda kalir (dongu).
-  asama 4 "approved_pending_publish" -> Zamanlanan Istanbul saati geldi mi?
-                         Geldiyse videoyu (yeniden uretip) TikTok'a yukler
-                         -> durum "done".
 
 Kullanici hic yanit vermezse FALLBACK_HOURS sonra ilgili adim otomatik
 ilerletilir, boylece gunluk yayin sonsuza kadar beklemede kalmaz.
@@ -50,8 +46,8 @@ OFFSET_FILE = Path(__file__).resolve().parent.parent / "state" / "telegram_offse
 FALLBACK_HOURS = float(os.environ.get("FALLBACK_HOURS", "20"))
 MAX_REDO_ATTEMPTS = int(os.environ.get("MAX_REDO_ATTEMPTS", "5"))
 N_HASHTAGS_TO_PICK = 5
+# Manuel "video uret" gelmezse gunun dongusu bu Istanbul saatinde kendiliginden baslar.
 AUTO_TRIGGER_TIME = os.environ.get("AUTO_TRIGGER_TIME", "20:00")
-PUBLISH_TIME_ISTANBUL = os.environ.get("PUBLISH_TIME_ISTANBUL", "20:00")
 ISTANBUL = ZoneInfo("Europe/Istanbul")
 
 
@@ -60,15 +56,15 @@ def run() -> None:
     pending = _load_json(PENDING_FILE)
     today = datetime.now(ISTANBUL).date().isoformat()
 
+    # "video uret" HER ZAMAN, mevcut durum ne olursa olsun (bir cycle aktif
+    # olsa/tikanmis olsa bile) mevcut durumu sifirlayip YENI BIR DONGU baslatir.
     if find_manual_trigger(updates):
         send_message("Alindi! Yeni bir konu listesi hazirlaniyor (mevcut durum sifirlaniyor)...")
         print("Manuel tetikleme alindi -- mevcut durumdan bagimsiz olarak yeni dongu baslatiliyor (force).")
         suggest_topics.run(force=True)
         return
 
-    active_cycle = bool(pending) and pending.get("status") in (
-        "pending", "selecting_hashtags", "reviewing", "approved_pending_publish",
-    )
+    active_cycle = bool(pending) and pending.get("status") in ("pending", "selecting_hashtags", "reviewing")
 
     if active_cycle:
         status = pending["status"]
@@ -76,12 +72,12 @@ def run() -> None:
             _handle_topic_selection(pending, updates)
         elif status == "selecting_hashtags":
             _handle_hashtag_selection(pending, updates)
-        elif status == "reviewing":
-            _handle_review_decision(pending, updates)
         else:
-            _handle_scheduled_publish(pending)
+            _handle_review_decision(pending, updates)
         return
 
+    # Su an aktif bir dongu yok (hic olmadi / "done" / "error") ve manuel istek
+    # de yoktu. Otomatik saat tetiklemesi gunde sadece BIR kez calisir.
     started_today = bool(pending) and pending.get("trigger_date") == today
     auto_should_fire = not started_today or pending.get("status") == "error"
 
@@ -126,6 +122,8 @@ def _start_hashtag_selection(pending: dict, chosen: dict) -> None:
 
 
 def _clean_hashtag_candidates(tags: list[str]) -> list[str]:
+    """Etiketleri hashtag'e uygun (bosluksuz, alfanumerik) hale getirir,
+    tekrarlari eler, en fazla 10 tane birakir."""
     cleaned = []
     seen = set()
     for tag in tags:
@@ -206,7 +204,7 @@ def _handle_review_decision(pending: dict, updates: list[dict]) -> None:
     if decision == "approve" or timed_out:
         if timed_out:
             send_message("Yanit gelmedigi icin mevcut video otomatik onaylanip yukleniyor.")
-                _produce_and_upload(pending, chosen)
+        _produce_and_upload(pending, chosen)
         return
 
     if decision == "redo":
@@ -220,35 +218,6 @@ def _handle_review_decision(pending: dict, updates: list[dict]) -> None:
             pending["status"] = "error"
             _save_json(PENDING_FILE, pending)
             raise
-
-
-def _handle_approval(pending: dict, chosen: dict) -> None:
-    """Onaylandi. PUBLISH_TIME_ISTANBUL kapaliysa hemen yukler. Aciksa (TikTok'un
-    YouTube'daki gibi native zamanlanmis yayin ozelligi olmadigi/dogrulanamadigi
-    icin) hemen yuklemek yerine 'approved_pending_publish' durumuna gecip o saat
-    gelene kadar bekler."""
-    if not PUBLISH_TIME_ISTANBUL or PUBLISH_TIME_ISTANBUL.lower() == "off":
-        _produce_and_upload(pending, chosen)
-        return
-
-    target_utc = next_publish_at_utc(PUBLISH_TIME_ISTANBUL)
-    pending["status"] = "approved_pending_publish"
-    pending["scheduled_publish_utc"] = target_utc
-    _save_json(PENDING_FILE, pending)
-    send_message(
-        f"Onaylandi! Video, saat {PUBLISH_TIME_ISTANBUL} (Istanbul) yayina alinmak "
-        f"uzere beklemede -- o saat gelince otomatik yuklenecek."
-    )
-
-
-def _handle_scheduled_publish(pending: dict) -> None:
-    target_utc = datetime.fromisoformat(pending["scheduled_publish_utc"].replace("Z", "+00:00"))
-    now_utc = datetime.now(timezone.utc)
-    if now_utc < target_utc:
-        print(f"Zamanlanmis yayin bekleniyor: {pending['scheduled_publish_utc']} (simdi: {now_utc.isoformat()})")
-        return
-    print("Zamanlanmis yayin saati geldi, video uretilip yukleniyor...")
-    _produce_and_upload(pending, pending["candidate"])
 
 
 def _produce_and_send_for_review(pending: dict, chosen: dict, attempt_note: str, is_redo: bool = False) -> None:
@@ -267,12 +236,15 @@ def _produce_and_send_for_review(pending: dict, chosen: dict, attempt_note: str,
 
 
 def _produce_and_upload(pending: dict, chosen: dict) -> None:
-    """Videoyu (yeniden) uretip TikTok'a yukler."""
+    """Onaylanan videoyu YENIDEN URETIP YouTube'a yukler. Not: Telegram Bot
+    API'nin getFile ile dosya INDIRME siniri 20MB (gonderme siniri 50MB'dir) --
+    shorts videolarimiz genelde bunu asiyor, bu yuzden Telegram'dan geri
+    indirmek yerine ayni icerikle videoyu YENIDEN URETIP oyle yukluyoruz."""
     try:
         with tempfile.TemporaryDirectory() as tmp:
             video_path = produce_video(chosen, Path(tmp))
-            publish_id = upload_video(video_path, chosen)
-        send_message(f"Video TikTok'a yuklendi (publish_id: {publish_id}). Uygulamandan kontrol edebilirsin.")
+            video_id = upload_video(video_path, chosen)
+        send_message(f"Video yayinlandi: https://youtube.com/shorts/{video_id}")
         pending["status"] = "done"
     except Exception as exc:
         send_message(f"Yukleme sirasinda hata olustu: {exc}")
