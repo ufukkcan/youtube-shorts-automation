@@ -58,9 +58,9 @@ Talimatlarin dili ile cikti dili birbirine KARISTIRILMAMALI."""
 CANDIDATE_SCHEMA = """{
   "topic": "kisa konu basligi (dahili takip icin)",
   "teaser": "Telegram'da gosterilecek, 1 cumlelik merak uyandirici on izleme (spoiler vermeden, cevabi verme)",
-  "video_title": "TikTok icin tiklanabilir, merak uyandiran baslik (60 karakter alti)",
+  "video_title": "YouTube icin tiklanabilir, merak uyandiran baslik (60 karakter alti)",
   "video_description": "2-3 cumlelik aciklama (kullanilmayabilir, yedek)",
-  "tags": ["TAM OLARAK 10 hashtag adayi, CIKTI DILINDE (asagidaki 'Dil' kuralina uy). Ilk 6-7'si konuyla DOGRUDAN ilgili spesifik hashtag'ler (orn. konu 'Kleopatra' ise 'kleopatra', 'antikmisir', 'tarih' gibi), son 3-4'u ise TikTok'ta kesfet/FYP'ye dusmeye yardimci EVRENSEL/JENERIK hashtag'ler olmali: fyp, foryou, viral, trend, kesfet, bilgi, ilginc gibi (fyp/foryou/viral yaygin oldugu icin degistirilmeden kullanilabilir, digerleri cikti diline cevrilebilir). Her hashtag bosluksuz tek kelime/bitisik olmali."],
+  "tags": ["TAM OLARAK 10 hashtag adayi, CIKTI DILINDE (asagidaki 'Dil' kuralina uy). Ilk 6-7'si konuyla DOGRUDAN ilgili spesifik hashtag'ler (orn. konu 'Cleopatra' ise 'cleopatra', 'ancientegypt', 'history' gibi), son 3-4'u ise YouTube Shorts'ta kesfete dusmeye yardimci EVRENSEL/JENERIK hashtag'ler olmali: shorts, viral, trending, facts, didyouknow gibi. Her hashtag bosluksuz tek kelime/bitisik olmali."],
   "script": "seslendirilecek tam metin, 65-85 kelime, tek paragraf -- ilk cumle SOK EDICI kanca olmali",
   "visual_keywords": ["pexels aramasi icin 3-5 İNGİLİZCE anahtar kelime (cikti dili ne olursa olsun bu alan HER ZAMAN Ingilizce kalir, cunku Pexels'te arama Ingilizce daha iyi sonuc veriyor), konuyla gorsel eslesecek somut nesneler/mekanlar"]
 }"""
@@ -69,7 +69,7 @@ USER_PROMPT_TEMPLATE = """CIKTI DILI: {language}
 (topic, teaser, video_title, video_description, script VE tags alanlarinin
 TAMAMI {language} dilinde olacak -- SADECE visual_keywords her zaman
 Ingilizce kalir, cunku Pexels'te arama Ingilizce daha iyi sonuc veriyor.
-tags icindeki fyp/foryou/viral gibi evrensel hashtag'ler istisna,
+tags icindeki shorts/viral gibi evrensel hashtag'ler istisna,
 degistirilmeden kalabilir.)
 
 Daha once kullanilmis/gosterilmis konular (bunlari TEKRAR ETME): {used_topics}
