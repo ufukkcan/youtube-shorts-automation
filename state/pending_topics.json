@@ -1,189 +1,137 @@
 {
-  "batch_id": "20260829-1523",
+  "batch_id": "20260829-1548",
   "trigger_date": "2026-08-29",
-  "message_id": 239,
-  "created_at": "2026-08-29T15:23:51.060686+00:00",
-  "status": "error",
+  "message_id": 243,
+  "created_at": "2026-08-29T15:48:04.507692+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Bananas are radioactive",
-      "teaser": "Every banana you've ever eaten was slightly radioactive — and nobody told you.",
-      "video_title": "Every Banana You've Eaten Is Radioactive",
-      "video_description": "Bananas contain potassium-40, a naturally radioactive isotope. While a single banana won't harm you, the radiation is real and measurable — and it's even used as an informal unit of measurement by scientists.",
+      "topic": "Turritopsis dohrnii — biologically immortal jellyfish",
+      "teaser": "There's a creature on Earth that scientists say genuinely cannot die of old age — and it lives in the ocean.",
+      "video_title": "The Only Animal That Can't Die of Old Age",
+      "video_description": "The jellyfish Turritopsis dohrnii can reverse its own aging process and return to its juvenile state — indefinitely. Scientists call it the only known biologically immortal animal on Earth.",
       "tags": [
-        "banana",
-        "radioactive",
-        "radiation",
-        "potassium",
-        "foodscience",
-        "sciencefacts",
-        "naturescience",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "Every banana you've ever eaten was radioactive. Not metaphorically — literally. Bananas contain potassium-40, a naturally occurring radioactive isotope. Scientists actually invented an unofficial unit called the 'Banana Equivalent Dose' to compare radiation levels. A dental X-ray? About 50 bananas. A flight from New York to London? Roughly 400 bananas. You've been eating tiny doses of radiation your entire life. So — how many bananas is too many?",
-      "visual_keywords": [
-        "bananas bunch closeup",
-        "radiation symbol",
-        "science laboratory",
-        "potassium food",
-        "X-ray dental"
-      ]
-    },
-    {
-      "topic": "Oxford University older than the Aztec Empire",
-      "teaser": "One of the world's greatest empires rose and fell — and Oxford University was already ancient by then.",
-      "video_title": "Oxford Is Older Than the Entire Aztec Empire",
-      "video_description": "Oxford University began teaching as early as 1096 AD. The Aztec Empire wasn't founded until 1428 — meaning Oxford was already over 300 years old when the Aztecs built Tenochtitlan. History has a strange sense of scale.",
-      "tags": [
-        "oxford",
-        "aztec",
-        "history",
-        "university",
-        "ancienthistory",
-        "historyfacts",
-        "civilization",
-        "shorts",
-        "viral",
-        "didyouknow"
-      ],
-      "script": "Oxford University was already 300 years old before the Aztec Empire even existed. Oxford began teaching in 1096. The Aztecs didn't found their empire until 1428. By the time Aztec warriors were building Tenochtitlan, Oxford students had already graduated for over three centuries. The empire that seemed eternal? Gone by 1521. Oxford? Still running. Which one do you think history got right?",
-      "visual_keywords": [
-        "Oxford University historic building",
-        "Aztec temple ruins",
-        "ancient civilization",
-        "medieval university",
-        "Tenochtitlan illustration"
-      ]
-    },
-    {
-      "topic": "Mantis shrimp can see colors humans cannot",
-      "teaser": "There's a creature on Earth that sees an entire universe of color you will never be able to imagine.",
-      "video_title": "This Animal Sees Colors You Can't Even Imagine",
-      "video_description": "Humans see the world through 3 color receptors. The mantis shrimp has 16 — giving it access to colors completely outside human perception, including ultraviolet and infrared. Its punch is also fast enough to boil water on impact.",
-      "tags": [
-        "mantisshrimp",
-        "color",
-        "vision",
-        "oceanlife",
+        "jellyfish",
+        "immortal",
+        "biology",
         "marinelife",
-        "biology",
-        "animalkingdom",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "There's a creature that sees colors your brain is physically incapable of processing. The mantis shrimp has 16 types of color receptors. Humans have 3. It perceives ultraviolet light, infrared, and hues that have no name in any human language because no human has ever seen them. It also punches hard enough to shatter aquarium glass. It's been sharing our planet for 400 million years — seeing a world completely invisible to us.",
-      "visual_keywords": [
-        "mantis shrimp underwater",
-        "colorful ocean creature",
-        "marine biology",
-        "rainbow colors",
-        "underwater photography"
-      ]
-    },
-    {
-      "topic": "Stomach acid strong enough to dissolve metal",
-      "teaser": "Inside your body right now, there's an acid powerful enough to dissolve a razor blade.",
-      "video_title": "Your Stomach Acid Can Dissolve a Razor Blade",
-      "video_description": "Human stomach acid (hydrochloric acid) has a pH between 1.5 and 3.5 — corrosive enough to dissolve metal. The only reason it doesn't destroy your stomach is a protective mucus lining that regenerates every two weeks.",
-      "tags": [
-        "stomachacid",
-        "humanbody",
-        "biology",
-        "hydrochloric",
-        "digestion",
-        "bodyfacts",
+        "turritopsis",
+        "oceanfacts",
         "science",
         "shorts",
         "viral",
-        "didyouknow"
+        "facts"
       ],
-      "script": "Right now, inside your stomach, there's an acid strong enough to dissolve a razor blade. Hydrochloric acid — with a pH as low as 1.5 — can corrode certain metals on contact. The only thing standing between that acid and your own body is a thin layer of mucus. That mucus completely replaces itself every two weeks. If it fails even slightly, the acid starts digesting you from the inside. It's already happened to millions of people — they call it an ulcer.",
+      "script": "This jellyfish discovered in the Mediterranean in 1883 cannot die of old age — ever. When it gets sick or old, it does something no other animal on Earth can do: it shrinks back into a baby and starts its entire life over. Scientists call it biologically immortal. It can repeat this cycle indefinitely. The real question isn't how it does it — it's why we haven't figured out how to make us do the same.",
       "visual_keywords": [
-        "stomach anatomy illustration",
-        "acid corrosion metal",
-        "human digestive system",
-        "biology science",
-        "hydrochloric acid laboratory"
+        "jellyfish underwater",
+        "glowing jellyfish ocean",
+        "marine biology lab",
+        "mediterranean sea"
       ]
     },
     {
-      "topic": "The Great Wall of China is not visible from space",
-      "teaser": "One of the most repeated facts you learned in school is completely false — and astronauts proved it.",
-      "video_title": "Astronauts Debunked This 'Fact' You Learned in School",
-      "video_description": "Contrary to popular belief, the Great Wall of China cannot be seen from space with the naked eye. Chinese astronaut Yang Liwei confirmed this after his 2003 mission. The wall is simply too narrow — it's like trying to spot a single human hair from two miles away.",
+      "topic": "Voynich Manuscript — undeciphered book",
+      "teaser": "There's a 600-year-old book that the world's best codebreakers, linguists, and AI have all failed to read.",
+      "video_title": "A 600-Year-Old Book Nobody Can Read",
+      "video_description": "The Voynich Manuscript is a 240-page illustrated book written in an unknown script that has never been decoded. NSA cryptographers, World War II codebreakers, and modern AI have all failed to crack it.",
       "tags": [
-        "greatwall",
-        "china",
-        "space",
-        "myth",
-        "historyfacts",
-        "debunked",
-        "astronaut",
+        "voynichmanuscript",
+        "mystery",
+        "history",
+        "unsolved",
+        "cryptography",
+        "ancientmystery",
+        "medievalhistory",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "The Great Wall of China is visible from space — except it's completely false, and a Chinese astronaut proved it. Yang Liwei orbited Earth in 2003 specifically looking for it. He saw nothing. The wall is only about 5 meters wide. Spotting it from orbit would be like seeing a single human hair from two miles away. You were taught this 'fact' in school, it's in encyclopedias — and none of it is real. What else did they get wrong?",
+      "script": "The NSA — the agency that cracked Nazi codes — spent decades trying to read this book and gave up. The Voynich Manuscript, written around 1420, is 240 pages of unknown language, strange plant drawings, and astronomical charts. No alphabet on Earth matches its script. Modern AI analyzed every pattern and still found nothing. Either it's the most elaborate hoax in history — or someone buried a secret so deep no one has ever touched it.",
       "visual_keywords": [
-        "Great Wall of China aerial view",
-        "space orbit Earth",
-        "astronaut spacecraft",
-        "satellite view landscape",
-        "China landmark"
+        "old manuscript pages",
+        "ancient book illustration",
+        "cryptography symbols",
+        "medieval document",
+        "library rare books"
+      ]
+    },
+    {
+      "topic": "Tardigrade survival — indestructible microscopic animal",
+      "teaser": "There's an animal alive right now that has survived every mass extinction on Earth — including the one that wiped out the dinosaurs.",
+      "video_title": "The Animal That Survived Every Extinction",
+      "video_description": "Tardigrades are microscopic animals that have survived all five of Earth's mass extinctions. They can endure the vacuum of space, radiation 1,000 times lethal to humans, and temperatures from -272°C to 150°C.",
+      "tags": [
+        "tardigrade",
+        "waterbear",
+        "microscopic",
+        "extinction",
+        "survival",
+        "biology",
+        "sciencefacts",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "Something is living on your roof right now that survived every single mass extinction on Earth — including the asteroid that killed the dinosaurs. It's called a tardigrade, and it's less than 1 millimeter long. Send it into the vacuum of space — it survives. Hit it with radiation 1,000 times the lethal human dose — it survives. Freeze it to -272 degrees — it wakes back up. Whatever ends life on Earth, scientists say this thing will probably outlive it.",
+      "visual_keywords": [
+        "tardigrade microscope",
+        "water bear close up",
+        "microscopic organism",
+        "survival extreme conditions"
+      ]
+    },
+    {
+      "topic": "The Library of Alexandria — what was actually lost",
+      "teaser": "Everyone knows the Library of Alexandria burned — but almost nobody knows what was actually inside it when it did.",
+      "video_title": "What Really Burned in Alexandria",
+      "video_description": "The Library of Alexandria held an estimated 400,000 to 700,000 scrolls — including works on surgery, astronomy, and mathematics that took humanity over 1,000 years to rediscover after they were lost.",
+      "tags": [
+        "alexandria",
+        "library",
+        "ancienthistory",
+        "history",
+        "lostknowledge",
+        "egypt",
+        "civilization",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "When the Library of Alexandria burned, we didn't just lose books. We lost surgical techniques that took medicine 1,400 years to rediscover. We lost star maps accurate enough to rival modern telescopes. We lost up to 700,000 scrolls — most of them the only copies on Earth. Some historians believe the Industrial Revolution could have happened in the year 500 AD if that library had survived. Think about what world we'd be living in right now.",
+      "visual_keywords": [
+        "ancient library ruins",
+        "old scrolls papyrus",
+        "Alexandria Egypt",
+        "burning ancient manuscripts",
+        "roman empire ruins"
+      ]
+    },
+    {
+      "topic": "The Pando tree — world's largest single organism (by mass)",
+      "teaser": "There's a single living organism in Utah that is 80,000 years old and covers 43 hectares — and it's slowly dying.",
+      "video_title": "One Organism, 80,000 Years Old — Dying Now",
+      "video_description": "Pando is a colony of quaking aspen trees in Utah that share a single root system, making them one organism. Weighing 6 million kilograms and spanning 43 hectares, it is the largest known organism on Earth by mass — and it is shrinking.",
+      "tags": [
+        "pando",
+        "aspen",
+        "largestorganism",
+        "nature",
+        "biology",
+        "utah",
+        "ecology",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "What looks like a forest in Utah is actually a single living organism — one root system, one genetic code, 47,000 trunks. It's called Pando, it weighs 6 million kilograms, and it's been alive for at least 80,000 years. It watched the woolly mammoths go extinct. It was already ancient when the pyramids were built. And right now, for the first time in 80 millennia, it is dying — because of us. Does that make you feel anything?",
+      "visual_keywords": [
+        "aspen forest Utah",
+        "golden aspen trees",
+        "autumn forest aerial",
+        "tree roots underground",
+        "vast forest landscape"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Great Wall of China is not visible from space",
-    "teaser": "One of the most repeated facts you learned in school is completely false — and astronauts proved it.",
-    "video_title": "Astronauts Debunked This 'Fact' You Learned in School",
-    "video_description": "The Great Wall of China is not visible from space\n\n#greatwall #space #historyfacts #astronaut #viral",
-    "tags": [
-      "greatwall",
-      "china",
-      "space",
-      "myth",
-      "historyfacts",
-      "debunked",
-      "astronaut",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "The Great Wall of China is visible from space — except it's completely false, and a Chinese astronaut proved it. Yang Liwei orbited Earth in 2003 specifically looking for it. He saw nothing. The wall is only about 5 meters wide. Spotting it from orbit would be like seeing a single human hair from two miles away. You were taught this 'fact' in school, it's in encyclopedias — and none of it is real. What else did they get wrong?",
-    "visual_keywords": [
-      "Great Wall of China aerial view",
-      "space orbit Earth",
-      "astronaut spacecraft",
-      "satellite view landscape",
-      "China landmark"
-    ]
-  },
-  "hashtag_options": [
-    "greatwall",
-    "china",
-    "space",
-    "myth",
-    "historyfacts",
-    "debunked",
-    "astronaut",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 237,
-  "selected_hashtags": [
-    0,
-    2,
-    4,
-    6,
-    8
-  ],
-  "hashtag_started_at": "2026-08-29T15:25:10.547784+00:00",
-  "video_file_id": "BAACAgQAAxkDAAPvapL6pB8dYHG6uCVBbRMP8E7ubRUAAkofAALjoplQDZTY4PzlglA9BA",
-  "review_started_at": "2026-08-29T15:28:36.572788+00:00",
-  "attempts": 1
+  ]
 }
