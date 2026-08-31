@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-31",
   "message_id": 251,
   "created_at": "2026-08-31T11:52:39.578740+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Honey Badger Venom Immunity",
@@ -135,5 +135,46 @@
         "1900s Russia"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Rasputin's Impossible Death",
+    "teaser": "They poisoned him, shot him, beat him, and drowned him — and he still nearly escaped.",
+    "video_title": "The Man Who Refused to Die — Rasputin",
+    "video_description": "In December 1916, Russian mystic Rasputin was poisoned with cyanide-laced food, shot multiple times, beaten, and thrown into a frozen river — yet he reportedly kept moving at several stages. The exact sequence of events remains disputed by historians and forensic experts.",
+    "tags": [
+      "rasputin",
+      "russia",
+      "history",
+      "mystery",
+      "romanov",
+      "historyfacts",
+      "truecrime",
+      "shorts",
+      "viral",
+      "facts"
+    ],
+    "script": "In December 1916, a group of Russian nobles fed Rasputin enough cyanide to kill five men. He drank wine laced with it and ate the poisoned cakes. Nothing happened. So they shot him. He fell. Then he got up. They beat him and shot him again — three more times. Then they tied him up and threw him into a frozen river. The autopsy found water in his lungs. He was still alive when he hit the water. Was he simply impossible to kill, or was the whole story exaggerated to protect someone?",
+    "visual_keywords": [
+      "Rasputin portrait",
+      "Russian palace",
+      "winter river",
+      "historical mystery",
+      "1900s Russia"
+    ]
+  },
+  "hashtag_options": [
+    "rasputin",
+    "russia",
+    "history",
+    "mystery",
+    "romanov",
+    "historyfacts",
+    "truecrime",
+    "shorts",
+    "viral",
+    "facts"
+  ],
+  "hashtag_message_id": 252,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-31T12:29:56.156470+00:00"
 }
