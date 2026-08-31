@@ -1,9 +1,9 @@
 {
   "batch_id": "20260831-1152",
   "trigger_date": "2026-08-31",
-  "message_id": 251,
+  "message_id": 254,
   "created_at": "2026-08-31T11:52:39.578740+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Honey Badger Venom Immunity",
@@ -140,7 +140,7 @@
     "topic": "Rasputin's Impossible Death",
     "teaser": "They poisoned him, shot him, beat him, and drowned him — and he still nearly escaped.",
     "video_title": "The Man Who Refused to Die — Rasputin",
-    "video_description": "In December 1916, Russian mystic Rasputin was poisoned with cyanide-laced food, shot multiple times, beaten, and thrown into a frozen river — yet he reportedly kept moving at several stages. The exact sequence of events remains disputed by historians and forensic experts.",
+    "video_description": "Rasputin's Impossible Death\n\n#rasputin #russia #romanov #shorts #viral",
     "tags": [
       "rasputin",
       "russia",
@@ -175,6 +175,15 @@
     "facts"
   ],
   "hashtag_message_id": 252,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-31T12:29:56.156470+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    4,
+    7,
+    8
+  ],
+  "hashtag_started_at": "2026-08-31T12:29:56.156470+00:00",
+  "video_file_id": "BAACAgQAAxkDAAP-apV0e9zZkQABDJJvMG2dMkkNvrzVAAJkIgACujupUGxkUPlkdISEPQQ",
+  "review_started_at": "2026-08-31T12:32:59.138092+00:00",
+  "attempts": 1
 }
