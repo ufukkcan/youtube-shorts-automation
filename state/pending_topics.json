@@ -1,186 +1,139 @@
 {
-  "batch_id": "20260829-1548",
-  "trigger_date": "2026-08-29",
-  "message_id": 246,
-  "created_at": "2026-08-29T15:48:04.507692+00:00",
-  "status": "done",
+  "batch_id": "20260831-1152",
+  "trigger_date": "2026-08-31",
+  "message_id": 251,
+  "created_at": "2026-08-31T11:52:39.578740+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Turritopsis dohrnii — biologically immortal jellyfish",
-      "teaser": "There's a creature on Earth that scientists say genuinely cannot die of old age — and it lives in the ocean.",
-      "video_title": "The Only Animal That Can't Die of Old Age",
-      "video_description": "The jellyfish Turritopsis dohrnii can reverse its own aging process and return to its juvenile state — indefinitely. Scientists call it the only known biologically immortal animal on Earth.",
+      "topic": "Honey Badger Venom Immunity",
+      "teaser": "This animal gets bitten by a cobra, passes out cold — then wakes up and keeps eating the snake.",
+      "video_title": "This Animal Survives Cobra Bites Like Nothing",
+      "video_description": "The honey badger is almost entirely immune to venom, including cobra and mamba bites. After losing consciousness, it simply wakes up and continues its meal. Scientists still don't fully understand how.",
       "tags": [
-        "jellyfish",
-        "immortal",
-        "biology",
+        "honeybadger",
+        "animals",
+        "venom",
+        "cobra",
+        "wildlife",
+        "animalkingdom",
+        "nature",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "A cobra bites this animal directly in the face. It collapses. Looks dead. Then, two hours later, it stands up, shakes it off, and finishes eating the cobra. The honey badger has protein mutations in its nerve cells that block venom from binding — the same mutation that makes some humans resistant to certain poisons. It doesn't avoid venomous snakes. It hunts them on purpose. What other animal do you think could survive that?",
+      "visual_keywords": [
+        "honey badger",
+        "cobra snake",
+        "wild animal attack",
+        "african wildlife",
+        "venom"
+      ]
+    },
+    {
+      "topic": "The Blue Whale Heart Size",
+      "teaser": "A blue whale's heart is so large, a human could literally crawl through its arteries.",
+      "video_title": "You Could Swim Inside a Blue Whale's Heart",
+      "video_description": "The blue whale's heart weighs around 180 kilograms and its main arteries are wide enough for a child to crawl through. It beats only 2 times per minute when diving. It is the largest heart of any animal ever recorded.",
+      "tags": [
+        "bluewhale",
+        "ocean",
         "marinelife",
-        "turritopsis",
-        "oceanfacts",
+        "whales",
+        "biology",
+        "anatomy",
+        "wildlife",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "A blue whale's heart is the size of a small car — roughly 180 kilograms. Its main artery is so wide a human child could physically crawl through it. When the whale dives deep, that heart slows to just 2 beats per minute to conserve oxygen. At the surface, it jumps back to 37. This single organ pumps 220 liters of blood with every beat. Earth's largest animal has always had the largest heart — but did it evolve that way, or did the ocean force it?",
+      "visual_keywords": [
+        "blue whale",
+        "ocean underwater",
+        "whale heart",
+        "deep sea",
+        "marine biology"
+      ]
+    },
+    {
+      "topic": "The Eiffel Tower Grows in Summer",
+      "teaser": "The Eiffel Tower is a completely different height in summer than in winter — and it's not a small difference.",
+      "video_title": "The Eiffel Tower Changes Height Every Summer",
+      "video_description": "Due to thermal expansion, the iron structure of the Eiffel Tower grows up to 15 centimeters taller in summer heat. The same principle affects bridges, railways, and skyscrapers worldwide. Engineers must account for this in every large metal structure.",
+      "tags": [
+        "eiffeltower",
+        "paris",
+        "science",
+        "physics",
+        "engineering",
+        "thermalexpansion",
+        "architecture",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "The Eiffel Tower is shorter in winter than in summer — by up to 15 centimeters. Iron expands when heated, and the tower's 7,300 tons of metal respond to every degree of temperature change. On a hot Paris afternoon, the entire structure physically grows. This isn't a flaw — engineers knew. Every bridge, railway track, and skyscraper on Earth is designed around the same principle. So the landmark you photographed in July? You've never seen it at its true winter height.",
+      "visual_keywords": [
+        "Eiffel Tower",
+        "Paris landmark",
+        "iron structure",
+        "summer heat",
+        "engineering"
+      ]
+    },
+    {
+      "topic": "Clocks on GPS Satellites Run Faster",
+      "teaser": "Without a correction Einstein predicted over a century ago, every GPS on Earth would be wrong by miles — every single day.",
+      "video_title": "Einstein Keeps Your GPS Accurate Every Day",
+      "video_description": "GPS satellites orbit Earth at high speed and lower gravity, causing their onboard clocks to run faster than clocks on the ground. Without relativistic corrections based on Einstein's equations, GPS systems would accumulate errors of up to 11 kilometers per day.",
+      "tags": [
+        "gps",
+        "einstein",
+        "relativity",
+        "physics",
+        "space",
+        "satellites",
         "science",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "This jellyfish discovered in the Mediterranean in 1883 cannot die of old age — ever. When it gets sick or old, it does something no other animal on Earth can do: it shrinks back into a baby and starts its entire life over. Scientists call it biologically immortal. It can repeat this cycle indefinitely. The real question isn't how it does it — it's why we haven't figured out how to make us do the same.",
+      "script": "Your GPS is wrong right now — and Einstein's math is the only thing fixing it. Satellites orbit 20,000 kilometers above Earth where gravity is weaker, so their clocks tick faster than ours. Without a correction built into every GPS satellite, your location would drift by 11 kilometers every single day. This isn't a software patch. It's Einstein's theory of relativity, published in 1915, baked directly into navigation hardware. Your phone finds a coffee shop because a dead physicist did math no one believed.",
       "visual_keywords": [
-        "jellyfish underwater",
-        "glowing jellyfish ocean",
-        "marine biology lab",
-        "mediterranean sea"
+        "GPS satellite",
+        "space orbit",
+        "navigation map",
+        "Einstein theory",
+        "technology"
       ]
     },
     {
-      "topic": "Voynich Manuscript — undeciphered book",
-      "teaser": "There's a 600-year-old book that the world's best codebreakers, linguists, and AI have all failed to read.",
-      "video_title": "A 600-Year-Old Book Nobody Can Read",
-      "video_description": "The Voynich Manuscript is a 240-page illustrated book written in an unknown script that has never been decoded. NSA cryptographers, World War II codebreakers, and modern AI have all failed to crack it.",
+      "topic": "Rasputin's Impossible Death",
+      "teaser": "They poisoned him, shot him, beat him, and drowned him — and he still nearly escaped.",
+      "video_title": "The Man Who Refused to Die — Rasputin",
+      "video_description": "In December 1916, Russian mystic Rasputin was poisoned with cyanide-laced food, shot multiple times, beaten, and thrown into a frozen river — yet he reportedly kept moving at several stages. The exact sequence of events remains disputed by historians and forensic experts.",
       "tags": [
-        "voynichmanuscript",
+        "rasputin",
+        "russia",
+        "history",
         "mystery",
-        "history",
-        "unsolved",
-        "cryptography",
-        "ancientmystery",
-        "medievalhistory",
+        "romanov",
+        "historyfacts",
+        "truecrime",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "The NSA — the agency that cracked Nazi codes — spent decades trying to read this book and gave up. The Voynich Manuscript, written around 1420, is 240 pages of unknown language, strange plant drawings, and astronomical charts. No alphabet on Earth matches its script. Modern AI analyzed every pattern and still found nothing. Either it's the most elaborate hoax in history — or someone buried a secret so deep no one has ever touched it.",
+      "script": "In December 1916, a group of Russian nobles fed Rasputin enough cyanide to kill five men. He drank wine laced with it and ate the poisoned cakes. Nothing happened. So they shot him. He fell. Then he got up. They beat him and shot him again — three more times. Then they tied him up and threw him into a frozen river. The autopsy found water in his lungs. He was still alive when he hit the water. Was he simply impossible to kill, or was the whole story exaggerated to protect someone?",
       "visual_keywords": [
-        "old manuscript pages",
-        "ancient book illustration",
-        "cryptography symbols",
-        "medieval document",
-        "library rare books"
-      ]
-    },
-    {
-      "topic": "Tardigrade survival — indestructible microscopic animal",
-      "teaser": "There's an animal alive right now that has survived every mass extinction on Earth — including the one that wiped out the dinosaurs.",
-      "video_title": "The Animal That Survived Every Extinction",
-      "video_description": "Tardigrades are microscopic animals that have survived all five of Earth's mass extinctions. They can endure the vacuum of space, radiation 1,000 times lethal to humans, and temperatures from -272°C to 150°C.",
-      "tags": [
-        "tardigrade",
-        "waterbear",
-        "microscopic",
-        "extinction",
-        "survival",
-        "biology",
-        "sciencefacts",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "Something is living on your roof right now that survived every single mass extinction on Earth — including the asteroid that killed the dinosaurs. It's called a tardigrade, and it's less than 1 millimeter long. Send it into the vacuum of space — it survives. Hit it with radiation 1,000 times the lethal human dose — it survives. Freeze it to -272 degrees — it wakes back up. Whatever ends life on Earth, scientists say this thing will probably outlive it.",
-      "visual_keywords": [
-        "tardigrade microscope",
-        "water bear close up",
-        "microscopic organism",
-        "survival extreme conditions"
-      ]
-    },
-    {
-      "topic": "The Library of Alexandria — what was actually lost",
-      "teaser": "Everyone knows the Library of Alexandria burned — but almost nobody knows what was actually inside it when it did.",
-      "video_title": "What Really Burned in Alexandria",
-      "video_description": "The Library of Alexandria held an estimated 400,000 to 700,000 scrolls — including works on surgery, astronomy, and mathematics that took humanity over 1,000 years to rediscover after they were lost.",
-      "tags": [
-        "alexandria",
-        "library",
-        "ancienthistory",
-        "history",
-        "lostknowledge",
-        "egypt",
-        "civilization",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "When the Library of Alexandria burned, we didn't just lose books. We lost surgical techniques that took medicine 1,400 years to rediscover. We lost star maps accurate enough to rival modern telescopes. We lost up to 700,000 scrolls — most of them the only copies on Earth. Some historians believe the Industrial Revolution could have happened in the year 500 AD if that library had survived. Think about what world we'd be living in right now.",
-      "visual_keywords": [
-        "ancient library ruins",
-        "old scrolls papyrus",
-        "Alexandria Egypt",
-        "burning ancient manuscripts",
-        "roman empire ruins"
-      ]
-    },
-    {
-      "topic": "The Pando tree — world's largest single organism (by mass)",
-      "teaser": "There's a single living organism in Utah that is 80,000 years old and covers 43 hectares — and it's slowly dying.",
-      "video_title": "One Organism, 80,000 Years Old — Dying Now",
-      "video_description": "Pando is a colony of quaking aspen trees in Utah that share a single root system, making them one organism. Weighing 6 million kilograms and spanning 43 hectares, it is the largest known organism on Earth by mass — and it is shrinking.",
-      "tags": [
-        "pando",
-        "aspen",
-        "largestorganism",
-        "nature",
-        "biology",
-        "utah",
-        "ecology",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "What looks like a forest in Utah is actually a single living organism — one root system, one genetic code, 47,000 trunks. It's called Pando, it weighs 6 million kilograms, and it's been alive for at least 80,000 years. It watched the woolly mammoths go extinct. It was already ancient when the pyramids were built. And right now, for the first time in 80 millennia, it is dying — because of us. Does that make you feel anything?",
-      "visual_keywords": [
-        "aspen forest Utah",
-        "golden aspen trees",
-        "autumn forest aerial",
-        "tree roots underground",
-        "vast forest landscape"
+        "Rasputin portrait",
+        "Russian palace",
+        "winter river",
+        "historical mystery",
+        "1900s Russia"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Tardigrade survival — indestructible microscopic animal",
-    "teaser": "There's an animal alive right now that has survived every mass extinction on Earth — including the one that wiped out the dinosaurs.",
-    "video_title": "The Animal That Survived Every Extinction",
-    "video_description": "Tardigrade survival — indestructible microscopic animal\n\n#tardigrade #microscopic #survival #sciencefacts #viral",
-    "tags": [
-      "tardigrade",
-      "waterbear",
-      "microscopic",
-      "extinction",
-      "survival",
-      "biology",
-      "sciencefacts",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "Something is living on your roof right now that survived every single mass extinction on Earth — including the asteroid that killed the dinosaurs. It's called a tardigrade, and it's less than 1 millimeter long. Send it into the vacuum of space — it survives. Hit it with radiation 1,000 times the lethal human dose — it survives. Freeze it to -272 degrees — it wakes back up. Whatever ends life on Earth, scientists say this thing will probably outlive it.",
-    "visual_keywords": [
-      "tardigrade microscope",
-      "water bear close up",
-      "microscopic organism",
-      "survival extreme conditions"
-    ]
-  },
-  "hashtag_options": [
-    "tardigrade",
-    "waterbear",
-    "microscopic",
-    "extinction",
-    "survival",
-    "biology",
-    "sciencefacts",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 244,
-  "selected_hashtags": [
-    0,
-    2,
-    4,
-    6,
-    8
-  ],
-  "hashtag_started_at": "2026-08-29T15:56:25.417177+00:00",
-  "video_file_id": "BAACAgQAAxkDAAP2apMCFYZdkY4ecTojd0HVWgXoFK0AAlYfAALjoplQ9nnSMAyxDoI9BA",
-  "review_started_at": "2026-08-29T16:00:21.826102+00:00",
-  "attempts": 1
+  ]
 }
