@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-01",
   "message_id": 256,
   "created_at": "2026-09-01T15:35:25.672360+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "The Mary Celeste — Ghost Ship Mystery",
@@ -135,5 +135,46 @@
         "mind psychology"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "The Baader-Meinhof Phenomenon",
+    "teaser": "The moment you learn something new, you start seeing it absolutely everywhere — and there's a disturbing reason your brain does this.",
+    "video_title": "Why You See Things Everywhere After Learning About Them",
+    "video_description": "The Baader-Meinhof phenomenon, or frequency illusion, is a cognitive bias where something you just noticed suddenly seems to appear constantly. It's not coincidence — your brain is actively filtering reality based on what it decided matters.",
+    "tags": [
+      "baadermeinhof",
+      "brainscience",
+      "psychologyfacts",
+      "cognitivebias",
+      "mindfacts",
+      "psychology",
+      "shorts",
+      "viral",
+      "trending",
+      "didyouknow"
+    ],
+    "script": "You learn a new word, and suddenly you hear it three times that same day. You buy a red car, and now red cars are everywhere. This isn't coincidence — it's your brain lying to you. It's called the Baader-Meinhof phenomenon. Your brain filters out most of reality to save energy. The moment something gets tagged as important, it stops hiding it. Which means the world you see every day is curated by your own past decisions. What else is it hiding?",
+    "visual_keywords": [
+      "human brain neurons",
+      "thought process visualization",
+      "crowd of people",
+      "pattern recognition",
+      "mind psychology"
+    ]
+  },
+  "hashtag_options": [
+    "baadermeinhof",
+    "brainscience",
+    "psychologyfacts",
+    "cognitivebias",
+    "mindfacts",
+    "psychology",
+    "shorts",
+    "viral",
+    "trending",
+    "didyouknow"
+  ],
+  "hashtag_message_id": 257,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-01T16:41:36.092707+00:00"
 }
