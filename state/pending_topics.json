@@ -1,189 +1,139 @@
 {
-  "batch_id": "20260831-1152",
-  "trigger_date": "2026-08-31",
-  "message_id": 254,
-  "created_at": "2026-08-31T11:52:39.578740+00:00",
-  "status": "done",
+  "batch_id": "20260901-1535",
+  "trigger_date": "2026-09-01",
+  "message_id": 256,
+  "created_at": "2026-09-01T15:35:25.672360+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Honey Badger Venom Immunity",
-      "teaser": "This animal gets bitten by a cobra, passes out cold — then wakes up and keeps eating the snake.",
-      "video_title": "This Animal Survives Cobra Bites Like Nothing",
-      "video_description": "The honey badger is almost entirely immune to venom, including cobra and mamba bites. After losing consciousness, it simply wakes up and continues its meal. Scientists still don't fully understand how.",
+      "topic": "The Mary Celeste — Ghost Ship Mystery",
+      "teaser": "A ship found perfectly intact in the middle of the ocean — hot food still on the table, no crew, no bodies, no answers.",
+      "video_title": "A Ship Found Drifting — No Crew, No Clue",
+      "video_description": "In 1872, the Mary Celeste was discovered adrift in the Atlantic with everything untouched — cargo, food, valuables — yet every single person aboard had vanished. No distress signal was ever sent. No explanation has ever been confirmed.",
       "tags": [
-        "honeybadger",
-        "animals",
-        "venom",
-        "cobra",
-        "wildlife",
-        "animalkingdom",
-        "nature",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "A cobra bites this animal directly in the face. It collapses. Looks dead. Then, two hours later, it stands up, shakes it off, and finishes eating the cobra. The honey badger has protein mutations in its nerve cells that block venom from binding — the same mutation that makes some humans resistant to certain poisons. It doesn't avoid venomous snakes. It hunts them on purpose. What other animal do you think could survive that?",
-      "visual_keywords": [
-        "honey badger",
-        "cobra snake",
-        "wild animal attack",
-        "african wildlife",
-        "venom"
-      ]
-    },
-    {
-      "topic": "The Blue Whale Heart Size",
-      "teaser": "A blue whale's heart is so large, a human could literally crawl through its arteries.",
-      "video_title": "You Could Swim Inside a Blue Whale's Heart",
-      "video_description": "The blue whale's heart weighs around 180 kilograms and its main arteries are wide enough for a child to crawl through. It beats only 2 times per minute when diving. It is the largest heart of any animal ever recorded.",
-      "tags": [
-        "bluewhale",
-        "ocean",
-        "marinelife",
-        "whales",
-        "biology",
-        "anatomy",
-        "wildlife",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "A blue whale's heart is the size of a small car — roughly 180 kilograms. Its main artery is so wide a human child could physically crawl through it. When the whale dives deep, that heart slows to just 2 beats per minute to conserve oxygen. At the surface, it jumps back to 37. This single organ pumps 220 liters of blood with every beat. Earth's largest animal has always had the largest heart — but did it evolve that way, or did the ocean force it?",
-      "visual_keywords": [
-        "blue whale",
-        "ocean underwater",
-        "whale heart",
-        "deep sea",
-        "marine biology"
-      ]
-    },
-    {
-      "topic": "The Eiffel Tower Grows in Summer",
-      "teaser": "The Eiffel Tower is a completely different height in summer than in winter — and it's not a small difference.",
-      "video_title": "The Eiffel Tower Changes Height Every Summer",
-      "video_description": "Due to thermal expansion, the iron structure of the Eiffel Tower grows up to 15 centimeters taller in summer heat. The same principle affects bridges, railways, and skyscrapers worldwide. Engineers must account for this in every large metal structure.",
-      "tags": [
-        "eiffeltower",
-        "paris",
-        "science",
-        "physics",
-        "engineering",
-        "thermalexpansion",
-        "architecture",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "The Eiffel Tower is shorter in winter than in summer — by up to 15 centimeters. Iron expands when heated, and the tower's 7,300 tons of metal respond to every degree of temperature change. On a hot Paris afternoon, the entire structure physically grows. This isn't a flaw — engineers knew. Every bridge, railway track, and skyscraper on Earth is designed around the same principle. So the landmark you photographed in July? You've never seen it at its true winter height.",
-      "visual_keywords": [
-        "Eiffel Tower",
-        "Paris landmark",
-        "iron structure",
-        "summer heat",
-        "engineering"
-      ]
-    },
-    {
-      "topic": "Clocks on GPS Satellites Run Faster",
-      "teaser": "Without a correction Einstein predicted over a century ago, every GPS on Earth would be wrong by miles — every single day.",
-      "video_title": "Einstein Keeps Your GPS Accurate Every Day",
-      "video_description": "GPS satellites orbit Earth at high speed and lower gravity, causing their onboard clocks to run faster than clocks on the ground. Without relativistic corrections based on Einstein's equations, GPS systems would accumulate errors of up to 11 kilometers per day.",
-      "tags": [
-        "gps",
-        "einstein",
-        "relativity",
-        "physics",
-        "space",
-        "satellites",
-        "science",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "Your GPS is wrong right now — and Einstein's math is the only thing fixing it. Satellites orbit 20,000 kilometers above Earth where gravity is weaker, so their clocks tick faster than ours. Without a correction built into every GPS satellite, your location would drift by 11 kilometers every single day. This isn't a software patch. It's Einstein's theory of relativity, published in 1915, baked directly into navigation hardware. Your phone finds a coffee shop because a dead physicist did math no one believed.",
-      "visual_keywords": [
-        "GPS satellite",
-        "space orbit",
-        "navigation map",
-        "Einstein theory",
-        "technology"
-      ]
-    },
-    {
-      "topic": "Rasputin's Impossible Death",
-      "teaser": "They poisoned him, shot him, beat him, and drowned him — and he still nearly escaped.",
-      "video_title": "The Man Who Refused to Die — Rasputin",
-      "video_description": "In December 1916, Russian mystic Rasputin was poisoned with cyanide-laced food, shot multiple times, beaten, and thrown into a frozen river — yet he reportedly kept moving at several stages. The exact sequence of events remains disputed by historians and forensic experts.",
-      "tags": [
-        "rasputin",
-        "russia",
-        "history",
-        "mystery",
-        "romanov",
+        "maryCeleste",
+        "ghostship",
+        "mysterysolved",
+        "oceanmystery",
         "historyfacts",
-        "truecrime",
+        "unsolved",
         "shorts",
         "viral",
+        "facts",
+        "didyouknow"
+      ],
+      "script": "A ship was found in the middle of the Atlantic — hot food still on the table, cargo untouched, valuables on board. Not a single person was there. No lifeboats missing, no blood, no SOS. The Mary Celeste had 10 people on it when it left New York in 1872. It arrived in Portugal perfectly intact. 150 years later, no one has ever explained where they went.",
+      "visual_keywords": [
+        "abandoned ship ocean",
+        "ghost ship fog",
+        "atlantic ocean waves",
+        "old sailing vessel",
+        "empty deck ship"
+      ]
+    },
+    {
+      "topic": "Crows Remember Human Faces",
+      "teaser": "If you've ever scared a crow, there's a real chance it told its friends — and they're still watching you.",
+      "video_title": "Crows Never Forget a Face — And They Tell Others",
+      "video_description": "Crows can recognize individual human faces and hold grudges for years. Researchers at the University of Washington proved this by wearing masks — crows that were caught scolded that specific mask for over five years, even teaching younger crows to do the same.",
+      "tags": [
+        "crows",
+        "crowintelligence",
+        "animalfacts",
+        "birdfacts",
+        "wildlife",
+        "science",
+        "shorts",
+        "viral",
+        "trending",
         "facts"
       ],
-      "script": "In December 1916, a group of Russian nobles fed Rasputin enough cyanide to kill five men. He drank wine laced with it and ate the poisoned cakes. Nothing happened. So they shot him. He fell. Then he got up. They beat him and shot him again — three more times. Then they tied him up and threw him into a frozen river. The autopsy found water in his lungs. He was still alive when he hit the water. Was he simply impossible to kill, or was the whole story exaggerated to protect someone?",
+      "script": "If you've ever messed with a crow, it remembered your face. Researchers at the University of Washington wore a specific mask while catching crows. Five years later, those same crows — and their offspring — still dive-bombed anyone wearing that mask. They taught the grudge to the next generation. Crows have been observed holding funerals for their dead and using tools. They may be smarter than most animals you respect.",
       "visual_keywords": [
-        "Rasputin portrait",
-        "Russian palace",
-        "winter river",
-        "historical mystery",
-        "1900s Russia"
+        "crow close up",
+        "crow staring",
+        "black crow perched",
+        "crow in city",
+        "bird intelligence"
+      ]
+    },
+    {
+      "topic": "The Soviet Woodpecker Signal",
+      "teaser": "For a decade, a mysterious signal jammed radios across the entire world — and governments refused to explain what it was.",
+      "video_title": "A Signal Jammed Every Radio on Earth for 10 Years",
+      "video_description": "From 1976 to 1989, a loud repetitive signal known as the Soviet Woodpecker interrupted radio broadcasts globally. It was so powerful and widespread that people thought it was mind control. It turned out to be something almost equally unsettling.",
+      "tags": [
+        "sovietwoodpecker",
+        "coldwar",
+        "historyfacts",
+        "radiomystery",
+        "USSR",
+        "conspiracy",
+        "shorts",
+        "viral",
+        "trending",
+        "didyouknow"
+      ],
+      "script": "Starting in 1976, a loud tapping signal began jamming radios, TVs, and communications across the entire world simultaneously. It happened every day for 13 years. Governments denied its existence. Civilians thought it was mind control. It was actually a Soviet radar system called Duga — built to detect a US nuclear launch. It was so powerful it bounced signals off the ionosphere. The transmitter still stands abandoned in Chernobyl's exclusion zone.",
+      "visual_keywords": [
+        "Chernobyl abandoned radar",
+        "cold war military",
+        "radio signal tower",
+        "Soviet antenna structure",
+        "Duga radar Ukraine"
+      ]
+    },
+    {
+      "topic": "Humans Have a Diving Reflex",
+      "teaser": "The moment cold water touches your face, your body starts doing something your brain didn't ask for — and it might be the reason some people survive the impossible.",
+      "video_title": "Cold Water on Your Face Triggers a Hidden Survival Mode",
+      "video_description": "The mammalian diving reflex is an involuntary response that slows your heart rate by up to 50% the instant cold water touches your face. It redirects blood to vital organs and has been credited with saving people who were submerged for over 40 minutes.",
+      "tags": [
+        "divingreflect",
+        "humanBody",
+        "survivalscience",
+        "biology",
+        "bodyfacts",
+        "science",
+        "shorts",
+        "viral",
+        "facts",
+        "didyouknow"
+      ],
+      "script": "Splash cold water on your face right now and your heart rate drops by up to 50% — automatically, instantly, without your brain deciding anything. It's called the mammalian diving reflex, and every human is born with it. It floods blood to your heart and brain, shuts down everything else, and buys you time. It's the reason people have been pulled from frozen lakes after 40 minutes underwater — and survived. Your body is still half aquatic.",
+      "visual_keywords": [
+        "cold water splash face",
+        "underwater human",
+        "frozen lake rescue",
+        "diving underwater",
+        "human survival"
+      ]
+    },
+    {
+      "topic": "The Baader-Meinhof Phenomenon",
+      "teaser": "The moment you learn something new, you start seeing it absolutely everywhere — and there's a disturbing reason your brain does this.",
+      "video_title": "Why You See Things Everywhere After Learning About Them",
+      "video_description": "The Baader-Meinhof phenomenon, or frequency illusion, is a cognitive bias where something you just noticed suddenly seems to appear constantly. It's not coincidence — your brain is actively filtering reality based on what it decided matters.",
+      "tags": [
+        "baadermeinhof",
+        "brainscience",
+        "psychologyfacts",
+        "cognitivebias",
+        "mindfacts",
+        "psychology",
+        "shorts",
+        "viral",
+        "trending",
+        "didyouknow"
+      ],
+      "script": "You learn a new word, and suddenly you hear it three times that same day. You buy a red car, and now red cars are everywhere. This isn't coincidence — it's your brain lying to you. It's called the Baader-Meinhof phenomenon. Your brain filters out most of reality to save energy. The moment something gets tagged as important, it stops hiding it. Which means the world you see every day is curated by your own past decisions. What else is it hiding?",
+      "visual_keywords": [
+        "human brain neurons",
+        "thought process visualization",
+        "crowd of people",
+        "pattern recognition",
+        "mind psychology"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Rasputin's Impossible Death",
-    "teaser": "They poisoned him, shot him, beat him, and drowned him — and he still nearly escaped.",
-    "video_title": "The Man Who Refused to Die — Rasputin",
-    "video_description": "Rasputin's Impossible Death\n\n#rasputin #russia #romanov #shorts #viral",
-    "tags": [
-      "rasputin",
-      "russia",
-      "history",
-      "mystery",
-      "romanov",
-      "historyfacts",
-      "truecrime",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "In December 1916, a group of Russian nobles fed Rasputin enough cyanide to kill five men. He drank wine laced with it and ate the poisoned cakes. Nothing happened. So they shot him. He fell. Then he got up. They beat him and shot him again — three more times. Then they tied him up and threw him into a frozen river. The autopsy found water in his lungs. He was still alive when he hit the water. Was he simply impossible to kill, or was the whole story exaggerated to protect someone?",
-    "visual_keywords": [
-      "Rasputin portrait",
-      "Russian palace",
-      "winter river",
-      "historical mystery",
-      "1900s Russia"
-    ]
-  },
-  "hashtag_options": [
-    "rasputin",
-    "russia",
-    "history",
-    "mystery",
-    "romanov",
-    "historyfacts",
-    "truecrime",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 252,
-  "selected_hashtags": [
-    0,
-    1,
-    4,
-    7,
-    8
-  ],
-  "hashtag_started_at": "2026-08-31T12:29:56.156470+00:00",
-  "video_file_id": "BAACAgQAAxkDAAP-apV0e9zZkQABDJJvMG2dMkkNvrzVAAJkIgACujupUGxkUPlkdISEPQQ",
-  "review_started_at": "2026-08-31T12:32:59.138092+00:00",
-  "attempts": 1
+  ]
 }
