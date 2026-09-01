@@ -1,9 +1,9 @@
 {
   "batch_id": "20260901-1535",
   "trigger_date": "2026-09-01",
-  "message_id": 256,
+  "message_id": 259,
   "created_at": "2026-09-01T15:35:25.672360+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Mary Celeste — Ghost Ship Mystery",
@@ -140,7 +140,7 @@
     "topic": "The Baader-Meinhof Phenomenon",
     "teaser": "The moment you learn something new, you start seeing it absolutely everywhere — and there's a disturbing reason your brain does this.",
     "video_title": "Why You See Things Everywhere After Learning About Them",
-    "video_description": "The Baader-Meinhof phenomenon, or frequency illusion, is a cognitive bias where something you just noticed suddenly seems to appear constantly. It's not coincidence — your brain is actively filtering reality based on what it decided matters.",
+    "video_description": "The Baader-Meinhof Phenomenon\n\n#brainscience #psychology #viral #trending #didyouknow",
     "tags": [
       "baadermeinhof",
       "brainscience",
@@ -175,6 +175,15 @@
     "didyouknow"
   ],
   "hashtag_message_id": 257,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-01T16:41:36.092707+00:00"
+  "selected_hashtags": [
+    1,
+    5,
+    7,
+    8,
+    9
+  ],
+  "hashtag_started_at": "2026-09-01T16:41:36.092707+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBA2qXAQeML2OKifuatHfdkIjlb5a8AAIaIQACb1-4UFB6ndVrtu88PQQ",
+  "review_started_at": "2026-09-01T16:44:55.863283+00:00",
+  "attempts": 1
 }
