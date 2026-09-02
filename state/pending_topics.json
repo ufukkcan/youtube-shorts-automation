@@ -1,180 +1,134 @@
 {
-  "batch_id": "20260902-1403",
+  "batch_id": "20260902-1813",
   "trigger_date": "2026-09-02",
-  "message_id": 261,
-  "created_at": "2026-09-02T14:03:55.265595+00:00",
-  "status": "error",
+  "message_id": 267,
+  "created_at": "2026-09-02T18:13:38.475387+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Man Who Survived Two Atomic Bombs",
-      "teaser": "One man was at ground zero in Hiroshima — and then somehow ended up in Nagasaki three days later.",
-      "video_title": "He Survived Both Atomic Bombs — Twice",
-      "video_description": "Tsutomu Yamaguchi is the only officially recognized survivor of both atomic bomb blasts in 1945. He was in Hiroshima for work, survived, returned home to Nagasaki, and was bombed again. He lived to 93.",
+      "topic": "The Man Who Never Forgot Anything — Hyperthymesia",
+      "teaser": "Some people literally cannot forget a single day of their life — and scientists aren't sure if it's a gift or a curse.",
+      "video_title": "He Remembers Every Second of His Life",
+      "video_description": "A rare neurological condition called hyperthymesia allows certain people to recall every moment of their lives in perfect detail. Scientists have identified fewer than 100 confirmed cases worldwide, and studying them is changing everything we know about memory.",
       "tags": [
-        "tsutomuyamaguchi",
-        "atomicbomb",
-        "hiroshima",
-        "nagasaki",
-        "wwii",
-        "history",
-        "survivor",
+        "hyperthymesia",
+        "memory",
+        "brain",
+        "neuroscience",
+        "psychology",
+        "rarecondition",
+        "humanmind",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "This man was standing 3 kilometers from the Hiroshima bomb when it detonated — and survived. He bandaged his wounds, boarded a train, and went home. Home was Nagasaki. Three days later, the second bomb dropped. He survived that too. Japan's government officially confirmed it in 2009. Tsutomu Yamaguchi lived to 93, and died of stomach cancer — not radiation. Was he the luckiest man alive, or the unluckiest?",
+      "script": "This woman can tell you exactly what she was doing at 3 PM on March 14th, 1987 — without hesitating for a second. A condition called hyperthymesia gives certain people total, involuntary recall of every single day of their lives. Fewer than 100 confirmed cases exist on Earth. They don't choose to remember — the memories play on their own, like an endless loop. Scientists still don't know whether to call it a superpower or a sentence. Would you want to remember everything?",
       "visual_keywords": [
-        "atomic bomb explosion",
-        "Hiroshima ruins 1945",
-        "nuclear mushroom cloud",
-        "Japan war devastation"
+        "human brain neuroscience",
+        "memory recall",
+        "calendar pages",
+        "mind thought"
       ]
     },
     {
-      "topic": "The Color Blue Didn't Exist in Ancient Languages",
-      "teaser": "Ancient Greeks described the sky as something other than blue — because that word simply didn't exist yet.",
-      "video_title": "Ancient Humans Couldn't See Blue — Here's Why",
-      "video_description": "Ancient languages including Greek, Chinese, Japanese, and Hebrew had no word for the color blue. Researchers believe humans may not have perceived it as distinct until they had a word for it. The last major language to develop a blue word was surprisingly recent.",
+      "topic": "The Paris Catacombs Hold More Dead Than Living",
+      "teaser": "Beneath the streets of Paris, the dead outnumber the living by more than ten to one — and the city is built right on top of them.",
+      "video_title": "Paris Is Built Over 6 Million Dead Bodies",
+      "video_description": "The Catacombs of Paris stretch over 300 kilometers beneath the city and hold the remains of more than six million people. Originally limestone quarries, they were converted into mass burial sites in the 18th century when Parisian cemeteries started collapsing into basements.",
       "tags": [
-        "colorperception",
-        "blue",
-        "ancientgreece",
-        "linguistics",
-        "psychology",
-        "neuroscience",
-        "language",
+        "catacombs",
+        "paris",
+        "history",
+        "underground",
+        "darkhistory",
+        "mysteries",
+        "ancienthistory",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "Every café, every boulevard, every metro station in Paris sits directly above six million human skeletons. The Catacombs stretch 300 kilometers beneath the city — longer than the entire Paris Metro system. In the 1780s, overflowing cemeteries were literally collapsing into people's cellars, so authorities moved the dead underground and stacked the bones into walls. Some tunnels have never been fully mapped. Tourists visit a small section. Nobody knows what lives in the rest.",
+      "visual_keywords": [
+        "paris catacombs skulls",
+        "underground tunnels dark",
+        "paris streets aerial",
+        "skeleton bones ancient"
+      ]
+    },
+    {
+      "topic": "Trees Communicate and Warn Each Other — Wood Wide Web",
+      "teaser": "Forests have a secret underground internet — and trees use it to send warnings, share food, and even sabotage their enemies.",
+      "video_title": "Forests Have a Secret Underground Internet",
+      "video_description": "Trees are connected through an underground fungal network scientists call the 'Wood Wide Web.' They use it to share nutrients, send chemical distress signals to neighboring trees, and even direct resources toward their own offspring. It's rewriting our definition of intelligence.",
+      "tags": [
+        "woodwideweb",
+        "trees",
+        "nature",
+        "forest",
+        "fungi",
+        "plantscience",
+        "biology",
         "shorts",
         "viral",
         "didyouknow"
       ],
-      "script": "Homer described the ocean as 'wine-dark' — never blue. Ancient Greek had words for red, black, white, yellow — but not blue. Neither did ancient Chinese, Japanese, or Hebrew. When researchers tested a tribe in Namibia today that still has no blue word, they genuinely couldn't distinguish it from green. The last major civilization to invent the word 'blue' was just 4,500 years ago. So did ancient humans actually see the sky differently — or just never notice it?",
+      "script": "The forest you're walking through right now is having a conversation beneath your feet. Trees are linked by a fungal network so complex that scientists named it the Wood Wide Web. A mother tree can identify her own seedlings underground and send them extra carbon through the network. When one tree is attacked by insects, it fires chemical warnings to its neighbors within hours. They respond by producing toxins before the attack even reaches them. So — are trees actually intelligent?",
       "visual_keywords": [
-        "blue sky abstract",
-        "color spectrum perception",
-        "ancient Greek ruins",
-        "optical illusion colors"
+        "forest roots underground",
+        "fungal mycelium network",
+        "ancient forest trees",
+        "nature underground macro"
       ]
     },
     {
-      "topic": "The Placebo Effect Works Even When You Know It's Fake",
-      "teaser": "Doctors gave patients a sugar pill, told them exactly what it was — and it still worked.",
-      "video_title": "Fake Pills Still Work — Even When You Know",
-      "video_description": "Harvard Medical School ran a study where patients with chronic pain were told they were receiving a placebo — no deception at all. A significant portion still reported real improvement. The brain's expectation of healing can trigger genuine biological responses.",
+      "topic": "The Russian Sleep Experiment — Real Government Insomnia Studies",
+      "teaser": "Soviet scientists once tested what happens when humans are forced to stay awake for weeks — the real results were disturbing enough without any fiction.",
+      "video_title": "Soviets Kept Humans Awake for 30 Days Straight",
+      "video_description": "While the famous 'Russian Sleep Experiment' is a horror story, the USSR's real sleep deprivation research was alarming in its own right. Documented Soviet and U.S. military experiments showed that severe sleep deprivation causes hallucinations, organ failure, and eventually death — in as few as 11 days.",
       "tags": [
-        "placebo",
-        "brainscience",
-        "medicine",
-        "psychology",
-        "neuroscience",
-        "Harvard",
-        "painrelief",
+        "sleepexperiment",
+        "sovietunion",
+        "coldwar",
+        "sleep",
+        "science",
+        "darkhistory",
+        "humanexperiment",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Harvard doctors handed patients a bottle labeled 'placebo pills — sugar.' They told them exactly what was inside. No tricks. Then they said: take them twice a day. Three weeks later, patients reported a 30% reduction in chronic pain — measurable, real improvement from a pill they knew was fake. Your brain doesn't need to be fooled. It just needs permission to heal. The question is: if you know it's fake and it still works — is it still fake?",
+      "script": "After just 11 days without sleep, a human being begins to die — and in the 1970s, governments actually tested how far that line could be pushed. Declassified Soviet and U.S. military records confirm sleep deprivation experiments on both soldiers and civilians. Subjects began hallucinating by day four. By day eight, organ function started deteriorating. The world record, set without coercion, stands at 11 days and 25 minutes — and the man who set it was never quite the same again.",
       "visual_keywords": [
-        "sugar pills medicine bottle",
-        "brain scan neuroscience",
-        "doctor patient study",
-        "placebo medication"
+        "sleep deprivation experiment",
+        "cold war soviet secret",
+        "laboratory dark",
+        "insomnia tired person"
       ]
     },
     {
-      "topic": "Antarctica Has a Secret River Beneath the Ice",
-      "teaser": "Hidden under two kilometers of Antarctic ice, there's a river longer than the Thames — and it's been flowing for millions of years.",
-      "video_title": "A Secret River Is Flowing Under Antarctica",
-      "video_description": "Scientists confirmed a subglacial river system under East Antarctica stretching over 460 kilometers. It flows beneath nearly 2 kilometers of ice and influences how glaciers move — potentially affecting global sea level rise in ways we don't yet fully understand.",
+      "topic": "The Vantablack Color — So Dark It Erases Shape",
+      "teaser": "There's a material so dark that your eyes literally cannot process the shape of whatever it covers — it looks like a hole cut into reality.",
+      "video_title": "This Color Is So Dark It Breaks Your Eyes",
+      "video_description": "Vantablack, developed in 2014, absorbs 99.965% of all visible light. Objects coated in it appear completely flat — your brain cannot detect edges, depth, or dimension. It was originally engineered for space telescopes, but its visual effect is so extreme it has triggered legal battles in the art world.",
       "tags": [
-        "antarctica",
-        "subglacialriver",
-        "glacier",
-        "climatechange",
-        "discovery",
-        "oceanscience",
-        "geography",
+        "vantablack",
+        "darkestcolor",
+        "optics",
+        "science",
+        "technology",
+        "physics",
+        "light",
         "shorts",
         "viral",
         "trending"
       ],
-      "script": "Under two kilometers of solid Antarctic ice, scientists just confirmed a river longer than the Thames — 460 kilometers, flowing in complete darkness, untouched for millions of years. It's not frozen. It runs liquid, kept warm by geothermal heat from the Earth's core below. And here's what worries researchers: this river is quietly lubricating the base of glaciers, making them slide faster toward the ocean. Nobody knew it existed until 2023. What else is hiding under there?",
+      "script": "Coat a crumpled ball of tin foil in this material and it looks like a perfect flat circle — your brain simply cannot process the depth. Vantablack, created in 2014, absorbs 99.965% of all light that touches it. It was built for space telescopes to eliminate lens glare. But when artists tried to use it, one sculptor legally locked every other artist out of the material for years. A single gram costs more than gold. And visually — it looks less like a color and more like a hole cut straight through reality.",
       "visual_keywords": [
-        "Antarctica ice sheet aerial",
-        "subglacial water flow",
-        "glacier melting ice",
-        "frozen river underground"
-      ]
-    },
-    {
-      "topic": "The Eerie Silence of the WOW! Signal",
-      "teaser": "In 1977, a radio telescope picked up a signal from deep space so perfect it looked like alien contact — and we've never heard it again.",
-      "video_title": "The Alien Signal We Only Heard Once — 1977",
-      "video_description": "The WOW! Signal was detected on August 15, 1977 by astronomer Jerry Ehman using Ohio State's Big Ear telescope. It lasted 72 seconds, matched all theoretical predictions for an interstellar transmission, and has never been detected again despite decades of searching.",
-      "tags": [
-        "wowsignal",
-        "aliens",
-        "seti",
-        "space",
-        "deepspace",
-        "astronomy",
-        "mystery",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "On August 15th, 1977, a radio telescope in Ohio picked up a signal from deep space. It was so remarkable that the astronomer monitoring it circled the printout and wrote one word: Wow! It lasted exactly 72 seconds, matched every characteristic scientists predicted an alien transmission would have, and then — nothing. It has never repeated in 47 years of searching. No natural source has ever explained it. We sent a reply into space in 2012. We're still waiting.",
-      "visual_keywords": [
-        "radio telescope dish night",
-        "deep space stars galaxy",
-        "signal frequency waveform",
-        "space observatory dark sky"
+        "vantablack material dark",
+        "light absorption black",
+        "space telescope optics",
+        "darkest substance science"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Eerie Silence of the WOW! Signal",
-    "teaser": "In 1977, a radio telescope picked up a signal from deep space so perfect it looked like alien contact — and we've never heard it again.",
-    "video_title": "The Alien Signal We Only Heard Once — 1977",
-    "video_description": "The Eerie Silence of the WOW! Signal\n\n#seti #space #shorts #viral #facts",
-    "tags": [
-      "wowsignal",
-      "aliens",
-      "seti",
-      "space",
-      "deepspace",
-      "astronomy",
-      "mystery",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "On August 15th, 1977, a radio telescope in Ohio picked up a signal from deep space. It was so remarkable that the astronomer monitoring it circled the printout and wrote one word: Wow! It lasted exactly 72 seconds, matched every characteristic scientists predicted an alien transmission would have, and then — nothing. It has never repeated in 47 years of searching. No natural source has ever explained it. We sent a reply into space in 2012. We're still waiting.",
-    "visual_keywords": [
-      "radio telescope dish night",
-      "deep space stars galaxy",
-      "signal frequency waveform",
-      "space observatory dark sky"
-    ]
-  },
-  "hashtag_options": [
-    "wowsignal",
-    "aliens",
-    "seti",
-    "space",
-    "deepspace",
-    "astronomy",
-    "mystery",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 262,
-  "selected_hashtags": [
-    2,
-    3,
-    7,
-    8,
-    9
-  ],
-  "hashtag_started_at": "2026-09-02T18:04:54.177509+00:00"
+  ]
 }
