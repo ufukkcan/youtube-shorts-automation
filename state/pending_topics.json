@@ -1,9 +1,9 @@
 {
   "batch_id": "20260902-1813",
   "trigger_date": "2026-09-02",
-  "message_id": 267,
+  "message_id": 270,
   "created_at": "2026-09-02T18:13:38.475387+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Man Who Never Forgot Anything — Hyperthymesia",
@@ -135,7 +135,7 @@
     "topic": "Trees Communicate and Warn Each Other — Wood Wide Web",
     "teaser": "Forests have a secret underground internet — and trees use it to send warnings, share food, and even sabotage their enemies.",
     "video_title": "Forests Have a Secret Underground Internet",
-    "video_description": "Trees are connected through an underground fungal network scientists call the 'Wood Wide Web.' They use it to share nutrients, send chemical distress signals to neighboring trees, and even direct resources toward their own offspring. It's rewriting our definition of intelligence.",
+    "video_description": "Trees Communicate and Warn Each Other — Wood Wide Web\n\n#nature #forest #shorts #viral #didyouknow",
     "tags": [
       "woodwideweb",
       "trees",
@@ -169,6 +169,15 @@
     "didyouknow"
   ],
   "hashtag_message_id": 268,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-02T18:15:55.133688+00:00"
+  "selected_hashtags": [
+    2,
+    3,
+    7,
+    8,
+    9
+  ],
+  "hashtag_started_at": "2026-09-02T18:15:55.133688+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBDmqYaI5DfbXjnrTD1xpZu6bJvujrAAJoIAACb1_IUD_o4oxF1Ej9PQQ",
+  "review_started_at": "2026-09-02T18:18:54.977901+00:00",
+  "attempts": 1
 }
