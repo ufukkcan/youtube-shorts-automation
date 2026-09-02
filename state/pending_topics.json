@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-02",
   "message_id": 261,
   "created_at": "2026-09-02T14:03:55.265595+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "The Man Who Survived Two Atomic Bombs",
@@ -130,5 +130,45 @@
         "space observatory dark sky"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "The Eerie Silence of the WOW! Signal",
+    "teaser": "In 1977, a radio telescope picked up a signal from deep space so perfect it looked like alien contact — and we've never heard it again.",
+    "video_title": "The Alien Signal We Only Heard Once — 1977",
+    "video_description": "The WOW! Signal was detected on August 15, 1977 by astronomer Jerry Ehman using Ohio State's Big Ear telescope. It lasted 72 seconds, matched all theoretical predictions for an interstellar transmission, and has never been detected again despite decades of searching.",
+    "tags": [
+      "wowsignal",
+      "aliens",
+      "seti",
+      "space",
+      "deepspace",
+      "astronomy",
+      "mystery",
+      "shorts",
+      "viral",
+      "facts"
+    ],
+    "script": "On August 15th, 1977, a radio telescope in Ohio picked up a signal from deep space. It was so remarkable that the astronomer monitoring it circled the printout and wrote one word: Wow! It lasted exactly 72 seconds, matched every characteristic scientists predicted an alien transmission would have, and then — nothing. It has never repeated in 47 years of searching. No natural source has ever explained it. We sent a reply into space in 2012. We're still waiting.",
+    "visual_keywords": [
+      "radio telescope dish night",
+      "deep space stars galaxy",
+      "signal frequency waveform",
+      "space observatory dark sky"
+    ]
+  },
+  "hashtag_options": [
+    "wowsignal",
+    "aliens",
+    "seti",
+    "space",
+    "deepspace",
+    "astronomy",
+    "mystery",
+    "shorts",
+    "viral",
+    "facts"
+  ],
+  "hashtag_message_id": 262,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-02T18:04:54.177509+00:00"
 }
