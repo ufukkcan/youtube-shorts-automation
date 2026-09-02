@@ -1,189 +1,134 @@
 {
-  "batch_id": "20260901-1535",
-  "trigger_date": "2026-09-01",
-  "message_id": 259,
-  "created_at": "2026-09-01T15:35:25.672360+00:00",
-  "status": "done",
+  "batch_id": "20260902-1403",
+  "trigger_date": "2026-09-02",
+  "message_id": 261,
+  "created_at": "2026-09-02T14:03:55.265595+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Mary Celeste — Ghost Ship Mystery",
-      "teaser": "A ship found perfectly intact in the middle of the ocean — hot food still on the table, no crew, no bodies, no answers.",
-      "video_title": "A Ship Found Drifting — No Crew, No Clue",
-      "video_description": "In 1872, the Mary Celeste was discovered adrift in the Atlantic with everything untouched — cargo, food, valuables — yet every single person aboard had vanished. No distress signal was ever sent. No explanation has ever been confirmed.",
+      "topic": "The Man Who Survived Two Atomic Bombs",
+      "teaser": "One man was at ground zero in Hiroshima — and then somehow ended up in Nagasaki three days later.",
+      "video_title": "He Survived Both Atomic Bombs — Twice",
+      "video_description": "Tsutomu Yamaguchi is the only officially recognized survivor of both atomic bomb blasts in 1945. He was in Hiroshima for work, survived, returned home to Nagasaki, and was bombed again. He lived to 93.",
       "tags": [
-        "maryCeleste",
-        "ghostship",
-        "mysterysolved",
-        "oceanmystery",
-        "historyfacts",
-        "unsolved",
+        "tsutomuyamaguchi",
+        "atomicbomb",
+        "hiroshima",
+        "nagasaki",
+        "wwii",
+        "history",
+        "survivor",
         "shorts",
         "viral",
-        "facts",
-        "didyouknow"
-      ],
-      "script": "A ship was found in the middle of the Atlantic — hot food still on the table, cargo untouched, valuables on board. Not a single person was there. No lifeboats missing, no blood, no SOS. The Mary Celeste had 10 people on it when it left New York in 1872. It arrived in Portugal perfectly intact. 150 years later, no one has ever explained where they went.",
-      "visual_keywords": [
-        "abandoned ship ocean",
-        "ghost ship fog",
-        "atlantic ocean waves",
-        "old sailing vessel",
-        "empty deck ship"
-      ]
-    },
-    {
-      "topic": "Crows Remember Human Faces",
-      "teaser": "If you've ever scared a crow, there's a real chance it told its friends — and they're still watching you.",
-      "video_title": "Crows Never Forget a Face — And They Tell Others",
-      "video_description": "Crows can recognize individual human faces and hold grudges for years. Researchers at the University of Washington proved this by wearing masks — crows that were caught scolded that specific mask for over five years, even teaching younger crows to do the same.",
-      "tags": [
-        "crows",
-        "crowintelligence",
-        "animalfacts",
-        "birdfacts",
-        "wildlife",
-        "science",
-        "shorts",
-        "viral",
-        "trending",
         "facts"
       ],
-      "script": "If you've ever messed with a crow, it remembered your face. Researchers at the University of Washington wore a specific mask while catching crows. Five years later, those same crows — and their offspring — still dive-bombed anyone wearing that mask. They taught the grudge to the next generation. Crows have been observed holding funerals for their dead and using tools. They may be smarter than most animals you respect.",
+      "script": "This man was standing 3 kilometers from the Hiroshima bomb when it detonated — and survived. He bandaged his wounds, boarded a train, and went home. Home was Nagasaki. Three days later, the second bomb dropped. He survived that too. Japan's government officially confirmed it in 2009. Tsutomu Yamaguchi lived to 93, and died of stomach cancer — not radiation. Was he the luckiest man alive, or the unluckiest?",
       "visual_keywords": [
-        "crow close up",
-        "crow staring",
-        "black crow perched",
-        "crow in city",
-        "bird intelligence"
+        "atomic bomb explosion",
+        "Hiroshima ruins 1945",
+        "nuclear mushroom cloud",
+        "Japan war devastation"
       ]
     },
     {
-      "topic": "The Soviet Woodpecker Signal",
-      "teaser": "For a decade, a mysterious signal jammed radios across the entire world — and governments refused to explain what it was.",
-      "video_title": "A Signal Jammed Every Radio on Earth for 10 Years",
-      "video_description": "From 1976 to 1989, a loud repetitive signal known as the Soviet Woodpecker interrupted radio broadcasts globally. It was so powerful and widespread that people thought it was mind control. It turned out to be something almost equally unsettling.",
+      "topic": "The Color Blue Didn't Exist in Ancient Languages",
+      "teaser": "Ancient Greeks described the sky as something other than blue — because that word simply didn't exist yet.",
+      "video_title": "Ancient Humans Couldn't See Blue — Here's Why",
+      "video_description": "Ancient languages including Greek, Chinese, Japanese, and Hebrew had no word for the color blue. Researchers believe humans may not have perceived it as distinct until they had a word for it. The last major language to develop a blue word was surprisingly recent.",
       "tags": [
-        "sovietwoodpecker",
-        "coldwar",
-        "historyfacts",
-        "radiomystery",
-        "USSR",
-        "conspiracy",
-        "shorts",
-        "viral",
-        "trending",
-        "didyouknow"
-      ],
-      "script": "Starting in 1976, a loud tapping signal began jamming radios, TVs, and communications across the entire world simultaneously. It happened every day for 13 years. Governments denied its existence. Civilians thought it was mind control. It was actually a Soviet radar system called Duga — built to detect a US nuclear launch. It was so powerful it bounced signals off the ionosphere. The transmitter still stands abandoned in Chernobyl's exclusion zone.",
-      "visual_keywords": [
-        "Chernobyl abandoned radar",
-        "cold war military",
-        "radio signal tower",
-        "Soviet antenna structure",
-        "Duga radar Ukraine"
-      ]
-    },
-    {
-      "topic": "Humans Have a Diving Reflex",
-      "teaser": "The moment cold water touches your face, your body starts doing something your brain didn't ask for — and it might be the reason some people survive the impossible.",
-      "video_title": "Cold Water on Your Face Triggers a Hidden Survival Mode",
-      "video_description": "The mammalian diving reflex is an involuntary response that slows your heart rate by up to 50% the instant cold water touches your face. It redirects blood to vital organs and has been credited with saving people who were submerged for over 40 minutes.",
-      "tags": [
-        "divingreflect",
-        "humanBody",
-        "survivalscience",
-        "biology",
-        "bodyfacts",
-        "science",
-        "shorts",
-        "viral",
-        "facts",
-        "didyouknow"
-      ],
-      "script": "Splash cold water on your face right now and your heart rate drops by up to 50% — automatically, instantly, without your brain deciding anything. It's called the mammalian diving reflex, and every human is born with it. It floods blood to your heart and brain, shuts down everything else, and buys you time. It's the reason people have been pulled from frozen lakes after 40 minutes underwater — and survived. Your body is still half aquatic.",
-      "visual_keywords": [
-        "cold water splash face",
-        "underwater human",
-        "frozen lake rescue",
-        "diving underwater",
-        "human survival"
-      ]
-    },
-    {
-      "topic": "The Baader-Meinhof Phenomenon",
-      "teaser": "The moment you learn something new, you start seeing it absolutely everywhere — and there's a disturbing reason your brain does this.",
-      "video_title": "Why You See Things Everywhere After Learning About Them",
-      "video_description": "The Baader-Meinhof phenomenon, or frequency illusion, is a cognitive bias where something you just noticed suddenly seems to appear constantly. It's not coincidence — your brain is actively filtering reality based on what it decided matters.",
-      "tags": [
-        "baadermeinhof",
-        "brainscience",
-        "psychologyfacts",
-        "cognitivebias",
-        "mindfacts",
+        "colorperception",
+        "blue",
+        "ancientgreece",
+        "linguistics",
         "psychology",
+        "neuroscience",
+        "language",
         "shorts",
         "viral",
-        "trending",
         "didyouknow"
       ],
-      "script": "You learn a new word, and suddenly you hear it three times that same day. You buy a red car, and now red cars are everywhere. This isn't coincidence — it's your brain lying to you. It's called the Baader-Meinhof phenomenon. Your brain filters out most of reality to save energy. The moment something gets tagged as important, it stops hiding it. Which means the world you see every day is curated by your own past decisions. What else is it hiding?",
+      "script": "Homer described the ocean as 'wine-dark' — never blue. Ancient Greek had words for red, black, white, yellow — but not blue. Neither did ancient Chinese, Japanese, or Hebrew. When researchers tested a tribe in Namibia today that still has no blue word, they genuinely couldn't distinguish it from green. The last major civilization to invent the word 'blue' was just 4,500 years ago. So did ancient humans actually see the sky differently — or just never notice it?",
       "visual_keywords": [
-        "human brain neurons",
-        "thought process visualization",
-        "crowd of people",
-        "pattern recognition",
-        "mind psychology"
+        "blue sky abstract",
+        "color spectrum perception",
+        "ancient Greek ruins",
+        "optical illusion colors"
+      ]
+    },
+    {
+      "topic": "The Placebo Effect Works Even When You Know It's Fake",
+      "teaser": "Doctors gave patients a sugar pill, told them exactly what it was — and it still worked.",
+      "video_title": "Fake Pills Still Work — Even When You Know",
+      "video_description": "Harvard Medical School ran a study where patients with chronic pain were told they were receiving a placebo — no deception at all. A significant portion still reported real improvement. The brain's expectation of healing can trigger genuine biological responses.",
+      "tags": [
+        "placebo",
+        "brainscience",
+        "medicine",
+        "psychology",
+        "neuroscience",
+        "Harvard",
+        "painrelief",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "Harvard doctors handed patients a bottle labeled 'placebo pills — sugar.' They told them exactly what was inside. No tricks. Then they said: take them twice a day. Three weeks later, patients reported a 30% reduction in chronic pain — measurable, real improvement from a pill they knew was fake. Your brain doesn't need to be fooled. It just needs permission to heal. The question is: if you know it's fake and it still works — is it still fake?",
+      "visual_keywords": [
+        "sugar pills medicine bottle",
+        "brain scan neuroscience",
+        "doctor patient study",
+        "placebo medication"
+      ]
+    },
+    {
+      "topic": "Antarctica Has a Secret River Beneath the Ice",
+      "teaser": "Hidden under two kilometers of Antarctic ice, there's a river longer than the Thames — and it's been flowing for millions of years.",
+      "video_title": "A Secret River Is Flowing Under Antarctica",
+      "video_description": "Scientists confirmed a subglacial river system under East Antarctica stretching over 460 kilometers. It flows beneath nearly 2 kilometers of ice and influences how glaciers move — potentially affecting global sea level rise in ways we don't yet fully understand.",
+      "tags": [
+        "antarctica",
+        "subglacialriver",
+        "glacier",
+        "climatechange",
+        "discovery",
+        "oceanscience",
+        "geography",
+        "shorts",
+        "viral",
+        "trending"
+      ],
+      "script": "Under two kilometers of solid Antarctic ice, scientists just confirmed a river longer than the Thames — 460 kilometers, flowing in complete darkness, untouched for millions of years. It's not frozen. It runs liquid, kept warm by geothermal heat from the Earth's core below. And here's what worries researchers: this river is quietly lubricating the base of glaciers, making them slide faster toward the ocean. Nobody knew it existed until 2023. What else is hiding under there?",
+      "visual_keywords": [
+        "Antarctica ice sheet aerial",
+        "subglacial water flow",
+        "glacier melting ice",
+        "frozen river underground"
+      ]
+    },
+    {
+      "topic": "The Eerie Silence of the WOW! Signal",
+      "teaser": "In 1977, a radio telescope picked up a signal from deep space so perfect it looked like alien contact — and we've never heard it again.",
+      "video_title": "The Alien Signal We Only Heard Once — 1977",
+      "video_description": "The WOW! Signal was detected on August 15, 1977 by astronomer Jerry Ehman using Ohio State's Big Ear telescope. It lasted 72 seconds, matched all theoretical predictions for an interstellar transmission, and has never been detected again despite decades of searching.",
+      "tags": [
+        "wowsignal",
+        "aliens",
+        "seti",
+        "space",
+        "deepspace",
+        "astronomy",
+        "mystery",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "On August 15th, 1977, a radio telescope in Ohio picked up a signal from deep space. It was so remarkable that the astronomer monitoring it circled the printout and wrote one word: Wow! It lasted exactly 72 seconds, matched every characteristic scientists predicted an alien transmission would have, and then — nothing. It has never repeated in 47 years of searching. No natural source has ever explained it. We sent a reply into space in 2012. We're still waiting.",
+      "visual_keywords": [
+        "radio telescope dish night",
+        "deep space stars galaxy",
+        "signal frequency waveform",
+        "space observatory dark sky"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Baader-Meinhof Phenomenon",
-    "teaser": "The moment you learn something new, you start seeing it absolutely everywhere — and there's a disturbing reason your brain does this.",
-    "video_title": "Why You See Things Everywhere After Learning About Them",
-    "video_description": "The Baader-Meinhof Phenomenon\n\n#brainscience #psychology #viral #trending #didyouknow",
-    "tags": [
-      "baadermeinhof",
-      "brainscience",
-      "psychologyfacts",
-      "cognitivebias",
-      "mindfacts",
-      "psychology",
-      "shorts",
-      "viral",
-      "trending",
-      "didyouknow"
-    ],
-    "script": "You learn a new word, and suddenly you hear it three times that same day. You buy a red car, and now red cars are everywhere. This isn't coincidence — it's your brain lying to you. It's called the Baader-Meinhof phenomenon. Your brain filters out most of reality to save energy. The moment something gets tagged as important, it stops hiding it. Which means the world you see every day is curated by your own past decisions. What else is it hiding?",
-    "visual_keywords": [
-      "human brain neurons",
-      "thought process visualization",
-      "crowd of people",
-      "pattern recognition",
-      "mind psychology"
-    ]
-  },
-  "hashtag_options": [
-    "baadermeinhof",
-    "brainscience",
-    "psychologyfacts",
-    "cognitivebias",
-    "mindfacts",
-    "psychology",
-    "shorts",
-    "viral",
-    "trending",
-    "didyouknow"
-  ],
-  "hashtag_message_id": 257,
-  "selected_hashtags": [
-    1,
-    5,
-    7,
-    8,
-    9
-  ],
-  "hashtag_started_at": "2026-09-01T16:41:36.092707+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBA2qXAQeML2OKifuatHfdkIjlb5a8AAIaIQACb1-4UFB6ndVrtu88PQQ",
-  "review_started_at": "2026-09-01T16:44:55.863283+00:00",
-  "attempts": 1
+  ]
 }
