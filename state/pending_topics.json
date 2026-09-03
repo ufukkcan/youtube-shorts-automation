@@ -1,183 +1,139 @@
 {
-  "batch_id": "20260902-1813",
-  "trigger_date": "2026-09-02",
-  "message_id": 270,
-  "created_at": "2026-09-02T18:13:38.475387+00:00",
-  "status": "done",
+  "batch_id": "20260903-1342",
+  "trigger_date": "2026-09-03",
+  "message_id": 272,
+  "created_at": "2026-09-03T13:42:41.559226+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Man Who Never Forgot Anything — Hyperthymesia",
-      "teaser": "Some people literally cannot forget a single day of their life — and scientists aren't sure if it's a gift or a curse.",
-      "video_title": "He Remembers Every Second of His Life",
-      "video_description": "A rare neurological condition called hyperthymesia allows certain people to recall every moment of their lives in perfect detail. Scientists have identified fewer than 100 confirmed cases worldwide, and studying them is changing everything we know about memory.",
+      "topic": "Castrato Singers — The Price of a Perfect Voice",
+      "teaser": "The most celebrated voices in 18th-century Europe belonged to boys who paid an unimaginable price to sing.",
+      "video_title": "The Darkest Secret Behind History's Greatest Singers",
+      "video_description": "For over 200 years, Europe's most celebrated opera singers were castrati — boys surgically altered before puberty to preserve their vocal range. The practice was widespread, socially accepted, and utterly brutal. The last known castrato, Alessandro Moreschi, died in 1922 and left behind actual recordings.",
       "tags": [
-        "hyperthymesia",
-        "memory",
-        "brain",
-        "neuroscience",
-        "psychology",
-        "rarecondition",
-        "humanmind",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "This woman can tell you exactly what she was doing at 3 PM on March 14th, 1987 — without hesitating for a second. A condition called hyperthymesia gives certain people total, involuntary recall of every single day of their lives. Fewer than 100 confirmed cases exist on Earth. They don't choose to remember — the memories play on their own, like an endless loop. Scientists still don't know whether to call it a superpower or a sentence. Would you want to remember everything?",
-      "visual_keywords": [
-        "human brain neuroscience",
-        "memory recall",
-        "calendar pages",
-        "mind thought"
-      ]
-    },
-    {
-      "topic": "The Paris Catacombs Hold More Dead Than Living",
-      "teaser": "Beneath the streets of Paris, the dead outnumber the living by more than ten to one — and the city is built right on top of them.",
-      "video_title": "Paris Is Built Over 6 Million Dead Bodies",
-      "video_description": "The Catacombs of Paris stretch over 300 kilometers beneath the city and hold the remains of more than six million people. Originally limestone quarries, they were converted into mass burial sites in the 18th century when Parisian cemeteries started collapsing into basements.",
-      "tags": [
-        "catacombs",
-        "paris",
+        "castrato",
+        "musichistory",
+        "opera",
         "history",
-        "underground",
+        "hiddenfacts",
         "darkhistory",
-        "mysteries",
-        "ancienthistory",
+        "europeanhistory",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Every café, every boulevard, every metro station in Paris sits directly above six million human skeletons. The Catacombs stretch 300 kilometers beneath the city — longer than the entire Paris Metro system. In the 1780s, overflowing cemeteries were literally collapsing into people's cellars, so authorities moved the dead underground and stacked the bones into walls. Some tunnels have never been fully mapped. Tourists visit a small section. Nobody knows what lives in the rest.",
+      "script": "The most famous singers in 18th-century Europe weren't men or women — they were boys who had been surgically altered before puberty so their voices would never break. Thousands underwent the procedure every year, most dying in poverty after their voices faded. Only a handful became stars. The last one died in 1922 — and left behind recordings. You can still hear him today. Does that change how beautiful it sounds?",
       "visual_keywords": [
-        "paris catacombs skulls",
-        "underground tunnels dark",
-        "paris streets aerial",
-        "skeleton bones ancient"
+        "opera house baroque",
+        "classical music concert",
+        "historical theater stage",
+        "choir boy singing",
+        "vintage music recording"
       ]
     },
     {
-      "topic": "Trees Communicate and Warn Each Other — Wood Wide Web",
-      "teaser": "Forests have a secret underground internet — and trees use it to send warnings, share food, and even sabotage their enemies.",
-      "video_title": "Forests Have a Secret Underground Internet",
-      "video_description": "Trees are connected through an underground fungal network scientists call the 'Wood Wide Web.' They use it to share nutrients, send chemical distress signals to neighboring trees, and even direct resources toward their own offspring. It's rewriting our definition of intelligence.",
+      "topic": "The Saiga Antelope Mass Death — 200,000 in Three Days",
+      "teaser": "In 2015, one of nature's most bizarre and terrifying mass die-offs wiped out half a species in just three days.",
+      "video_title": "Half a Species Vanished in 3 Days — No One Knew Why",
+      "video_description": "In May 2015, over 200,000 saiga antelopes — more than half the world's entire population — dropped dead within 72 hours across the Kazakh steppe. Calves died first, then mothers. Scientists were baffled for years. The cause, when finally found, was more disturbing than anyone expected.",
       "tags": [
-        "woodwideweb",
-        "trees",
+        "saiga",
+        "massextinction",
+        "wildlife",
+        "animalfacts",
+        "kazakhstan",
         "nature",
-        "forest",
-        "fungi",
-        "plantscience",
-        "biology",
-        "shorts",
-        "viral",
-        "didyouknow"
-      ],
-      "script": "The forest you're walking through right now is having a conversation beneath your feet. Trees are linked by a fungal network so complex that scientists named it the Wood Wide Web. A mother tree can identify her own seedlings underground and send them extra carbon through the network. When one tree is attacked by insects, it fires chemical warnings to its neighbors within hours. They respond by producing toxins before the attack even reaches them. So — are trees actually intelligent?",
-      "visual_keywords": [
-        "forest roots underground",
-        "fungal mycelium network",
-        "ancient forest trees",
-        "nature underground macro"
-      ]
-    },
-    {
-      "topic": "The Russian Sleep Experiment — Real Government Insomnia Studies",
-      "teaser": "Soviet scientists once tested what happens when humans are forced to stay awake for weeks — the real results were disturbing enough without any fiction.",
-      "video_title": "Soviets Kept Humans Awake for 30 Days Straight",
-      "video_description": "While the famous 'Russian Sleep Experiment' is a horror story, the USSR's real sleep deprivation research was alarming in its own right. Documented Soviet and U.S. military experiments showed that severe sleep deprivation causes hallucinations, organ failure, and eventually death — in as few as 11 days.",
-      "tags": [
-        "sleepexperiment",
-        "sovietunion",
-        "coldwar",
-        "sleep",
-        "science",
-        "darkhistory",
-        "humanexperiment",
+        "ecology",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "After just 11 days without sleep, a human being begins to die — and in the 1970s, governments actually tested how far that line could be pushed. Declassified Soviet and U.S. military records confirm sleep deprivation experiments on both soldiers and civilians. Subjects began hallucinating by day four. By day eight, organ function started deteriorating. The world record, set without coercion, stands at 11 days and 25 minutes — and the man who set it was never quite the same again.",
+      "script": "In May 2015, 200,000 antelopes dropped dead in a single week — more than half the species alive on Earth. Mothers and calves collapsed within hours of each other across the Kazakh steppe. Scientists flew in from around the world and found no predator, no poison, no sign of disease spreading from outside. The killer had come from within the animals themselves. A bacterium that lives harmlessly in their throats had suddenly turned lethal. What made it snap? Scientists still aren't entirely sure.",
       "visual_keywords": [
-        "sleep deprivation experiment",
-        "cold war soviet secret",
-        "laboratory dark",
-        "insomnia tired person"
+        "antelope herd steppe",
+        "wild animals grassland",
+        "Kazakhstan landscape",
+        "wildlife migration",
+        "dead animals field"
       ]
     },
     {
-      "topic": "The Vantablack Color — So Dark It Erases Shape",
-      "teaser": "There's a material so dark that your eyes literally cannot process the shape of whatever it covers — it looks like a hole cut into reality.",
-      "video_title": "This Color Is So Dark It Breaks Your Eyes",
-      "video_description": "Vantablack, developed in 2014, absorbs 99.965% of all visible light. Objects coated in it appear completely flat — your brain cannot detect edges, depth, or dimension. It was originally engineered for space telescopes, but its visual effect is so extreme it has triggered legal battles in the art world.",
+      "topic": "The Tungsten Filament — Why Light Bulbs Are Designed to Burn Out",
+      "teaser": "The first light bulb ever made lasted 100 years — so why does yours die in a few months?",
+      "video_title": "Light Bulbs Could Last Forever — So Why Don't They?",
+      "video_description": "The Centennial Bulb in Livermore, California has been burning almost continuously since 1901. Engineers have known how to make near-indestructible bulbs for over a century. In 1924, the world's largest light bulb manufacturers secretly met and agreed to limit bulb lifespan to 1,000 hours. It was one of history's first documented planned obsolescence cartels.",
       "tags": [
-        "vantablack",
-        "darkestcolor",
-        "optics",
-        "science",
-        "technology",
-        "physics",
-        "light",
+        "lightbulb",
+        "plannedobsolescence",
+        "phoebus",
+        "conspiracy",
+        "technologyfacts",
+        "history",
+        "consumerculture",
         "shorts",
         "viral",
-        "trending"
+        "facts"
       ],
-      "script": "Coat a crumpled ball of tin foil in this material and it looks like a perfect flat circle — your brain simply cannot process the depth. Vantablack, created in 2014, absorbs 99.965% of all light that touches it. It was built for space telescopes to eliminate lens glare. But when artists tried to use it, one sculptor legally locked every other artist out of the material for years. A single gram costs more than gold. And visually — it looks less like a color and more like a hole cut straight through reality.",
+      "script": "There's a light bulb in California that has been switched on since 1901 — over 120 years. Engineers have always known how to build bulbs that last essentially forever. In 1924, the world's biggest bulb manufacturers held a secret meeting and agreed to cap bulb lifespan at 1,000 hours. They called it the Phoebus Cartel. It was one of history's first organized planned obsolescence schemes. Every bulb you've ever replaced may trace back to that one meeting.",
       "visual_keywords": [
-        "vantablack material dark",
-        "light absorption black",
-        "space telescope optics",
-        "darkest substance science"
+        "vintage light bulb glowing",
+        "old incandescent bulb",
+        "light bulb close up",
+        "electric filament macro",
+        "factory meeting room vintage"
+      ]
+    },
+    {
+      "topic": "The Hum — A Sound Only 2% of People Can Hear",
+      "teaser": "Thousands of people worldwide hear a low, constant hum that no microphone can detect — and it's slowly driving them mad.",
+      "video_title": "A Sound That's Driving People Insane — No One Else Hears It",
+      "video_description": "Across the world, in places like Taos, New Mexico and Bristol, England, a small percentage of residents report hearing a persistent, low-frequency hum that no recording equipment can pick up. Sufferers describe it as a diesel engine idling outside. It causes sleep deprivation, nausea, and anxiety. Decades of investigation have never produced a definitive source.",
+      "tags": [
+        "theHum",
+        "mysterioussound",
+        "taoshum",
+        "unexplained",
+        "sciencemystery",
+        "acoustics",
+        "paranormal",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "In Taos, New Mexico, roughly 2% of residents hear a low, constant rumbling — like a truck idling just outside. It never stops. No microphone has ever recorded it. Sufferers lose sleep, develop anxiety, some have moved cities to escape it. The same phenomenon has appeared in Bristol, Auckland, and dozens of other towns. Scientists have investigated for decades and still have no agreed explanation. If you can't hear it, you're in the majority. But the ones who do say they'd give anything to make it stop.",
+      "visual_keywords": [
+        "empty desert road night",
+        "quiet suburban street",
+        "sound wave visualization",
+        "person covering ears",
+        "mysterious landscape fog"
+      ]
+    },
+    {
+      "topic": "Fatal Familial Insomnia — The Disease That Stops You Sleeping Forever",
+      "teaser": "There is a real disease where sufferers slowly lose the ability to sleep — and it always ends the same way.",
+      "video_title": "The Rare Disease That Steals Sleep — Then Takes Everything",
+      "video_description": "Fatal Familial Insomnia is a prion disease that progressively destroys the thalamus — the brain region that regulates sleep. Patients begin with mild insomnia, rapidly escalate to total inability to sleep, then experience hallucinations, dementia, and death — all within 12 to 18 months. Only about 50 families in the world carry the mutation, and there is currently no cure.",
+      "tags": [
+        "fatalfamilialinsomnia",
+        "sleepscience",
+        "priondisease",
+        "brainfacts",
+        "raredisease",
+        "medicalfacts",
+        "neuroscience",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "There is a disease where patients slowly lose the ability to sleep — and no medication on Earth can help. It begins with mild insomnia, then within weeks the patient stops sleeping entirely. Hallucinations follow. Then dementia. Death comes within 18 months of the first symptom. It's called Fatal Familial Insomnia, and only around 50 families worldwide carry the gene. There is no treatment. No cure. Scientists are racing to find one — but so far, every night for those families carries a different kind of weight.",
+      "visual_keywords": [
+        "person awake at night dark room",
+        "insomnia sleepless",
+        "brain scan mri",
+        "hospital bed patient",
+        "clock night time"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Trees Communicate and Warn Each Other — Wood Wide Web",
-    "teaser": "Forests have a secret underground internet — and trees use it to send warnings, share food, and even sabotage their enemies.",
-    "video_title": "Forests Have a Secret Underground Internet",
-    "video_description": "Trees Communicate and Warn Each Other — Wood Wide Web\n\n#nature #forest #shorts #viral #didyouknow",
-    "tags": [
-      "woodwideweb",
-      "trees",
-      "nature",
-      "forest",
-      "fungi",
-      "plantscience",
-      "biology",
-      "shorts",
-      "viral",
-      "didyouknow"
-    ],
-    "script": "The forest you're walking through right now is having a conversation beneath your feet. Trees are linked by a fungal network so complex that scientists named it the Wood Wide Web. A mother tree can identify her own seedlings underground and send them extra carbon through the network. When one tree is attacked by insects, it fires chemical warnings to its neighbors within hours. They respond by producing toxins before the attack even reaches them. So — are trees actually intelligent?",
-    "visual_keywords": [
-      "forest roots underground",
-      "fungal mycelium network",
-      "ancient forest trees",
-      "nature underground macro"
-    ]
-  },
-  "hashtag_options": [
-    "woodwideweb",
-    "trees",
-    "nature",
-    "forest",
-    "fungi",
-    "plantscience",
-    "biology",
-    "shorts",
-    "viral",
-    "didyouknow"
-  ],
-  "hashtag_message_id": 268,
-  "selected_hashtags": [
-    2,
-    3,
-    7,
-    8,
-    9
-  ],
-  "hashtag_started_at": "2026-09-02T18:15:55.133688+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBDmqYaI5DfbXjnrTD1xpZu6bJvujrAAJoIAACb1_IUD_o4oxF1Ej9PQQ",
-  "review_started_at": "2026-09-02T18:18:54.977901+00:00",
-  "attempts": 1
+  ]
 }
