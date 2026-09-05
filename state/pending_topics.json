@@ -1,189 +1,134 @@
 {
-  "batch_id": "20260903-1342",
-  "trigger_date": "2026-09-03",
-  "message_id": 275,
-  "created_at": "2026-09-03T13:42:41.559226+00:00",
-  "status": "done",
+  "batch_id": "20260905-1330",
+  "trigger_date": "2026-09-05",
+  "message_id": 277,
+  "created_at": "2026-09-05T13:30:48.292087+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Castrato Singers — The Price of a Perfect Voice",
-      "teaser": "The most celebrated voices in 18th-century Europe belonged to boys who paid an unimaginable price to sing.",
-      "video_title": "The Darkest Secret Behind History's Greatest Singers",
-      "video_description": "For over 200 years, Europe's most celebrated opera singers were castrati — boys surgically altered before puberty to preserve their vocal range. The practice was widespread, socially accepted, and utterly brutal. The last known castrato, Alessandro Moreschi, died in 1922 and left behind actual recordings.",
+      "topic": "The Smell of Rain — Petrichor",
+      "teaser": "That smell after rain? Scientists discovered it has a name — and a surprisingly dark origin.",
+      "video_title": "The Real Reason Rain Has a Smell",
+      "video_description": "That iconic post-rain scent has a name: petrichor. It was only identified by scientists in 1964, and its origin involves bacteria releasing spores into the air. What you're actually smelling might surprise you.",
       "tags": [
-        "castrato",
-        "musichistory",
-        "opera",
-        "history",
-        "hiddenfacts",
-        "darkhistory",
-        "europeanhistory",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "The most famous singers in 18th-century Europe weren't men or women — they were boys who had been surgically altered before puberty so their voices would never break. Thousands underwent the procedure every year, most dying in poverty after their voices faded. Only a handful became stars. The last one died in 1922 — and left behind recordings. You can still hear him today. Does that change how beautiful it sounds?",
-      "visual_keywords": [
-        "opera house baroque",
-        "classical music concert",
-        "historical theater stage",
-        "choir boy singing",
-        "vintage music recording"
-      ]
-    },
-    {
-      "topic": "The Saiga Antelope Mass Death — 200,000 in Three Days",
-      "teaser": "In 2015, one of nature's most bizarre and terrifying mass die-offs wiped out half a species in just three days.",
-      "video_title": "Half a Species Vanished in 3 Days — No One Knew Why",
-      "video_description": "In May 2015, over 200,000 saiga antelopes — more than half the world's entire population — dropped dead within 72 hours across the Kazakh steppe. Calves died first, then mothers. Scientists were baffled for years. The cause, when finally found, was more disturbing than anyone expected.",
-      "tags": [
-        "saiga",
-        "massextinction",
-        "wildlife",
-        "animalfacts",
-        "kazakhstan",
+        "petrichor",
+        "rainfacts",
+        "science",
         "nature",
-        "ecology",
+        "weatherfacts",
+        "atmosphere",
+        "biology",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "In May 2015, 200,000 antelopes dropped dead in a single week — more than half the species alive on Earth. Mothers and calves collapsed within hours of each other across the Kazakh steppe. Scientists flew in from around the world and found no predator, no poison, no sign of disease spreading from outside. The killer had come from within the animals themselves. A bacterium that lives harmlessly in their throats had suddenly turned lethal. What made it snap? Scientists still aren't entirely sure.",
+      "script": "That smell after rain isn't water — it's bacteria. Tiny microbes called actinomycetes live in dry soil and release spores the moment raindrops hit the ground. Those spores launch into the air, and your nose is incredibly sensitive to them — detecting concentrations as low as 5 parts per trillion. Scientists didn't even discover this until 1964. So every time you breathe in that 'fresh rain' smell, you're inhaling ancient bacterial spores. Does that make it better or worse?",
       "visual_keywords": [
-        "antelope herd steppe",
-        "wild animals grassland",
-        "Kazakhstan landscape",
-        "wildlife migration",
-        "dead animals field"
+        "rain falling on soil",
+        "wet ground close up",
+        "soil bacteria microscope",
+        "rainstorm nature"
       ]
     },
     {
-      "topic": "The Tungsten Filament — Why Light Bulbs Are Designed to Burn Out",
-      "teaser": "The first light bulb ever made lasted 100 years — so why does yours die in a few months?",
-      "video_title": "Light Bulbs Could Last Forever — So Why Don't They?",
-      "video_description": "The Centennial Bulb in Livermore, California has been burning almost continuously since 1901. Engineers have known how to make near-indestructible bulbs for over a century. In 1924, the world's largest light bulb manufacturers secretly met and agreed to limit bulb lifespan to 1,000 hours. It was one of history's first documented planned obsolescence cartels.",
+      "topic": "The Phantom Island of Bermeja",
+      "teaser": "A Mexican island appeared on official maps for 400 years — until the government went to find it and it simply wasn't there.",
+      "video_title": "The Island That Vanished From Every Map",
+      "video_description": "Bermeja appeared on maps of the Gulf of Mexico from the 1500s all the way to the late 20th century. When Mexican officials sent a search expedition in 2009, the island was completely gone — no geological trace. No one has ever explained it.",
       "tags": [
-        "lightbulb",
-        "plannedobsolescence",
-        "phoebus",
-        "conspiracy",
-        "technologyfacts",
+        "bermeja",
+        "phantomisland",
+        "mysteryfacts",
         "history",
-        "consumerculture",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "There's a light bulb in California that has been switched on since 1901 — over 120 years. Engineers have always known how to build bulbs that last essentially forever. In 1924, the world's biggest bulb manufacturers held a secret meeting and agreed to cap bulb lifespan at 1,000 hours. They called it the Phoebus Cartel. It was one of history's first organized planned obsolescence schemes. Every bulb you've ever replaced may trace back to that one meeting.",
-      "visual_keywords": [
-        "vintage light bulb glowing",
-        "old incandescent bulb",
-        "light bulb close up",
-        "electric filament macro",
-        "factory meeting room vintage"
-      ]
-    },
-    {
-      "topic": "The Hum — A Sound Only 2% of People Can Hear",
-      "teaser": "Thousands of people worldwide hear a low, constant hum that no microphone can detect — and it's slowly driving them mad.",
-      "video_title": "A Sound That's Driving People Insane — No One Else Hears It",
-      "video_description": "Across the world, in places like Taos, New Mexico and Bristol, England, a small percentage of residents report hearing a persistent, low-frequency hum that no recording equipment can pick up. Sufferers describe it as a diesel engine idling outside. It causes sleep deprivation, nausea, and anxiety. Decades of investigation have never produced a definitive source.",
-      "tags": [
-        "theHum",
-        "mysterioussound",
-        "taoshum",
+        "mexico",
         "unexplained",
-        "sciencemystery",
-        "acoustics",
-        "paranormal",
+        "geography",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "In Taos, New Mexico, roughly 2% of residents hear a low, constant rumbling — like a truck idling just outside. It never stops. No microphone has ever recorded it. Sufferers lose sleep, develop anxiety, some have moved cities to escape it. The same phenomenon has appeared in Bristol, Auckland, and dozens of other towns. Scientists have investigated for decades and still have no agreed explanation. If you can't hear it, you're in the majority. But the ones who do say they'd give anything to make it stop.",
+      "script": "An island appeared on official maps for over 400 years — then vanished without a trace. Bermeja was charted in the Gulf of Mexico as far back as 1535. Ships navigated by it. Governments claimed it. In 2009, Mexico sent a full naval expedition to locate it — because owning it meant rights to billions of dollars in oil reserves. They found nothing. No island, no ruins, no seafloor evidence it ever existed. Some maps lied for centuries. But which ones — and why?",
       "visual_keywords": [
-        "empty desert road night",
-        "quiet suburban street",
-        "sound wave visualization",
-        "person covering ears",
-        "mysterious landscape fog"
+        "old nautical map",
+        "gulf of mexico aerial",
+        "ocean horizon empty",
+        "vintage cartography"
       ]
     },
     {
-      "topic": "Fatal Familial Insomnia — The Disease That Stops You Sleeping Forever",
-      "teaser": "There is a real disease where sufferers slowly lose the ability to sleep — and it always ends the same way.",
-      "video_title": "The Rare Disease That Steals Sleep — Then Takes Everything",
-      "video_description": "Fatal Familial Insomnia is a prion disease that progressively destroys the thalamus — the brain region that regulates sleep. Patients begin with mild insomnia, rapidly escalate to total inability to sleep, then experience hallucinations, dementia, and death — all within 12 to 18 months. Only about 50 families in the world carry the mutation, and there is currently no cure.",
+      "topic": "Mirror Test — Animals That Recognize Themselves",
+      "teaser": "Most animals completely fail the mirror test — but one creature scientists never expected passed it.",
+      "video_title": "The Animal That Knows Its Own Face",
+      "video_description": "The mirror self-recognition test is one of the most important benchmarks in animal cognition. Only a handful of species pass it — and one of the most surprising entries on that list is a fish. The cleaner wrasse became the first fish ever recorded to recognize itself in a mirror.",
       "tags": [
-        "fatalfamilialinsomnia",
-        "sleepscience",
-        "priondisease",
-        "brainfacts",
-        "raredisease",
-        "medicalfacts",
-        "neuroscience",
+        "mirrortest",
+        "animalintelligence",
+        "cognition",
+        "science",
+        "marinebiology",
+        "cleanerwrasse",
+        "animalbehavior",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "There is a disease where patients slowly lose the ability to sleep — and no medication on Earth can help. It begins with mild insomnia, then within weeks the patient stops sleeping entirely. Hallucinations follow. Then dementia. Death comes within 18 months of the first symptom. It's called Fatal Familial Insomnia, and only around 50 families worldwide carry the gene. There is no treatment. No cure. Scientists are racing to find one — but so far, every night for those families carries a different kind of weight.",
+      "script": "Most animals attack their own reflection thinking it's a rival. Humans figure out mirrors around 18 months old. Only a tiny handful of species have ever passed the mirror self-recognition test — great apes, dolphins, elephants. Then in 2018, scientists tested a tiny reef fish called the cleaner wrasse. It passed. A fish with a brain the size of a grain of rice recognized its own face. Now scientists aren't sure if the test even measures what we thought it did.",
       "visual_keywords": [
-        "person awake at night dark room",
-        "insomnia sleepless",
-        "brain scan mri",
-        "hospital bed patient",
-        "clock night time"
+        "cleaner wrasse fish",
+        "animal mirror reflection",
+        "reef fish close up",
+        "marine biology lab"
+      ]
+    },
+    {
+      "topic": "The Longest Echo Ever Recorded",
+      "teaser": "One sound bounced inside a single room for so long that scientists couldn't believe their instruments were working correctly.",
+      "video_title": "This Echo Lasted Over a Minute",
+      "video_description": "In a disused oil storage chamber in Scotland, researchers recorded an echo that reverberated for 112 seconds — nearly two full minutes. The Hamilton Mausoleum previously held the world record at 15 seconds. The oil tank shattered every known benchmark for acoustic reverberation.",
+      "tags": [
+        "echo",
+        "acoustics",
+        "soundscience",
+        "physics",
+        "scotland",
+        "reverberation",
+        "sciencefacts",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "Someone clapped inside an empty oil tank in Scotland — and the echo didn't stop for 112 seconds. Nearly two full minutes of sound bouncing off concrete walls with nowhere to escape. The previous world record for reverberation was 15 seconds, held by a mausoleum. Scientists had to replay the recording multiple times because they thought the equipment had malfunctioned. The tank is now used as a concert venue. Imagine hearing a single piano note still ringing almost two minutes later.",
+      "visual_keywords": [
+        "large empty concrete chamber",
+        "sound wave visualization",
+        "underground tunnel echo",
+        "industrial storage tank interior"
+      ]
+    },
+    {
+      "topic": "Fingernails Grow Faster on Dominant Hand",
+      "teaser": "Your fingernails know which hand you use more — and scientists think they know exactly why.",
+      "video_title": "Why Your Nails Know You're Right-Handed",
+      "video_description": "Fingernails on your dominant hand grow measurably faster than those on your non-dominant hand. They also grow faster in summer, during the day, and on your middle finger specifically. The mechanism behind this reveals something unexpected about how your body distributes resources.",
+      "tags": [
+        "fingernails",
+        "humanbody",
+        "biology",
+        "bodyfacts",
+        "science",
+        "anatomy",
+        "healthfacts",
+        "shorts",
+        "viral",
+        "didyouknow"
+      ],
+      "script": "Your fingernails grow faster on whichever hand you use more — and your body has been quietly doing this your entire life. Scientists confirmed it in the 1930s: dominant hand nails grow roughly 0.1 millimeters per day faster. The leading explanation is blood flow. More movement means more circulation, which delivers more keratin to growing cells. Your middle finger also grows fastest of all — and nails grow nearly twice as fast during summer. Your body is constantly measuring how much you use each finger.",
+      "visual_keywords": [
+        "fingernails close up",
+        "hand dominant writing",
+        "nail growth macro",
+        "human hand biology"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Castrato Singers — The Price of a Perfect Voice",
-    "teaser": "The most celebrated voices in 18th-century Europe belonged to boys who paid an unimaginable price to sing.",
-    "video_title": "The Darkest Secret Behind History's Greatest Singers",
-    "video_description": "Castrato Singers — The Price of a Perfect Voice\n\n#castrato #musichistory #opera #history #hiddenfacts",
-    "tags": [
-      "castrato",
-      "musichistory",
-      "opera",
-      "history",
-      "hiddenfacts",
-      "darkhistory",
-      "europeanhistory",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "The most famous singers in 18th-century Europe weren't men or women — they were boys who had been surgically altered before puberty so their voices would never break. Thousands underwent the procedure every year, most dying in poverty after their voices faded. Only a handful became stars. The last one died in 1922 — and left behind recordings. You can still hear him today. Does that change how beautiful it sounds?",
-    "visual_keywords": [
-      "opera house baroque",
-      "classical music concert",
-      "historical theater stage",
-      "choir boy singing",
-      "vintage music recording"
-    ]
-  },
-  "hashtag_options": [
-    "castrato",
-    "musichistory",
-    "opera",
-    "history",
-    "hiddenfacts",
-    "darkhistory",
-    "europeanhistory",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 273,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-04T11:06:32.779652+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBE2qb7uXaWXQnuFh6hPRbO18-TstcAAL0HgACJx7gUFzHqkgxdU82PQQ",
-  "review_started_at": "2026-09-05T10:28:53.564275+00:00",
-  "attempts": 1
+  ]
 }
