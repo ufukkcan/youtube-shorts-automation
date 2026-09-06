@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-05",
   "message_id": 277,
   "created_at": "2026-09-05T13:30:48.292087+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "The Smell of Rain — Petrichor",
@@ -130,5 +130,45 @@
         "human hand biology"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "The Smell of Rain — Petrichor",
+    "teaser": "That smell after rain? Scientists discovered it has a name — and a surprisingly dark origin.",
+    "video_title": "The Real Reason Rain Has a Smell",
+    "video_description": "That iconic post-rain scent has a name: petrichor. It was only identified by scientists in 1964, and its origin involves bacteria releasing spores into the air. What you're actually smelling might surprise you.",
+    "tags": [
+      "petrichor",
+      "rainfacts",
+      "science",
+      "nature",
+      "weatherfacts",
+      "atmosphere",
+      "biology",
+      "shorts",
+      "viral",
+      "facts"
+    ],
+    "script": "That smell after rain isn't water — it's bacteria. Tiny microbes called actinomycetes live in dry soil and release spores the moment raindrops hit the ground. Those spores launch into the air, and your nose is incredibly sensitive to them — detecting concentrations as low as 5 parts per trillion. Scientists didn't even discover this until 1964. So every time you breathe in that 'fresh rain' smell, you're inhaling ancient bacterial spores. Does that make it better or worse?",
+    "visual_keywords": [
+      "rain falling on soil",
+      "wet ground close up",
+      "soil bacteria microscope",
+      "rainstorm nature"
+    ]
+  },
+  "hashtag_options": [
+    "petrichor",
+    "rainfacts",
+    "science",
+    "nature",
+    "weatherfacts",
+    "atmosphere",
+    "biology",
+    "shorts",
+    "viral",
+    "facts"
+  ],
+  "hashtag_message_id": 278,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-06T10:48:59.189066+00:00"
 }
