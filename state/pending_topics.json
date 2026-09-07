@@ -1,183 +1,139 @@
 {
-  "batch_id": "20260905-1330",
-  "trigger_date": "2026-09-05",
-  "message_id": 280,
-  "created_at": "2026-09-05T13:30:48.292087+00:00",
-  "status": "done",
+  "batch_id": "20260907-1511",
+  "trigger_date": "2026-09-07",
+  "message_id": 282,
+  "created_at": "2026-09-07T15:11:21.648465+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Smell of Rain — Petrichor",
-      "teaser": "That smell after rain? Scientists discovered it has a name — and a surprisingly dark origin.",
-      "video_title": "The Real Reason Rain Has a Smell",
-      "video_description": "That iconic post-rain scent has a name: petrichor. It was only identified by scientists in 1964, and its origin involves bacteria releasing spores into the air. What you're actually smelling might surprise you.",
+      "topic": "The Coldest Place in the Universe — Boomerang Nebula",
+      "teaser": "There's a place in space colder than anything scientists ever manufactured in a lab — and it formed completely on its own.",
+      "video_title": "This Spot in Space Is Colder Than a Lab Can Get",
+      "video_description": "The Boomerang Nebula sits at just one degree above absolute zero — colder than any temperature humans have ever artificially created. Nature beat science at its own game. How is that even possible?",
       "tags": [
-        "petrichor",
-        "rainfacts",
-        "science",
-        "nature",
-        "weatherfacts",
-        "atmosphere",
-        "biology",
+        "boomerangnebula",
+        "space",
+        "universe",
+        "cosmology",
+        "absolutezero",
+        "astronomy",
+        "spacefacts",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "That smell after rain isn't water — it's bacteria. Tiny microbes called actinomycetes live in dry soil and release spores the moment raindrops hit the ground. Those spores launch into the air, and your nose is incredibly sensitive to them — detecting concentrations as low as 5 parts per trillion. Scientists didn't even discover this until 1964. So every time you breathe in that 'fresh rain' smell, you're inhaling ancient bacterial spores. Does that make it better or worse?",
+      "script": "There's a place in the universe colder than any laboratory ever created — and humans had nothing to do with it. The Boomerang Nebula, 5,000 light-years away, sits at just one degree above absolute zero. That's colder than the average temperature of deep space itself. It formed when a dying star blasted gas outward at over 500,000 kilometers per hour, cooling so violently it beat every refrigerator ever built. Nature made the coldest known spot in the universe entirely by accident. Does that terrify you or fascinate you?",
       "visual_keywords": [
-        "rain falling on soil",
-        "wet ground close up",
-        "soil bacteria microscope",
-        "rainstorm nature"
+        "nebula space",
+        "deep space stars",
+        "galaxy cosmic",
+        "astronomy telescope",
+        "space explosion"
       ]
     },
     {
-      "topic": "The Phantom Island of Bermeja",
-      "teaser": "A Mexican island appeared on official maps for 400 years — until the government went to find it and it simply wasn't there.",
-      "video_title": "The Island That Vanished From Every Map",
-      "video_description": "Bermeja appeared on maps of the Gulf of Mexico from the 1500s all the way to the late 20th century. When Mexican officials sent a search expedition in 2009, the island was completely gone — no geological trace. No one has ever explained it.",
+      "topic": "The Grandfather Paradox — Time Travel Logic Break",
+      "teaser": "Physicists found a mathematical solution to the grandfather paradox — and it makes the answer even stranger than the problem.",
+      "video_title": "Physics Actually Solved the Grandfather Paradox",
+      "video_description": "The grandfather paradox has baffled thinkers for decades, but physicists at the University of Queensland ran the actual numbers — and the universe may simply rewrite your actions to avoid the contradiction. Reality might be self-correcting.",
       "tags": [
-        "bermeja",
-        "phantomisland",
-        "mysteryfacts",
-        "history",
-        "mexico",
-        "unexplained",
-        "geography",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "An island appeared on official maps for over 400 years — then vanished without a trace. Bermeja was charted in the Gulf of Mexico as far back as 1535. Ships navigated by it. Governments claimed it. In 2009, Mexico sent a full naval expedition to locate it — because owning it meant rights to billions of dollars in oil reserves. They found nothing. No island, no ruins, no seafloor evidence it ever existed. Some maps lied for centuries. But which ones — and why?",
-      "visual_keywords": [
-        "old nautical map",
-        "gulf of mexico aerial",
-        "ocean horizon empty",
-        "vintage cartography"
-      ]
-    },
-    {
-      "topic": "Mirror Test — Animals That Recognize Themselves",
-      "teaser": "Most animals completely fail the mirror test — but one creature scientists never expected passed it.",
-      "video_title": "The Animal That Knows Its Own Face",
-      "video_description": "The mirror self-recognition test is one of the most important benchmarks in animal cognition. Only a handful of species pass it — and one of the most surprising entries on that list is a fish. The cleaner wrasse became the first fish ever recorded to recognize itself in a mirror.",
-      "tags": [
-        "mirrortest",
-        "animalintelligence",
-        "cognition",
-        "science",
-        "marinebiology",
-        "cleanerwrasse",
-        "animalbehavior",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "Most animals attack their own reflection thinking it's a rival. Humans figure out mirrors around 18 months old. Only a tiny handful of species have ever passed the mirror self-recognition test — great apes, dolphins, elephants. Then in 2018, scientists tested a tiny reef fish called the cleaner wrasse. It passed. A fish with a brain the size of a grain of rice recognized its own face. Now scientists aren't sure if the test even measures what we thought it did.",
-      "visual_keywords": [
-        "cleaner wrasse fish",
-        "animal mirror reflection",
-        "reef fish close up",
-        "marine biology lab"
-      ]
-    },
-    {
-      "topic": "The Longest Echo Ever Recorded",
-      "teaser": "One sound bounced inside a single room for so long that scientists couldn't believe their instruments were working correctly.",
-      "video_title": "This Echo Lasted Over a Minute",
-      "video_description": "In a disused oil storage chamber in Scotland, researchers recorded an echo that reverberated for 112 seconds — nearly two full minutes. The Hamilton Mausoleum previously held the world record at 15 seconds. The oil tank shattered every known benchmark for acoustic reverberation.",
-      "tags": [
-        "echo",
-        "acoustics",
-        "soundscience",
+        "grandfatherparadox",
+        "timetravel",
         "physics",
-        "scotland",
-        "reverberation",
+        "quantumphysics",
+        "spacetime",
+        "sciencefacts",
+        "mindblow",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "If you went back in time and stopped your own grandfather from meeting your grandmother — you'd never be born to travel back in the first place. Paradox. But physicists at the University of Queensland ran the actual equations in 2020 and found something disturbing: the universe wouldn't let you. Your actions would automatically adjust — subtly, impossibly — to prevent the contradiction. Reality might be self-correcting, erasing your free will to protect its own logic. So the real question is: do you actually control anything?",
+      "visual_keywords": [
+        "clock time",
+        "time vortex",
+        "grandfather old photo",
+        "physics equation",
+        "hourglass"
+      ]
+    },
+    {
+      "topic": "Algorithm That Predicts Death — AI Mortality Model",
+      "teaser": "An AI was given patient records — and it predicted who would die within a year with unsettling accuracy, without being told what to look for.",
+      "video_title": "An AI Predicted Deaths — And Doctors Can't Explain It",
+      "video_description": "Researchers fed an AI millions of medical records and asked it to find patterns. It predicted one-year mortality with over 90% accuracy — using signals that no human doctor had ever thought to look for. Nobody fully understands what it's seeing.",
+      "tags": [
+        "artificialintelligence",
+        "ai",
+        "medicine",
+        "deathprediction",
+        "machinelearning",
+        "healthtech",
         "sciencefacts",
         "shorts",
         "viral",
-        "facts"
+        "trending"
       ],
-      "script": "Someone clapped inside an empty oil tank in Scotland — and the echo didn't stop for 112 seconds. Nearly two full minutes of sound bouncing off concrete walls with nowhere to escape. The previous world record for reverberation was 15 seconds, held by a mausoleum. Scientists had to replay the recording multiple times because they thought the equipment had malfunctioned. The tank is now used as a concert venue. Imagine hearing a single piano note still ringing almost two minutes later.",
+      "script": "Researchers gave an AI millions of hospital records and asked it to predict which patients would die within a year. It hit over 90% accuracy. The terrifying part — doctors examined its reasoning and couldn't fully understand what signals it was using. It found patterns invisible to human medicine, in data nobody thought was meaningful. An algorithm now predicts death better than the people trained their entire lives to prevent it. Should we trust it blindly — or does that make it more dangerous?",
       "visual_keywords": [
-        "large empty concrete chamber",
-        "sound wave visualization",
-        "underground tunnel echo",
-        "industrial storage tank interior"
+        "hospital patient",
+        "ai technology screen",
+        "medical data computer",
+        "doctor healthcare",
+        "algorithm code"
       ]
     },
     {
-      "topic": "Fingernails Grow Faster on Dominant Hand",
-      "teaser": "Your fingernails know which hand you use more — and scientists think they know exactly why.",
-      "video_title": "Why Your Nails Know You're Right-Handed",
-      "video_description": "Fingernails on your dominant hand grow measurably faster than those on your non-dominant hand. They also grow faster in summer, during the day, and on your middle finger specifically. The mechanism behind this reveals something unexpected about how your body distributes resources.",
+      "topic": "The Dyatlov Pass Incident — 9 Hikers, No Explanation",
+      "teaser": "Nine experienced hikers were found dead in the snow — one was missing her tongue, and Soviet investigators closed the case calling it 'an unknown compelling force.'",
+      "video_title": "9 Hikers Died. Soviets Blamed an 'Unknown Force.'",
+      "video_description": "In 1959, nine trained Soviet hikers were found dead on a mountain in the Urals — some with fractured skulls, one missing her tongue, all with no external wounds. They had cut their way out of the tent from the inside and fled into minus-30 temperatures in their socks.",
       "tags": [
-        "fingernails",
-        "humanbody",
-        "biology",
-        "bodyfacts",
-        "science",
-        "anatomy",
-        "healthfacts",
+        "dyatlovpass",
+        "mystery",
+        "unsolved",
+        "truecrime",
+        "sovietunion",
+        "history",
+        "horror",
         "shorts",
         "viral",
-        "didyouknow"
+        "facts"
       ],
-      "script": "Your fingernails grow faster on whichever hand you use more — and your body has been quietly doing this your entire life. Scientists confirmed it in the 1930s: dominant hand nails grow roughly 0.1 millimeters per day faster. The leading explanation is blood flow. More movement means more circulation, which delivers more keratin to growing cells. Your middle finger also grows fastest of all — and nails grow nearly twice as fast during summer. Your body is constantly measuring how much you use each finger.",
+      "script": "In February 1959, nine experienced Soviet hikers cut open their tent from the inside and ran barefoot into minus-30-degree snow. They were later found dead — some with fractured ribcages equivalent to a car crash, one missing her tongue entirely, yet no external wounds on anyone. Soviet investigators ruled the cause: an unknown compelling force. The case was sealed for decades. A 2019 official reinvestigation offered an answer — but eyewitnesses rejected it immediately. What would make nine trained survivalists choose certain death over staying in a tent?",
       "visual_keywords": [
-        "fingernails close up",
-        "hand dominant writing",
-        "nail growth macro",
-        "human hand biology"
+        "snowy mountain night",
+        "tent snow wilderness",
+        "Soviet forest winter",
+        "mystery crime scene",
+        "Ural mountains"
+      ]
+    },
+    {
+      "topic": "Ships' Graveyard — The Truk Lagoon Underwater Fleet",
+      "teaser": "Beneath a calm lagoon in the Pacific, over 60 warships and thousands of human remains have sat untouched since 1944 — and the water is now one of the most biodiverse places on Earth.",
+      "video_title": "60 Warships Sank Here. Nature Took Over.",
+      "video_description": "In 1944, the US Navy sank the entire Japanese fleet anchored at Truk Lagoon in just 48 hours. The ships, still loaded with tanks, planes, and human bones, never moved again. Decades later, coral colonized everything — turning a mass graveyard into one of the world's most stunning dive sites.",
+      "tags": [
+        "truklagoon",
+        "worldwar2",
+        "underwaterhistory",
+        "oceanmystery",
+        "shipwreck",
+        "nature",
+        "history",
+        "shorts",
+        "viral",
+        "trending"
+      ],
+      "script": "In 48 hours in 1944, the US Navy sank over 60 Japanese warships in a single lagoon in Micronesia. The ships went straight to the bottom — still packed with fighter planes, tanks, motorcycles, and human bones. Nobody moved them. Then coral arrived. Over 80 years, the entire fleet transformed into a living reef — skeletons still inside, now surrounded by thousands of fish species. A catastrophic mass grave became one of nature's greatest ecosystems. Is it a war memorial, or proof that nature reclaims everything we destroy?",
+      "visual_keywords": [
+        "underwater shipwreck",
+        "coral reef warship",
+        "scuba diving wreck",
+        "World War 2 ship",
+        "ocean floor military"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Smell of Rain — Petrichor",
-    "teaser": "That smell after rain? Scientists discovered it has a name — and a surprisingly dark origin.",
-    "video_title": "The Real Reason Rain Has a Smell",
-    "video_description": "The Smell of Rain — Petrichor\n\n#petrichor #rainfacts #science #nature #weatherfacts",
-    "tags": [
-      "petrichor",
-      "rainfacts",
-      "science",
-      "nature",
-      "weatherfacts",
-      "atmosphere",
-      "biology",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "That smell after rain isn't water — it's bacteria. Tiny microbes called actinomycetes live in dry soil and release spores the moment raindrops hit the ground. Those spores launch into the air, and your nose is incredibly sensitive to them — detecting concentrations as low as 5 parts per trillion. Scientists didn't even discover this until 1964. So every time you breathe in that 'fresh rain' smell, you're inhaling ancient bacterial spores. Does that make it better or worse?",
-    "visual_keywords": [
-      "rain falling on soil",
-      "wet ground close up",
-      "soil bacteria microscope",
-      "rainstorm nature"
-    ]
-  },
-  "hashtag_options": [
-    "petrichor",
-    "rainfacts",
-    "science",
-    "nature",
-    "weatherfacts",
-    "atmosphere",
-    "biology",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 278,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-06T10:48:59.189066+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBGGqehNQ7uqmjBBgFNVVY9eHsvbCUAAKnJQACaYnxUKwey9-i6CLdPQQ",
-  "review_started_at": "2026-09-07T09:33:08.458408+00:00",
-  "attempts": 1
+  ]
 }
