@@ -1,9 +1,9 @@
 {
   "batch_id": "20260905-1330",
   "trigger_date": "2026-09-05",
-  "message_id": 277,
+  "message_id": 280,
   "created_at": "2026-09-05T13:30:48.292087+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Smell of Rain — Petrichor",
@@ -135,7 +135,7 @@
     "topic": "The Smell of Rain — Petrichor",
     "teaser": "That smell after rain? Scientists discovered it has a name — and a surprisingly dark origin.",
     "video_title": "The Real Reason Rain Has a Smell",
-    "video_description": "That iconic post-rain scent has a name: petrichor. It was only identified by scientists in 1964, and its origin involves bacteria releasing spores into the air. What you're actually smelling might surprise you.",
+    "video_description": "The Smell of Rain — Petrichor\n\n#petrichor #rainfacts #science #nature #weatherfacts",
     "tags": [
       "petrichor",
       "rainfacts",
@@ -169,6 +169,15 @@
     "facts"
   ],
   "hashtag_message_id": 278,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-06T10:48:59.189066+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-09-06T10:48:59.189066+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBGGqehNQ7uqmjBBgFNVVY9eHsvbCUAAKnJQACaYnxUKwey9-i6CLdPQQ",
+  "review_started_at": "2026-09-07T09:33:08.458408+00:00",
+  "attempts": 1
 }
