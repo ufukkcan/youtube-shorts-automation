@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-07",
   "message_id": 282,
   "created_at": "2026-09-07T15:11:21.648465+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "The Coldest Place in the Universe — Boomerang Nebula",
@@ -135,5 +135,46 @@
         "ocean floor military"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "The Coldest Place in the Universe — Boomerang Nebula",
+    "teaser": "There's a place in space colder than anything scientists ever manufactured in a lab — and it formed completely on its own.",
+    "video_title": "This Spot in Space Is Colder Than a Lab Can Get",
+    "video_description": "The Boomerang Nebula sits at just one degree above absolute zero — colder than any temperature humans have ever artificially created. Nature beat science at its own game. How is that even possible?",
+    "tags": [
+      "boomerangnebula",
+      "space",
+      "universe",
+      "cosmology",
+      "absolutezero",
+      "astronomy",
+      "spacefacts",
+      "shorts",
+      "viral",
+      "facts"
+    ],
+    "script": "There's a place in the universe colder than any laboratory ever created — and humans had nothing to do with it. The Boomerang Nebula, 5,000 light-years away, sits at just one degree above absolute zero. That's colder than the average temperature of deep space itself. It formed when a dying star blasted gas outward at over 500,000 kilometers per hour, cooling so violently it beat every refrigerator ever built. Nature made the coldest known spot in the universe entirely by accident. Does that terrify you or fascinate you?",
+    "visual_keywords": [
+      "nebula space",
+      "deep space stars",
+      "galaxy cosmic",
+      "astronomy telescope",
+      "space explosion"
+    ]
+  },
+  "hashtag_options": [
+    "boomerangnebula",
+    "space",
+    "universe",
+    "cosmology",
+    "absolutezero",
+    "astronomy",
+    "spacefacts",
+    "shorts",
+    "viral",
+    "facts"
+  ],
+  "hashtag_message_id": 283,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-08T12:59:12.410272+00:00"
 }
