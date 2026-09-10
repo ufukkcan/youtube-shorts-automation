@@ -1,189 +1,139 @@
 {
-  "batch_id": "20260907-1511",
-  "trigger_date": "2026-09-07",
-  "message_id": 285,
-  "created_at": "2026-09-07T15:11:21.648465+00:00",
-  "status": "done",
+  "batch_id": "20260910-1512",
+  "trigger_date": "2026-09-10",
+  "message_id": 288,
+  "created_at": "2026-09-10T15:12:54.410086+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Coldest Place in the Universe — Boomerang Nebula",
-      "teaser": "There's a place in space colder than anything scientists ever manufactured in a lab — and it formed completely on its own.",
-      "video_title": "This Spot in Space Is Colder Than a Lab Can Get",
-      "video_description": "The Boomerang Nebula sits at just one degree above absolute zero — colder than any temperature humans have ever artificially created. Nature beat science at its own game. How is that even possible?",
+      "topic": "Lobsters Are Biologically Immortal — They Don't Age",
+      "teaser": "One ocean creature technically never gets old — and science can prove it.",
+      "video_title": "Lobsters Don't Age. Here's Why That's Terrifying.",
+      "video_description": "Lobsters possess an enzyme that prevents cellular aging — they don't weaken with age, they grow stronger. The only reason they die is external. This challenges everything we think we know about biological mortality.",
       "tags": [
-        "boomerangnebula",
+        "lobster",
+        "immortal",
+        "biology",
+        "aging",
+        "marinelife",
+        "ocean",
+        "science",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "A lobster doesn't age. Not slowly — not at all. They carry an enzyme called telomerase that repairs their DNA every single time a cell divides, something human cells stop doing around age 25. An older lobster is actually stronger, faster, and more fertile than a young one. The only reason they ever die is being eaten, disease, or the sheer exhaustion of molting their own shell. Left alone, a lobster could theoretically live forever. So why can't we?",
+      "visual_keywords": [
+        "lobster underwater",
+        "ocean floor",
+        "marine biology",
+        "deep sea creature",
+        "shellfish close-up"
+      ]
+    },
+    {
+      "topic": "The Sedlec Ossuary — Church Built From 40,000 Human Bones",
+      "teaser": "There's a church in Europe where every decoration — every single one — is made of human bones.",
+      "video_title": "A Church Decorated Entirely With 40,000 Human Bones",
+      "video_description": "The Sedlec Ossuary in the Czech Republic contains the skeletal remains of 40,000 people, arranged into chandeliers, coats of arms, and wall decorations. It was completed in 1870 and remains an active place of worship today.",
+      "tags": [
+        "ossuary",
+        "sedlec",
+        "humanbone",
+        "darkhistory",
+        "czechrepublic",
+        "history",
+        "creepy",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "In a small Czech town, there's a church where the chandelier hanging above you is made entirely of every bone in the human body — not a single one missing. The Sedlec Ossuary holds the remains of roughly 40,000 people, victims of plague and war, arranged into decorations by a half-blind monk in 1511. Skulls line the walls. Femurs form archways. A noble family's coat of arms — made of bones — hangs near the altar. And every year, tourists line up to pray inside it.",
+      "visual_keywords": [
+        "ossuary interior",
+        "human skulls church",
+        "bone decoration",
+        "gothic church",
+        "czech medieval architecture"
+      ]
+    },
+    {
+      "topic": "The Carrington Event — Solar Storm That Nearly Ended Civilization",
+      "teaser": "In 1859, a solar storm hit Earth so hard that telegraph wires burst into flames — and if it happened today, we'd have no warning.",
+      "video_title": "The Solar Storm That Nearly Burned the World in 1859",
+      "video_description": "The 1859 Carrington Event was the most powerful geomagnetic storm ever recorded. Telegraph systems worldwide failed, caught fire, and still operated without power. Scientists estimate a repeat event today would cause up to $2 trillion in damage and knock out global power grids for years.",
+      "tags": [
+        "carringtonevent",
+        "solarstorm",
         "space",
-        "universe",
-        "cosmology",
-        "absolutezero",
-        "astronomy",
-        "spacefacts",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "There's a place in the universe colder than any laboratory ever created — and humans had nothing to do with it. The Boomerang Nebula, 5,000 light-years away, sits at just one degree above absolute zero. That's colder than the average temperature of deep space itself. It formed when a dying star blasted gas outward at over 500,000 kilometers per hour, cooling so violently it beat every refrigerator ever built. Nature made the coldest known spot in the universe entirely by accident. Does that terrify you or fascinate you?",
-      "visual_keywords": [
-        "nebula space",
-        "deep space stars",
-        "galaxy cosmic",
-        "astronomy telescope",
-        "space explosion"
-      ]
-    },
-    {
-      "topic": "The Grandfather Paradox — Time Travel Logic Break",
-      "teaser": "Physicists found a mathematical solution to the grandfather paradox — and it makes the answer even stranger than the problem.",
-      "video_title": "Physics Actually Solved the Grandfather Paradox",
-      "video_description": "The grandfather paradox has baffled thinkers for decades, but physicists at the University of Queensland ran the actual numbers — and the universe may simply rewrite your actions to avoid the contradiction. Reality might be self-correcting.",
-      "tags": [
-        "grandfatherparadox",
-        "timetravel",
-        "physics",
-        "quantumphysics",
-        "spacetime",
-        "sciencefacts",
-        "mindblow",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "If you went back in time and stopped your own grandfather from meeting your grandmother — you'd never be born to travel back in the first place. Paradox. But physicists at the University of Queensland ran the actual equations in 2020 and found something disturbing: the universe wouldn't let you. Your actions would automatically adjust — subtly, impossibly — to prevent the contradiction. Reality might be self-correcting, erasing your free will to protect its own logic. So the real question is: do you actually control anything?",
-      "visual_keywords": [
-        "clock time",
-        "time vortex",
-        "grandfather old photo",
-        "physics equation",
-        "hourglass"
-      ]
-    },
-    {
-      "topic": "Algorithm That Predicts Death — AI Mortality Model",
-      "teaser": "An AI was given patient records — and it predicted who would die within a year with unsettling accuracy, without being told what to look for.",
-      "video_title": "An AI Predicted Deaths — And Doctors Can't Explain It",
-      "video_description": "Researchers fed an AI millions of medical records and asked it to find patterns. It predicted one-year mortality with over 90% accuracy — using signals that no human doctor had ever thought to look for. Nobody fully understands what it's seeing.",
-      "tags": [
-        "artificialintelligence",
-        "ai",
-        "medicine",
-        "deathprediction",
-        "machinelearning",
-        "healthtech",
-        "sciencefacts",
-        "shorts",
-        "viral",
-        "trending"
-      ],
-      "script": "Researchers gave an AI millions of hospital records and asked it to predict which patients would die within a year. It hit over 90% accuracy. The terrifying part — doctors examined its reasoning and couldn't fully understand what signals it was using. It found patterns invisible to human medicine, in data nobody thought was meaningful. An algorithm now predicts death better than the people trained their entire lives to prevent it. Should we trust it blindly — or does that make it more dangerous?",
-      "visual_keywords": [
-        "hospital patient",
-        "ai technology screen",
-        "medical data computer",
-        "doctor healthcare",
-        "algorithm code"
-      ]
-    },
-    {
-      "topic": "The Dyatlov Pass Incident — 9 Hikers, No Explanation",
-      "teaser": "Nine experienced hikers were found dead in the snow — one was missing her tongue, and Soviet investigators closed the case calling it 'an unknown compelling force.'",
-      "video_title": "9 Hikers Died. Soviets Blamed an 'Unknown Force.'",
-      "video_description": "In 1959, nine trained Soviet hikers were found dead on a mountain in the Urals — some with fractured skulls, one missing her tongue, all with no external wounds. They had cut their way out of the tent from the inside and fled into minus-30 temperatures in their socks.",
-      "tags": [
-        "dyatlovpass",
-        "mystery",
-        "unsolved",
-        "truecrime",
-        "sovietunion",
+        "sun",
         "history",
-        "horror",
+        "science",
+        "geomagnetic",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "In February 1959, nine experienced Soviet hikers cut open their tent from the inside and ran barefoot into minus-30-degree snow. They were later found dead — some with fractured ribcages equivalent to a car crash, one missing her tongue entirely, yet no external wounds on anyone. Soviet investigators ruled the cause: an unknown compelling force. The case was sealed for decades. A 2019 official reinvestigation offered an answer — but eyewitnesses rejected it immediately. What would make nine trained survivalists choose certain death over staying in a tent?",
+      "script": "In September 1859, telegraph operators across America and Europe were electrocuted at their desks. The machines kept sending messages even after being unplugged. The night sky glowed so bright that miners in the Rocky Mountains woke up thinking it was morning. A solar storm had just struck Earth with the force of ten billion atomic bombs. Scientists call it the Carrington Event. If the same storm hit today, it would collapse every power grid on the planet — and we'd have roughly 17 minutes of warning.",
       "visual_keywords": [
-        "snowy mountain night",
-        "tent snow wilderness",
-        "Soviet forest winter",
-        "mystery crime scene",
-        "Ural mountains"
+        "solar flare",
+        "sun storm",
+        "aurora borealis",
+        "power grid",
+        "space weather"
       ]
     },
     {
-      "topic": "Ships' Graveyard — The Truk Lagoon Underwater Fleet",
-      "teaser": "Beneath a calm lagoon in the Pacific, over 60 warships and thousands of human remains have sat untouched since 1944 — and the water is now one of the most biodiverse places on Earth.",
-      "video_title": "60 Warships Sank Here. Nature Took Over.",
-      "video_description": "In 1944, the US Navy sank the entire Japanese fleet anchored at Truk Lagoon in just 48 hours. The ships, still loaded with tanks, planes, and human bones, never moved again. Decades later, coral colonized everything — turning a mass graveyard into one of the world's most stunning dive sites.",
+      "topic": "Hiroo Onoda — Japanese Soldier Who Fought for 29 Years After WWII Ended",
+      "teaser": "One soldier kept fighting World War II until 1974 — because nobody could convince him it was over.",
+      "video_title": "The Soldier Who Refused to Believe WWII Was Over for 29 Years",
+      "video_description": "Hiroo Onoda, a Japanese intelligence officer, continued guerrilla warfare in the Philippine jungle until 1974 — nearly three decades after Japan surrendered in 1945. He only laid down his weapon when his former commanding officer flew in personally to relieve him of duty.",
       "tags": [
-        "truklagoon",
+        "hirooOnoda",
         "worldwar2",
-        "underwaterhistory",
-        "oceanmystery",
-        "shipwreck",
-        "nature",
+        "japan",
         "history",
+        "soldier",
+        "philippines",
+        "military",
         "shorts",
         "viral",
-        "trending"
+        "facts"
       ],
-      "script": "In 48 hours in 1944, the US Navy sank over 60 Japanese warships in a single lagoon in Micronesia. The ships went straight to the bottom — still packed with fighter planes, tanks, motorcycles, and human bones. Nobody moved them. Then coral arrived. Over 80 years, the entire fleet transformed into a living reef — skeletons still inside, now surrounded by thousands of fish species. A catastrophic mass grave became one of nature's greatest ecosystems. Is it a war memorial, or proof that nature reclaims everything we destroy?",
+      "script": "In 1974, a Japanese soldier emerged from a Philippine jungle, rifle in hand, still fighting World War II. Hiroo Onoda had been waging a guerrilla campaign for 29 years — since 1945. He'd found leaflets saying Japan surrendered. He assumed they were enemy propaganda. Search parties, newspapers, even his own family couldn't reach him. The war only ended for him when his original commanding officer — now 77 years old — flew to the jungle and personally ordered him to stop.",
       "visual_keywords": [
-        "underwater shipwreck",
-        "coral reef warship",
-        "scuba diving wreck",
-        "World War 2 ship",
-        "ocean floor military"
+        "jungle philippines",
+        "japanese soldier",
+        "world war 2",
+        "tropical rainforest",
+        "military uniform vintage"
+      ]
+    },
+    {
+      "topic": "The Uncanny Valley — Why Almost-Human Faces Feel Horrifying",
+      "teaser": "There's a precise point where a human face becomes so realistic that your brain decides it's a corpse — and scientists have measured exactly where it is.",
+      "video_title": "Why Almost-Human Faces Terrify Your Brain",
+      "video_description": "The uncanny valley is a measurable psychological phenomenon where near-perfect human replicas — robots, CGI faces, hyper-realistic dolls — trigger deep feelings of dread and revulsion. Neuroscientists believe it's an ancient survival mechanism designed to detect disease, death, or deception.",
+      "tags": [
+        "uncanneyvalley",
+        "psychology",
+        "brain",
+        "robotics",
+        "neuroscience",
+        "humanface",
+        "science",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "Your brain has a threshold. Up to a certain point, the more human something looks, the more you like it. Cross that line by just a fraction — a robot's face too smooth, a CGI character's eyes slightly too still — and your brain doesn't just feel uncomfortable. It fires the exact same signals it uses to detect a corpse. Scientists call it the uncanny valley. It's not a metaphor. It's a measurable dip in your emotional response. Your mind is literally screaming: something here is pretending to be alive.",
+      "visual_keywords": [
+        "humanoid robot face",
+        "CGI realistic face",
+        "artificial intelligence",
+        "robotics close-up",
+        "human android"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Coldest Place in the Universe — Boomerang Nebula",
-    "teaser": "There's a place in space colder than anything scientists ever manufactured in a lab — and it formed completely on its own.",
-    "video_title": "This Spot in Space Is Colder Than a Lab Can Get",
-    "video_description": "The Coldest Place in the Universe — Boomerang Nebula\n\n#boomerangnebula #space #universe #cosmology #absolutezero",
-    "tags": [
-      "boomerangnebula",
-      "space",
-      "universe",
-      "cosmology",
-      "absolutezero",
-      "astronomy",
-      "spacefacts",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "There's a place in the universe colder than any laboratory ever created — and humans had nothing to do with it. The Boomerang Nebula, 5,000 light-years away, sits at just one degree above absolute zero. That's colder than the average temperature of deep space itself. It formed when a dying star blasted gas outward at over 500,000 kilometers per hour, cooling so violently it beat every refrigerator ever built. Nature made the coldest known spot in the universe entirely by accident. Does that terrify you or fascinate you?",
-    "visual_keywords": [
-      "nebula space",
-      "deep space stars",
-      "galaxy cosmic",
-      "astronomy telescope",
-      "space explosion"
-    ]
-  },
-  "hashtag_options": [
-    "boomerangnebula",
-    "space",
-    "universe",
-    "cosmology",
-    "absolutezero",
-    "astronomy",
-    "spacefacts",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 283,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-08T12:59:12.410272+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBHWqhIczuTLLBZTzwgFaG1i4Mnif7AAKJGwAC5iIJUUQpswbOVO8AAT0E",
-  "review_started_at": "2026-09-09T09:07:25.030922+00:00",
-  "attempts": 1
+  ]
 }
