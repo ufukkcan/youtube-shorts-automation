@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-10",
   "message_id": 288,
   "created_at": "2026-09-10T15:12:54.410086+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Lobsters Are Biologically Immortal — They Don't Age",
@@ -135,5 +135,46 @@
         "human android"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Lobsters Are Biologically Immortal — They Don't Age",
+    "teaser": "One ocean creature technically never gets old — and science can prove it.",
+    "video_title": "Lobsters Don't Age. Here's Why That's Terrifying.",
+    "video_description": "Lobsters possess an enzyme that prevents cellular aging — they don't weaken with age, they grow stronger. The only reason they die is external. This challenges everything we think we know about biological mortality.",
+    "tags": [
+      "lobster",
+      "immortal",
+      "biology",
+      "aging",
+      "marinelife",
+      "ocean",
+      "science",
+      "shorts",
+      "viral",
+      "facts"
+    ],
+    "script": "A lobster doesn't age. Not slowly — not at all. They carry an enzyme called telomerase that repairs their DNA every single time a cell divides, something human cells stop doing around age 25. An older lobster is actually stronger, faster, and more fertile than a young one. The only reason they ever die is being eaten, disease, or the sheer exhaustion of molting their own shell. Left alone, a lobster could theoretically live forever. So why can't we?",
+    "visual_keywords": [
+      "lobster underwater",
+      "ocean floor",
+      "marine biology",
+      "deep sea creature",
+      "shellfish close-up"
+    ]
+  },
+  "hashtag_options": [
+    "lobster",
+    "immortal",
+    "biology",
+    "aging",
+    "marinelife",
+    "ocean",
+    "science",
+    "shorts",
+    "viral",
+    "facts"
+  ],
+  "hashtag_message_id": 289,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-11T14:06:54.618419+00:00"
 }
