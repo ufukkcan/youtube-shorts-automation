@@ -1,9 +1,9 @@
 {
   "batch_id": "20260910-1512",
   "trigger_date": "2026-09-10",
-  "message_id": 288,
+  "message_id": 291,
   "created_at": "2026-09-10T15:12:54.410086+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Lobsters Are Biologically Immortal — They Don't Age",
@@ -140,7 +140,7 @@
     "topic": "Lobsters Are Biologically Immortal — They Don't Age",
     "teaser": "One ocean creature technically never gets old — and science can prove it.",
     "video_title": "Lobsters Don't Age. Here's Why That's Terrifying.",
-    "video_description": "Lobsters possess an enzyme that prevents cellular aging — they don't weaken with age, they grow stronger. The only reason they die is external. This challenges everything we think we know about biological mortality.",
+    "video_description": "Lobsters Are Biologically Immortal — They Don't Age\n\n#lobster #immortal #biology #aging #marinelife",
     "tags": [
       "lobster",
       "immortal",
@@ -175,6 +175,15 @@
     "facts"
   ],
   "hashtag_message_id": 289,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-11T14:06:54.618419+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-09-11T14:06:54.618419+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBI2qlRUYNLriAdeRv-1qt-t8eVV9DAALdIQAC2GAxUdOhiCyzg05aPQQ",
+  "review_started_at": "2026-09-12T12:27:51.117272+00:00",
+  "attempts": 1
 }
