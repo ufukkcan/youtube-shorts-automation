@@ -1,189 +1,139 @@
 {
-  "batch_id": "20260910-1512",
-  "trigger_date": "2026-09-10",
-  "message_id": 291,
-  "created_at": "2026-09-10T15:12:54.410086+00:00",
-  "status": "error",
+  "batch_id": "20260913-1458",
+  "trigger_date": "2026-09-13",
+  "message_id": 294,
+  "created_at": "2026-09-13T14:58:01.942281+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Lobsters Are Biologically Immortal — They Don't Age",
-      "teaser": "One ocean creature technically never gets old — and science can prove it.",
-      "video_title": "Lobsters Don't Age. Here's Why That's Terrifying.",
-      "video_description": "Lobsters possess an enzyme that prevents cellular aging — they don't weaken with age, they grow stronger. The only reason they die is external. This challenges everything we think we know about biological mortality.",
+      "topic": "The Voronezh Alien Encounter — Soviet Government Confirmed UFO Landing",
+      "teaser": "The Soviet government once officially confirmed that an alien spacecraft landed in a public park — and named the witnesses.",
+      "video_title": "The UFO Landing a Government Actually Confirmed",
+      "video_description": "In 1989, Soviet state media TASS reported a UFO landing in Voronezh, Russia, witnessed by dozens of children and adults. Remarkably, the Soviet government never retracted the story. This remains one of the few alien encounter cases backed by official state sources.",
       "tags": [
-        "lobster",
-        "immortal",
-        "biology",
-        "aging",
-        "marinelife",
-        "ocean",
+        "voronezh",
+        "ufolanding",
+        "sovietufo",
+        "alienencounter",
+        "ufo",
+        "unexplained",
+        "coldwarhistory",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "A government once officially confirmed an alien spacecraft landed in a city park — and it wasn't a conspiracy theory. In 1989, Soviet state news agency TASS reported that a 9-foot alien stepped out of a craft in Voronezh, Russia, in front of dozens of witnesses. The Kremlin never retracted it. No other government on Earth has officially stood behind a story like this. So what exactly did they see?",
+      "visual_keywords": [
+        "alien spacecraft",
+        "soviet park night",
+        "UFO light beam",
+        "cold war Russia",
+        "mysterious glowing object"
+      ]
+    },
+    {
+      "topic": "The Hottest Thing Ever Created by Humans",
+      "teaser": "Scientists once created something 100,000 times hotter than the core of the Sun — right here on Earth.",
+      "video_title": "The Hottest Thing Humans Have Ever Made",
+      "video_description": "In 2012, physicists at CERN smashed lead ions together and created a quark-gluon plasma reaching 5.5 trillion degrees Celsius — dwarfing the Sun's 15-million-degree core. This recreated conditions from just microseconds after the Big Bang. The universe has never been this hot since then — until we made it.",
+      "tags": [
+        "CERN",
+        "quarkgluonplasma",
+        "hottest",
+        "physics",
+        "bigbang",
         "science",
+        "particlephysics",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "A lobster doesn't age. Not slowly — not at all. They carry an enzyme called telomerase that repairs their DNA every single time a cell divides, something human cells stop doing around age 25. An older lobster is actually stronger, faster, and more fertile than a young one. The only reason they ever die is being eaten, disease, or the sheer exhaustion of molting their own shell. Left alone, a lobster could theoretically live forever. So why can't we?",
+      "script": "In 2012, humans created something 100,000 times hotter than the Sun's core — inside a tunnel in Switzerland. Scientists at CERN collided lead ions so violently they produced a quark-gluon plasma at 5.5 trillion degrees Celsius. That temperature hasn't existed in the universe since one microsecond after the Big Bang. We literally recreated the birth of everything. The wildest part? It lasted for less than a blink.",
       "visual_keywords": [
-        "lobster underwater",
-        "ocean floor",
-        "marine biology",
-        "deep sea creature",
-        "shellfish close-up"
+        "CERN particle collider",
+        "plasma explosion science",
+        "particle beam tunnel",
+        "nuclear physics lab",
+        "Big Bang simulation"
       ]
     },
     {
-      "topic": "The Sedlec Ossuary — Church Built From 40,000 Human Bones",
-      "teaser": "There's a church in Europe where every decoration — every single one — is made of human bones.",
-      "video_title": "A Church Decorated Entirely With 40,000 Human Bones",
-      "video_description": "The Sedlec Ossuary in the Czech Republic contains the skeletal remains of 40,000 people, arranged into chandeliers, coats of arms, and wall decorations. It was completed in 1870 and remains an active place of worship today.",
+      "topic": "The Woman Who Felt No Fear — SM Patient Neuroscience",
+      "teaser": "A woman known only as SM has never felt fear in her life — not from snakes, not from knives, not from anything.",
+      "video_title": "The Woman Who Is Physically Unable to Feel Fear",
+      "video_description": "A woman known only as 'SM' has a rare condition that destroyed her amygdala — the brain's fear center. She has been held at knifepoint, exposed to tarantulas, and walked through haunted houses, and felt nothing each time. Scientists have studied her for decades to understand what fear actually is.",
       "tags": [
-        "ossuary",
-        "sedlec",
-        "humanbone",
-        "darkhistory",
-        "czechrepublic",
-        "history",
-        "creepy",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "In a small Czech town, there's a church where the chandelier hanging above you is made entirely of every bone in the human body — not a single one missing. The Sedlec Ossuary holds the remains of roughly 40,000 people, victims of plague and war, arranged into decorations by a half-blind monk in 1511. Skulls line the walls. Femurs form archways. A noble family's coat of arms — made of bones — hangs near the altar. And every year, tourists line up to pray inside it.",
-      "visual_keywords": [
-        "ossuary interior",
-        "human skulls church",
-        "bone decoration",
-        "gothic church",
-        "czech medieval architecture"
-      ]
-    },
-    {
-      "topic": "The Carrington Event — Solar Storm That Nearly Ended Civilization",
-      "teaser": "In 1859, a solar storm hit Earth so hard that telegraph wires burst into flames — and if it happened today, we'd have no warning.",
-      "video_title": "The Solar Storm That Nearly Burned the World in 1859",
-      "video_description": "The 1859 Carrington Event was the most powerful geomagnetic storm ever recorded. Telegraph systems worldwide failed, caught fire, and still operated without power. Scientists estimate a repeat event today would cause up to $2 trillion in damage and knock out global power grids for years.",
-      "tags": [
-        "carringtonevent",
-        "solarstorm",
-        "space",
-        "sun",
-        "history",
-        "science",
-        "geomagnetic",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "In September 1859, telegraph operators across America and Europe were electrocuted at their desks. The machines kept sending messages even after being unplugged. The night sky glowed so bright that miners in the Rocky Mountains woke up thinking it was morning. A solar storm had just struck Earth with the force of ten billion atomic bombs. Scientists call it the Carrington Event. If the same storm hit today, it would collapse every power grid on the planet — and we'd have roughly 17 minutes of warning.",
-      "visual_keywords": [
-        "solar flare",
-        "sun storm",
-        "aurora borealis",
-        "power grid",
-        "space weather"
-      ]
-    },
-    {
-      "topic": "Hiroo Onoda — Japanese Soldier Who Fought for 29 Years After WWII Ended",
-      "teaser": "One soldier kept fighting World War II until 1974 — because nobody could convince him it was over.",
-      "video_title": "The Soldier Who Refused to Believe WWII Was Over for 29 Years",
-      "video_description": "Hiroo Onoda, a Japanese intelligence officer, continued guerrilla warfare in the Philippine jungle until 1974 — nearly three decades after Japan surrendered in 1945. He only laid down his weapon when his former commanding officer flew in personally to relieve him of duty.",
-      "tags": [
-        "hirooOnoda",
-        "worldwar2",
-        "japan",
-        "history",
-        "soldier",
-        "philippines",
-        "military",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "In 1974, a Japanese soldier emerged from a Philippine jungle, rifle in hand, still fighting World War II. Hiroo Onoda had been waging a guerrilla campaign for 29 years — since 1945. He'd found leaflets saying Japan surrendered. He assumed they were enemy propaganda. Search parties, newspapers, even his own family couldn't reach him. The war only ended for him when his original commanding officer — now 77 years old — flew to the jungle and personally ordered him to stop.",
-      "visual_keywords": [
-        "jungle philippines",
-        "japanese soldier",
-        "world war 2",
-        "tropical rainforest",
-        "military uniform vintage"
-      ]
-    },
-    {
-      "topic": "The Uncanny Valley — Why Almost-Human Faces Feel Horrifying",
-      "teaser": "There's a precise point where a human face becomes so realistic that your brain decides it's a corpse — and scientists have measured exactly where it is.",
-      "video_title": "Why Almost-Human Faces Terrify Your Brain",
-      "video_description": "The uncanny valley is a measurable psychological phenomenon where near-perfect human replicas — robots, CGI faces, hyper-realistic dolls — trigger deep feelings of dread and revulsion. Neuroscientists believe it's an ancient survival mechanism designed to detect disease, death, or deception.",
-      "tags": [
-        "uncanneyvalley",
-        "psychology",
-        "brain",
-        "robotics",
+        "amygdala",
+        "fearless",
+        "brainsciece",
         "neuroscience",
-        "humanface",
+        "rarecondition",
+        "humanbrain",
+        "psychology",
+        "shorts",
+        "viral",
+        "didyouknow"
+      ],
+      "script": "A woman has been held at knifepoint, put face-to-face with tarantulas, and walked through extreme haunted houses — and never once felt fear. She's known only as SM, and a rare disease called Urbach-Wiethe destroyed her amygdala — the only part of your brain that generates fear. Scientists have studied her since the 1990s. She's curious about everything that should terrify her. Does that sound like a superpower or a nightmare to you?",
+      "visual_keywords": [
+        "human brain scan amygdala",
+        "fear experiment lab",
+        "neuroscience research",
+        "brain anatomy closeup",
+        "dark haunted corridor"
+      ]
+    },
+    {
+      "topic": "The Ocean's Midnight Zone — Pressure So Extreme Bullets Slow Down",
+      "teaser": "At a certain depth in the ocean, the pressure is so intense it would crush a steel submarine like an empty can — and something lives there.",
+      "video_title": "What Lives Where Pressure Crushes Steel",
+      "video_description": "The Hadal zone, found in ocean trenches below 6,000 meters, generates pressure over 1,000 times greater than at the surface. A bullet fired there would slow to a halt within inches. Yet snailfish, amphipods, and microbes thrive in complete darkness at these extremes, rewriting our definition of where life is possible.",
+      "tags": [
+        "hadalzone",
+        "deepocean",
+        "marianstrench",
+        "extremelife",
+        "oceanpressure",
+        "deepseacreatures",
         "science",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Your brain has a threshold. Up to a certain point, the more human something looks, the more you like it. Cross that line by just a fraction — a robot's face too smooth, a CGI character's eyes slightly too still — and your brain doesn't just feel uncomfortable. It fires the exact same signals it uses to detect a corpse. Scientists call it the uncanny valley. It's not a metaphor. It's a measurable dip in your emotional response. Your mind is literally screaming: something here is pretending to be alive.",
+      "script": "Six kilometers below the ocean surface, the pressure is so extreme that a bullet fired underwater would stop dead within inches. Steel crumples there like paper. And yet — snailfish thrive at the very bottom of the Mariana Trench, deeper than Mount Everest is tall, in total darkness and near-freezing water. We know more about the surface of Mars than we do about what lives down there. What else is hiding?",
       "visual_keywords": [
-        "humanoid robot face",
-        "CGI realistic face",
-        "artificial intelligence",
-        "robotics close-up",
-        "human android"
+        "deep ocean trench darkness",
+        "bioluminescent deep sea fish",
+        "underwater pressure extreme",
+        "Mariana Trench",
+        "snailfish deep sea"
+      ]
+    },
+    {
+      "topic": "The Sleeping Army — 8,000 Terracotta Warriors Buried With One Man",
+      "teaser": "One man was so terrified of death that he built a secret underground army of 8,000 soldiers — and it stayed hidden for over 2,200 years.",
+      "video_title": "8,000 Soldiers Buried in Secret for 2,200 Years",
+      "video_description": "China's first emperor, Qin Shi Huang, ordered the construction of a life-sized terracotta army of over 8,000 unique soldiers to guard him in the afterlife. Buried in 210 BC, the army was discovered entirely by accident in 1974 by farmers digging a well. No two faces among the 8,000 figures are identical.",
+      "tags": [
+        "terracottaarmy",
+        "qinshihuang",
+        "ancientchina",
+        "buriedarmy",
+        "archaeology",
+        "history",
+        "chinahistory",
+        "shorts",
+        "viral",
+        "didyouknow"
+      ],
+      "script": "In 210 BC, an emperor was buried with an army of 8,000 soldiers — each one life-sized, each face completely unique, none of them real. Qin Shi Huang, China's first emperor, ordered thousands of craftsmen to build him a terracotta legion to guard him in the afterlife. It stayed sealed underground for 2,200 years until a farmer accidentally hit one with a shovel in 1974. Experts believe the innermost chamber still hasn't been opened.",
+      "visual_keywords": [
+        "terracotta warriors excavation",
+        "ancient Chinese army statues",
+        "Qin Shi Huang tomb",
+        "archaeological dig China",
+        "clay soldier face closeup"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Lobsters Are Biologically Immortal — They Don't Age",
-    "teaser": "One ocean creature technically never gets old — and science can prove it.",
-    "video_title": "Lobsters Don't Age. Here's Why That's Terrifying.",
-    "video_description": "Lobsters Are Biologically Immortal — They Don't Age\n\n#lobster #immortal #biology #aging #marinelife",
-    "tags": [
-      "lobster",
-      "immortal",
-      "biology",
-      "aging",
-      "marinelife",
-      "ocean",
-      "science",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "A lobster doesn't age. Not slowly — not at all. They carry an enzyme called telomerase that repairs their DNA every single time a cell divides, something human cells stop doing around age 25. An older lobster is actually stronger, faster, and more fertile than a young one. The only reason they ever die is being eaten, disease, or the sheer exhaustion of molting their own shell. Left alone, a lobster could theoretically live forever. So why can't we?",
-    "visual_keywords": [
-      "lobster underwater",
-      "ocean floor",
-      "marine biology",
-      "deep sea creature",
-      "shellfish close-up"
-    ]
-  },
-  "hashtag_options": [
-    "lobster",
-    "immortal",
-    "biology",
-    "aging",
-    "marinelife",
-    "ocean",
-    "science",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 289,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-11T14:06:54.618419+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBI2qlRUYNLriAdeRv-1qt-t8eVV9DAALdIQAC2GAxUdOhiCyzg05aPQQ",
-  "review_started_at": "2026-09-12T12:27:51.117272+00:00",
-  "attempts": 1
+  ]
 }
