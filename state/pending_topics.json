@@ -1,9 +1,9 @@
 {
   "batch_id": "20260913-1458",
   "trigger_date": "2026-09-13",
-  "message_id": 294,
+  "message_id": 297,
   "created_at": "2026-09-13T14:58:01.942281+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Voronezh Alien Encounter — Soviet Government Confirmed UFO Landing",
@@ -140,7 +140,7 @@
     "topic": "The Voronezh Alien Encounter — Soviet Government Confirmed UFO Landing",
     "teaser": "The Soviet government once officially confirmed that an alien spacecraft landed in a public park — and named the witnesses.",
     "video_title": "The UFO Landing a Government Actually Confirmed",
-    "video_description": "In 1989, Soviet state media TASS reported a UFO landing in Voronezh, Russia, witnessed by dozens of children and adults. Remarkably, the Soviet government never retracted the story. This remains one of the few alien encounter cases backed by official state sources.",
+    "video_description": "The Voronezh Alien Encounter — Soviet Government Confirmed UFO Landing\n\n#voronezh #ufolanding #sovietufo #alienencounter #ufo",
     "tags": [
       "voronezh",
       "ufolanding",
@@ -175,6 +175,15 @@
     "facts"
   ],
   "hashtag_message_id": 295,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-14T13:52:40.758463+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-09-14T13:52:40.758463+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBKWqpGWuJ7Vr-XlLJUs3WM9vu1LCjAAKQIAACwWtJUdFsaTehw_9yPQQ",
+  "review_started_at": "2026-09-15T10:09:47.538930+00:00",
+  "attempts": 1
 }
