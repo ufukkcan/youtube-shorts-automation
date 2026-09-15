@@ -1,189 +1,139 @@
 {
-  "batch_id": "20260913-1458",
-  "trigger_date": "2026-09-13",
-  "message_id": 297,
-  "created_at": "2026-09-13T14:58:01.942281+00:00",
-  "status": "done",
+  "batch_id": "20260915-1458",
+  "trigger_date": "2026-09-15",
+  "message_id": 299,
+  "created_at": "2026-09-15T14:58:10.765787+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Voronezh Alien Encounter — Soviet Government Confirmed UFO Landing",
-      "teaser": "The Soviet government once officially confirmed that an alien spacecraft landed in a public park — and named the witnesses.",
-      "video_title": "The UFO Landing a Government Actually Confirmed",
-      "video_description": "In 1989, Soviet state media TASS reported a UFO landing in Voronezh, Russia, witnessed by dozens of children and adults. Remarkably, the Soviet government never retracted the story. This remains one of the few alien encounter cases backed by official state sources.",
+      "topic": "The Judas Cradle — Torture Device That Was Never What You Think",
+      "teaser": "The most feared torture device in history wasn't actually used the way anyone thinks — and the truth is somehow worse.",
+      "video_title": "The Torture Device History Got Completely Wrong",
+      "video_description": "The Judas Cradle is one of history's most infamous torture instruments — but almost everything you've heard about it is a myth. The real story is far darker than the legend. Historians are still debating whether it was even real.",
       "tags": [
-        "voronezh",
-        "ufolanding",
-        "sovietufo",
-        "alienencounter",
-        "ufo",
+        "judascradle",
+        "medievaltorture",
+        "historymyths",
+        "inquisition",
+        "darkhistory",
+        "historyfacts",
+        "medieval",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "The most feared torture device of the Middle Ages probably never worked the way you've been told — and historians aren't even sure most of them were ever used. The Judas Cradle, a pyramid-shaped seat, was said to slowly destroy its victims over hours. But every detailed account of it appears centuries after the Inquisition ended. So who invented the story — and why does the fabricated version keep spreading while the real methods stay buried?",
+      "visual_keywords": [
+        "medieval dungeon",
+        "stone castle interior",
+        "dark torture chamber",
+        "ancient iron device",
+        "gothic architecture"
+      ]
+    },
+    {
+      "topic": "The Cicada 3301 Puzzle — Internet's Most Mysterious Recruitment",
+      "teaser": "Someone posted a single image online in 2012 — and it started a puzzle so complex that governments might be behind it.",
+      "video_title": "The Internet Puzzle Nobody Has Ever Fully Solved",
+      "video_description": "In January 2012, an anonymous post appeared claiming to be recruiting 'highly intelligent individuals.' What followed was a multi-layered puzzle spanning dark web pages, physical locations across 12 countries, and ancient cryptographic texts. Nobody knows who runs Cicada 3301 — or why.",
+      "tags": [
+        "cicada3301",
+        "internetmystery",
+        "cryptography",
+        "unsolved",
+        "darkweb",
+        "mystery",
+        "conspiracy",
+        "shorts",
+        "viral",
+        "trending"
+      ],
+      "script": "In 2012, a single black image appeared online with one sentence: 'We are looking for highly intelligent individuals.' What came next spanned the dark web, prime number theory, ancient Mayan numerology, and physical packages mailed to strangers in 12 different countries. The people who got furthest in the puzzle were never heard from again. Three separate recruitment cycles happened. No one has publicly claimed to have finished it — and no one knows who posted it.",
+      "visual_keywords": [
+        "computer screen dark room",
+        "cryptography code",
+        "binary numbers screen",
+        "mysterious letter envelope",
+        "hacker keyboard"
+      ]
+    },
+    {
+      "topic": "Ball Lightning — The Weather Phenomenon Science Cannot Explain",
+      "teaser": "Thousands of people across history have reported seeing it — but science still cannot prove it exists.",
+      "video_title": "A Weather Event Science Refuses to Explain",
+      "video_description": "Ball lightning has been reported for centuries by sailors, pilots, soldiers, and ordinary people — glowing orbs that float through walls, last for minutes, and vanish without a trace. Despite thousands of witness accounts dating back to ancient Greece, no controlled scientific experiment has ever successfully reproduced it.",
+      "tags": [
+        "balllightning",
+        "weathermystery",
         "unexplained",
-        "coldwarhistory",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "A government once officially confirmed an alien spacecraft landed in a city park — and it wasn't a conspiracy theory. In 1989, Soviet state news agency TASS reported that a 9-foot alien stepped out of a craft in Voronezh, Russia, in front of dozens of witnesses. The Kremlin never retracted it. No other government on Earth has officially stood behind a story like this. So what exactly did they see?",
-      "visual_keywords": [
-        "alien spacecraft",
-        "soviet park night",
-        "UFO light beam",
-        "cold war Russia",
-        "mysterious glowing object"
-      ]
-    },
-    {
-      "topic": "The Hottest Thing Ever Created by Humans",
-      "teaser": "Scientists once created something 100,000 times hotter than the core of the Sun — right here on Earth.",
-      "video_title": "The Hottest Thing Humans Have Ever Made",
-      "video_description": "In 2012, physicists at CERN smashed lead ions together and created a quark-gluon plasma reaching 5.5 trillion degrees Celsius — dwarfing the Sun's 15-million-degree core. This recreated conditions from just microseconds after the Big Bang. The universe has never been this hot since then — until we made it.",
-      "tags": [
-        "CERN",
-        "quarkgluonplasma",
-        "hottest",
+        "atmosphericscience",
         "physics",
-        "bigbang",
+        "naturalmystery",
         "science",
-        "particlephysics",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "In 2012, humans created something 100,000 times hotter than the Sun's core — inside a tunnel in Switzerland. Scientists at CERN collided lead ions so violently they produced a quark-gluon plasma at 5.5 trillion degrees Celsius. That temperature hasn't existed in the universe since one microsecond after the Big Bang. We literally recreated the birth of everything. The wildest part? It lasted for less than a blink.",
-      "visual_keywords": [
-        "CERN particle collider",
-        "plasma explosion science",
-        "particle beam tunnel",
-        "nuclear physics lab",
-        "Big Bang simulation"
-      ]
-    },
-    {
-      "topic": "The Woman Who Felt No Fear — SM Patient Neuroscience",
-      "teaser": "A woman known only as SM has never felt fear in her life — not from snakes, not from knives, not from anything.",
-      "video_title": "The Woman Who Is Physically Unable to Feel Fear",
-      "video_description": "A woman known only as 'SM' has a rare condition that destroyed her amygdala — the brain's fear center. She has been held at knifepoint, exposed to tarantulas, and walked through haunted houses, and felt nothing each time. Scientists have studied her for decades to understand what fear actually is.",
-      "tags": [
-        "amygdala",
-        "fearless",
-        "brainsciece",
-        "neuroscience",
-        "rarecondition",
-        "humanbrain",
-        "psychology",
         "shorts",
         "viral",
         "didyouknow"
       ],
-      "script": "A woman has been held at knifepoint, put face-to-face with tarantulas, and walked through extreme haunted houses — and never once felt fear. She's known only as SM, and a rare disease called Urbach-Wiethe destroyed her amygdala — the only part of your brain that generates fear. Scientists have studied her since the 1990s. She's curious about everything that should terrify her. Does that sound like a superpower or a nightmare to you?",
+      "script": "Nikola Tesla claimed he created it in his lab. A Russian physicist drove through it at 60 miles per hour. A British woman watched one float through her closed kitchen window, circle the room, and exit through a wall — leaving no trace. Ball lightning has been reported by thousands of credible witnesses since ancient Greece, yet in over 100 years of modern physics, not a single scientist has successfully reproduced it under controlled conditions. We still have no agreed explanation for what it actually is.",
       "visual_keywords": [
-        "human brain scan amygdala",
-        "fear experiment lab",
-        "neuroscience research",
-        "brain anatomy closeup",
-        "dark haunted corridor"
+        "lightning storm night",
+        "glowing orb sky",
+        "thunderstorm dark clouds",
+        "electric plasma ball",
+        "storm atmosphere"
       ]
     },
     {
-      "topic": "The Ocean's Midnight Zone — Pressure So Extreme Bullets Slow Down",
-      "teaser": "At a certain depth in the ocean, the pressure is so intense it would crush a steel submarine like an empty can — and something lives there.",
-      "video_title": "What Lives Where Pressure Crushes Steel",
-      "video_description": "The Hadal zone, found in ocean trenches below 6,000 meters, generates pressure over 1,000 times greater than at the surface. A bullet fired there would slow to a halt within inches. Yet snailfish, amphipods, and microbes thrive in complete darkness at these extremes, rewriting our definition of where life is possible.",
+      "topic": "The Ship of Theseus — Your Body Is Not the One You Were Born With",
+      "teaser": "Every single atom in your body has been replaced since you were born — so are you actually the same person?",
+      "video_title": "You Haven't Had the Same Body for Years",
+      "video_description": "Almost every atom in the human body is replaced over time — some cells within days, others within years. Physicists and philosophers have argued for centuries about what this means for identity, memory, and consciousness. You are, in a very literal sense, a different physical object than you were ten years ago.",
       "tags": [
-        "hadalzone",
-        "deepocean",
-        "marianstrench",
-        "extremelife",
-        "oceanpressure",
-        "deepseacreatures",
-        "science",
+        "shipoftheseus",
+        "humanbody",
+        "cellregeneration",
+        "philosophy",
+        "brainfacts",
+        "identity",
+        "sciencefacts",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Six kilometers below the ocean surface, the pressure is so extreme that a bullet fired underwater would stop dead within inches. Steel crumples there like paper. And yet — snailfish thrive at the very bottom of the Mariana Trench, deeper than Mount Everest is tall, in total darkness and near-freezing water. We know more about the surface of Mars than we do about what lives down there. What else is hiding?",
+      "script": "The skeleton inside you right now didn't exist ten years ago. Your stomach lining replaces itself every five days. Your red blood cells are gone within four months. Even most of your neurons swap out their internal components constantly. By the time you finish watching this, thousands of atoms that were 'you' will be exhaled, shed, or excreted — replaced by atoms that were somewhere else this morning. So when exactly did you stop being the person you were born as — and does that version of you still exist anywhere?",
       "visual_keywords": [
-        "deep ocean trench darkness",
-        "bioluminescent deep sea fish",
-        "underwater pressure extreme",
-        "Mariana Trench",
-        "snailfish deep sea"
+        "human skeleton xray",
+        "cell biology microscope",
+        "dna strand closeup",
+        "human body anatomy",
+        "glowing cells biology"
       ]
     },
     {
-      "topic": "The Sleeping Army — 8,000 Terracotta Warriors Buried With One Man",
-      "teaser": "One man was so terrified of death that he built a secret underground army of 8,000 soldiers — and it stayed hidden for over 2,200 years.",
-      "video_title": "8,000 Soldiers Buried in Secret for 2,200 Years",
-      "video_description": "China's first emperor, Qin Shi Huang, ordered the construction of a life-sized terracotta army of over 8,000 unique soldiers to guard him in the afterlife. Buried in 210 BC, the army was discovered entirely by accident in 1974 by farmers digging a well. No two faces among the 8,000 figures are identical.",
+      "topic": "Project MKUltra — The CIA Mind Control Program That Actually Happened",
+      "teaser": "The U.S. government secretly dosed its own citizens with LSD for over a decade — and destroyed all the evidence.",
+      "video_title": "The CIA Mind Control Program They Tried to Erase",
+      "video_description": "Project MKUltra ran from 1953 to 1973, involving over 150 research projects across 80 institutions including universities and hospitals. The CIA dosed unwitting civilians, prisoners, and mental patients with LSD and other drugs. In 1973, Director Richard Helms ordered all files destroyed — but 20,000 documents survived a misfiling, exposing everything.",
       "tags": [
-        "terracottaarmy",
-        "qinshihuang",
-        "ancientchina",
-        "buriedarmy",
-        "archaeology",
-        "history",
-        "chinahistory",
+        "mkultra",
+        "cia",
+        "mindcontrol",
+        "coldwarhistory",
+        "governmentsecrets",
+        "conspiracy",
+        "truecrime",
         "shorts",
         "viral",
-        "didyouknow"
+        "trending"
       ],
-      "script": "In 210 BC, an emperor was buried with an army of 8,000 soldiers — each one life-sized, each face completely unique, none of them real. Qin Shi Huang, China's first emperor, ordered thousands of craftsmen to build him a terracotta legion to guard him in the afterlife. It stayed sealed underground for 2,200 years until a farmer accidentally hit one with a shovel in 1974. Experts believe the innermost chamber still hasn't been opened.",
+      "script": "For 20 years, the CIA secretly dosed American and Canadian citizens with LSD without their knowledge — in hospitals, university labs, and prisons. The program, called MKUltra, ran 150 separate experiments across 80 institutions. Some subjects were drugged for 77 consecutive days. In 1973, the CIA director ordered every file shredded. They almost got away with it — until 20,000 documents were found misfiled in a records warehouse. The question no investigation ever answered: how many people never recovered?",
       "visual_keywords": [
-        "terracotta warriors excavation",
-        "ancient Chinese army statues",
-        "Qin Shi Huang tomb",
-        "archaeological dig China",
-        "clay soldier face closeup"
+        "classified government documents",
+        "cia headquarters building",
+        "cold war era laboratory",
+        "redacted document paper",
+        "vintage government file"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Voronezh Alien Encounter — Soviet Government Confirmed UFO Landing",
-    "teaser": "The Soviet government once officially confirmed that an alien spacecraft landed in a public park — and named the witnesses.",
-    "video_title": "The UFO Landing a Government Actually Confirmed",
-    "video_description": "The Voronezh Alien Encounter — Soviet Government Confirmed UFO Landing\n\n#voronezh #ufolanding #sovietufo #alienencounter #ufo",
-    "tags": [
-      "voronezh",
-      "ufolanding",
-      "sovietufo",
-      "alienencounter",
-      "ufo",
-      "unexplained",
-      "coldwarhistory",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "A government once officially confirmed an alien spacecraft landed in a city park — and it wasn't a conspiracy theory. In 1989, Soviet state news agency TASS reported that a 9-foot alien stepped out of a craft in Voronezh, Russia, in front of dozens of witnesses. The Kremlin never retracted it. No other government on Earth has officially stood behind a story like this. So what exactly did they see?",
-    "visual_keywords": [
-      "alien spacecraft",
-      "soviet park night",
-      "UFO light beam",
-      "cold war Russia",
-      "mysterious glowing object"
-    ]
-  },
-  "hashtag_options": [
-    "voronezh",
-    "ufolanding",
-    "sovietufo",
-    "alienencounter",
-    "ufo",
-    "unexplained",
-    "coldwarhistory",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 295,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-14T13:52:40.758463+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBKWqpGWuJ7Vr-XlLJUs3WM9vu1LCjAAKQIAACwWtJUdFsaTehw_9yPQQ",
-  "review_started_at": "2026-09-15T10:09:47.538930+00:00",
-  "attempts": 1
+  ]
 }
