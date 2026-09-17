@@ -1,9 +1,9 @@
 {
   "batch_id": "20260915-1458",
   "trigger_date": "2026-09-15",
-  "message_id": 299,
+  "message_id": 302,
   "created_at": "2026-09-15T14:58:10.765787+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Judas Cradle — Torture Device That Was Never What You Think",
@@ -140,7 +140,7 @@
     "topic": "The Judas Cradle — Torture Device That Was Never What You Think",
     "teaser": "The most feared torture device in history wasn't actually used the way anyone thinks — and the truth is somehow worse.",
     "video_title": "The Torture Device History Got Completely Wrong",
-    "video_description": "The Judas Cradle is one of history's most infamous torture instruments — but almost everything you've heard about it is a myth. The real story is far darker than the legend. Historians are still debating whether it was even real.",
+    "video_description": "The Judas Cradle — Torture Device That Was Never What You Think\n\n#judascradle #medievaltorture #historymyths #inquisition #darkhistory",
     "tags": [
       "judascradle",
       "medievaltorture",
@@ -175,6 +175,15 @@
     "facts"
   ],
   "hashtag_message_id": 300,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-16T12:08:25.760384+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-09-16T12:08:25.760384+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBLmqrvBCjVn0TR0b6saUrraZiTEE8AAI1JAACkdRgUZj_gdfQv4a5PQQ",
+  "review_started_at": "2026-09-17T10:08:16.394348+00:00",
+  "attempts": 1
 }
