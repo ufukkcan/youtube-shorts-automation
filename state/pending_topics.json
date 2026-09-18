@@ -1,189 +1,134 @@
 {
-  "batch_id": "20260915-1458",
-  "trigger_date": "2026-09-15",
-  "message_id": 302,
-  "created_at": "2026-09-15T14:58:10.765787+00:00",
-  "status": "done",
+  "batch_id": "20260918-1507",
+  "trigger_date": "2026-09-18",
+  "message_id": 305,
+  "created_at": "2026-09-18T15:07:53.624717+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Judas Cradle — Torture Device That Was Never What You Think",
-      "teaser": "The most feared torture device in history wasn't actually used the way anyone thinks — and the truth is somehow worse.",
-      "video_title": "The Torture Device History Got Completely Wrong",
-      "video_description": "The Judas Cradle is one of history's most infamous torture instruments — but almost everything you've heard about it is a myth. The real story is far darker than the legend. Historians are still debating whether it was even real.",
+      "topic": "Coca-Cola Original Color",
+      "teaser": "The world's most recognized drink wasn't always the color you think — and the reason it changed is stranger than you'd expect.",
+      "video_title": "Coca-Cola Was Never Actually Brown",
+      "video_description": "Before it became the iconic caramel-brown liquid the world knows, Coca-Cola was a completely different color. The change wasn't accidental — it was a deliberate decision tied to a surprising problem. Most people have been looking at a myth their entire lives.",
       "tags": [
-        "judascradle",
-        "medievaltorture",
-        "historymyths",
-        "inquisition",
-        "darkhistory",
-        "historyfacts",
-        "medieval",
+        "cocacola",
+        "softdrinks",
+        "foodhistory",
+        "beverages",
+        "hiddenfacts",
+        "brandhistory",
+        "history",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "The most feared torture device of the Middle Ages probably never worked the way you've been told — and historians aren't even sure most of them were ever used. The Judas Cradle, a pyramid-shaped seat, was said to slowly destroy its victims over hours. But every detailed account of it appears centuries after the Inquisition ended. So who invented the story — and why does the fabricated version keep spreading while the real methods stay buried?",
+      "script": "Coca-Cola was never supposed to be brown. The original formula produced a bright green liquid — but it was dyed caramel to hide the inconsistent batches that looked different bottle to bottle. The company chose a uniform color over transparency, literally. So every time you crack open a Coke, you're drinking a product whose entire iconic look exists to conceal imperfection. Does that change how it tastes to you?",
       "visual_keywords": [
-        "medieval dungeon",
-        "stone castle interior",
-        "dark torture chamber",
-        "ancient iron device",
-        "gothic architecture"
+        "coca cola bottle vintage",
+        "caramel color liquid",
+        "old soda factory",
+        "glass bottles production line"
       ]
     },
     {
-      "topic": "The Cicada 3301 Puzzle — Internet's Most Mysterious Recruitment",
-      "teaser": "Someone posted a single image online in 2012 — and it started a puzzle so complex that governments might be behind it.",
-      "video_title": "The Internet Puzzle Nobody Has Ever Fully Solved",
-      "video_description": "In January 2012, an anonymous post appeared claiming to be recruiting 'highly intelligent individuals.' What followed was a multi-layered puzzle spanning dark web pages, physical locations across 12 countries, and ancient cryptographic texts. Nobody knows who runs Cicada 3301 — or why.",
+      "topic": "Sharks Predate Trees",
+      "teaser": "There's a creature alive today that was swimming the oceans before a single tree existed on Earth — and you've probably seen one at an aquarium.",
+      "video_title": "Sharks Are Older Than Trees — Let That Sink In",
+      "video_description": "Sharks have existed for over 450 million years, making them older than trees, which only appeared around 350 million years ago. They survived every mass extinction event that wiped out the dominant life of each era. Whatever ended the dinosaurs didn't even slow them down.",
       "tags": [
-        "cicada3301",
-        "internetmystery",
-        "cryptography",
-        "unsolved",
-        "darkweb",
-        "mystery",
-        "conspiracy",
+        "sharks",
+        "evolution",
+        "marinelife",
+        "prehistoric",
+        "oceanfacts",
+        "wildlife",
+        "nature",
         "shorts",
         "viral",
-        "trending"
+        "facts"
       ],
-      "script": "In 2012, a single black image appeared online with one sentence: 'We are looking for highly intelligent individuals.' What came next spanned the dark web, prime number theory, ancient Mayan numerology, and physical packages mailed to strangers in 12 different countries. The people who got furthest in the puzzle were never heard from again. Three separate recruitment cycles happened. No one has publicly claimed to have finished it — and no one knows who posted it.",
+      "script": "Sharks are older than trees. Not a little older — sharks were already 100 million years into their existence when the first tree grew on land. They survived five mass extinctions, including the one that erased the dinosaurs. Their design was so perfect that evolution barely touched them in 450 million years. Meanwhile, trees showed up late, and we still nearly lost the sharks. So who's actually the more advanced species here?",
       "visual_keywords": [
-        "computer screen dark room",
-        "cryptography code",
-        "binary numbers screen",
-        "mysterious letter envelope",
-        "hacker keyboard"
+        "great white shark ocean",
+        "prehistoric fossil shark",
+        "deep ocean underwater",
+        "ancient forest trees"
       ]
     },
     {
-      "topic": "Ball Lightning — The Weather Phenomenon Science Cannot Explain",
-      "teaser": "Thousands of people across history have reported seeing it — but science still cannot prove it exists.",
-      "video_title": "A Weather Event Science Refuses to Explain",
-      "video_description": "Ball lightning has been reported for centuries by sailors, pilots, soldiers, and ordinary people — glowing orbs that float through walls, last for minutes, and vanish without a trace. Despite thousands of witness accounts dating back to ancient Greece, no controlled scientific experiment has ever successfully reproduced it.",
+      "topic": "The Oxford Electric Bell",
+      "teaser": "There's a bell ringing inside a glass case at Oxford that hasn't stopped since before your great-great-grandparents were born — and no one can open it to find out why.",
+      "video_title": "This Bell Has Been Ringing Since 1840",
+      "video_description": "The Oxford Electric Bell has been ringing almost continuously since 1840, powered by a dry pile battery whose composition remains unknown because opening the case would stop the experiment. It has rung an estimated 10 billion times. The battery should have died over a century ago.",
       "tags": [
-        "balllightning",
-        "weathermystery",
-        "unexplained",
-        "atmosphericscience",
+        "oxfordbell",
+        "electricbell",
+        "mysteryscience",
         "physics",
-        "naturalmystery",
+        "unexplained",
+        "oxford",
         "science",
         "shorts",
         "viral",
-        "didyouknow"
+        "facts"
       ],
-      "script": "Nikola Tesla claimed he created it in his lab. A Russian physicist drove through it at 60 miles per hour. A British woman watched one float through her closed kitchen window, circle the room, and exit through a wall — leaving no trace. Ball lightning has been reported by thousands of credible witnesses since ancient Greece, yet in over 100 years of modern physics, not a single scientist has successfully reproduced it under controlled conditions. We still have no agreed explanation for what it actually is.",
+      "script": "There is a bell at Oxford University that has been ringing since 1840 — that's over 184 years without stopping. It's powered by a dry pile battery no one has ever opened, because cracking the case would end the experiment forever. It has rung approximately 10 billion times. Scientists know it works. They just don't know exactly why it hasn't died. The world's longest-running experiment, and we're too afraid to look inside.",
       "visual_keywords": [
-        "lightning storm night",
-        "glowing orb sky",
-        "thunderstorm dark clouds",
-        "electric plasma ball",
-        "storm atmosphere"
+        "oxford university laboratory",
+        "electric bell glass case",
+        "vintage battery experiment",
+        "old scientific instrument"
       ]
     },
     {
-      "topic": "The Ship of Theseus — Your Body Is Not the One You Were Born With",
-      "teaser": "Every single atom in your body has been replaced since you were born — so are you actually the same person?",
-      "video_title": "You Haven't Had the Same Body for Years",
-      "video_description": "Almost every atom in the human body is replaced over time — some cells within days, others within years. Physicists and philosophers have argued for centuries about what this means for identity, memory, and consciousness. You are, in a very literal sense, a different physical object than you were ten years ago.",
+      "topic": "Neil Armstrong's Heartbeat on the Moon",
+      "teaser": "When Neil Armstrong stepped onto the Moon, NASA's doctors monitoring from Earth were more scared than he was — and his heartbeat proved it.",
+      "video_title": "Neil Armstrong's Heart Nearly Stopped on the Moon",
+      "video_description": "As Neil Armstrong descended the ladder onto the lunar surface in 1969, NASA flight surgeons recorded his heart rate spiking to 150 beats per minute — double his resting rate. The moment one human foot touched the Moon, the steadiest man in the room was the one in the spacesuit. Armstrong himself later said it was simply excitement.",
       "tags": [
-        "shipoftheseus",
-        "humanbody",
-        "cellregeneration",
-        "philosophy",
-        "brainfacts",
-        "identity",
-        "sciencefacts",
+        "neilarmstrong",
+        "moonlanding",
+        "nasa",
+        "apollo11",
+        "spacefacts",
+        "astronaut",
+        "space",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "The skeleton inside you right now didn't exist ten years ago. Your stomach lining replaces itself every five days. Your red blood cells are gone within four months. Even most of your neurons swap out their internal components constantly. By the time you finish watching this, thousands of atoms that were 'you' will be exhaled, shed, or excreted — replaced by atoms that were somewhere else this morning. So when exactly did you stop being the person you were born as — and does that version of you still exist anywhere?",
+      "script": "The moment Neil Armstrong stepped onto the Moon in 1969, NASA doctors watching from Earth saw his heart rate explode to 150 beats per minute. The man who trained for years, who flew combat missions in Korea, who nearly died in a lunar module simulation — his heart was pounding like he'd just sprinted. He later said it was pure excitement. But mission control had their fingers hovering over the abort switch the entire time. Coolest man alive, or just the best at hiding fear?",
       "visual_keywords": [
-        "human skeleton xray",
-        "cell biology microscope",
-        "dna strand closeup",
-        "human body anatomy",
-        "glowing cells biology"
+        "moon landing apollo 11",
+        "astronaut lunar surface",
+        "nasa mission control",
+        "spacesuit helmet visor"
       ]
     },
     {
-      "topic": "Project MKUltra — The CIA Mind Control Program That Actually Happened",
-      "teaser": "The U.S. government secretly dosed its own citizens with LSD for over a decade — and destroyed all the evidence.",
-      "video_title": "The CIA Mind Control Program They Tried to Erase",
-      "video_description": "Project MKUltra ran from 1953 to 1973, involving over 150 research projects across 80 institutions including universities and hospitals. The CIA dosed unwitting civilians, prisoners, and mental patients with LSD and other drugs. In 1973, Director Richard Helms ordered all files destroyed — but 20,000 documents survived a misfiling, exposing everything.",
+      "topic": "The Density of a Neutron Star",
+      "teaser": "A single teaspoon of something in deep space weighs more than every car, building, and human being on Earth combined — and it fits in your kitchen.",
+      "video_title": "A Teaspoon of This Weighs More Than Earth's Oceans",
+      "video_description": "Neutron stars are the collapsed cores of massive stars, so dense that a single teaspoon of their material would weigh approximately one billion tons on Earth. They are roughly 20 kilometers in diameter yet contain more mass than our Sun. Gravity on their surface is 200 billion times stronger than what you feel right now.",
       "tags": [
-        "mkultra",
-        "cia",
-        "mindcontrol",
-        "coldwarhistory",
-        "governmentsecrets",
-        "conspiracy",
-        "truecrime",
+        "neutronstar",
+        "space",
+        "astrophysics",
+        "universe",
+        "cosmicfacts",
+        "stars",
+        "science",
         "shorts",
         "viral",
-        "trending"
+        "facts"
       ],
-      "script": "For 20 years, the CIA secretly dosed American and Canadian citizens with LSD without their knowledge — in hospitals, university labs, and prisons. The program, called MKUltra, ran 150 separate experiments across 80 institutions. Some subjects were drugged for 77 consecutive days. In 1973, the CIA director ordered every file shredded. They almost got away with it — until 20,000 documents were found misfiled in a records warehouse. The question no investigation ever answered: how many people never recovered?",
+      "script": "One teaspoon of a neutron star would weigh one billion tons on Earth. The entire object is only 20 kilometers wide — smaller than most cities — yet it contains more mass than our Sun. Gravity on its surface is 200 billion times stronger than what's holding you to the ground right now. These things are spinning up to 700 times per second. The universe built something city-sized that outweighs entire solar systems. And there are billions of them out there.",
       "visual_keywords": [
-        "classified government documents",
-        "cia headquarters building",
-        "cold war era laboratory",
-        "redacted document paper",
-        "vintage government file"
+        "neutron star space illustration",
+        "pulsar deep space",
+        "stellar explosion supernova",
+        "galaxy cosmic dust"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Judas Cradle — Torture Device That Was Never What You Think",
-    "teaser": "The most feared torture device in history wasn't actually used the way anyone thinks — and the truth is somehow worse.",
-    "video_title": "The Torture Device History Got Completely Wrong",
-    "video_description": "The Judas Cradle — Torture Device That Was Never What You Think\n\n#judascradle #medievaltorture #historymyths #inquisition #darkhistory",
-    "tags": [
-      "judascradle",
-      "medievaltorture",
-      "historymyths",
-      "inquisition",
-      "darkhistory",
-      "historyfacts",
-      "medieval",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "The most feared torture device of the Middle Ages probably never worked the way you've been told — and historians aren't even sure most of them were ever used. The Judas Cradle, a pyramid-shaped seat, was said to slowly destroy its victims over hours. But every detailed account of it appears centuries after the Inquisition ended. So who invented the story — and why does the fabricated version keep spreading while the real methods stay buried?",
-    "visual_keywords": [
-      "medieval dungeon",
-      "stone castle interior",
-      "dark torture chamber",
-      "ancient iron device",
-      "gothic architecture"
-    ]
-  },
-  "hashtag_options": [
-    "judascradle",
-    "medievaltorture",
-    "historymyths",
-    "inquisition",
-    "darkhistory",
-    "historyfacts",
-    "medieval",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 300,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-16T12:08:25.760384+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBLmqrvBCjVn0TR0b6saUrraZiTEE8AAI1JAACkdRgUZj_gdfQv4a5PQQ",
-  "review_started_at": "2026-09-17T10:08:16.394348+00:00",
-  "attempts": 1
+  ]
 }
