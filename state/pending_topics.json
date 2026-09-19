@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-18",
   "message_id": 305,
   "created_at": "2026-09-18T15:07:53.624717+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Coca-Cola Original Color",
@@ -130,5 +130,45 @@
         "galaxy cosmic dust"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Coca-Cola Original Color",
+    "teaser": "The world's most recognized drink wasn't always the color you think — and the reason it changed is stranger than you'd expect.",
+    "video_title": "Coca-Cola Was Never Actually Brown",
+    "video_description": "Before it became the iconic caramel-brown liquid the world knows, Coca-Cola was a completely different color. The change wasn't accidental — it was a deliberate decision tied to a surprising problem. Most people have been looking at a myth their entire lives.",
+    "tags": [
+      "cocacola",
+      "softdrinks",
+      "foodhistory",
+      "beverages",
+      "hiddenfacts",
+      "brandhistory",
+      "history",
+      "shorts",
+      "viral",
+      "facts"
+    ],
+    "script": "Coca-Cola was never supposed to be brown. The original formula produced a bright green liquid — but it was dyed caramel to hide the inconsistent batches that looked different bottle to bottle. The company chose a uniform color over transparency, literally. So every time you crack open a Coke, you're drinking a product whose entire iconic look exists to conceal imperfection. Does that change how it tastes to you?",
+    "visual_keywords": [
+      "coca cola bottle vintage",
+      "caramel color liquid",
+      "old soda factory",
+      "glass bottles production line"
+    ]
+  },
+  "hashtag_options": [
+    "cocacola",
+    "softdrinks",
+    "foodhistory",
+    "beverages",
+    "hiddenfacts",
+    "brandhistory",
+    "history",
+    "shorts",
+    "viral",
+    "facts"
+  ],
+  "hashtag_message_id": 306,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-19T13:27:48.671976+00:00"
 }
