@@ -1,9 +1,9 @@
 {
   "batch_id": "20260918-1507",
   "trigger_date": "2026-09-18",
-  "message_id": 305,
+  "message_id": 308,
   "created_at": "2026-09-18T15:07:53.624717+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Coca-Cola Original Color",
@@ -135,7 +135,7 @@
     "topic": "Coca-Cola Original Color",
     "teaser": "The world's most recognized drink wasn't always the color you think — and the reason it changed is stranger than you'd expect.",
     "video_title": "Coca-Cola Was Never Actually Brown",
-    "video_description": "Before it became the iconic caramel-brown liquid the world knows, Coca-Cola was a completely different color. The change wasn't accidental — it was a deliberate decision tied to a surprising problem. Most people have been looking at a myth their entire lives.",
+    "video_description": "Coca-Cola Original Color\n\n#cocacola #softdrinks #foodhistory #beverages #hiddenfacts",
     "tags": [
       "cocacola",
       "softdrinks",
@@ -169,6 +169,15 @@
     "facts"
   ],
   "hashtag_message_id": 306,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-19T13:27:48.671976+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-09-19T13:27:48.671976+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBNGqvrTcE_8PjtITHtDUH9gU4oRidAAI0IAAC7N95UZF_q5Mw0hc_PQQ",
+  "review_started_at": "2026-09-20T09:53:59.613976+00:00",
+  "attempts": 1
 }
