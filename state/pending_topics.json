@@ -1,183 +1,134 @@
 {
-  "batch_id": "20260918-1507",
-  "trigger_date": "2026-09-18",
-  "message_id": 308,
-  "created_at": "2026-09-18T15:07:53.624717+00:00",
-  "status": "done",
+  "batch_id": "20260921-1845",
+  "trigger_date": "2026-09-21",
+  "message_id": 311,
+  "created_at": "2026-09-21T18:45:41.201231+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Coca-Cola Original Color",
-      "teaser": "The world's most recognized drink wasn't always the color you think — and the reason it changed is stranger than you'd expect.",
-      "video_title": "Coca-Cola Was Never Actually Brown",
-      "video_description": "Before it became the iconic caramel-brown liquid the world knows, Coca-Cola was a completely different color. The change wasn't accidental — it was a deliberate decision tied to a surprising problem. Most people have been looking at a myth their entire lives.",
+      "topic": "The Great Molasses Flood of 1919",
+      "teaser": "A wave that moved faster than a running horse — and it wasn't water.",
+      "video_title": "A City Was Swallowed by Molasses in 1919",
+      "video_description": "In January 1919, a massive tank of molasses exploded in Boston, sending a 25-foot wave of syrup through the streets at 35 mph. 21 people died and the city smelled of molasses for decades. This is one of history's strangest industrial disasters.",
       "tags": [
-        "cocacola",
-        "softdrinks",
-        "foodhistory",
-        "beverages",
-        "hiddenfacts",
-        "brandhistory",
+        "molassesflood",
+        "boston1919",
+        "historydisaster",
+        "strangefacts",
+        "industrialaccident",
+        "americanhistory",
         "history",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Coca-Cola was never supposed to be brown. The original formula produced a bright green liquid — but it was dyed caramel to hide the inconsistent batches that looked different bottle to bottle. The company chose a uniform color over transparency, literally. So every time you crack open a Coke, you're drinking a product whose entire iconic look exists to conceal imperfection. Does that change how it tastes to you?",
+      "script": "A 25-foot wall of molasses hit Boston at 35 miles per hour — faster than any human can run. On January 15, 1919, a steel tank holding 2.3 million gallons exploded without warning, burying entire city blocks in sticky, suffocating syrup. 21 people were killed. Horses drowned. Buildings collapsed. And witnesses swore the city smelled like molasses every summer for the next 30 years. So — is this the strangest disaster in history, or does something else beat it?",
       "visual_keywords": [
-        "coca cola bottle vintage",
-        "caramel color liquid",
-        "old soda factory",
-        "glass bottles production line"
+        "molasses flood boston",
+        "vintage city street disaster",
+        "old factory tank",
+        "historical archive photo"
       ]
     },
     {
-      "topic": "Sharks Predate Trees",
-      "teaser": "There's a creature alive today that was swimming the oceans before a single tree existed on Earth — and you've probably seen one at an aquarium.",
-      "video_title": "Sharks Are Older Than Trees — Let That Sink In",
-      "video_description": "Sharks have existed for over 450 million years, making them older than trees, which only appeared around 350 million years ago. They survived every mass extinction event that wiped out the dominant life of each era. Whatever ended the dinosaurs didn't even slow them down.",
+      "topic": "Octopus Has Three Hearts and Blue Blood",
+      "teaser": "This creature has three hearts — and the moment it swims, two of them stop.",
+      "video_title": "Octopuses Have 3 Hearts — 2 Stop When It Swims",
+      "video_description": "Octopuses have three hearts and blue, copper-based blood. Two of their hearts stop beating the moment they start swimming, which is why they prefer crawling. Their biology is so alien that scientists studying them sometimes question whether they evolved on Earth at all.",
       "tags": [
-        "sharks",
-        "evolution",
+        "octopus",
+        "oceancreatures",
         "marinelife",
-        "prehistoric",
-        "oceanfacts",
-        "wildlife",
-        "nature",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "Sharks are older than trees. Not a little older — sharks were already 100 million years into their existence when the first tree grew on land. They survived five mass extinctions, including the one that erased the dinosaurs. Their design was so perfect that evolution barely touched them in 450 million years. Meanwhile, trees showed up late, and we still nearly lost the sharks. So who's actually the more advanced species here?",
-      "visual_keywords": [
-        "great white shark ocean",
-        "prehistoric fossil shark",
-        "deep ocean underwater",
-        "ancient forest trees"
-      ]
-    },
-    {
-      "topic": "The Oxford Electric Bell",
-      "teaser": "There's a bell ringing inside a glass case at Oxford that hasn't stopped since before your great-great-grandparents were born — and no one can open it to find out why.",
-      "video_title": "This Bell Has Been Ringing Since 1840",
-      "video_description": "The Oxford Electric Bell has been ringing almost continuously since 1840, powered by a dry pile battery whose composition remains unknown because opening the case would stop the experiment. It has rung an estimated 10 billion times. The battery should have died over a century ago.",
-      "tags": [
-        "oxfordbell",
-        "electricbell",
-        "mysteryscience",
-        "physics",
-        "unexplained",
-        "oxford",
+        "animalbiology",
+        "blueblood",
+        "sealife",
         "science",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "There is a bell at Oxford University that has been ringing since 1840 — that's over 184 years without stopping. It's powered by a dry pile battery no one has ever opened, because cracking the case would end the experiment forever. It has rung approximately 10 billion times. Scientists know it works. They just don't know exactly why it hasn't died. The world's longest-running experiment, and we're too afraid to look inside.",
+      "script": "An octopus has three hearts — and the second it starts swimming, two of them shut down. That's why they almost always crawl instead. Their blood isn't red either; it's blue, because it's built from copper instead of iron. They have nine brains — one central and one in each arm, each capable of making decisions independently. Scientists have seriously debated whether octopuses evolved on this planet at all. What do you think — Earth creature, or something else?",
       "visual_keywords": [
-        "oxford university laboratory",
-        "electric bell glass case",
-        "vintage battery experiment",
-        "old scientific instrument"
+        "octopus underwater",
+        "deep sea creature",
+        "octopus crawling ocean floor",
+        "marine biology"
       ]
     },
     {
-      "topic": "Neil Armstrong's Heartbeat on the Moon",
-      "teaser": "When Neil Armstrong stepped onto the Moon, NASA's doctors monitoring from Earth were more scared than he was — and his heartbeat proved it.",
-      "video_title": "Neil Armstrong's Heart Nearly Stopped on the Moon",
-      "video_description": "As Neil Armstrong descended the ladder onto the lunar surface in 1969, NASA flight surgeons recorded his heart rate spiking to 150 beats per minute — double his resting rate. The moment one human foot touched the Moon, the steadiest man in the room was the one in the spacesuit. Armstrong himself later said it was simply excitement.",
+      "topic": "The Dress That Broke the Internet — Color Perception Science",
+      "teaser": "Two people can stare at the exact same image — and see completely different colors. Science finally knows why.",
+      "video_title": "Why Two People See This Dress in Different Colors",
+      "video_description": "In 2015, a single photo of a dress divided the entire internet — some saw blue and black, others saw white and gold. The reason is buried deep in how your brain compensates for lighting, and it reveals that human color perception is far less objective than we ever thought.",
       "tags": [
-        "neilarmstrong",
-        "moonlanding",
-        "nasa",
-        "apollo11",
-        "spacefacts",
-        "astronaut",
-        "space",
+        "thedress",
+        "colorperception",
+        "brainscience",
+        "opticallusion",
+        "neuroscience",
+        "humanbrain",
+        "psychology",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "The moment Neil Armstrong stepped onto the Moon in 1969, NASA doctors watching from Earth saw his heart rate explode to 150 beats per minute. The man who trained for years, who flew combat missions in Korea, who nearly died in a lunar module simulation — his heart was pounding like he'd just sprinted. He later said it was pure excitement. But mission control had their fingers hovering over the abort switch the entire time. Coolest man alive, or just the best at hiding fear?",
+      "script": "Two people can stare at the exact same photo and see completely different colors — and both are right. In 2015, one image of a striped dress split the entire internet. Scientists studied it and discovered your brain automatically subtracts the light it assumes is in the room before deciding on a color. If your brain assumes daylight, you see blue and black. If it assumes artificial light, white and gold. Your eyes don't show you reality. They show you a guess. How terrifying is that?",
       "visual_keywords": [
-        "moon landing apollo 11",
-        "astronaut lunar surface",
-        "nasa mission control",
-        "spacesuit helmet visor"
+        "optical illusion",
+        "color perception brain",
+        "human eye close up",
+        "striped fabric light shadow"
       ]
     },
     {
-      "topic": "The Density of a Neutron Star",
-      "teaser": "A single teaspoon of something in deep space weighs more than every car, building, and human being on Earth combined — and it fits in your kitchen.",
-      "video_title": "A Teaspoon of This Weighs More Than Earth's Oceans",
-      "video_description": "Neutron stars are the collapsed cores of massive stars, so dense that a single teaspoon of their material would weigh approximately one billion tons on Earth. They are roughly 20 kilometers in diameter yet contain more mass than our Sun. Gravity on their surface is 200 billion times stronger than what you feel right now.",
+      "topic": "The Immortal Cell Line — Henrietta Lacks",
+      "teaser": "Cells taken from a woman without her knowledge are still alive today — multiplying in labs across the world.",
+      "video_title": "Her Cells Were Taken Without Permission — Still Alive Today",
+      "video_description": "In 1951, a woman named Henrietta Lacks had cancer cells removed without her consent. Those cells, called HeLa cells, never died. They have been used in over 110,000 medical studies, helped create the polio vaccine, and have traveled to space — while her family received nothing.",
       "tags": [
-        "neutronstar",
-        "space",
-        "astrophysics",
-        "universe",
-        "cosmicfacts",
-        "stars",
-        "science",
+        "henriettalacks",
+        "helacells",
+        "medicalhistory",
+        "scienceethics",
+        "biology",
+        "cancerresearch",
+        "history",
+        "shorts",
+        "viral",
+        "didyouknow"
+      ],
+      "script": "In 1951, doctors took cells from a dying woman without ever asking her. Her name was Henrietta Lacks. Those cells should have died with her — instead, they became the only human cells ever to survive and multiply indefinitely outside a body. HeLa cells have been used in over 110,000 scientific studies. They helped build the polio vaccine. They've been sent to space. Her family found out decades later — and received nothing. Who actually owns your body?",
+      "visual_keywords": [
+        "laboratory cell microscope",
+        "cancer cells research",
+        "medical lab scientist",
+        "hospital vintage 1950s"
+      ]
+    },
+    {
+      "topic": "The Antikythera Mechanism — Ancient Greek Computer",
+      "teaser": "A 2,000-year-old device was pulled from a shipwreck — and it could predict the future.",
+      "video_title": "A 2,000-Year-Old Computer Was Found in a Shipwreck",
+      "video_description": "In 1901, divers discovered a corroded bronze lump near a Greek island. It turned out to be a hand-cranked mechanical computer built around 100 BC, capable of predicting solar eclipses, lunar cycles, and the positions of planets decades in advance. Nothing like it appeared again for 1,400 years.",
+      "tags": [
+        "antikythera",
+        "ancientgreece",
+        "ancientcomputer",
+        "archaeology",
+        "losthistory",
+        "ancienttechnology",
+        "history",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "One teaspoon of a neutron star would weigh one billion tons on Earth. The entire object is only 20 kilometers wide — smaller than most cities — yet it contains more mass than our Sun. Gravity on its surface is 200 billion times stronger than what's holding you to the ground right now. These things are spinning up to 700 times per second. The universe built something city-sized that outweighs entire solar systems. And there are billions of them out there.",
+      "script": "In 1901, divers pulled a corroded lump of bronze from a 2,000-year-old shipwreck near Greece. It looked like rock. It wasn't. It was a hand-cranked mechanical computer, built around 100 BC, capable of predicting solar eclipses, planetary positions, and lunar cycles decades in advance. Nothing remotely as complex appeared again for 1,400 years. We still don't fully understand how ancient Greeks built it — or why that knowledge completely vanished. What else did they know that we've lost?",
       "visual_keywords": [
-        "neutron star space illustration",
-        "pulsar deep space",
-        "stellar explosion supernova",
-        "galaxy cosmic dust"
+        "antikythera mechanism bronze",
+        "ancient greek artifact",
+        "shipwreck underwater archaeology",
+        "ancient astronomy device"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Coca-Cola Original Color",
-    "teaser": "The world's most recognized drink wasn't always the color you think — and the reason it changed is stranger than you'd expect.",
-    "video_title": "Coca-Cola Was Never Actually Brown",
-    "video_description": "Coca-Cola Original Color\n\n#cocacola #softdrinks #foodhistory #beverages #hiddenfacts",
-    "tags": [
-      "cocacola",
-      "softdrinks",
-      "foodhistory",
-      "beverages",
-      "hiddenfacts",
-      "brandhistory",
-      "history",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "Coca-Cola was never supposed to be brown. The original formula produced a bright green liquid — but it was dyed caramel to hide the inconsistent batches that looked different bottle to bottle. The company chose a uniform color over transparency, literally. So every time you crack open a Coke, you're drinking a product whose entire iconic look exists to conceal imperfection. Does that change how it tastes to you?",
-    "visual_keywords": [
-      "coca cola bottle vintage",
-      "caramel color liquid",
-      "old soda factory",
-      "glass bottles production line"
-    ]
-  },
-  "hashtag_options": [
-    "cocacola",
-    "softdrinks",
-    "foodhistory",
-    "beverages",
-    "hiddenfacts",
-    "brandhistory",
-    "history",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 306,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-19T13:27:48.671976+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBNGqvrTcE_8PjtITHtDUH9gU4oRidAAI0IAAC7N95UZF_q5Mw0hc_PQQ",
-  "review_started_at": "2026-09-20T09:53:59.613976+00:00",
-  "attempts": 1
+  ]
 }
