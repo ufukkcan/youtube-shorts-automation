@@ -1,9 +1,9 @@
 {
   "batch_id": "20260921-1845",
   "trigger_date": "2026-09-21",
-  "message_id": 311,
+  "message_id": 314,
   "created_at": "2026-09-21T18:45:41.201231+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Great Molasses Flood of 1919",
@@ -135,7 +135,7 @@
     "topic": "The Great Molasses Flood of 1919",
     "teaser": "A wave that moved faster than a running horse — and it wasn't water.",
     "video_title": "A City Was Swallowed by Molasses in 1919",
-    "video_description": "In January 1919, a massive tank of molasses exploded in Boston, sending a 25-foot wave of syrup through the streets at 35 mph. 21 people died and the city smelled of molasses for decades. This is one of history's strangest industrial disasters.",
+    "video_description": "The Great Molasses Flood of 1919\n\n#molassesflood #boston1919 #historydisaster #strangefacts #industrialaccident",
     "tags": [
       "molassesflood",
       "boston1919",
@@ -169,6 +169,15 @@
     "facts"
   ],
   "hashtag_message_id": 312,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-22T14:54:56.292084+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-09-22T14:54:56.292084+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBOmqzw5MKI2xTcewNlVCNQQ1Mv-f9AAIMHwAC1LCgUfrC1xh9ih2GPQQ",
+  "review_started_at": "2026-09-23T12:18:27.329148+00:00",
+  "attempts": 1
 }
