@@ -1,183 +1,134 @@
 {
-  "batch_id": "20260921-1845",
-  "trigger_date": "2026-09-21",
-  "message_id": 314,
-  "created_at": "2026-09-21T18:45:41.201231+00:00",
-  "status": "done",
+  "batch_id": "20260924-1549",
+  "trigger_date": "2026-09-24",
+  "message_id": 317,
+  "created_at": "2026-09-24T15:49:04.298364+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Great Molasses Flood of 1919",
-      "teaser": "A wave that moved faster than a running horse — and it wasn't water.",
-      "video_title": "A City Was Swallowed by Molasses in 1919",
-      "video_description": "In January 1919, a massive tank of molasses exploded in Boston, sending a 25-foot wave of syrup through the streets at 35 mph. 21 people died and the city smelled of molasses for decades. This is one of history's strangest industrial disasters.",
+      "topic": "The Turk — Chess-Playing Automaton Hoax",
+      "teaser": "For 84 years, this machine beat Napoleon and Benjamin Franklin at chess — and nobody figured out its secret.",
+      "video_title": "The Machine That Beat Napoleon at Chess",
+      "video_description": "The Turk was an 18th-century chess-playing automaton that defeated some of history's greatest minds. It toured Europe and America for 84 years before its secret was finally revealed. The truth was far stranger than any mechanism.",
       "tags": [
-        "molassesflood",
-        "boston1919",
-        "historydisaster",
-        "strangefacts",
-        "industrialaccident",
-        "americanhistory",
+        "theturk",
+        "chesshistory",
+        "automaton",
+        "napoleonbonaparte",
+        "historicalhoax",
+        "chess",
         "history",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "A 25-foot wall of molasses hit Boston at 35 miles per hour — faster than any human can run. On January 15, 1919, a steel tank holding 2.3 million gallons exploded without warning, burying entire city blocks in sticky, suffocating syrup. 21 people were killed. Horses drowned. Buildings collapsed. And witnesses swore the city smelled like molasses every summer for the next 30 years. So — is this the strangest disaster in history, or does something else beat it?",
+      "script": "A wooden machine beat Napoleon Bonaparte at chess in 1809 — and he had no idea he was being deceived. The Turk toured Europe for 84 years, defeating kings, presidents, and geniuses. It appeared to think, to calculate, to win on pure logic. Engineers tore it apart looking for hidden gears. They found none. The secret? A chess grandmaster folded inside, shifting magnets from below. Every match was a magic trick nobody solved for nearly a century. So — when does a brilliant illusion become a lie?",
       "visual_keywords": [
-        "molasses flood boston",
-        "vintage city street disaster",
-        "old factory tank",
-        "historical archive photo"
+        "chess board vintage",
+        "antique wooden automaton",
+        "18th century portrait",
+        "chess pieces close up"
       ]
     },
     {
-      "topic": "Octopus Has Three Hearts and Blue Blood",
-      "teaser": "This creature has three hearts — and the moment it swims, two of them stop.",
-      "video_title": "Octopuses Have 3 Hearts — 2 Stop When It Swims",
-      "video_description": "Octopuses have three hearts and blue, copper-based blood. Two of their hearts stop beating the moment they start swimming, which is why they prefer crawling. Their biology is so alien that scientists studying them sometimes question whether they evolved on Earth at all.",
+      "topic": "Pando — The Single Organism That Weighs 6 Million Kilograms",
+      "teaser": "There's a single living thing in Utah that has been alive for 80,000 years — and you'd never know it by looking at it.",
+      "video_title": "This Forest Is Actually One Single Creature",
+      "video_description": "Pando is a colony of quaking aspen trees in Utah that share a single root system, making them one organism. It weighs over 6 million kilograms and may be 80,000 years old. It is the heaviest known living thing on Earth — and it's dying.",
       "tags": [
-        "octopus",
-        "oceancreatures",
-        "marinelife",
-        "animalbiology",
-        "blueblood",
-        "sealife",
+        "pando",
+        "aspenforest",
+        "biology",
+        "utah",
+        "singleorganism",
+        "nature",
+        "science",
+        "shorts",
+        "viral",
+        "didyouknow"
+      ],
+      "script": "What looks like an entire forest in Utah is actually one single living creature. Every tree you see — all 47,000 of them — shares the same root system, the same DNA, the same organism. It's called Pando. It weighs over 6 million kilograms, making it the heaviest thing alive on Earth, and it may have existed for 80,000 years. It survived ice ages, droughts, and mass extinctions. But right now, in 2024, it's shrinking — and scientists aren't sure they can stop it.",
+      "visual_keywords": [
+        "aspen forest autumn",
+        "tree roots underground",
+        "Utah landscape",
+        "forest aerial view"
+      ]
+    },
+    {
+      "topic": "The Last Breath Statistic — Caesar's Final Exhale",
+      "teaser": "Every time you breathe in, statistically you're inhaling molecules from some of history's most famous last moments.",
+      "video_title": "You're Breathing Julius Caesar's Last Breath",
+      "video_description": "Atmospheric science reveals that the molecules exhaled by Julius Caesar at his death in 44 BC have had over 2,000 years to spread evenly across Earth's atmosphere. Each breath you take statistically contains about one of those exact molecules. The math is real.",
+      "tags": [
+        "juliuscaesar",
+        "atmosphere",
+        "molecules",
+        "sciencefacts",
+        "chemistry",
+        "history",
         "science",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "An octopus has three hearts — and the second it starts swimming, two of them shut down. That's why they almost always crawl instead. Their blood isn't red either; it's blue, because it's built from copper instead of iron. They have nine brains — one central and one in each arm, each capable of making decisions independently. Scientists have seriously debated whether octopuses evolved on this planet at all. What do you think — Earth creature, or something else?",
+      "script": "Right now, breathing normally, you are almost certainly inhaling a molecule that Julius Caesar exhaled as he died. This isn't poetry — it's atmospheric chemistry. Caesar was assassinated in 44 BC. His last breath contained roughly 25 sextillion molecules. In 2,000 years, they've dispersed so evenly across Earth's atmosphere that statistically, every single breath you take contains at least one of them. The same applies to Cleopatra. To Shakespeare. To every human who ever lived. What does that do to your idea of death?",
       "visual_keywords": [
-        "octopus underwater",
-        "deep sea creature",
-        "octopus crawling ocean floor",
-        "marine biology"
+        "ancient rome senate",
+        "atmosphere earth from space",
+        "molecules visualization",
+        "breathing close up"
       ]
     },
     {
-      "topic": "The Dress That Broke the Internet — Color Perception Science",
-      "teaser": "Two people can stare at the exact same image — and see completely different colors. Science finally knows why.",
-      "video_title": "Why Two People See This Dress in Different Colors",
-      "video_description": "In 2015, a single photo of a dress divided the entire internet — some saw blue and black, others saw white and gold. The reason is buried deep in how your brain compensates for lighting, and it reveals that human color perception is far less objective than we ever thought.",
+      "topic": "Phantom Limb Pain — The Brain Invents Suffering",
+      "teaser": "Doctors found a way to cure pain in a limb that doesn't exist — using nothing but a mirror.",
+      "video_title": "The Mirror That Cures Pain in a Missing Arm",
+      "video_description": "Phantom limb pain affects up to 80% of amputees — the brain continues sending pain signals to a limb that no longer exists. Neuroscientist V.S. Ramachandran discovered in 1993 that a simple mirror box could trick the brain into releasing that pain instantly. It revealed how completely the brain constructs our reality.",
       "tags": [
-        "thedress",
-        "colorperception",
-        "brainscience",
-        "opticallusion",
+        "phantomlimbpain",
         "neuroscience",
-        "humanbrain",
-        "psychology",
+        "brainscience",
+        "mirrorbox",
+        "amputee",
+        "ramachandran",
+        "science",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Two people can stare at the exact same photo and see completely different colors — and both are right. In 2015, one image of a striped dress split the entire internet. Scientists studied it and discovered your brain automatically subtracts the light it assumes is in the room before deciding on a color. If your brain assumes daylight, you see blue and black. If it assumes artificial light, white and gold. Your eyes don't show you reality. They show you a guess. How terrifying is that?",
+      "script": "Soldiers who lose an arm in combat often scream from pain — in the arm that's gone. The brain keeps firing signals to a limb that no longer exists, and it hurts just as much as a real injury. In 1993, neuroscientist V.S. Ramachandran cured this with a cardboard box and a mirror. The patient watched their reflection move a phantom hand — and the pain vanished. The brain believed the reflection was real. That means your pain, your body, your reality — all of it is something your brain is actively constructing right now.",
       "visual_keywords": [
-        "optical illusion",
-        "color perception brain",
-        "human eye close up",
-        "striped fabric light shadow"
+        "mirror reflection hand",
+        "brain neuroscience scan",
+        "prosthetic arm",
+        "hospital rehabilitation"
       ]
     },
     {
-      "topic": "The Immortal Cell Line — Henrietta Lacks",
-      "teaser": "Cells taken from a woman without her knowledge are still alive today — multiplying in labs across the world.",
-      "video_title": "Her Cells Were Taken Without Permission — Still Alive Today",
-      "video_description": "In 1951, a woman named Henrietta Lacks had cancer cells removed without her consent. Those cells, called HeLa cells, never died. They have been used in over 110,000 medical studies, helped create the polio vaccine, and have traveled to space — while her family received nothing.",
+      "topic": "The Exploding Lake — Lake Nyos 1986",
+      "teaser": "One night in 1986, a lake in Africa silently killed 1,700 people in under an hour — without a single explosion or wave.",
+      "video_title": "The Lake That Silently Killed 1,700 People",
+      "video_description": "On August 21, 1986, Lake Nyos in Cameroon released a massive burst of carbon dioxide from its depths, suffocating 1,700 people and 3,500 livestock within a 25-kilometer radius — all while the lake itself remained completely calm. It is one of the deadliest natural disasters caused by a body of water in recorded history.",
       "tags": [
-        "henriettalacks",
-        "helacells",
-        "medicalhistory",
-        "scienceethics",
-        "biology",
-        "cancerresearch",
-        "history",
+        "lakenyos",
+        "cameroon",
+        "naturaldisaster",
+        "carbondioxide",
+        "limniceruption",
+        "geology",
+        "science",
         "shorts",
         "viral",
-        "didyouknow"
+        "trending"
       ],
-      "script": "In 1951, doctors took cells from a dying woman without ever asking her. Her name was Henrietta Lacks. Those cells should have died with her — instead, they became the only human cells ever to survive and multiply indefinitely outside a body. HeLa cells have been used in over 110,000 scientific studies. They helped build the polio vaccine. They've been sent to space. Her family found out decades later — and received nothing. Who actually owns your body?",
+      "script": "On August 21st, 1986, a lake in Cameroon murdered 1,700 people without making a single sound. No tsunami, no earthquake, no warning. Lake Nyos simply exhaled. A pocket of carbon dioxide had been building for centuries in the deep water. That night it released all at once — a silent, invisible cloud that rolled across 25 kilometers of villages at highway speed, replacing every molecule of oxygen. People were found dead mid-stride. Animals collapsed in fields. The lake turned blood red. Scientists say several other lakes worldwide are doing the same thing right now.",
       "visual_keywords": [
-        "laboratory cell microscope",
-        "cancer cells research",
-        "medical lab scientist",
-        "hospital vintage 1950s"
-      ]
-    },
-    {
-      "topic": "The Antikythera Mechanism — Ancient Greek Computer",
-      "teaser": "A 2,000-year-old device was pulled from a shipwreck — and it could predict the future.",
-      "video_title": "A 2,000-Year-Old Computer Was Found in a Shipwreck",
-      "video_description": "In 1901, divers discovered a corroded bronze lump near a Greek island. It turned out to be a hand-cranked mechanical computer built around 100 BC, capable of predicting solar eclipses, lunar cycles, and the positions of planets decades in advance. Nothing like it appeared again for 1,400 years.",
-      "tags": [
-        "antikythera",
-        "ancientgreece",
-        "ancientcomputer",
-        "archaeology",
-        "losthistory",
-        "ancienttechnology",
-        "history",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "In 1901, divers pulled a corroded lump of bronze from a 2,000-year-old shipwreck near Greece. It looked like rock. It wasn't. It was a hand-cranked mechanical computer, built around 100 BC, capable of predicting solar eclipses, planetary positions, and lunar cycles decades in advance. Nothing remotely as complex appeared again for 1,400 years. We still don't fully understand how ancient Greeks built it — or why that knowledge completely vanished. What else did they know that we've lost?",
-      "visual_keywords": [
-        "antikythera mechanism bronze",
-        "ancient greek artifact",
-        "shipwreck underwater archaeology",
-        "ancient astronomy device"
+        "lake crater africa",
+        "carbon dioxide gas cloud",
+        "volcanic lake",
+        "Cameroon landscape"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Great Molasses Flood of 1919",
-    "teaser": "A wave that moved faster than a running horse — and it wasn't water.",
-    "video_title": "A City Was Swallowed by Molasses in 1919",
-    "video_description": "The Great Molasses Flood of 1919\n\n#molassesflood #boston1919 #historydisaster #strangefacts #industrialaccident",
-    "tags": [
-      "molassesflood",
-      "boston1919",
-      "historydisaster",
-      "strangefacts",
-      "industrialaccident",
-      "americanhistory",
-      "history",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "A 25-foot wall of molasses hit Boston at 35 miles per hour — faster than any human can run. On January 15, 1919, a steel tank holding 2.3 million gallons exploded without warning, burying entire city blocks in sticky, suffocating syrup. 21 people were killed. Horses drowned. Buildings collapsed. And witnesses swore the city smelled like molasses every summer for the next 30 years. So — is this the strangest disaster in history, or does something else beat it?",
-    "visual_keywords": [
-      "molasses flood boston",
-      "vintage city street disaster",
-      "old factory tank",
-      "historical archive photo"
-    ]
-  },
-  "hashtag_options": [
-    "molassesflood",
-    "boston1919",
-    "historydisaster",
-    "strangefacts",
-    "industrialaccident",
-    "americanhistory",
-    "history",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 312,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-22T14:54:56.292084+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBOmqzw5MKI2xTcewNlVCNQQ1Mv-f9AAIMHwAC1LCgUfrC1xh9ih2GPQQ",
-  "review_started_at": "2026-09-23T12:18:27.329148+00:00",
-  "attempts": 1
+  ]
 }
