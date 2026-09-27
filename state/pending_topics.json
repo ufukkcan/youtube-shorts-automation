@@ -1,183 +1,139 @@
 {
-  "batch_id": "20260924-1549",
-  "trigger_date": "2026-09-24",
-  "message_id": 320,
-  "created_at": "2026-09-24T15:49:04.298364+00:00",
-  "status": "done",
+  "batch_id": "20260927-1624",
+  "trigger_date": "2026-09-27",
+  "message_id": 323,
+  "created_at": "2026-09-27T16:24:46.299030+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Turk — Chess-Playing Automaton Hoax",
-      "teaser": "For 84 years, this machine beat Napoleon and Benjamin Franklin at chess — and nobody figured out its secret.",
-      "video_title": "The Machine That Beat Napoleon at Chess",
-      "video_description": "The Turk was an 18th-century chess-playing automaton that defeated some of history's greatest minds. It toured Europe and America for 84 years before its secret was finally revealed. The truth was far stranger than any mechanism.",
+      "topic": "Tarrare — The Man Who Ate Everything",
+      "teaser": "A French soldier in the 1700s had a hunger so extreme that doctors suspected he ate a living infant — and they couldn't prove he didn't.",
+      "video_title": "The Man Whose Hunger Had No Limit",
+      "video_description": "Tarrare was an 18th-century Frenchman whose appetite was so extreme it baffled military doctors and horrified an entire nation. He ate cats, snakes, and things far worse — and science still can't fully explain why. One of history's most disturbing medical mysteries.",
       "tags": [
-        "theturk",
-        "chesshistory",
-        "automaton",
-        "napoleonbonaparte",
-        "historicalhoax",
-        "chess",
-        "history",
+        "tarrare",
+        "medicalhistory",
+        "strangehistory",
+        "historyfacts",
+        "horriblehistory",
+        "18thcentury",
         "shorts",
         "viral",
-        "facts"
-      ],
-      "script": "A wooden machine beat Napoleon Bonaparte at chess in 1809 — and he had no idea he was being deceived. The Turk toured Europe for 84 years, defeating kings, presidents, and geniuses. It appeared to think, to calculate, to win on pure logic. Engineers tore it apart looking for hidden gears. They found none. The secret? A chess grandmaster folded inside, shifting magnets from below. Every match was a magic trick nobody solved for nearly a century. So — when does a brilliant illusion become a lie?",
-      "visual_keywords": [
-        "chess board vintage",
-        "antique wooden automaton",
-        "18th century portrait",
-        "chess pieces close up"
-      ]
-    },
-    {
-      "topic": "Pando — The Single Organism That Weighs 6 Million Kilograms",
-      "teaser": "There's a single living thing in Utah that has been alive for 80,000 years — and you'd never know it by looking at it.",
-      "video_title": "This Forest Is Actually One Single Creature",
-      "video_description": "Pando is a colony of quaking aspen trees in Utah that share a single root system, making them one organism. It weighs over 6 million kilograms and may be 80,000 years old. It is the heaviest known living thing on Earth — and it's dying.",
-      "tags": [
-        "pando",
-        "aspenforest",
-        "biology",
-        "utah",
-        "singleorganism",
-        "nature",
-        "science",
-        "shorts",
-        "viral",
+        "facts",
         "didyouknow"
       ],
-      "script": "What looks like an entire forest in Utah is actually one single living creature. Every tree you see — all 47,000 of them — shares the same root system, the same DNA, the same organism. It's called Pando. It weighs over 6 million kilograms, making it the heaviest thing alive on Earth, and it may have existed for 80,000 years. It survived ice ages, droughts, and mass extinctions. But right now, in 2024, it's shrinking — and scientists aren't sure they can stop it.",
+      "script": "A French soldier once ate a live cat in front of army doctors — and that was considered one of his milder acts. Tarrare, born around 1772, consumed entire baskets of apples, dozens of raw eggs, and living snakes. His body temperature ran so high that steam rose off his skin. Surgeons studied him for months and had no explanation. When a hospital infant went missing, staff pointed directly at him. No one could prove it. No one could rule it out.",
       "visual_keywords": [
-        "aspen forest autumn",
-        "tree roots underground",
-        "Utah landscape",
-        "forest aerial view"
+        "18th century soldier",
+        "old hospital ward",
+        "historical document",
+        "candle lit room",
+        "vintage anatomy illustration"
       ]
     },
     {
-      "topic": "The Last Breath Statistic — Caesar's Final Exhale",
-      "teaser": "Every time you breathe in, statistically you're inhaling molecules from some of history's most famous last moments.",
-      "video_title": "You're Breathing Julius Caesar's Last Breath",
-      "video_description": "Atmospheric science reveals that the molecules exhaled by Julius Caesar at his death in 44 BC have had over 2,000 years to spread evenly across Earth's atmosphere. Each breath you take statistically contains about one of those exact molecules. The math is real.",
+      "topic": "The Clicking Language — Taa",
+      "teaser": "There is a language on Earth so complex that linguists say the human mouth may be reaching the absolute limit of what it can physically produce.",
+      "video_title": "The Hardest Language the Human Mouth Can Make",
+      "video_description": "Taa, spoken by a small community in southern Africa, contains over 100 distinct click sounds — more phonemes than any other known language on Earth. Linguists believe it may represent the very ceiling of human vocal complexity. It could also be one of the oldest languages ever spoken.",
       "tags": [
-        "juliuscaesar",
-        "atmosphere",
-        "molecules",
+        "taa",
+        "clicklanguage",
+        "linguistics",
+        "languagefacts",
+        "africa",
+        "humanbody",
+        "shorts",
+        "viral",
+        "facts",
+        "didyouknow"
+      ],
+      "script": "One language on Earth has over 100 different click sounds — and getting even one wrong changes the meaning entirely. It's called Taa, spoken by fewer than 3,000 people in Botswana and Namibia. Linguists believe it may be among the oldest languages still spoken, possibly tracing back to the very first humans. It contains more distinct sounds than any language ever recorded. Some researchers think Taa is the closest thing we have to humanity's original voice. Does that change how you see language?",
+      "visual_keywords": [
+        "southern africa landscape",
+        "tribal community",
+        "human mouth speaking",
+        "linguistic map",
+        "desert village"
+      ]
+    },
+    {
+      "topic": "The Loneliest Creature — 52-Hertz Whale",
+      "teaser": "For decades, scientists have tracked a whale calling out across the entire Pacific Ocean — and not a single other whale has ever responded.",
+      "video_title": "The Whale No Other Whale Can Hear",
+      "video_description": "Since 1989, researchers have followed a whale that calls at 52 hertz — a frequency no other known whale species uses. It travels the Pacific alone, singing into silence. Scientists have never seen it, never identified its species, and no whale has ever answered.",
+      "tags": [
+        "52hertzwhale",
+        "oceanmystery",
+        "whale",
+        "marinelife",
+        "oceanfacts",
+        "wildlife",
+        "shorts",
+        "viral",
+        "facts",
+        "didyouknow"
+      ],
+      "script": "Since 1989, a whale has been crossing the Pacific Ocean calling out at a frequency no other whale on Earth uses. Every known species communicates between 10 and 39 hertz. This one calls at 52. Scientists have tracked it for over 30 years using underwater microphones. They've never seen it. They don't know what species it is. And in all that time, not a single whale has ever called back. It has been singing into silence for longer than most people have been alive.",
+      "visual_keywords": [
+        "deep ocean",
+        "whale underwater",
+        "ocean sonar",
+        "pacific ocean aerial",
+        "dark sea depth"
+      ]
+    },
+    {
+      "topic": "NASA's Golden Record — Message Hurled Into Deep Space",
+      "teaser": "In 1977, NASA launched a golden disc into space containing the sounds of Earth — and it's now so far away that light itself takes over 22 hours to reach it.",
+      "video_title": "NASA Sent Earth's Sounds Into Deep Space",
+      "video_description": "The Voyager Golden Record, launched in 1977, carries music, greetings in 55 languages, and the sound of a mother's first kiss to her newborn — all encoded on a gold-plated copper disc. Voyager 1 is now in interstellar space. If anyone finds it, they'll know we existed.",
+      "tags": [
+        "goldenrecord",
+        "voyager",
+        "nasa",
+        "space",
+        "spacefacts",
+        "interstellar",
+        "shorts",
+        "viral",
+        "facts",
+        "didyouknow"
+      ],
+      "script": "In 1977, NASA engraved the sounds of Earth onto a golden disc and fired it into deep space — knowing it would almost certainly never be found. It holds 115 images, greetings in 55 languages, music from Bach to Chuck Berry, and the sound of a mother kissing her newborn child for the first time. Voyager 1 is now 24 billion kilometers away. If an alien civilization finds it in a million years, they will know humans once existed. Does that comfort you, or terrify you?",
+      "visual_keywords": [
+        "voyager spacecraft",
+        "golden record disc",
+        "deep space stars",
+        "NASA control room",
+        "interstellar space"
+      ]
+    },
+    {
+      "topic": "The Body Farm — Where Scientists Let Humans Decompose",
+      "teaser": "There are facilities in the United States where human bodies are left outside, in the open, on purpose — and what researchers learn there has solved hundreds of murders.",
+      "video_title": "The Field Where Human Bodies Are Left to Rot",
+      "video_description": "The University of Tennessee's Forensic Anthropology Center — known as the Body Farm — uses donated human remains placed in outdoor environments to study decomposition. The data collected has transformed forensic science and helped convict killers for decades. It's morbid, methodical, and completely essential.",
+      "tags": [
+        "bodyfarm",
+        "forensicscience",
+        "crimescience",
+        "forensics",
+        "truecrime",
         "sciencefacts",
-        "chemistry",
-        "history",
-        "science",
         "shorts",
         "viral",
-        "facts"
+        "facts",
+        "didyouknow"
       ],
-      "script": "Right now, breathing normally, you are almost certainly inhaling a molecule that Julius Caesar exhaled as he died. This isn't poetry — it's atmospheric chemistry. Caesar was assassinated in 44 BC. His last breath contained roughly 25 sextillion molecules. In 2,000 years, they've dispersed so evenly across Earth's atmosphere that statistically, every single breath you take contains at least one of them. The same applies to Cleopatra. To Shakespeare. To every human who ever lived. What does that do to your idea of death?",
+      "script": "There is a fenced field in Tennessee where human bodies are left outside, uncovered, in every weather condition — and it's one of the most important scientific facilities in America. It's called the Body Farm, opened in 1981 by anthropologist William Bass. Researchers study exactly how the human body breaks down, day by day, season by season. That data has given prosecutors precise time-of-death evidence in hundreds of murder trials. Over 2,000 people have already donated their bodies to go there. Would you?",
       "visual_keywords": [
-        "ancient rome senate",
-        "atmosphere earth from space",
-        "molecules visualization",
-        "breathing close up"
-      ]
-    },
-    {
-      "topic": "Phantom Limb Pain — The Brain Invents Suffering",
-      "teaser": "Doctors found a way to cure pain in a limb that doesn't exist — using nothing but a mirror.",
-      "video_title": "The Mirror That Cures Pain in a Missing Arm",
-      "video_description": "Phantom limb pain affects up to 80% of amputees — the brain continues sending pain signals to a limb that no longer exists. Neuroscientist V.S. Ramachandran discovered in 1993 that a simple mirror box could trick the brain into releasing that pain instantly. It revealed how completely the brain constructs our reality.",
-      "tags": [
-        "phantomlimbpain",
-        "neuroscience",
-        "brainscience",
-        "mirrorbox",
-        "amputee",
-        "ramachandran",
-        "science",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "Soldiers who lose an arm in combat often scream from pain — in the arm that's gone. The brain keeps firing signals to a limb that no longer exists, and it hurts just as much as a real injury. In 1993, neuroscientist V.S. Ramachandran cured this with a cardboard box and a mirror. The patient watched their reflection move a phantom hand — and the pain vanished. The brain believed the reflection was real. That means your pain, your body, your reality — all of it is something your brain is actively constructing right now.",
-      "visual_keywords": [
-        "mirror reflection hand",
-        "brain neuroscience scan",
-        "prosthetic arm",
-        "hospital rehabilitation"
-      ]
-    },
-    {
-      "topic": "The Exploding Lake — Lake Nyos 1986",
-      "teaser": "One night in 1986, a lake in Africa silently killed 1,700 people in under an hour — without a single explosion or wave.",
-      "video_title": "The Lake That Silently Killed 1,700 People",
-      "video_description": "On August 21, 1986, Lake Nyos in Cameroon released a massive burst of carbon dioxide from its depths, suffocating 1,700 people and 3,500 livestock within a 25-kilometer radius — all while the lake itself remained completely calm. It is one of the deadliest natural disasters caused by a body of water in recorded history.",
-      "tags": [
-        "lakenyos",
-        "cameroon",
-        "naturaldisaster",
-        "carbondioxide",
-        "limniceruption",
-        "geology",
-        "science",
-        "shorts",
-        "viral",
-        "trending"
-      ],
-      "script": "On August 21st, 1986, a lake in Cameroon murdered 1,700 people without making a single sound. No tsunami, no earthquake, no warning. Lake Nyos simply exhaled. A pocket of carbon dioxide had been building for centuries in the deep water. That night it released all at once — a silent, invisible cloud that rolled across 25 kilometers of villages at highway speed, replacing every molecule of oxygen. People were found dead mid-stride. Animals collapsed in fields. The lake turned blood red. Scientists say several other lakes worldwide are doing the same thing right now.",
-      "visual_keywords": [
-        "lake crater africa",
-        "carbon dioxide gas cloud",
-        "volcanic lake",
-        "Cameroon landscape"
+        "forensic science lab",
+        "outdoor research facility",
+        "crime scene investigation",
+        "autumn field decay",
+        "forensic anthropology"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Turk — Chess-Playing Automaton Hoax",
-    "teaser": "For 84 years, this machine beat Napoleon and Benjamin Franklin at chess — and nobody figured out its secret.",
-    "video_title": "The Machine That Beat Napoleon at Chess",
-    "video_description": "The Turk — Chess-Playing Automaton Hoax\n\n#theturk #chesshistory #automaton #napoleonbonaparte #historicalhoax",
-    "tags": [
-      "theturk",
-      "chesshistory",
-      "automaton",
-      "napoleonbonaparte",
-      "historicalhoax",
-      "chess",
-      "history",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "A wooden machine beat Napoleon Bonaparte at chess in 1809 — and he had no idea he was being deceived. The Turk toured Europe for 84 years, defeating kings, presidents, and geniuses. It appeared to think, to calculate, to win on pure logic. Engineers tore it apart looking for hidden gears. They found none. The secret? A chess grandmaster folded inside, shifting magnets from below. Every match was a magic trick nobody solved for nearly a century. So — when does a brilliant illusion become a lie?",
-    "visual_keywords": [
-      "chess board vintage",
-      "antique wooden automaton",
-      "18th century portrait",
-      "chess pieces close up"
-    ]
-  },
-  "hashtag_options": [
-    "theturk",
-    "chesshistory",
-    "automaton",
-    "napoleonbonaparte",
-    "historicalhoax",
-    "chess",
-    "history",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 318,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-25T15:21:54.494573+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBQGq31s-_6JuDuiA2Jt0k_H1ez3CdAAIdHwACY_nBUZQrP4kbjsRkPQQ",
-  "review_started_at": "2026-09-26T14:29:35.402705+00:00",
-  "attempts": 1
+  ]
 }
