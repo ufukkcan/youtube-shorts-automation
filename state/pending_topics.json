@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-27",
   "message_id": 323,
   "created_at": "2026-09-27T16:24:46.299030+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Tarrare — The Man Who Ate Everything",
@@ -135,5 +135,46 @@
         "forensic anthropology"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Tarrare — The Man Who Ate Everything",
+    "teaser": "A French soldier in the 1700s had a hunger so extreme that doctors suspected he ate a living infant — and they couldn't prove he didn't.",
+    "video_title": "The Man Whose Hunger Had No Limit",
+    "video_description": "Tarrare was an 18th-century Frenchman whose appetite was so extreme it baffled military doctors and horrified an entire nation. He ate cats, snakes, and things far worse — and science still can't fully explain why. One of history's most disturbing medical mysteries.",
+    "tags": [
+      "tarrare",
+      "medicalhistory",
+      "strangehistory",
+      "historyfacts",
+      "horriblehistory",
+      "18thcentury",
+      "shorts",
+      "viral",
+      "facts",
+      "didyouknow"
+    ],
+    "script": "A French soldier once ate a live cat in front of army doctors — and that was considered one of his milder acts. Tarrare, born around 1772, consumed entire baskets of apples, dozens of raw eggs, and living snakes. His body temperature ran so high that steam rose off his skin. Surgeons studied him for months and had no explanation. When a hospital infant went missing, staff pointed directly at him. No one could prove it. No one could rule it out.",
+    "visual_keywords": [
+      "18th century soldier",
+      "old hospital ward",
+      "historical document",
+      "candle lit room",
+      "vintage anatomy illustration"
+    ]
+  },
+  "hashtag_options": [
+    "tarrare",
+    "medicalhistory",
+    "strangehistory",
+    "historyfacts",
+    "horriblehistory",
+    "18thcentury",
+    "shorts",
+    "viral",
+    "facts",
+    "didyouknow"
+  ],
+  "hashtag_message_id": 324,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-28T14:33:11.270844+00:00"
 }
