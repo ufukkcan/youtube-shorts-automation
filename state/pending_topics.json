@@ -1,189 +1,134 @@
 {
-  "batch_id": "20260927-1624",
-  "trigger_date": "2026-09-27",
-  "message_id": 326,
-  "created_at": "2026-09-27T16:24:46.299030+00:00",
-  "status": "done",
+  "batch_id": "20260930-1824",
+  "trigger_date": "2026-09-30",
+  "message_id": 329,
+  "created_at": "2026-09-30T18:24:54.136238+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Tarrare — The Man Who Ate Everything",
-      "teaser": "A French soldier in the 1700s had a hunger so extreme that doctors suspected he ate a living infant — and they couldn't prove he didn't.",
-      "video_title": "The Man Whose Hunger Had No Limit",
-      "video_description": "Tarrare was an 18th-century Frenchman whose appetite was so extreme it baffled military doctors and horrified an entire nation. He ate cats, snakes, and things far worse — and science still can't fully explain why. One of history's most disturbing medical mysteries.",
+      "topic": "The Baader-Meinhof Phenomenon — Why You See Things Everywhere After Learning About Them",
+      "teaser": "The moment you learn a new word, it starts appearing everywhere — and science has a disturbing explanation for why.",
+      "video_title": "Why Your Brain Fakes Coincidences",
+      "video_description": "The Baader-Meinhof Phenomenon makes your brain highlight newly learned information as if the world suddenly changed. It didn't — your perception did. Neuroscientists call it frequency illusion, and it reveals how selective your attention truly is.",
       "tags": [
-        "tarrare",
-        "medicalhistory",
-        "strangehistory",
-        "historyfacts",
-        "horriblehistory",
-        "18thcentury",
+        "baadermeinhof",
+        "frequencyillusion",
+        "brainscience",
+        "psychology",
+        "cognition",
+        "neuroscience",
+        "mindfacts",
         "shorts",
         "viral",
-        "facts",
-        "didyouknow"
+        "facts"
       ],
-      "script": "A French soldier once ate a live cat in front of army doctors — and that was considered one of his milder acts. Tarrare, born around 1772, consumed entire baskets of apples, dozens of raw eggs, and living snakes. His body temperature ran so high that steam rose off his skin. Surgeons studied him for months and had no explanation. When a hospital infant went missing, staff pointed directly at him. No one could prove it. No one could rule it out.",
+      "script": "You learn a new word, and suddenly it's everywhere — on billboards, in conversations, on TV. The world didn't change. Your brain did. It's called the Baader-Meinhof Phenomenon, and it's proof your mind filters out roughly 99% of reality at any given moment. Once something is labeled 'important,' your brain's reticular activating system flags every instance it previously ignored. You were always seeing it. You just weren't allowed to notice. So what else is your brain hiding from you right now?",
       "visual_keywords": [
-        "18th century soldier",
-        "old hospital ward",
-        "historical document",
-        "candle lit room",
-        "vintage anatomy illustration"
+        "human brain neuron",
+        "pattern recognition",
+        "crowd faces",
+        "perception illusion"
       ]
     },
     {
-      "topic": "The Clicking Language — Taa",
-      "teaser": "There is a language on Earth so complex that linguists say the human mouth may be reaching the absolute limit of what it can physically produce.",
-      "video_title": "The Hardest Language the Human Mouth Can Make",
-      "video_description": "Taa, spoken by a small community in southern Africa, contains over 100 distinct click sounds — more phonemes than any other known language on Earth. Linguists believe it may represent the very ceiling of human vocal complexity. It could also be one of the oldest languages ever spoken.",
+      "topic": "The Singing Sand Dunes — Desert That Produces Music",
+      "teaser": "Some deserts in the world produce a deep, haunting roar — and for centuries, nobody could explain it.",
+      "video_title": "Deserts That Roar Like Thunder",
+      "video_description": "Certain sand dunes around the world emit a low, resonant hum that can reach 105 decibels — louder than a motorcycle. Scientists only cracked the mystery in 2012. The answer involves sand grain size, humidity, and accidental acoustics on a massive scale.",
       "tags": [
-        "taa",
-        "clicklanguage",
-        "linguistics",
-        "languagefacts",
-        "africa",
-        "humanbody",
+        "singingdunes",
+        "desertsound",
+        "naturalphenomenon",
+        "geology",
+        "acoustics",
+        "earthscience",
+        "sandunes",
         "shorts",
         "viral",
-        "facts",
-        "didyouknow"
+        "facts"
       ],
-      "script": "One language on Earth has over 100 different click sounds — and getting even one wrong changes the meaning entirely. It's called Taa, spoken by fewer than 3,000 people in Botswana and Namibia. Linguists believe it may be among the oldest languages still spoken, possibly tracing back to the very first humans. It contains more distinct sounds than any language ever recorded. Some researchers think Taa is the closest thing we have to humanity's original voice. Does that change how you see language?",
+      "script": "Some deserts in the Sahara, Gobi, and Arabian Peninsula produce a booming roar reaching 105 decibels — louder than a motorcycle — with no storm in sight. For centuries, explorers thought they were hearing spirits. Marco Polo wrote about it in 1295. The real answer wasn't confirmed until 2012: sand grains of a very specific size, sliding in synchrony, vibrate at identical frequencies and amplify each other like a natural pipe organ. An entire desert, singing in unison. What does it sound like? Exactly like a low-flying aircraft that never arrives.",
       "visual_keywords": [
-        "southern africa landscape",
-        "tribal community",
-        "human mouth speaking",
-        "linguistic map",
-        "desert village"
+        "desert sand dunes",
+        "Sahara landscape",
+        "sand avalanche",
+        "desert wind"
       ]
     },
     {
-      "topic": "The Loneliest Creature — 52-Hertz Whale",
-      "teaser": "For decades, scientists have tracked a whale calling out across the entire Pacific Ocean — and not a single other whale has ever responded.",
-      "video_title": "The Whale No Other Whale Can Hear",
-      "video_description": "Since 1989, researchers have followed a whale that calls at 52 hertz — a frequency no other known whale species uses. It travels the Pacific alone, singing into silence. Scientists have never seen it, never identified its species, and no whale has ever answered.",
+      "topic": "The Man Who Lived Inside an Airport for 18 Years",
+      "teaser": "One man checked into an airport terminal — and didn't leave for 18 years, becoming legally invisible to two governments at once.",
+      "video_title": "The Man Trapped in an Airport for 18 Years",
+      "video_description": "Mehran Karimi Nasseri arrived at Charles de Gaulle Airport in 1988 and legally could not leave until 2006 — a stateless man caught between bureaucracies. His case inspired the Steven Spielberg film 'The Terminal.' The real story is far stranger than the movie.",
       "tags": [
-        "52hertzwhale",
-        "oceanmystery",
-        "whale",
-        "marinelife",
-        "oceanfacts",
-        "wildlife",
+        "mehrankarimi",
+        "charlesdeGaulle",
+        "stateless",
+        "airportstory",
+        "truestory",
+        "historyof",
+        "strangefacts",
         "shorts",
         "viral",
-        "facts",
-        "didyouknow"
+        "trending"
       ],
-      "script": "Since 1989, a whale has been crossing the Pacific Ocean calling out at a frequency no other whale on Earth uses. Every known species communicates between 10 and 39 hertz. This one calls at 52. Scientists have tracked it for over 30 years using underwater microphones. They've never seen it. They don't know what species it is. And in all that time, not a single whale has ever called back. It has been singing into silence for longer than most people have been alive.",
+      "script": "In 1988, a man arrived at Paris Charles de Gaulle Airport and could not leave — not for days, not for months. For 18 years. Mehran Karimi Nasseri had his refugee documents stolen, leaving him legally recognized by no country on Earth. France couldn't deport him. Iran wouldn't take him. He lived in Terminal 1, sleeping on a bench, reading newspapers, writing a diary. Airport staff brought him food. He became a local celebrity. In 2006, he finally left — and immediately collapsed from the shock of the outside world.",
       "visual_keywords": [
-        "deep ocean",
-        "whale underwater",
-        "ocean sonar",
-        "pacific ocean aerial",
-        "dark sea depth"
+        "airport terminal empty",
+        "airport bench alone",
+        "Paris Charles de Gaulle",
+        "stateless passport"
       ]
     },
     {
-      "topic": "NASA's Golden Record — Message Hurled Into Deep Space",
-      "teaser": "In 1977, NASA launched a golden disc into space containing the sounds of Earth — and it's now so far away that light itself takes over 22 hours to reach it.",
-      "video_title": "NASA Sent Earth's Sounds Into Deep Space",
-      "video_description": "The Voyager Golden Record, launched in 1977, carries music, greetings in 55 languages, and the sound of a mother's first kiss to her newborn — all encoded on a gold-plated copper disc. Voyager 1 is now in interstellar space. If anyone finds it, they'll know we existed.",
+      "topic": "Tardigrade — The Only Animal That Can Survive in Open Space",
+      "teaser": "One creature on Earth has already survived open space — no suit, no oxygen, no protection — and came back alive.",
+      "video_title": "The Animal That Survived Outer Space Naked",
+      "video_description": "Tardigrades, microscopic animals under 1mm long, were exposed to the vacuum and radiation of open space in 2007 and survived. They can withstand temperatures from -272°C to 150°C, pressures six times the deepest ocean, and radiation doses lethal to every other known animal. Scientists still don't fully understand how.",
       "tags": [
-        "goldenrecord",
-        "voyager",
-        "nasa",
-        "space",
-        "spacefacts",
-        "interstellar",
+        "tardigrade",
+        "waterbear",
+        "extremophile",
+        "spacebiology",
+        "microscopic",
+        "astrobiology",
+        "animalfacts",
         "shorts",
         "viral",
-        "facts",
         "didyouknow"
       ],
-      "script": "In 1977, NASA engraved the sounds of Earth onto a golden disc and fired it into deep space — knowing it would almost certainly never be found. It holds 115 images, greetings in 55 languages, music from Bach to Chuck Berry, and the sound of a mother kissing her newborn child for the first time. Voyager 1 is now 24 billion kilometers away. If an alien civilization finds it in a million years, they will know humans once existed. Does that comfort you, or terrify you?",
+      "script": "In 2007, scientists strapped living animals to the outside of a spacecraft and launched them into open space — no suit, no oxygen, exposed to hard vacuum and full solar radiation. Ten days later, they brought them back. Most were still alive. Tardigrades, less than one millimeter long, can survive temperatures near absolute zero, pressures six times deeper than the Mariana Trench, and radiation doses 1,000 times lethal to humans. They've existed for 530 million years. If Earth ended tomorrow, they'd probably be fine. The real question is: why are they built for environments that don't exist here?",
       "visual_keywords": [
-        "voyager spacecraft",
-        "golden record disc",
-        "deep space stars",
-        "NASA control room",
-        "interstellar space"
+        "tardigrade microscope",
+        "water bear extreme closeup",
+        "space vacuum",
+        "microscopic organism"
       ]
     },
     {
-      "topic": "The Body Farm — Where Scientists Let Humans Decompose",
-      "teaser": "There are facilities in the United States where human bodies are left outside, in the open, on purpose — and what researchers learn there has solved hundreds of murders.",
-      "video_title": "The Field Where Human Bodies Are Left to Rot",
-      "video_description": "The University of Tennessee's Forensic Anthropology Center — known as the Body Farm — uses donated human remains placed in outdoor environments to study decomposition. The data collected has transformed forensic science and helped convict killers for decades. It's morbid, methodical, and completely essential.",
+      "topic": "The Stolen Painting That Hung in Plain Sight for 30 Years — Louvre Fake",
+      "teaser": "A priceless painting hung on the wall of one of the world's most famous museums for years — and nobody realized it was a forgery.",
+      "video_title": "The Louvre Hung a Fake for Years",
+      "video_description": "Art forgery has fooled even the world's greatest museums, but few cases are as quietly unsettling as works that passed every expert eye for decades. The psychology of authority bias means once something is authenticated, almost no one looks again. Forgers have exploited this for centuries.",
       "tags": [
-        "bodyfarm",
-        "forensicscience",
-        "crimescience",
-        "forensics",
-        "truecrime",
-        "sciencefacts",
+        "artforgery",
+        "louvre",
+        "fakepainting",
+        "arthistory",
+        "museum",
+        "heist",
+        "crimefacts",
         "shorts",
         "viral",
-        "facts",
-        "didyouknow"
+        "facts"
       ],
-      "script": "There is a fenced field in Tennessee where human bodies are left outside, uncovered, in every weather condition — and it's one of the most important scientific facilities in America. It's called the Body Farm, opened in 1981 by anthropologist William Bass. Researchers study exactly how the human body breaks down, day by day, season by season. That data has given prosecutors precise time-of-death evidence in hundreds of murder trials. Over 2,000 people have already donated their bodies to go there. Would you?",
+      "script": "A painting hung inside one of the most visited museums on Earth — examined by curators, photographed by tourists, studied by scholars — and it was a fake. Art forgery doesn't just fool amateurs. It exploits a psychological flaw called authority bias: once an expert says something is real, almost no one questions it again. The most successful forgers in history didn't paint well — they painted old. Cracked varnish, aged canvas, period-accurate pigments. One forger, Han van Meegeren, sold fakes to Hermann Göring during WWII and only confessed to save himself from execution for treason. The forgery was his alibi.",
       "visual_keywords": [
-        "forensic science lab",
-        "outdoor research facility",
-        "crime scene investigation",
-        "autumn field decay",
-        "forensic anthropology"
+        "art forgery painting",
+        "museum gallery",
+        "canvas closeup restoration",
+        "Louvre interior"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Tarrare — The Man Who Ate Everything",
-    "teaser": "A French soldier in the 1700s had a hunger so extreme that doctors suspected he ate a living infant — and they couldn't prove he didn't.",
-    "video_title": "The Man Whose Hunger Had No Limit",
-    "video_description": "Tarrare — The Man Who Ate Everything\n\n#tarrare #medicalhistory #strangehistory #historyfacts #horriblehistory",
-    "tags": [
-      "tarrare",
-      "medicalhistory",
-      "strangehistory",
-      "historyfacts",
-      "horriblehistory",
-      "18thcentury",
-      "shorts",
-      "viral",
-      "facts",
-      "didyouknow"
-    ],
-    "script": "A French soldier once ate a live cat in front of army doctors — and that was considered one of his milder acts. Tarrare, born around 1772, consumed entire baskets of apples, dozens of raw eggs, and living snakes. His body temperature ran so high that steam rose off his skin. Surgeons studied him for months and had no explanation. When a hospital infant went missing, staff pointed directly at him. No one could prove it. No one could rule it out.",
-    "visual_keywords": [
-      "18th century soldier",
-      "old hospital ward",
-      "historical document",
-      "candle lit room",
-      "vintage anatomy illustration"
-    ]
-  },
-  "hashtag_options": [
-    "tarrare",
-    "medicalhistory",
-    "strangehistory",
-    "historyfacts",
-    "horriblehistory",
-    "18thcentury",
-    "shorts",
-    "viral",
-    "facts",
-    "didyouknow"
-  ],
-  "hashtag_message_id": 324,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-28T14:33:11.270844+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBRmq7srlkM1S_VtQxaZ02b2Hn4Wa-AAIUIQAC6UvgUSXKZaAn0ShAPQQ",
-  "review_started_at": "2026-09-29T12:44:41.530470+00:00",
-  "attempts": 1
+  ]
 }
