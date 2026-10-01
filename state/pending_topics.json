@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-30",
   "message_id": 329,
   "created_at": "2026-09-30T18:24:54.136238+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "The Baader-Meinhof Phenomenon — Why You See Things Everywhere After Learning About Them",
@@ -130,5 +130,45 @@
         "Louvre interior"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "The Baader-Meinhof Phenomenon — Why You See Things Everywhere After Learning About Them",
+    "teaser": "The moment you learn a new word, it starts appearing everywhere — and science has a disturbing explanation for why.",
+    "video_title": "Why Your Brain Fakes Coincidences",
+    "video_description": "The Baader-Meinhof Phenomenon makes your brain highlight newly learned information as if the world suddenly changed. It didn't — your perception did. Neuroscientists call it frequency illusion, and it reveals how selective your attention truly is.",
+    "tags": [
+      "baadermeinhof",
+      "frequencyillusion",
+      "brainscience",
+      "psychology",
+      "cognition",
+      "neuroscience",
+      "mindfacts",
+      "shorts",
+      "viral",
+      "facts"
+    ],
+    "script": "You learn a new word, and suddenly it's everywhere — on billboards, in conversations, on TV. The world didn't change. Your brain did. It's called the Baader-Meinhof Phenomenon, and it's proof your mind filters out roughly 99% of reality at any given moment. Once something is labeled 'important,' your brain's reticular activating system flags every instance it previously ignored. You were always seeing it. You just weren't allowed to notice. So what else is your brain hiding from you right now?",
+    "visual_keywords": [
+      "human brain neuron",
+      "pattern recognition",
+      "crowd faces",
+      "perception illusion"
+    ]
+  },
+  "hashtag_options": [
+    "baadermeinhof",
+    "frequencyillusion",
+    "brainscience",
+    "psychology",
+    "cognition",
+    "neuroscience",
+    "mindfacts",
+    "shorts",
+    "viral",
+    "facts"
+  ],
+  "hashtag_message_id": 330,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-01T14:32:10.408014+00:00"
 }
