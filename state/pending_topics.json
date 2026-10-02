@@ -1,9 +1,9 @@
 {
   "batch_id": "20260930-1824",
   "trigger_date": "2026-09-30",
-  "message_id": 329,
+  "message_id": 332,
   "created_at": "2026-09-30T18:24:54.136238+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Baader-Meinhof Phenomenon — Why You See Things Everywhere After Learning About Them",
@@ -135,7 +135,7 @@
     "topic": "The Baader-Meinhof Phenomenon — Why You See Things Everywhere After Learning About Them",
     "teaser": "The moment you learn a new word, it starts appearing everywhere — and science has a disturbing explanation for why.",
     "video_title": "Why Your Brain Fakes Coincidences",
-    "video_description": "The Baader-Meinhof Phenomenon makes your brain highlight newly learned information as if the world suddenly changed. It didn't — your perception did. Neuroscientists call it frequency illusion, and it reveals how selective your attention truly is.",
+    "video_description": "The Baader-Meinhof Phenomenon — Why You See Things Everywhere After Learning About Them\n\n#baadermeinhof #frequencyillusion #brainscience #psychology #cognition",
     "tags": [
       "baadermeinhof",
       "frequencyillusion",
@@ -169,6 +169,15 @@
     "facts"
   ],
   "hashtag_message_id": 330,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-01T14:32:10.408014+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-10-01T14:32:10.408014+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBTGq_x0kHSoHt8Q6IjJSv9T91LvqeAAI7IwACpiABUmX4qFPmZCwTPQQ",
+  "review_started_at": "2026-10-02T15:01:29.294931+00:00",
+  "attempts": 1
 }
