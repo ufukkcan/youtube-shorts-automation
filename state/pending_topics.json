@@ -1,9 +1,9 @@
 {
   "batch_id": "20261003-1708",
   "trigger_date": "2026-10-03",
-  "message_id": 335,
+  "message_id": 338,
   "created_at": "2026-10-03T17:08:39.445740+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Belmez Faces — Faces That Keep Appearing in a House Floor",
@@ -140,7 +140,7 @@
     "topic": "The Belmez Faces — Faces That Keep Appearing in a House Floor",
     "teaser": "A woman scrubbed her kitchen floor three times — and the same human face kept coming back.",
     "video_title": "The Floor That Keeps Growing Human Faces",
-    "video_description": "In 1971, a face appeared in a Spanish woman's concrete floor. She destroyed it. It came back. Scientists still have no explanation. The house still stands today.",
+    "video_description": "The Belmez Faces — Faces That Keep Appearing in a House Floor\n\n#belmezfaces #paranormal #mystery #haunted #unexplained",
     "tags": [
       "belmezfaces",
       "paranormal",
@@ -175,6 +175,15 @@
     "facts"
   ],
   "hashtag_message_id": 336,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-04T13:21:36.244089+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-10-04T13:21:36.244089+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBUmrD3rqnyykJrBpUgEiOF1hocV4LAAK9IgACUZsZUiCq7el7ijthPQQ",
+  "review_started_at": "2026-10-05T17:30:34.667649+00:00",
+  "attempts": 1
 }
