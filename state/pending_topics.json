@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-10",
   "message_id": 347,
   "created_at": "2026-10-10T15:04:46.716847+00:00",
-  "status": "selecting_hashtags",
+  "status": "error",
   "candidates": [
     {
       "topic": "The Hum — Mysterious Low Frequency Sound Heard Worldwide",
@@ -135,7 +135,7 @@
     "topic": "The Hum — Mysterious Low Frequency Sound Heard Worldwide",
     "teaser": "Thousands of people hear a sound that no recording device can ever capture — and it's slowly driving them mad.",
     "video_title": "A Sound Only Some People Can Hear — And It Never Stops",
-    "video_description": "Across the world, a small percentage of people hear a persistent low hum with no identifiable source. No microphone has ever recorded it, yet its victims describe it in identical detail. Science still has no answer.",
+    "video_description": "The Hum — Mysterious Low Frequency Sound Heard Worldwide\n\n#thehum #mysterioussound #unexplained #acoustics #humanperception",
     "tags": [
       "thehum",
       "mysterioussound",
@@ -169,6 +169,12 @@
     "facts"
   ],
   "hashtag_message_id": 348,
-  "selected_hashtags": [],
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
   "hashtag_started_at": "2026-10-11T14:00:00.909098+00:00"
 }
