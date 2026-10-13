@@ -1,180 +1,134 @@
 {
-  "batch_id": "20261010-1504",
-  "trigger_date": "2026-10-10",
-  "message_id": 347,
-  "created_at": "2026-10-10T15:04:46.716847+00:00",
-  "status": "error",
+  "batch_id": "20261013-1816",
+  "trigger_date": "2026-10-13",
+  "message_id": 351,
+  "created_at": "2026-10-13T18:16:12.182509+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Hum — Mysterious Low Frequency Sound Heard Worldwide",
-      "teaser": "Thousands of people hear a sound that no recording device can ever capture — and it's slowly driving them mad.",
-      "video_title": "A Sound Only Some People Can Hear — And It Never Stops",
-      "video_description": "Across the world, a small percentage of people hear a persistent low hum with no identifiable source. No microphone has ever recorded it, yet its victims describe it in identical detail. Science still has no answer.",
+      "topic": "The Man Who Never Slept — Fatal Familial Insomnia",
+      "teaser": "A disease exists that forces you to stay awake until you die — and there is no cure.",
+      "video_title": "The Disease That Literally Won't Let You Sleep",
+      "video_description": "Fatal Familial Insomnia is a prion disease that strips the brain of the ability to sleep, leading to hallucinations, organ failure, and death within months. Only around 100 families worldwide carry the gene. There is no treatment.",
       "tags": [
-        "thehum",
-        "mysterioussound",
-        "unexplained",
-        "acoustics",
-        "humanperception",
-        "science",
+        "fatalfamilialinsomnia",
+        "sleepdisorder",
+        "priondisease",
+        "braindisease",
+        "insomnia",
+        "raredisease",
+        "neuroscience",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "There is a disease that makes it physically impossible to sleep — and once it starts, you will be dead within a year. Fatal Familial Insomnia attacks a specific region of the brain, destroying the ability to enter any sleep state. Victims hallucinate, lose motor control, then slip into a coma — all while technically conscious. Only around 100 families on Earth carry the gene. No drug stops it. No doctor has ever saved a patient. Would you want to know if you carried it?",
+      "visual_keywords": [
+        "insomnia person awake night",
+        "brain scan neurology",
+        "hospital dark room",
+        "sleep disorder"
+      ]
+    },
+    {
+      "topic": "The Island That Belongs to No Country — Bir Tawil",
+      "teaser": "There is a piece of land on Earth that every neighboring country is desperately trying NOT to own.",
+      "video_title": "The Land Nobody on Earth Wants to Own",
+      "video_description": "Bir Tawil is a 2,060 square kilometer territory between Egypt and Sudan that both countries actively refuse to claim. The bizarre reason comes down to a border dispute where owning Bir Tawil means giving up a much larger, more valuable region nearby.",
+      "tags": [
+        "birtawil",
+        "unclaimeyland",
+        "bordersdispute",
+        "geography",
+        "egypt",
+        "sudan",
+        "territorydispute",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "There is a piece of land the size of a small country that literally no government on Earth wants to own. Bir Tawil sits between Egypt and Sudan — 2,060 square kilometers of territory both nations are legally refusing to claim. Why? Because whichever country claims it must give up rights to a far larger, fertile region nearby. So it sits there — ownerless, governmentless, the only land on Earth actively abandoned by its neighbors. Several private citizens have already tried to declare it their own kingdom.",
+      "visual_keywords": [
+        "desert barren land aerial",
+        "no man's land border",
+        "arid territory satellite",
+        "empty desert"
+      ]
+    },
+    {
+      "topic": "The Voynich Manuscript — Undeciphered Book",
+      "teaser": "The world's smartest codebreakers have spent over a century on one book — and still have no idea what it says.",
+      "video_title": "600 Years. 250 Pages. Nobody Can Read It.",
+      "video_description": "The Voynich Manuscript is a 600-year-old illustrated book written in an entirely unknown script that no linguist, cryptographer, or AI system has ever successfully decoded. Carbon-dated to the early 15th century, it contains detailed illustrations of unknown plants and astronomical diagrams alongside its mysterious text.",
+      "tags": [
+        "voynichmanuscript",
+        "undeciphered",
+        "ancientmystery",
+        "cryptography",
+        "medievalhistory",
+        "secretcode",
         "mystery",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Some people around the world hear a deep, throbbing hum — all day, every day — that no recording device has ever picked up. It sounds like a diesel engine idling just outside. In Taos, New Mexico, two percent of residents reported it so severely they couldn't sleep for years. Researchers deployed military-grade microphones. They captured nothing. Only certain people hear it, and no two explanations agree. So — is it inside their heads, or is science simply not listening hard enough?",
+      "script": "The world's top codebreakers — including World War II cryptographers and modern AI — have all failed to read the same book. The Voynich Manuscript is 250 pages of dense, flowing script written in a language or code that has never been cracked. Carbon-dated to the early 1400s, it's filled with drawings of plants that don't exist and star charts that match nothing we know. Some experts now believe it may be a perfectly constructed hoax. Others think it holds real knowledge we simply lost.",
       "visual_keywords": [
-        "sound wave visualization",
-        "person covering ears",
-        "empty desert night",
-        "microphone close up"
+        "voynich manuscript pages",
+        "ancient book mysterious script",
+        "medieval illustrated manuscript",
+        "cryptography code"
       ]
     },
     {
-      "topic": "The Demon Core — Physicist Killed by His Own Experiment Twice",
-      "teaser": "The same chunk of plutonium killed two different scientists — in two completely separate accidents.",
-      "video_title": "One Piece of Plutonium Killed Two Physicists",
-      "video_description": "A single sphere of plutonium at Los Alamos killed physicist Harry Daghlian in 1945 and Louis Slotin in 1946 in near-identical accidents. The core was retired after the second death and later used in a nuclear test. It became known simply as 'the Demon Core.'",
+      "topic": "Identical Twins Have Different Fingerprints",
+      "teaser": "Two people can share 100% of their DNA — yet still have something the universe will never duplicate for either of them.",
+      "video_title": "Twins Share Every Gene — But Not This",
+      "video_description": "Identical twins share the exact same DNA sequence, yet their fingerprints are always different. The pattern forms not from genetics but from the random physical pressure, position, and amniotic fluid turbulence each fetus experiences in the womb — making every print a one-time accident of physics.",
       "tags": [
-        "demoncore",
-        "nuclearhistory",
-        "losalamos",
-        "plutonium",
-        "manhatanproject",
-        "physics",
-        "history",
+        "identicaltwins",
+        "fingerprints",
+        "dna",
+        "genetics",
+        "humanbody",
+        "biology",
+        "bodyfacts",
         "shorts",
         "viral",
-        "facts"
+        "didyouknow"
       ],
-      "script": "In 1945, a physicist accidentally dropped a brick onto a plutonium sphere and was dead within a month — from radiation. Nine months later, a different physicist was running the exact same experiment with that exact same core. His screwdriver slipped. Blue light flashed. He was dead in nine days. Two men, one lump of metal, two identical fatal accidents. The military finally retired it — calling it the Demon Core. Some objects, it seems, have a pattern.",
+      "script": "Two people can share every single strand of DNA and still have fingerprints that look nothing alike. Identical twins are genetically perfect copies — same genes, same blueprint — but fingerprints aren't built by genes. They form from random turbulence in the womb: fluid pressure, the exact position of each fetus, tiny friction forces against the uterine wall during weeks six through thirteen. It's pure physics, never repeating. So your fingerprint isn't really about biology — it's a frozen accident of movement that happened before you were born.",
       "visual_keywords": [
-        "plutonium sphere",
-        "nuclear laboratory vintage",
-        "radiation warning",
-        "Los Alamos historical"
+        "fingerprint close up",
+        "identical twins",
+        "womb fetus development",
+        "dna helix biology"
       ]
     },
     {
-      "topic": "Linguistic Relativity — Languages With No Word for Time",
-      "teaser": "There's a tribe whose language has no word for time — and their brains literally process the world differently because of it.",
-      "video_title": "This Language Has No Word for Time — And It Changes Everything",
-      "video_description": "The Aymara people of the Andes conceptualize the past as being in front of them and the future behind — the opposite of almost every other culture. Some Amazonian languages have no tense at all. Research shows these speakers don't just talk differently — they think and remember differently too.",
+      "topic": "The Darkness That Has a Smell — Petrichor",
+      "teaser": "That smell after it rains? Scientists know exactly what it is — and the answer is far stranger than you'd expect.",
+      "video_title": "That Smell After Rain Has a Shocking Origin",
+      "video_description": "Petrichor, the distinctive earthy scent after rainfall, is produced by a chemical called geosmin released by soil bacteria when raindrops strike the ground. Humans can detect geosmin at concentrations as low as 5 parts per trillion — a sensitivity 200,000 times sharper than sharks' ability to detect blood.",
       "tags": [
-        "linguisticrelativity",
-        "language",
-        "aymara",
-        "cognition",
-        "sapirwhorf",
-        "anthropology",
-        "mind",
+        "petrichor",
+        "geosmin",
+        "rainssmell",
+        "humansenses",
+        "chemistry",
+        "sciencefacts",
+        "smell",
         "shorts",
         "viral",
-        "facts"
+        "didyouknow"
       ],
-      "script": "There's a language in the Amazon with no past or future tense — only now. The Aymara people of the Andes point forward when talking about the past, and backward when talking about the future, the complete opposite of how you think. Brain scans confirm it's not just speech — their memory and time perception are structurally different. Language doesn't just describe your reality. According to the data, it builds it. What does that mean for what you think you know?",
+      "script": "That smell after rain hits dry earth isn't rain at all — it's bacteria screaming. Soil microbes called Streptomyces release a chemical named geosmin the moment a raindrop strikes the ground. Humans can detect it at just 5 parts per trillion — a sensitivity 200,000 times sharper than a shark detecting blood. Scientists believe we evolved this ability because ancient humans desperately needed to find water sources to survive. So when that smell triggers something deep in you — that's millions of years of survival instinct firing at once.",
       "visual_keywords": [
-        "Amazon tribe indigenous",
-        "Andes mountain village",
-        "brain scan neuroscience",
-        "language words abstract"
-      ]
-    },
-    {
-      "topic": "The Moscow Signal — CIA Discovered USSR Microwave-Beaming the US Embassy for 25 Years",
-      "teaser": "The Soviet Union silently beamed microwaves at the US Embassy in Moscow for 25 years — and the CIA kept it secret from the diplomats inside.",
-      "video_title": "The USSR Microwaved the US Embassy — For 25 Years",
-      "video_description": "From the early 1950s until 1979, the Soviet Union directed a low-level microwave beam at the US Embassy in Moscow. The CIA discovered it but classified the information, leaving embassy staff unaware. A later study found elevated cancer rates among employees — the full truth is still disputed.",
-      "tags": [
-        "moscowsignal",
-        "coldwar",
-        "cia",
-        "soviets",
-        "microwaveweapon",
-        "espionage",
-        "history",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "Starting in 1953, the Soviet Union aimed a microwave beam directly at the US Embassy in Moscow. The CIA discovered it — and said nothing to the hundreds of people working inside for over two decades. When Ambassador Walter Stoessel finally found out in the 1970s, he was already ill. A classified study later showed embassy staff had significantly elevated cancer rates. The official explanation was 'jamming equipment.' The real reason has never been fully confirmed. What were they actually trying to do?",
-      "visual_keywords": [
-        "cold war embassy building",
-        "moscow red square vintage",
-        "microwave signal transmission",
-        "CIA declassified documents"
-      ]
-    },
-    {
-      "topic": "The Isles of Scilly War — 335-Year War With Zero Casualties",
-      "teaser": "There's a war that lasted 335 years — with zero battles, zero deaths, and was only ended because someone remembered to sign the peace treaty.",
-      "video_title": "The 335-Year War Where Nobody Died — Not Once",
-      "video_description": "The Netherlands and the Isles of Scilly were technically at war from 1651 to 1986 — 335 years — with no fighting whatsoever. The conflict began during the English Civil War and simply was never formally ended. A Dutch ambassador finally signed a peace treaty in 1986, reportedly joking it must have been a tough period for the Scillonians.",
-      "tags": [
-        "islesofscilly",
-        "netherlands",
-        "weirdhistory",
-        "longestwar",
-        "englishcivilwar",
-        "history",
-        "bizarre",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "In 1651, the Netherlands declared war on the Isles of Scilly — a tiny British archipelago. Then they forgot about it. No battles were fought. No one died. No treaty was ever signed. The war simply continued, silently, for 335 years. A Dutch historian discovered it in 1985 and wrote to the islands. An ambassador sailed over and signed a peace treaty in 1986. The Scillonian mayor joked the islanders could finally sleep soundly. The longest war in history — and not a single shot was fired.",
-      "visual_keywords": [
-        "Isles of Scilly aerial ocean",
-        "historic treaty signing",
-        "Dutch Netherlands flag vintage",
-        "remote British island"
+        "rain hitting dry ground slow motion",
+        "soil close up",
+        "raindrop earth",
+        "rain smell nature"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Hum — Mysterious Low Frequency Sound Heard Worldwide",
-    "teaser": "Thousands of people hear a sound that no recording device can ever capture — and it's slowly driving them mad.",
-    "video_title": "A Sound Only Some People Can Hear — And It Never Stops",
-    "video_description": "The Hum — Mysterious Low Frequency Sound Heard Worldwide\n\n#thehum #mysterioussound #unexplained #acoustics #humanperception",
-    "tags": [
-      "thehum",
-      "mysterioussound",
-      "unexplained",
-      "acoustics",
-      "humanperception",
-      "science",
-      "mystery",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "Some people around the world hear a deep, throbbing hum — all day, every day — that no recording device has ever picked up. It sounds like a diesel engine idling just outside. In Taos, New Mexico, two percent of residents reported it so severely they couldn't sleep for years. Researchers deployed military-grade microphones. They captured nothing. Only certain people hear it, and no two explanations agree. So — is it inside their heads, or is science simply not listening hard enough?",
-    "visual_keywords": [
-      "sound wave visualization",
-      "person covering ears",
-      "empty desert night",
-      "microphone close up"
-    ]
-  },
-  "hashtag_options": [
-    "thehum",
-    "mysterioussound",
-    "unexplained",
-    "acoustics",
-    "humanperception",
-    "science",
-    "mystery",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 348,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-10-11T14:00:00.909098+00:00"
+  ]
 }
