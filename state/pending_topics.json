@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-13",
   "message_id": 351,
   "created_at": "2026-10-13T18:16:12.182509+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "The Man Who Never Slept — Fatal Familial Insomnia",
@@ -130,5 +130,45 @@
         "rain smell nature"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "The Man Who Never Slept — Fatal Familial Insomnia",
+    "teaser": "A disease exists that forces you to stay awake until you die — and there is no cure.",
+    "video_title": "The Disease That Literally Won't Let You Sleep",
+    "video_description": "Fatal Familial Insomnia is a prion disease that strips the brain of the ability to sleep, leading to hallucinations, organ failure, and death within months. Only around 100 families worldwide carry the gene. There is no treatment.",
+    "tags": [
+      "fatalfamilialinsomnia",
+      "sleepdisorder",
+      "priondisease",
+      "braindisease",
+      "insomnia",
+      "raredisease",
+      "neuroscience",
+      "shorts",
+      "viral",
+      "facts"
+    ],
+    "script": "There is a disease that makes it physically impossible to sleep — and once it starts, you will be dead within a year. Fatal Familial Insomnia attacks a specific region of the brain, destroying the ability to enter any sleep state. Victims hallucinate, lose motor control, then slip into a coma — all while technically conscious. Only around 100 families on Earth carry the gene. No drug stops it. No doctor has ever saved a patient. Would you want to know if you carried it?",
+    "visual_keywords": [
+      "insomnia person awake night",
+      "brain scan neurology",
+      "hospital dark room",
+      "sleep disorder"
+    ]
+  },
+  "hashtag_options": [
+    "fatalfamilialinsomnia",
+    "sleepdisorder",
+    "priondisease",
+    "braindisease",
+    "insomnia",
+    "raredisease",
+    "neuroscience",
+    "shorts",
+    "viral",
+    "facts"
+  ],
+  "hashtag_message_id": 352,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-14T17:05:07.203352+00:00"
 }
