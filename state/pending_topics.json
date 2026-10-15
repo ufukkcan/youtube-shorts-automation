@@ -1,9 +1,9 @@
 {
   "batch_id": "20261015-1850",
   "trigger_date": "2026-10-15",
-  "message_id": 357,
+  "message_id": 360,
   "created_at": "2026-10-15T18:50:46.834088+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Dyatlov Pass Incident",
@@ -135,7 +135,7 @@
     "topic": "The Dyatlov Pass Incident",
     "teaser": "Nine experienced hikers vanished on a mountain — and when rescuers found them, the evidence made absolutely no sense.",
     "video_title": "9 Hikers Died — The Evidence Made No Sense",
-    "video_description": "In 1959, nine skilled Soviet hikers were found dead on a Ural mountain under impossible circumstances. Their tent was cut open from the inside, they fled barefoot into minus-30°C cold, and one body was missing its tongue. The case was classified for decades.",
+    "video_description": "The Dyatlov Pass Incident\n\n#dyatlovpass #unsolved #coldwar #truecrime #viral",
     "tags": [
       "dyatlovpass",
       "dyatlovpassincident",
@@ -169,6 +169,15 @@
     "facts"
   ],
   "hashtag_message_id": 358,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-15T18:53:13.920906+00:00"
+  "selected_hashtags": [
+    0,
+    2,
+    4,
+    6,
+    8
+  ],
+  "hashtag_started_at": "2026-10-15T18:53:13.920906+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBaGrRIw8Pxt1FEdrg4ivgIQABh9xj9AAC-hwAAlpakVJZFmmZZevIqT0E",
+  "review_started_at": "2026-10-15T19:01:36.078835+00:00",
+  "attempts": 1
 }
