@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-13",
   "message_id": 351,
   "created_at": "2026-10-13T18:16:12.182509+00:00",
-  "status": "selecting_hashtags",
+  "status": "error",
   "candidates": [
     {
       "topic": "The Man Who Never Slept — Fatal Familial Insomnia",
@@ -135,7 +135,7 @@
     "topic": "The Man Who Never Slept — Fatal Familial Insomnia",
     "teaser": "A disease exists that forces you to stay awake until you die — and there is no cure.",
     "video_title": "The Disease That Literally Won't Let You Sleep",
-    "video_description": "Fatal Familial Insomnia is a prion disease that strips the brain of the ability to sleep, leading to hallucinations, organ failure, and death within months. Only around 100 families worldwide carry the gene. There is no treatment.",
+    "video_description": "The Man Who Never Slept — Fatal Familial Insomnia\n\n#fatalfamilialinsomnia #sleepdisorder #priondisease #braindisease #insomnia",
     "tags": [
       "fatalfamilialinsomnia",
       "sleepdisorder",
@@ -169,6 +169,12 @@
     "facts"
   ],
   "hashtag_message_id": 352,
-  "selected_hashtags": [],
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
   "hashtag_started_at": "2026-10-14T17:05:07.203352+00:00"
 }
