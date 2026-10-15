@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-15",
   "message_id": 357,
   "created_at": "2026-10-15T18:50:46.834088+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "The Dyatlov Pass Incident",
@@ -130,5 +130,45 @@
         "Florence Italy cathedral"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "The Dyatlov Pass Incident",
+    "teaser": "Nine experienced hikers vanished on a mountain — and when rescuers found them, the evidence made absolutely no sense.",
+    "video_title": "9 Hikers Died — The Evidence Made No Sense",
+    "video_description": "In 1959, nine skilled Soviet hikers were found dead on a Ural mountain under impossible circumstances. Their tent was cut open from the inside, they fled barefoot into minus-30°C cold, and one body was missing its tongue. The case was classified for decades.",
+    "tags": [
+      "dyatlovpass",
+      "dyatlovpassincident",
+      "unsolved",
+      "mystery",
+      "coldwar",
+      "soviethistory",
+      "truecrime",
+      "shorts",
+      "viral",
+      "facts"
+    ],
+    "script": "Nine experienced hikers cut their tent open from the inside and ran barefoot into minus-30 degree cold — and nobody knows why. It was 1959, in the Soviet Ural Mountains. Rescuers found the bodies scattered across the snow. One woman was missing her tongue. Two victims had chest fractures so severe it looked like they'd been hit by a car — yet there were no external wounds. The Soviet government classified the files for 30 years. What do you think actually happened up there?",
+    "visual_keywords": [
+      "snowy mountain night",
+      "abandoned tent snow",
+      "Ural mountains winter",
+      "search rescue snow"
+    ]
+  },
+  "hashtag_options": [
+    "dyatlovpass",
+    "dyatlovpassincident",
+    "unsolved",
+    "mystery",
+    "coldwar",
+    "soviethistory",
+    "truecrime",
+    "shorts",
+    "viral",
+    "facts"
+  ],
+  "hashtag_message_id": 358,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-15T18:53:13.920906+00:00"
 }
