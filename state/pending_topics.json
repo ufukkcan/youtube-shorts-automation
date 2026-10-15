@@ -1,180 +1,134 @@
 {
-  "batch_id": "20261013-1816",
-  "trigger_date": "2026-10-13",
-  "message_id": 351,
-  "created_at": "2026-10-13T18:16:12.182509+00:00",
-  "status": "error",
+  "batch_id": "20261015-1850",
+  "trigger_date": "2026-10-15",
+  "message_id": 357,
+  "created_at": "2026-10-15T18:50:46.834088+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Man Who Never Slept — Fatal Familial Insomnia",
-      "teaser": "A disease exists that forces you to stay awake until you die — and there is no cure.",
-      "video_title": "The Disease That Literally Won't Let You Sleep",
-      "video_description": "Fatal Familial Insomnia is a prion disease that strips the brain of the ability to sleep, leading to hallucinations, organ failure, and death within months. Only around 100 families worldwide carry the gene. There is no treatment.",
+      "topic": "The Dyatlov Pass Incident",
+      "teaser": "Nine experienced hikers vanished on a mountain — and when rescuers found them, the evidence made absolutely no sense.",
+      "video_title": "9 Hikers Died — The Evidence Made No Sense",
+      "video_description": "In 1959, nine skilled Soviet hikers were found dead on a Ural mountain under impossible circumstances. Their tent was cut open from the inside, they fled barefoot into minus-30°C cold, and one body was missing its tongue. The case was classified for decades.",
       "tags": [
-        "fatalfamilialinsomnia",
-        "sleepdisorder",
-        "priondisease",
-        "braindisease",
-        "insomnia",
-        "raredisease",
-        "neuroscience",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "There is a disease that makes it physically impossible to sleep — and once it starts, you will be dead within a year. Fatal Familial Insomnia attacks a specific region of the brain, destroying the ability to enter any sleep state. Victims hallucinate, lose motor control, then slip into a coma — all while technically conscious. Only around 100 families on Earth carry the gene. No drug stops it. No doctor has ever saved a patient. Would you want to know if you carried it?",
-      "visual_keywords": [
-        "insomnia person awake night",
-        "brain scan neurology",
-        "hospital dark room",
-        "sleep disorder"
-      ]
-    },
-    {
-      "topic": "The Island That Belongs to No Country — Bir Tawil",
-      "teaser": "There is a piece of land on Earth that every neighboring country is desperately trying NOT to own.",
-      "video_title": "The Land Nobody on Earth Wants to Own",
-      "video_description": "Bir Tawil is a 2,060 square kilometer territory between Egypt and Sudan that both countries actively refuse to claim. The bizarre reason comes down to a border dispute where owning Bir Tawil means giving up a much larger, more valuable region nearby.",
-      "tags": [
-        "birtawil",
-        "unclaimeyland",
-        "bordersdispute",
-        "geography",
-        "egypt",
-        "sudan",
-        "territorydispute",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "There is a piece of land the size of a small country that literally no government on Earth wants to own. Bir Tawil sits between Egypt and Sudan — 2,060 square kilometers of territory both nations are legally refusing to claim. Why? Because whichever country claims it must give up rights to a far larger, fertile region nearby. So it sits there — ownerless, governmentless, the only land on Earth actively abandoned by its neighbors. Several private citizens have already tried to declare it their own kingdom.",
-      "visual_keywords": [
-        "desert barren land aerial",
-        "no man's land border",
-        "arid territory satellite",
-        "empty desert"
-      ]
-    },
-    {
-      "topic": "The Voynich Manuscript — Undeciphered Book",
-      "teaser": "The world's smartest codebreakers have spent over a century on one book — and still have no idea what it says.",
-      "video_title": "600 Years. 250 Pages. Nobody Can Read It.",
-      "video_description": "The Voynich Manuscript is a 600-year-old illustrated book written in an entirely unknown script that no linguist, cryptographer, or AI system has ever successfully decoded. Carbon-dated to the early 15th century, it contains detailed illustrations of unknown plants and astronomical diagrams alongside its mysterious text.",
-      "tags": [
-        "voynichmanuscript",
-        "undeciphered",
-        "ancientmystery",
-        "cryptography",
-        "medievalhistory",
-        "secretcode",
+        "dyatlovpass",
+        "dyatlovpassincident",
+        "unsolved",
         "mystery",
+        "coldwar",
+        "soviethistory",
+        "truecrime",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "The world's top codebreakers — including World War II cryptographers and modern AI — have all failed to read the same book. The Voynich Manuscript is 250 pages of dense, flowing script written in a language or code that has never been cracked. Carbon-dated to the early 1400s, it's filled with drawings of plants that don't exist and star charts that match nothing we know. Some experts now believe it may be a perfectly constructed hoax. Others think it holds real knowledge we simply lost.",
+      "script": "Nine experienced hikers cut their tent open from the inside and ran barefoot into minus-30 degree cold — and nobody knows why. It was 1959, in the Soviet Ural Mountains. Rescuers found the bodies scattered across the snow. One woman was missing her tongue. Two victims had chest fractures so severe it looked like they'd been hit by a car — yet there were no external wounds. The Soviet government classified the files for 30 years. What do you think actually happened up there?",
       "visual_keywords": [
-        "voynich manuscript pages",
-        "ancient book mysterious script",
-        "medieval illustrated manuscript",
-        "cryptography code"
+        "snowy mountain night",
+        "abandoned tent snow",
+        "Ural mountains winter",
+        "search rescue snow"
       ]
     },
     {
-      "topic": "Identical Twins Have Different Fingerprints",
-      "teaser": "Two people can share 100% of their DNA — yet still have something the universe will never duplicate for either of them.",
-      "video_title": "Twins Share Every Gene — But Not This",
-      "video_description": "Identical twins share the exact same DNA sequence, yet their fingerprints are always different. The pattern forms not from genetics but from the random physical pressure, position, and amniotic fluid turbulence each fetus experiences in the womb — making every print a one-time accident of physics.",
+      "topic": "The Saiga Antelope Mass Die-Off",
+      "teaser": "In just three days, an entire species lost half its global population — and science had no explanation for two years.",
+      "video_title": "Half a Species Died in 3 Days — Nobody Knew Why",
+      "video_description": "In May 2015, over 200,000 saiga antelopes collapsed and died across Kazakhstan in less than 72 hours. The die-off wiped out 60% of the entire world population of the species. For two years, scientists were completely baffled by the cause.",
       "tags": [
-        "identicaltwins",
-        "fingerprints",
-        "dna",
-        "genetics",
-        "humanbody",
-        "biology",
-        "bodyfacts",
+        "saiga",
+        "massdieoff",
+        "wildlife",
+        "extinction",
+        "kazakhstan",
+        "animalmystery",
+        "nature",
         "shorts",
         "viral",
-        "didyouknow"
+        "facts"
       ],
-      "script": "Two people can share every single strand of DNA and still have fingerprints that look nothing alike. Identical twins are genetically perfect copies — same genes, same blueprint — but fingerprints aren't built by genes. They form from random turbulence in the womb: fluid pressure, the exact position of each fetus, tiny friction forces against the uterine wall during weeks six through thirteen. It's pure physics, never repeating. So your fingerprint isn't really about biology — it's a frozen accident of movement that happened before you were born.",
+      "script": "In May 2015, over 200,000 antelopes dropped dead across Kazakhstan in less than 72 hours. Not some of them — 60% of the entire species on Earth, gone in three days. Mothers, calves, entire herds. No predator, no poison, no obvious disease. Scientists stood in fields of carcasses with no answers. Two years later they finally identified the cause — a bacteria the animals had harmlessly carried for centuries, suddenly turned lethal. The trigger? A two-degree shift in temperature and humidity. Climate changed the math, and a species nearly vanished.",
       "visual_keywords": [
-        "fingerprint close up",
-        "identical twins",
-        "womb fetus development",
-        "dna helix biology"
+        "saiga antelope herd",
+        "Kazakhstan steppe",
+        "dead animals field",
+        "wildlife conservation"
       ]
     },
     {
-      "topic": "The Darkness That Has a Smell — Petrichor",
-      "teaser": "That smell after it rains? Scientists know exactly what it is — and the answer is far stranger than you'd expect.",
-      "video_title": "That Smell After Rain Has a Shocking Origin",
-      "video_description": "Petrichor, the distinctive earthy scent after rainfall, is produced by a chemical called geosmin released by soil bacteria when raindrops strike the ground. Humans can detect geosmin at concentrations as low as 5 parts per trillion — a sensitivity 200,000 times sharper than sharks' ability to detect blood.",
+      "topic": "The Stockholm Syndrome Origin — Norrmalmstorg Robbery",
+      "teaser": "Hostages held at gunpoint for six days did something so bizarre that psychiatrists had to invent a brand new condition to describe it.",
+      "video_title": "Hostages Defended Their Captor — Psychiatry Changed Forever",
+      "video_description": "In 1973, four bank employees were held hostage in a Stockholm vault for six days. By the end, they feared the police more than the robber holding them captive — and one hostage later got engaged to him. The condition now affects millions of abuse victims worldwide.",
       "tags": [
-        "petrichor",
-        "geosmin",
-        "rainssmell",
-        "humansenses",
-        "chemistry",
+        "stockholmsyndrome",
+        "stockholm",
+        "hostage",
+        "psychology",
+        "criminalpsychology",
+        "truecrime",
+        "mindfacts",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "Four hostages spent six days locked in a bank vault with a convicted criminal — and by day three, they were protecting him from police. It was Stockholm, 1973. The robber, Jan-Erik Olsson, demanded a getaway car and his prison friend. Instead he got a six-day standoff. The hostages started lying to negotiators. One woman later got engaged to him. A psychiatrist watching the case had to create an entirely new diagnosis just to explain what he was witnessing. That condition now has a name — and it affects millions of abuse victims alive today.",
+      "visual_keywords": [
+        "bank vault interior",
+        "police negotiation",
+        "Stockholm city",
+        "psychology therapy"
+      ]
+    },
+    {
+      "topic": "The Grandfather Paradox — Time Travel Physics",
+      "teaser": "Physicists don't actually say time travel is impossible — they say something far stranger instead.",
+      "video_title": "Physicists Don't Say Time Travel Is Impossible",
+      "video_description": "The grandfather paradox has stumped philosophers for decades, but quantum physicists have a deeply unsettling solution: you can go back in time, but the universe will subtly rearrange events to prevent any paradox from occurring. Free will may not survive the equation.",
+      "tags": [
+        "timetravel",
+        "grandfatherparadox",
+        "quantumphysics",
+        "physics",
+        "spacetime",
         "sciencefacts",
-        "smell",
+        "universe",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "Physicists don't say time travel is impossible — they say the universe would cheat to stop you from breaking it. Go back and try to prevent your own birth, and according to quantum models, reality would subtly rearrange every event just enough to make sure you fail. Not by force — by probability. Every path that creates a paradox quietly becomes the least likely outcome. The universe isn't blocking you. It's just making sure you never quite succeed. Whether that means free will is an illusion is a question nobody has answered yet.",
+      "visual_keywords": [
+        "time vortex abstract",
+        "clock melting surreal",
+        "quantum physics visualization",
+        "spacetime curve"
+      ]
+    },
+    {
+      "topic": "The Stendhal Syndrome — Art-Induced Physical Collapse",
+      "teaser": "Hundreds of tourists visit Florence's hospitals every year — not from illness, but from looking at paintings.",
+      "video_title": "Some Paintings Are So Beautiful They Send People to Hospital",
+      "video_description": "Stendhal Syndrome is a documented psychosomatic condition where exposure to highly concentrated art causes dizziness, rapid heartbeat, hallucinations, and fainting. Florence, Italy reports dozens of cases annually, mostly at the Uffizi Gallery. The French author Stendhal first described it in 1817 after nearly collapsing in a church.",
+      "tags": [
+        "stendhalsyndrome",
+        "florence",
+        "uffizi",
+        "arthistory",
+        "psychology",
+        "italy",
+        "mindfacts",
         "shorts",
         "viral",
         "didyouknow"
       ],
-      "script": "That smell after rain hits dry earth isn't rain at all — it's bacteria screaming. Soil microbes called Streptomyces release a chemical named geosmin the moment a raindrop strikes the ground. Humans can detect it at just 5 parts per trillion — a sensitivity 200,000 times sharper than a shark detecting blood. Scientists believe we evolved this ability because ancient humans desperately needed to find water sources to survive. So when that smell triggers something deep in you — that's millions of years of survival instinct firing at once.",
+      "script": "Tourists in Florence, Italy are regularly rushed to hospital after staring at paintings — and it's a medically documented condition. It's called Stendhal Syndrome. The Uffizi Gallery sees dozens of cases every year: rapid heartbeat, dizziness, hallucinations, fainting — all triggered by art. The French author Stendhal described it first in 1817 after nearly collapsing inside a church in Florence. Doctors believe extreme beauty overwhelms the nervous system. The city has a dedicated protocol for it. Is that a flaw in human perception — or proof that art is more powerful than we admit?",
       "visual_keywords": [
-        "rain hitting dry ground slow motion",
-        "soil close up",
-        "raindrop earth",
-        "rain smell nature"
+        "Uffizi gallery Florence",
+        "Renaissance painting museum",
+        "tourist art museum",
+        "Florence Italy cathedral"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Man Who Never Slept — Fatal Familial Insomnia",
-    "teaser": "A disease exists that forces you to stay awake until you die — and there is no cure.",
-    "video_title": "The Disease That Literally Won't Let You Sleep",
-    "video_description": "The Man Who Never Slept — Fatal Familial Insomnia\n\n#fatalfamilialinsomnia #sleepdisorder #priondisease #braindisease #insomnia",
-    "tags": [
-      "fatalfamilialinsomnia",
-      "sleepdisorder",
-      "priondisease",
-      "braindisease",
-      "insomnia",
-      "raredisease",
-      "neuroscience",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "There is a disease that makes it physically impossible to sleep — and once it starts, you will be dead within a year. Fatal Familial Insomnia attacks a specific region of the brain, destroying the ability to enter any sleep state. Victims hallucinate, lose motor control, then slip into a coma — all while technically conscious. Only around 100 families on Earth carry the gene. No drug stops it. No doctor has ever saved a patient. Would you want to know if you carried it?",
-    "visual_keywords": [
-      "insomnia person awake night",
-      "brain scan neurology",
-      "hospital dark room",
-      "sleep disorder"
-    ]
-  },
-  "hashtag_options": [
-    "fatalfamilialinsomnia",
-    "sleepdisorder",
-    "priondisease",
-    "braindisease",
-    "insomnia",
-    "raredisease",
-    "neuroscience",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 352,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-10-14T17:05:07.203352+00:00"
+  ]
 }
