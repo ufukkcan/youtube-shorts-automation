@@ -1,183 +1,135 @@
 {
-  "batch_id": "20261015-1850",
-  "trigger_date": "2026-10-15",
-  "message_id": 360,
-  "created_at": "2026-10-15T18:50:46.834088+00:00",
-  "status": "done",
+  "batch_id": "20261016-1407",
+  "trigger_date": "2026-10-16",
+  "message_id": 362,
+  "created_at": "2026-10-16T14:07:33.257219+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Dyatlov Pass Incident",
-      "teaser": "Nine experienced hikers vanished on a mountain — and when rescuers found them, the evidence made absolutely no sense.",
-      "video_title": "9 Hikers Died — The Evidence Made No Sense",
-      "video_description": "In 1959, nine skilled Soviet hikers were found dead on a Ural mountain under impossible circumstances. Their tent was cut open from the inside, they fled barefoot into minus-30°C cold, and one body was missing its tongue. The case was classified for decades.",
+      "topic": "The Blue Hole of Dahab — Divers' Graveyard",
+      "teaser": "There's a hole in the Red Sea that has swallowed over 200 divers — and nobody fully understands why it keeps pulling them in.",
+      "video_title": "The Underwater Hole That Kills Expert Divers",
+      "video_description": "The Blue Hole in Dahab, Egypt is one of the most beautiful dive sites on Earth — and one of the deadliest. Over 200 divers have died here, many of them highly experienced. A hidden arch at 56 meters depth triggers nitrogen narcosis before divers even realize what's happening.",
       "tags": [
-        "dyatlovpass",
-        "dyatlovpassincident",
-        "unsolved",
-        "mystery",
-        "coldwar",
-        "soviethistory",
-        "truecrime",
+        "bluehole",
+        "dahab",
+        "scubadiving",
+        "oceanmystery",
+        "deepdiving",
+        "egypt",
+        "underwaterdeaths",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Nine experienced hikers cut their tent open from the inside and ran barefoot into minus-30 degree cold — and nobody knows why. It was 1959, in the Soviet Ural Mountains. Rescuers found the bodies scattered across the snow. One woman was missing her tongue. Two victims had chest fractures so severe it looked like they'd been hit by a car — yet there were no external wounds. The Soviet government classified the files for 30 years. What do you think actually happened up there?",
+      "script": "Over 200 divers have died in this one single spot — and most of them were experts. The Blue Hole in Dahab, Egypt looks stunning from above, a perfect circle of electric blue water. But at exactly 56 meters down, there's a hidden arch. Divers aim for it. Nitrogen narcosis hits like silent drunk — your brain stops working before you notice. Many never come back up. Locals call it the Diver's Cemetery. Would you still jump in?",
       "visual_keywords": [
-        "snowy mountain night",
-        "abandoned tent snow",
-        "Ural mountains winter",
-        "search rescue snow"
+        "blue hole dahab underwater",
+        "scuba diver deep ocean",
+        "red sea aerial view",
+        "underwater cave arch"
       ]
     },
     {
-      "topic": "The Saiga Antelope Mass Die-Off",
-      "teaser": "In just three days, an entire species lost half its global population — and science had no explanation for two years.",
-      "video_title": "Half a Species Died in 3 Days — Nobody Knew Why",
-      "video_description": "In May 2015, over 200,000 saiga antelopes collapsed and died across Kazakhstan in less than 72 hours. The die-off wiped out 60% of the entire world population of the species. For two years, scientists were completely baffled by the cause.",
+      "topic": "The Rubber Hand Illusion — Brain Ownership Hack",
+      "teaser": "Scientists tricked people into feeling pain in a rubber hand — and it reveals something unsettling about how your brain decides what is 'you.'",
+      "video_title": "Your Brain Can Be Fooled Into Owning a Fake Hand",
+      "video_description": "The Rubber Hand Illusion, first demonstrated in 1998, shows that the brain can adopt a fake limb as its own body within minutes. When the rubber hand is stabbed, participants physically flinch and their real hand's temperature drops. It reveals that body ownership is entirely constructed by the brain — not fixed reality.",
       "tags": [
-        "saiga",
-        "massdieoff",
-        "wildlife",
-        "extinction",
-        "kazakhstan",
-        "animalmystery",
-        "nature",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "In May 2015, over 200,000 antelopes dropped dead across Kazakhstan in less than 72 hours. Not some of them — 60% of the entire species on Earth, gone in three days. Mothers, calves, entire herds. No predator, no poison, no obvious disease. Scientists stood in fields of carcasses with no answers. Two years later they finally identified the cause — a bacteria the animals had harmlessly carried for centuries, suddenly turned lethal. The trigger? A two-degree shift in temperature and humidity. Climate changed the math, and a species nearly vanished.",
-      "visual_keywords": [
-        "saiga antelope herd",
-        "Kazakhstan steppe",
-        "dead animals field",
-        "wildlife conservation"
-      ]
-    },
-    {
-      "topic": "The Stockholm Syndrome Origin — Norrmalmstorg Robbery",
-      "teaser": "Hostages held at gunpoint for six days did something so bizarre that psychiatrists had to invent a brand new condition to describe it.",
-      "video_title": "Hostages Defended Their Captor — Psychiatry Changed Forever",
-      "video_description": "In 1973, four bank employees were held hostage in a Stockholm vault for six days. By the end, they feared the police more than the robber holding them captive — and one hostage later got engaged to him. The condition now affects millions of abuse victims worldwide.",
-      "tags": [
-        "stockholmsyndrome",
-        "stockholm",
-        "hostage",
+        "rubberhandillusion",
+        "neuroscience",
+        "brainfacts",
         "psychology",
-        "criminalpsychology",
-        "truecrime",
-        "mindfacts",
+        "bodyownership",
+        "humanbody",
+        "mindblown",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Four hostages spent six days locked in a bank vault with a convicted criminal — and by day three, they were protecting him from police. It was Stockholm, 1973. The robber, Jan-Erik Olsson, demanded a getaway car and his prison friend. Instead he got a six-day standoff. The hostages started lying to negotiators. One woman later got engaged to him. A psychiatrist watching the case had to create an entirely new diagnosis just to explain what he was witnessing. That condition now has a name — and it affects millions of abuse victims alive today.",
+      "script": "Scientists put a rubber hand on a table, hid your real hand, then stroked both at the same time — and within 90 seconds, your brain adopted the fake one as yours. When they stabbed the rubber hand with a needle, participants screamed and their real hand's skin temperature dropped by one full degree. Your brain doesn't know what your body is — it just guesses, using whatever senses agree. So what exactly are you living inside?",
       "visual_keywords": [
-        "bank vault interior",
-        "police negotiation",
-        "Stockholm city",
-        "psychology therapy"
+        "rubber hand illusion experiment",
+        "neuroscience brain scan",
+        "human hand close up",
+        "psychology laboratory"
       ]
     },
     {
-      "topic": "The Grandfather Paradox — Time Travel Physics",
-      "teaser": "Physicists don't actually say time travel is impossible — they say something far stranger instead.",
-      "video_title": "Physicists Don't Say Time Travel Is Impossible",
-      "video_description": "The grandfather paradox has stumped philosophers for decades, but quantum physicists have a deeply unsettling solution: you can go back in time, but the universe will subtly rearrange events to prevent any paradox from occurring. Free will may not survive the equation.",
+      "topic": "The Last Known Speaker — Language Death",
+      "teaser": "In 2022, the last person on Earth who could speak a 500-year-old language died — and with her, an entire way of thinking about the world vanished forever.",
+      "teaser_note": "",
+      "video_title": "A Language Died the Moment This Woman Did",
+      "video_description": "When Cristina Calderón died in February 2022, the Yaghan language — spoken in Tierra del Fuego for over 500 years — went completely silent. Linguists say losing a language isn't just losing words; it's losing unique concepts, metaphors, and ways of perceiving reality that no other language ever captured.",
       "tags": [
-        "timetravel",
-        "grandfatherparadox",
-        "quantumphysics",
-        "physics",
-        "spacetime",
-        "sciencefacts",
-        "universe",
+        "language",
+        "linguistics",
+        "yaghanlanguage",
+        "extinctlanguage",
+        "cristinacalderon",
+        "tierradelfuego",
+        "languagedeath",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Physicists don't say time travel is impossible — they say the universe would cheat to stop you from breaking it. Go back and try to prevent your own birth, and according to quantum models, reality would subtly rearrange every event just enough to make sure you fail. Not by force — by probability. Every path that creates a paradox quietly becomes the least likely outcome. The universe isn't blocking you. It's just making sure you never quite succeed. Whether that means free will is an illusion is a question nobody has answered yet.",
+      "script": "When Cristina Calderón died in 2022, an entire language died with her. Yaghan — spoken at the southern tip of South America for over 500 years — had exactly one native speaker left: her. Linguists had raced to record every word. But Yaghan contained concepts no other language has — feelings and observations about the world that now simply have no name. When the last speaker of a language dies, what else disappears?",
       "visual_keywords": [
-        "time vortex abstract",
-        "clock melting surreal",
-        "quantum physics visualization",
-        "spacetime curve"
+        "tierra del fuego landscape",
+        "elderly indigenous woman",
+        "ancient manuscript writing",
+        "remote patagonia wilderness"
       ]
     },
     {
-      "topic": "The Stendhal Syndrome — Art-Induced Physical Collapse",
-      "teaser": "Hundreds of tourists visit Florence's hospitals every year — not from illness, but from looking at paintings.",
-      "video_title": "Some Paintings Are So Beautiful They Send People to Hospital",
-      "video_description": "Stendhal Syndrome is a documented psychosomatic condition where exposure to highly concentrated art causes dizziness, rapid heartbeat, hallucinations, and fainting. Florence, Italy reports dozens of cases annually, mostly at the Uffizi Gallery. The French author Stendhal first described it in 1817 after nearly collapsing in a church.",
+      "topic": "Fasting Astronauts — Bone Loss in Space",
+      "teaser": "Astronauts returning from six months in space have bones that aged 10 years — and the damage starts happening on day one.",
+      "video_title": "Six Months in Space Ages Your Bones by a Decade",
+      "video_description": "In microgravity, the human skeleton begins losing density almost immediately because bones exist to resist gravity — and without it, the body treats them as unnecessary. After six months aboard the ISS, astronauts lose up to 2% of bone density per month, equivalent to a decade of aging. Some damage never fully reverses.",
       "tags": [
-        "stendhalsyndrome",
-        "florence",
-        "uffizi",
-        "arthistory",
-        "psychology",
-        "italy",
-        "mindfacts",
+        "astronaut",
+        "space",
+        "boneloss",
+        "microgravity",
+        "ISS",
+        "spacescience",
+        "humanbody",
         "shorts",
         "viral",
-        "didyouknow"
+        "facts"
       ],
-      "script": "Tourists in Florence, Italy are regularly rushed to hospital after staring at paintings — and it's a medically documented condition. It's called Stendhal Syndrome. The Uffizi Gallery sees dozens of cases every year: rapid heartbeat, dizziness, hallucinations, fainting — all triggered by art. The French author Stendhal described it first in 1817 after nearly collapsing inside a church in Florence. Doctors believe extreme beauty overwhelms the nervous system. The city has a dedicated protocol for it. Is that a flaw in human perception — or proof that art is more powerful than we admit?",
+      "script": "The moment an astronaut reaches orbit, their skeleton starts dissolving. Without gravity pushing against your bones, your body decides they're no longer necessary. After just six months on the International Space Station, astronauts lose up to 12% of their total bone density — equivalent to aging ten years in one mission. Some never fully recover even after years back on Earth. The human body was never designed to leave this planet.",
       "visual_keywords": [
-        "Uffizi gallery Florence",
-        "Renaissance painting museum",
-        "tourist art museum",
-        "Florence Italy cathedral"
+        "astronaut floating ISS",
+        "bone density xray",
+        "space station interior",
+        "skeleton medical scan"
+      ]
+    },
+    {
+      "topic": "The Voomerang Boomerang Effect — Stars Eating Their Own Planets",
+      "teaser": "Astronomers just found a star that ate its own planets — and our Sun is scheduled to do the exact same thing to Earth.",
+      "video_title": "Our Sun Will Swallow Earth — We Found Proof",
+      "video_description": "In 2023, astronomers at MIT observed a star in real time consuming one of its own planets — the first direct observation of planetary engulfment ever recorded. The star, located 12,000 light-years away, brightened by a factor of 100 over ten days as it absorbed the planet. Our Sun is predicted to do the same to Mercury, Venus, and Earth in approximately 5 billion years.",
+      "tags": [
+        "sun",
+        "earth",
+        "astronomy",
+        "planetengulfment",
+        "stardeath",
+        "space",
+        "solarsystem",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "In 2023, MIT astronomers watched a star eat a planet alive for the very first time in human history. The star, 12,000 light-years away, suddenly became 100 times brighter over ten days as it swallowed a world roughly the size of Jupiter. This wasn't a theory anymore — it was recorded, confirmed, published. And our own Sun is predicted to do the exact same thing to Earth in 5 billion years. The question is: will anything still be living here when it starts?",
+      "visual_keywords": [
+        "star swallowing planet space art",
+        "solar flare sun close up",
+        "MIT observatory telescope",
+        "earth from space"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Dyatlov Pass Incident",
-    "teaser": "Nine experienced hikers vanished on a mountain — and when rescuers found them, the evidence made absolutely no sense.",
-    "video_title": "9 Hikers Died — The Evidence Made No Sense",
-    "video_description": "The Dyatlov Pass Incident\n\n#dyatlovpass #unsolved #coldwar #truecrime #viral",
-    "tags": [
-      "dyatlovpass",
-      "dyatlovpassincident",
-      "unsolved",
-      "mystery",
-      "coldwar",
-      "soviethistory",
-      "truecrime",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "Nine experienced hikers cut their tent open from the inside and ran barefoot into minus-30 degree cold — and nobody knows why. It was 1959, in the Soviet Ural Mountains. Rescuers found the bodies scattered across the snow. One woman was missing her tongue. Two victims had chest fractures so severe it looked like they'd been hit by a car — yet there were no external wounds. The Soviet government classified the files for 30 years. What do you think actually happened up there?",
-    "visual_keywords": [
-      "snowy mountain night",
-      "abandoned tent snow",
-      "Ural mountains winter",
-      "search rescue snow"
-    ]
-  },
-  "hashtag_options": [
-    "dyatlovpass",
-    "dyatlovpassincident",
-    "unsolved",
-    "mystery",
-    "coldwar",
-    "soviethistory",
-    "truecrime",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 358,
-  "selected_hashtags": [
-    0,
-    2,
-    4,
-    6,
-    8
-  ],
-  "hashtag_started_at": "2026-10-15T18:53:13.920906+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBaGrRIw8Pxt1FEdrg4ivgIQABh9xj9AAC-hwAAlpakVJZFmmZZevIqT0E",
-  "review_started_at": "2026-10-15T19:01:36.078835+00:00",
-  "attempts": 1
+  ]
 }
