@@ -1,184 +1,139 @@
 {
-  "batch_id": "20261016-1407",
-  "trigger_date": "2026-10-16",
-  "message_id": 365,
-  "created_at": "2026-10-16T14:07:33.257219+00:00",
-  "status": "done",
+  "batch_id": "20261018-1633",
+  "trigger_date": "2026-10-18",
+  "message_id": 367,
+  "created_at": "2026-10-18T16:33:06.668223+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Blue Hole of Dahab — Divers' Graveyard",
-      "teaser": "There's a hole in the Red Sea that has swallowed over 200 divers — and nobody fully understands why it keeps pulling them in.",
-      "video_title": "The Underwater Hole That Kills Expert Divers",
-      "video_description": "The Blue Hole in Dahab, Egypt is one of the most beautiful dive sites on Earth — and one of the deadliest. Over 200 divers have died here, many of them highly experienced. A hidden arch at 56 meters depth triggers nitrogen narcosis before divers even realize what's happening.",
+      "topic": "The Radioactive Boy Scout — Teen Who Built a Nuclear Reactor in His Shed",
+      "teaser": "A 17-year-old actually built a working nuclear reactor in his backyard — and nobody noticed for months.",
+      "video_title": "Teen Built a Nuclear Reactor in His Shed",
+      "video_description": "In 1994, David Hahn secretly assembled a neutron source in his Michigan shed using materials from household smoke detectors and camping lanterns. The EPA eventually declared his backyard a Superfund hazardous waste site. He was just 17.",
       "tags": [
-        "bluehole",
-        "dahab",
-        "scubadiving",
-        "oceanmystery",
-        "deepdiving",
-        "egypt",
-        "underwaterdeaths",
+        "radioactiveboy",
+        "nuclearreactor",
+        "davidhahn",
+        "nuclearscience",
+        "hazardouswaste",
+        "coldwar",
+        "science",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Over 200 divers have died in this one single spot — and most of them were experts. The Blue Hole in Dahab, Egypt looks stunning from above, a perfect circle of electric blue water. But at exactly 56 meters down, there's a hidden arch. Divers aim for it. Nitrogen narcosis hits like silent drunk — your brain stops working before you notice. Many never come back up. Locals call it the Diver's Cemetery. Would you still jump in?",
+      "script": "A 17-year-old built a nuclear reactor in his garden shed — and it actually worked. David Hahn dismantled thousands of smoke detectors to extract americium-241, then stripped camping lanterns for thorium. By 1994, his backyard in Michigan was emitting radiation 1,000 times above safe levels. The EPA declared it a Superfund hazardous waste site. He never got a science fair trophy. He got a full hazmat cleanup. Was he a genius, a criminal, or just a kid who went too far?",
       "visual_keywords": [
-        "blue hole dahab underwater",
-        "scuba diver deep ocean",
-        "red sea aerial view",
-        "underwater cave arch"
+        "nuclear reactor",
+        "radiation warning sign",
+        "hazmat suit",
+        "laboratory equipment",
+        "suburban house shed"
       ]
     },
     {
-      "topic": "The Rubber Hand Illusion — Brain Ownership Hack",
-      "teaser": "Scientists tricked people into feeling pain in a rubber hand — and it reveals something unsettling about how your brain decides what is 'you.'",
-      "video_title": "Your Brain Can Be Fooled Into Owning a Fake Hand",
-      "video_description": "The Rubber Hand Illusion, first demonstrated in 1998, shows that the brain can adopt a fake limb as its own body within minutes. When the rubber hand is stabbed, participants physically flinch and their real hand's temperature drops. It reveals that body ownership is entirely constructed by the brain — not fixed reality.",
+      "topic": "The Cotard Delusion — People Who Believe They Are Dead",
+      "teaser": "Some people are completely convinced they are dead — and no amount of evidence can change their mind.",
+      "video_title": "People Who Genuinely Believe They Are Dead",
+      "video_description": "Cotard's Delusion is a rare neurological condition where patients sincerely believe they no longer exist — some stop eating because they feel corpses don't need food. The brain's emotional and facial recognition circuits disconnect, making the world feel utterly unreal.",
       "tags": [
-        "rubberhandillusion",
+        "cotarddelusion",
+        "braindisorder",
         "neuroscience",
-        "brainfacts",
         "psychology",
-        "bodyownership",
-        "humanbody",
+        "rarecondition",
+        "mentalhealth",
         "mindblown",
         "shorts",
         "viral",
-        "facts"
+        "didyouknow"
       ],
-      "script": "Scientists put a rubber hand on a table, hid your real hand, then stroked both at the same time — and within 90 seconds, your brain adopted the fake one as yours. When they stabbed the rubber hand with a needle, participants screamed and their real hand's skin temperature dropped by one full degree. Your brain doesn't know what your body is — it just guesses, using whatever senses agree. So what exactly are you living inside?",
+      "script": "Some people wake up one day completely convinced they are dead — and no doctor can talk them out of it. Cotard's Delusion is a real neurological condition where the brain's emotional recognition circuits disconnect from reality. Patients refuse to eat because, they argue, corpses don't need food. One man in 1880 insisted he had lost all his organs and his soul. Scans show their brains literally resemble those of people under anesthesia. So — if your brain stopped confirming you exist, would you believe anyone who said you do?",
       "visual_keywords": [
-        "rubber hand illusion experiment",
-        "neuroscience brain scan",
-        "human hand close up",
-        "psychology laboratory"
+        "human brain scan",
+        "neurology hospital",
+        "empty mirror reflection",
+        "dark corridor",
+        "doctor patient"
       ]
     },
     {
-      "topic": "The Last Known Speaker — Language Death",
-      "teaser": "In 2022, the last person on Earth who could speak a 500-year-old language died — and with her, an entire way of thinking about the world vanished forever.",
-      "teaser_note": "",
-      "video_title": "A Language Died the Moment This Woman Did",
-      "video_description": "When Cristina Calderón died in February 2022, the Yaghan language — spoken in Tierra del Fuego for over 500 years — went completely silent. Linguists say losing a language isn't just losing words; it's losing unique concepts, metaphors, and ways of perceiving reality that no other language ever captured.",
+      "topic": "The Feral Child of Aveyron — Boy Raised by the Wild",
+      "teaser": "A boy emerged from a French forest in 1800 who had never spoken a word — and what scientists found next shattered everything about human language.",
+      "video_title": "The Wild Boy Who Rewrote Human Language Science",
+      "video_description": "In 1800, a naked boy emerged from the forests of Aveyron, France. He had lived alone in the wild for years, walked on all fours, felt no cold, and could not speak. His case became the first scientific study of feral children and exposed a critical window in human brain development that closes forever in early childhood.",
       "tags": [
-        "language",
-        "linguistics",
-        "yaghanlanguage",
-        "extinctlanguage",
-        "cristinacalderon",
-        "tierradelfuego",
-        "languagedeath",
+        "feralchild",
+        "victorofaveyron",
+        "humandevelopment",
+        "languageacquisition",
+        "psychology",
+        "history",
+        "braindevelopment",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "When Cristina Calderón died in 2022, an entire language died with her. Yaghan — spoken at the southern tip of South America for over 500 years — had exactly one native speaker left: her. Linguists had raced to record every word. But Yaghan contained concepts no other language has — feelings and observations about the world that now simply have no name. When the last speaker of a language dies, what else disappears?",
+      "script": "A naked boy stumbled out of a French forest in 1800 and couldn't speak a single word — not one. Victor of Aveyron had spent years completely alone in the wild, feeling no cold, walking on all fours, eating raw food. Scientists rushed to teach him language. After years of intensive training, he learned almost nothing. Researchers realized there is a window in early childhood when the brain wires itself for language — and once it closes, it never reopens. Victor proved that being human isn't just biology. It has a deadline.",
       "visual_keywords": [
-        "tierra del fuego landscape",
-        "elderly indigenous woman",
-        "ancient manuscript writing",
-        "remote patagonia wilderness"
+        "dense forest",
+        "wild child running",
+        "18th century france",
+        "child psychology study",
+        "ancient woodland"
       ]
     },
     {
-      "topic": "Fasting Astronauts — Bone Loss in Space",
-      "teaser": "Astronauts returning from six months in space have bones that aged 10 years — and the damage starts happening on day one.",
-      "video_title": "Six Months in Space Ages Your Bones by a Decade",
-      "video_description": "In microgravity, the human skeleton begins losing density almost immediately because bones exist to resist gravity — and without it, the body treats them as unnecessary. After six months aboard the ISS, astronauts lose up to 2% of bone density per month, equivalent to a decade of aging. Some damage never fully reverses.",
+      "topic": "The Time a Pilot Flew Inside a Tornado and Survived",
+      "teaser": "One pilot accidentally flew his plane directly into a tornado — and what he saw inside defied everything meteorologists believed.",
+      "video_title": "A Pilot Flew Inside a Tornado and Lived",
+      "video_description": "In 1959, Marine pilot William Rankin ejected from his jet at 47,000 feet directly into a violent thunderstorm. He fell through the storm for 40 minutes instead of 13, pummeled by hail, lightning, and violent updrafts. He survived and gave scientists their first first-hand account of the inside of a severe storm.",
       "tags": [
-        "astronaut",
-        "space",
-        "boneloss",
-        "microgravity",
-        "ISS",
-        "spacescience",
-        "humanbody",
+        "tornado",
+        "pilotsurvival",
+        "extremeweather",
+        "thunderstorm",
+        "williamrankin",
+        "aviation",
+        "meteorology",
         "shorts",
         "viral",
-        "facts"
+        "trending"
       ],
-      "script": "The moment an astronaut reaches orbit, their skeleton starts dissolving. Without gravity pushing against your bones, your body decides they're no longer necessary. After just six months on the International Space Station, astronauts lose up to 12% of their total bone density — equivalent to aging ten years in one mission. Some never fully recover even after years back on Earth. The human body was never designed to leave this planet.",
+      "script": "A pilot ejected from his jet at 47,000 feet — directly into the heart of a violent thunderstorm. William Rankin's parachute should have delivered him to the ground in 13 minutes. Instead, violent updrafts kept hurling him back into the clouds for 40 minutes. Lightning struck within feet of him. Hail shredded his suit. He was nearly drowned in mid-air. He survived and gave meteorologists their first ever eyewitness account from inside a living storm. He described it as being trapped inside a white room that was trying to kill him.",
       "visual_keywords": [
-        "astronaut floating ISS",
-        "bone density xray",
-        "space station interior",
-        "skeleton medical scan"
+        "tornado funnel cloud",
+        "fighter jet cockpit",
+        "parachute storm",
+        "lightning strike sky",
+        "severe thunderstorm aerial"
       ]
     },
     {
-      "topic": "The Voomerang Boomerang Effect — Stars Eating Their Own Planets",
-      "teaser": "Astronomers just found a star that ate its own planets — and our Sun is scheduled to do the exact same thing to Earth.",
-      "video_title": "Our Sun Will Swallow Earth — We Found Proof",
-      "video_description": "In 2023, astronomers at MIT observed a star in real time consuming one of its own planets — the first direct observation of planetary engulfment ever recorded. The star, located 12,000 light-years away, brightened by a factor of 100 over ten days as it absorbed the planet. Our Sun is predicted to do the same to Mercury, Venus, and Earth in approximately 5 billion years.",
+      "topic": "The Sleeping Sickness Epidemic — Encephalitis Lethargica 1920s",
+      "teaser": "In the 1920s, a mysterious illness swept the world that left millions frozen — awake but completely unable to move — for decades.",
+      "video_title": "The Disease That Froze a Million People Awake",
+      "video_description": "Between 1915 and 1926, Encephalitis Lethargica infected over a million people worldwide, leaving thousands in a bizarre suspended state — conscious but motionless, frozen mid-sentence for years or even decades. Its cause has never been identified. Some patients were revived 40 years later by a new drug, only to lose that ability within months.",
       "tags": [
-        "sun",
-        "earth",
-        "astronomy",
-        "planetengulfment",
-        "stardeath",
-        "space",
-        "solarsystem",
+        "encephalitislethargica",
+        "sleepingsickness",
+        "mysterydisease",
+        "medicalmystery",
+        "neurology",
+        "1920s",
+        "history",
         "shorts",
         "viral",
-        "facts"
+        "didyouknow"
       ],
-      "script": "In 2023, MIT astronomers watched a star eat a planet alive for the very first time in human history. The star, 12,000 light-years away, suddenly became 100 times brighter over ten days as it swallowed a world roughly the size of Jupiter. This wasn't a theory anymore — it was recorded, confirmed, published. And our own Sun is predicted to do the exact same thing to Earth in 5 billion years. The question is: will anything still be living here when it starts?",
+      "script": "In 1920, people started freezing — mid-sentence, mid-step, eyes open, completely conscious but unable to move. Encephalitis Lethargica swept the world and left over a million people in a suspended state for years. Some sat motionless for four decades. Then in 1969, doctors gave them a new drug called L-DOPA and they woke up — remembered everything — like no time had passed. Most lost the effect within months and froze again. The disease has never been explained. Its cause remains completely unknown to this day.",
       "visual_keywords": [
-        "star swallowing planet space art",
-        "solar flare sun close up",
-        "MIT observatory telescope",
-        "earth from space"
+        "1920s hospital ward",
+        "comatose patient",
+        "vintage medical",
+        "brain neurology",
+        "historical epidemic"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Blue Hole of Dahab — Divers' Graveyard",
-    "teaser": "There's a hole in the Red Sea that has swallowed over 200 divers — and nobody fully understands why it keeps pulling them in.",
-    "video_title": "The Underwater Hole That Kills Expert Divers",
-    "video_description": "The Blue Hole of Dahab — Divers' Graveyard\n\n#bluehole #dahab #scubadiving #oceanmystery #deepdiving",
-    "tags": [
-      "bluehole",
-      "dahab",
-      "scubadiving",
-      "oceanmystery",
-      "deepdiving",
-      "egypt",
-      "underwaterdeaths",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "Over 200 divers have died in this one single spot — and most of them were experts. The Blue Hole in Dahab, Egypt looks stunning from above, a perfect circle of electric blue water. But at exactly 56 meters down, there's a hidden arch. Divers aim for it. Nitrogen narcosis hits like silent drunk — your brain stops working before you notice. Many never come back up. Locals call it the Diver's Cemetery. Would you still jump in?",
-    "visual_keywords": [
-      "blue hole dahab underwater",
-      "scuba diver deep ocean",
-      "red sea aerial view",
-      "underwater cave arch"
-    ]
-  },
-  "hashtag_options": [
-    "bluehole",
-    "dahab",
-    "scubadiving",
-    "oceanmystery",
-    "deepdiving",
-    "egypt",
-    "underwaterdeaths",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 363,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-10-17T13:09:19.794419+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBbWrUjTAWrAABKGCv8JK-yXDmMiQL3wACMiEAAurOoFIGWYPzebXOJT0E",
-  "review_started_at": "2026-10-18T09:11:12.163871+00:00",
-  "attempts": 1
+  ]
 }
