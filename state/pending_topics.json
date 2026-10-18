@@ -1,9 +1,9 @@
 {
   "batch_id": "20261016-1407",
   "trigger_date": "2026-10-16",
-  "message_id": 362,
+  "message_id": 365,
   "created_at": "2026-10-16T14:07:33.257219+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Blue Hole of Dahab — Divers' Graveyard",
@@ -136,7 +136,7 @@
     "topic": "The Blue Hole of Dahab — Divers' Graveyard",
     "teaser": "There's a hole in the Red Sea that has swallowed over 200 divers — and nobody fully understands why it keeps pulling them in.",
     "video_title": "The Underwater Hole That Kills Expert Divers",
-    "video_description": "The Blue Hole in Dahab, Egypt is one of the most beautiful dive sites on Earth — and one of the deadliest. Over 200 divers have died here, many of them highly experienced. A hidden arch at 56 meters depth triggers nitrogen narcosis before divers even realize what's happening.",
+    "video_description": "The Blue Hole of Dahab — Divers' Graveyard\n\n#bluehole #dahab #scubadiving #oceanmystery #deepdiving",
     "tags": [
       "bluehole",
       "dahab",
@@ -170,6 +170,15 @@
     "facts"
   ],
   "hashtag_message_id": 363,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-17T13:09:19.794419+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-10-17T13:09:19.794419+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBbWrUjTAWrAABKGCv8JK-yXDmMiQL3wACMiEAAurOoFIGWYPzebXOJT0E",
+  "review_started_at": "2026-10-18T09:11:12.163871+00:00",
+  "attempts": 1
 }
