@@ -1,9 +1,9 @@
 {
   "batch_id": "20261018-1633",
   "trigger_date": "2026-10-18",
-  "message_id": 367,
+  "message_id": 370,
   "created_at": "2026-10-18T16:33:06.668223+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Radioactive Boy Scout — Teen Who Built a Nuclear Reactor in His Shed",
@@ -140,7 +140,7 @@
     "topic": "The Radioactive Boy Scout — Teen Who Built a Nuclear Reactor in His Shed",
     "teaser": "A 17-year-old actually built a working nuclear reactor in his backyard — and nobody noticed for months.",
     "video_title": "Teen Built a Nuclear Reactor in His Shed",
-    "video_description": "In 1994, David Hahn secretly assembled a neutron source in his Michigan shed using materials from household smoke detectors and camping lanterns. The EPA eventually declared his backyard a Superfund hazardous waste site. He was just 17.",
+    "video_description": "The Radioactive Boy Scout — Teen Who Built a Nuclear Reactor in His Shed\n\n#radioactiveboy #nuclearreactor #davidhahn #nuclearscience #hazardouswaste",
     "tags": [
       "radioactiveboy",
       "nuclearreactor",
@@ -175,6 +175,15 @@
     "facts"
   ],
   "hashtag_message_id": 368,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-19T18:45:38.029285+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-10-19T18:45:38.029285+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBcmrXjECAQilQP6O27NNrro7fg7Z0AAIoIgACbU25UkLfaRvPYhV3PQQ",
+  "review_started_at": "2026-10-20T15:44:00.804394+00:00",
+  "attempts": 1
 }
