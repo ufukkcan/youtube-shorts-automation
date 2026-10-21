@@ -1,189 +1,139 @@
 {
-  "batch_id": "20261018-1633",
-  "trigger_date": "2026-10-18",
-  "message_id": 370,
-  "created_at": "2026-10-18T16:33:06.668223+00:00",
-  "status": "done",
+  "batch_id": "20261021-1924",
+  "trigger_date": "2026-10-21",
+  "message_id": 373,
+  "created_at": "2026-10-21T19:24:00.537560+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Radioactive Boy Scout — Teen Who Built a Nuclear Reactor in His Shed",
-      "teaser": "A 17-year-old actually built a working nuclear reactor in his backyard — and nobody noticed for months.",
-      "video_title": "Teen Built a Nuclear Reactor in His Shed",
-      "video_description": "In 1994, David Hahn secretly assembled a neutron source in his Michigan shed using materials from household smoke detectors and camping lanterns. The EPA eventually declared his backyard a Superfund hazardous waste site. He was just 17.",
+      "topic": "The Hiroo Onoda — Soldier Who Fought for 29 Years After WWII Ended",
+      "teaser": "A Japanese soldier kept fighting in the jungle for nearly three decades — because no one told him the war was over.",
+      "video_title": "He Fought a War That Ended 29 Years Ago",
+      "video_description": "Hiroo Onoda was a Japanese soldier who continued fighting in the Philippine jungle until 1974, refusing to believe World War II had ended in 1945. He only stopped when his former commanding officer flew in personally to relieve him of duty.",
       "tags": [
-        "radioactiveboy",
-        "nuclearreactor",
-        "davidhahn",
-        "nuclearscience",
-        "hazardouswaste",
-        "coldwar",
+        "hirooOnoda",
+        "worldwar2",
+        "japanesesoldier",
+        "history",
+        "wwii",
+        "philippines",
+        "truestory",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "In 1974, a soldier emerged from a Philippine jungle — armed, loyal, and ready to fight. The problem? World War II had ended 29 years earlier. Hiroo Onoda never surrendered because no one gave him the order. He ambushed patrols, avoided capture, and dismissed leaflets announcing Japan's defeat as enemy propaganda. It took his original commanding officer flying from Japan to personally stand before him and say: the war is over. He was 52 years old. Would you have believed it?",
+      "visual_keywords": [
+        "jungle dense tropical",
+        "old soldier uniform",
+        "philippines forest",
+        "world war 2 vintage",
+        "military surrender"
+      ]
+    },
+    {
+      "topic": "The Smell of Space — Astronauts Describe It",
+      "teaser": "Astronauts who've been to open space agree it has a very specific smell — and it's nothing like you'd expect.",
+      "video_title": "Space Actually Has a Smell — Astronauts Agree",
+      "video_description": "Multiple astronauts have reported that space has a distinct, consistent odor after spacewalks — described as seared steak, hot metal, and welding fumes. Scientists believe it's caused by high-energy particles reacting with equipment or possibly dying stars.",
+      "tags": [
+        "spaceSmell",
+        "astronaut",
+        "nasa",
+        "outerspace",
+        "spacefacts",
         "science",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "A 17-year-old built a nuclear reactor in his garden shed — and it actually worked. David Hahn dismantled thousands of smoke detectors to extract americium-241, then stripped camping lanterns for thorium. By 1994, his backyard in Michigan was emitting radiation 1,000 times above safe levels. The EPA declared it a Superfund hazardous waste site. He never got a science fair trophy. He got a full hazmat cleanup. Was he a genius, a criminal, or just a kid who went too far?",
-      "visual_keywords": [
-        "nuclear reactor",
-        "radiation warning sign",
-        "hazmat suit",
-        "laboratory equipment",
-        "suburban house shed"
-      ]
-    },
-    {
-      "topic": "The Cotard Delusion — People Who Believe They Are Dead",
-      "teaser": "Some people are completely convinced they are dead — and no amount of evidence can change their mind.",
-      "video_title": "People Who Genuinely Believe They Are Dead",
-      "video_description": "Cotard's Delusion is a rare neurological condition where patients sincerely believe they no longer exist — some stop eating because they feel corpses don't need food. The brain's emotional and facial recognition circuits disconnect, making the world feel utterly unreal.",
-      "tags": [
-        "cotarddelusion",
-        "braindisorder",
-        "neuroscience",
-        "psychology",
-        "rarecondition",
-        "mentalhealth",
-        "mindblown",
+        "universe",
         "shorts",
         "viral",
         "didyouknow"
       ],
-      "script": "Some people wake up one day completely convinced they are dead — and no doctor can talk them out of it. Cotard's Delusion is a real neurological condition where the brain's emotional recognition circuits disconnect from reality. Patients refuse to eat because, they argue, corpses don't need food. One man in 1880 insisted he had lost all his organs and his soul. Scans show their brains literally resemble those of people under anesthesia. So — if your brain stopped confirming you exist, would you believe anyone who said you do?",
+      "script": "Every astronaut who's done a spacewalk reports the exact same thing: space has a smell. Not nothing. Not clean air. They describe it as seared steak, hot metal, and welding fumes all at once. It clings to their suits the moment they come back inside. Scientists believe it's caused by dying stars releasing high-energy particles that react with equipment — essentially, you're smelling stellar death. So the universe isn't silent and odorless. What else have we been wrong about?",
       "visual_keywords": [
-        "human brain scan",
-        "neurology hospital",
-        "empty mirror reflection",
-        "dark corridor",
-        "doctor patient"
+        "astronaut spacewalk",
+        "space suit helmet",
+        "milky way stars",
+        "nasa rocket launch",
+        "outer space cosmos"
       ]
     },
     {
-      "topic": "The Feral Child of Aveyron — Boy Raised by the Wild",
-      "teaser": "A boy emerged from a French forest in 1800 who had never spoken a word — and what scientists found next shattered everything about human language.",
-      "video_title": "The Wild Boy Who Rewrote Human Language Science",
-      "video_description": "In 1800, a naked boy emerged from the forests of Aveyron, France. He had lived alone in the wild for years, walked on all fours, felt no cold, and could not speak. His case became the first scientific study of feral children and exposed a critical window in human brain development that closes forever in early childhood.",
+      "topic": "The Vantablack — The Color That Erases Depth Perception",
+      "teaser": "There's a substance so dark that your brain physically cannot process the shape of whatever it covers.",
+      "video_title": "This Color Makes Your Brain Stop Working",
+      "video_description": "Vantablack, developed in 2014, absorbs 99.965% of all light that hits it, making any 3D object coated in it look like a flat black hole. Your visual cortex relies on reflected light to judge depth and shape — Vantablack provides none, causing genuine perceptual failure.",
       "tags": [
-        "feralchild",
-        "victorofaveyron",
-        "humandevelopment",
-        "languageacquisition",
-        "psychology",
-        "history",
-        "braindevelopment",
+        "vantablack",
+        "darkestcolor",
+        "optics",
+        "lightscience",
+        "perception",
+        "materialsscience",
+        "mindblowing",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "A naked boy stumbled out of a French forest in 1800 and couldn't speak a single word — not one. Victor of Aveyron had spent years completely alone in the wild, feeling no cold, walking on all fours, eating raw food. Scientists rushed to teach him language. After years of intensive training, he learned almost nothing. Researchers realized there is a window in early childhood when the brain wires itself for language — and once it closes, it never reopens. Victor proved that being human isn't just biology. It has a deadline.",
+      "script": "Coat a crumpled ball of tinfoil in Vantablack and it looks like someone cut a perfect circle out of reality. No shadows. No edges. No depth. Just nothing. Developed in 2014, it absorbs 99.965% of all light — your brain gets zero reflected information, so it stops rendering the shape entirely. Sculptures coated in it look like flat silhouettes. Your visual cortex isn't broken — it's just never encountered something that gives it absolutely nothing to work with. What does that say about how much of reality we actually see?",
       "visual_keywords": [
-        "dense forest",
-        "wild child running",
-        "18th century france",
-        "child psychology study",
-        "ancient woodland"
+        "vantablack material",
+        "dark absorption surface",
+        "black hole visual",
+        "light absorption experiment",
+        "ultra black coating"
       ]
     },
     {
-      "topic": "The Time a Pilot Flew Inside a Tornado and Survived",
-      "teaser": "One pilot accidentally flew his plane directly into a tornado — and what he saw inside defied everything meteorologists believed.",
-      "video_title": "A Pilot Flew Inside a Tornado and Lived",
-      "video_description": "In 1959, Marine pilot William Rankin ejected from his jet at 47,000 feet directly into a violent thunderstorm. He fell through the storm for 40 minutes instead of 13, pummeled by hail, lightning, and violent updrafts. He survived and gave scientists their first first-hand account of the inside of a severe storm.",
+      "topic": "The Mimic Octopus — One Animal That Impersonates Dozens",
+      "teaser": "There's an octopus that doesn't just hide — it actively pretends to be completely different animals on demand.",
+      "video_title": "This Animal Can Become Any Other Animal",
+      "video_description": "The mimic octopus, discovered in 1998 off Indonesia, can impersonate at least 15 different species — including lionfish, flatfish, and sea snakes — adjusting its body shape, color, and movement in real time based on which local predator its attacker fears most.",
       "tags": [
-        "tornado",
-        "pilotsurvival",
-        "extremeweather",
-        "thunderstorm",
-        "williamrankin",
-        "aviation",
-        "meteorology",
-        "shorts",
-        "viral",
-        "trending"
-      ],
-      "script": "A pilot ejected from his jet at 47,000 feet — directly into the heart of a violent thunderstorm. William Rankin's parachute should have delivered him to the ground in 13 minutes. Instead, violent updrafts kept hurling him back into the clouds for 40 minutes. Lightning struck within feet of him. Hail shredded his suit. He was nearly drowned in mid-air. He survived and gave meteorologists their first ever eyewitness account from inside a living storm. He described it as being trapped inside a white room that was trying to kill him.",
-      "visual_keywords": [
-        "tornado funnel cloud",
-        "fighter jet cockpit",
-        "parachute storm",
-        "lightning strike sky",
-        "severe thunderstorm aerial"
-      ]
-    },
-    {
-      "topic": "The Sleeping Sickness Epidemic — Encephalitis Lethargica 1920s",
-      "teaser": "In the 1920s, a mysterious illness swept the world that left millions frozen — awake but completely unable to move — for decades.",
-      "video_title": "The Disease That Froze a Million People Awake",
-      "video_description": "Between 1915 and 1926, Encephalitis Lethargica infected over a million people worldwide, leaving thousands in a bizarre suspended state — conscious but motionless, frozen mid-sentence for years or even decades. Its cause has never been identified. Some patients were revived 40 years later by a new drug, only to lose that ability within months.",
-      "tags": [
-        "encephalitislethargica",
-        "sleepingsickness",
-        "mysterydisease",
-        "medicalmystery",
-        "neurology",
-        "1920s",
-        "history",
+        "mimicOctopus",
+        "octopus",
+        "marinelife",
+        "oceanfacts",
+        "wildlife",
+        "animalbehavior",
+        "nature",
         "shorts",
         "viral",
         "didyouknow"
       ],
-      "script": "In 1920, people started freezing — mid-sentence, mid-step, eyes open, completely conscious but unable to move. Encephalitis Lethargica swept the world and left over a million people in a suspended state for years. Some sat motionless for four decades. Then in 1969, doctors gave them a new drug called L-DOPA and they woke up — remembered everything — like no time had passed. Most lost the effect within months and froze again. The disease has never been explained. Its cause remains completely unknown to this day.",
+      "script": "This octopus doesn't just change color — it decides which animal to become based on who's threatening it. Spotted by a predator that fears lionfish? It flattens its arms into spines and impersonates one. Threatened near a burrow? It coils into a banded sea snake. The mimic octopus, discovered in 1998 off Indonesia, can convincingly imitate at least 15 different species in real time. It's not instinct — researchers believe it's a deliberate choice. So is this the smartest animal in the ocean?",
       "visual_keywords": [
-        "1920s hospital ward",
-        "comatose patient",
-        "vintage medical",
-        "brain neurology",
-        "historical epidemic"
+        "mimic octopus underwater",
+        "octopus camouflage ocean",
+        "coral reef sea creature",
+        "lionfish ocean",
+        "tropical sea floor"
+      ]
+    },
+    {
+      "topic": "The Celsius-Fahrenheit Inventor Disagreement — The Scale Was Upside Down",
+      "teaser": "The temperature scale used by billions of people was originally invented completely backwards — freezing was 100 and boiling was zero.",
+      "video_title": "Celsius Invented His Scale Completely Backwards",
+      "video_description": "Anders Celsius originally defined his scale in 1742 with 0° as boiling and 100° as freezing — the exact opposite of what we use today. It was reversed after his death by fellow scientists who found the inverted system counterintuitive, yet kept his name on it.",
+      "tags": [
+        "celsius",
+        "temperature",
+        "sciencehistory",
+        "anderscelsius",
+        "physics",
+        "measurement",
+        "history",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "When Anders Celsius invented his temperature scale in 1742, boiling water was zero and freezing was 100. Completely upside down. He genuinely thought counting down to boiling made more logical sense. After he died in 1744, other scientists quietly flipped the entire scale — but kept his name. So every time you read a weather forecast in Celsius, you're using a scale its inventor would find backwards. The man had no idea what we did to his life's work. Does that bother you, or does it even matter?",
+      "visual_keywords": [
+        "thermometer closeup",
+        "boiling water steam",
+        "temperature scale science",
+        "laboratory measurement",
+        "celsius scale"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Radioactive Boy Scout — Teen Who Built a Nuclear Reactor in His Shed",
-    "teaser": "A 17-year-old actually built a working nuclear reactor in his backyard — and nobody noticed for months.",
-    "video_title": "Teen Built a Nuclear Reactor in His Shed",
-    "video_description": "The Radioactive Boy Scout — Teen Who Built a Nuclear Reactor in His Shed\n\n#radioactiveboy #nuclearreactor #davidhahn #nuclearscience #hazardouswaste",
-    "tags": [
-      "radioactiveboy",
-      "nuclearreactor",
-      "davidhahn",
-      "nuclearscience",
-      "hazardouswaste",
-      "coldwar",
-      "science",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "A 17-year-old built a nuclear reactor in his garden shed — and it actually worked. David Hahn dismantled thousands of smoke detectors to extract americium-241, then stripped camping lanterns for thorium. By 1994, his backyard in Michigan was emitting radiation 1,000 times above safe levels. The EPA declared it a Superfund hazardous waste site. He never got a science fair trophy. He got a full hazmat cleanup. Was he a genius, a criminal, or just a kid who went too far?",
-    "visual_keywords": [
-      "nuclear reactor",
-      "radiation warning sign",
-      "hazmat suit",
-      "laboratory equipment",
-      "suburban house shed"
-    ]
-  },
-  "hashtag_options": [
-    "radioactiveboy",
-    "nuclearreactor",
-    "davidhahn",
-    "nuclearscience",
-    "hazardouswaste",
-    "coldwar",
-    "science",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 368,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-10-19T18:45:38.029285+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBcmrXjECAQilQP6O27NNrro7fg7Z0AAIoIgACbU25UkLfaRvPYhV3PQQ",
-  "review_started_at": "2026-10-20T15:44:00.804394+00:00",
-  "attempts": 1
+  ]
 }
