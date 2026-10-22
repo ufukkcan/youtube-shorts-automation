@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-21",
   "message_id": 373,
   "created_at": "2026-10-21T19:24:00.537560+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "The Hiroo Onoda — Soldier Who Fought for 29 Years After WWII Ended",
@@ -135,5 +135,46 @@
         "celsius scale"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "The Hiroo Onoda — Soldier Who Fought for 29 Years After WWII Ended",
+    "teaser": "A Japanese soldier kept fighting in the jungle for nearly three decades — because no one told him the war was over.",
+    "video_title": "He Fought a War That Ended 29 Years Ago",
+    "video_description": "Hiroo Onoda was a Japanese soldier who continued fighting in the Philippine jungle until 1974, refusing to believe World War II had ended in 1945. He only stopped when his former commanding officer flew in personally to relieve him of duty.",
+    "tags": [
+      "hirooOnoda",
+      "worldwar2",
+      "japanesesoldier",
+      "history",
+      "wwii",
+      "philippines",
+      "truestory",
+      "shorts",
+      "viral",
+      "facts"
+    ],
+    "script": "In 1974, a soldier emerged from a Philippine jungle — armed, loyal, and ready to fight. The problem? World War II had ended 29 years earlier. Hiroo Onoda never surrendered because no one gave him the order. He ambushed patrols, avoided capture, and dismissed leaflets announcing Japan's defeat as enemy propaganda. It took his original commanding officer flying from Japan to personally stand before him and say: the war is over. He was 52 years old. Would you have believed it?",
+    "visual_keywords": [
+      "jungle dense tropical",
+      "old soldier uniform",
+      "philippines forest",
+      "world war 2 vintage",
+      "military surrender"
+    ]
+  },
+  "hashtag_options": [
+    "hirooOnoda",
+    "worldwar2",
+    "japanesesoldier",
+    "history",
+    "wwii",
+    "philippines",
+    "truestory",
+    "shorts",
+    "viral",
+    "facts"
+  ],
+  "hashtag_message_id": 374,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-22T15:25:53.098761+00:00"
 }
