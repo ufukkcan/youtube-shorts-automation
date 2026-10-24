@@ -1,189 +1,134 @@
 {
-  "batch_id": "20261021-1924",
-  "trigger_date": "2026-10-21",
-  "message_id": 376,
-  "created_at": "2026-10-21T19:24:00.537560+00:00",
-  "status": "done",
+  "batch_id": "20261024-1643",
+  "trigger_date": "2026-10-24",
+  "message_id": 379,
+  "created_at": "2026-10-24T16:43:43.681984+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Hiroo Onoda — Soldier Who Fought for 29 Years After WWII Ended",
-      "teaser": "A Japanese soldier kept fighting in the jungle for nearly three decades — because no one told him the war was over.",
-      "video_title": "He Fought a War That Ended 29 Years Ago",
-      "video_description": "Hiroo Onoda was a Japanese soldier who continued fighting in the Philippine jungle until 1974, refusing to believe World War II had ended in 1945. He only stopped when his former commanding officer flew in personally to relieve him of duty.",
+      "topic": "The Cicada 13-Year and 17-Year Prime Number Emergence",
+      "teaser": "Cicadas count prime numbers — and scientists still can't fully explain why.",
+      "video_title": "Cicadas Can Count Prime Numbers (Scientists Are Baffled)",
+      "video_description": "Periodical cicadas emerge in exact 13- or 17-year cycles — both prime numbers. This mathematical precision in an insect's biology has puzzled evolutionary biologists for decades, and the leading theory is stranger than fiction.",
       "tags": [
-        "hirooOnoda",
-        "worldwar2",
-        "japanesesoldier",
-        "history",
-        "wwii",
-        "philippines",
-        "truestory",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "In 1974, a soldier emerged from a Philippine jungle — armed, loyal, and ready to fight. The problem? World War II had ended 29 years earlier. Hiroo Onoda never surrendered because no one gave him the order. He ambushed patrols, avoided capture, and dismissed leaflets announcing Japan's defeat as enemy propaganda. It took his original commanding officer flying from Japan to personally stand before him and say: the war is over. He was 52 years old. Would you have believed it?",
-      "visual_keywords": [
-        "jungle dense tropical",
-        "old soldier uniform",
-        "philippines forest",
-        "world war 2 vintage",
-        "military surrender"
-      ]
-    },
-    {
-      "topic": "The Smell of Space — Astronauts Describe It",
-      "teaser": "Astronauts who've been to open space agree it has a very specific smell — and it's nothing like you'd expect.",
-      "video_title": "Space Actually Has a Smell — Astronauts Agree",
-      "video_description": "Multiple astronauts have reported that space has a distinct, consistent odor after spacewalks — described as seared steak, hot metal, and welding fumes. Scientists believe it's caused by high-energy particles reacting with equipment or possibly dying stars.",
-      "tags": [
-        "spaceSmell",
-        "astronaut",
-        "nasa",
-        "outerspace",
-        "spacefacts",
-        "science",
-        "universe",
-        "shorts",
-        "viral",
-        "didyouknow"
-      ],
-      "script": "Every astronaut who's done a spacewalk reports the exact same thing: space has a smell. Not nothing. Not clean air. They describe it as seared steak, hot metal, and welding fumes all at once. It clings to their suits the moment they come back inside. Scientists believe it's caused by dying stars releasing high-energy particles that react with equipment — essentially, you're smelling stellar death. So the universe isn't silent and odorless. What else have we been wrong about?",
-      "visual_keywords": [
-        "astronaut spacewalk",
-        "space suit helmet",
-        "milky way stars",
-        "nasa rocket launch",
-        "outer space cosmos"
-      ]
-    },
-    {
-      "topic": "The Vantablack — The Color That Erases Depth Perception",
-      "teaser": "There's a substance so dark that your brain physically cannot process the shape of whatever it covers.",
-      "video_title": "This Color Makes Your Brain Stop Working",
-      "video_description": "Vantablack, developed in 2014, absorbs 99.965% of all light that hits it, making any 3D object coated in it look like a flat black hole. Your visual cortex relies on reflected light to judge depth and shape — Vantablack provides none, causing genuine perceptual failure.",
-      "tags": [
-        "vantablack",
-        "darkestcolor",
-        "optics",
-        "lightscience",
-        "perception",
-        "materialsscience",
-        "mindblowing",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "Coat a crumpled ball of tinfoil in Vantablack and it looks like someone cut a perfect circle out of reality. No shadows. No edges. No depth. Just nothing. Developed in 2014, it absorbs 99.965% of all light — your brain gets zero reflected information, so it stops rendering the shape entirely. Sculptures coated in it look like flat silhouettes. Your visual cortex isn't broken — it's just never encountered something that gives it absolutely nothing to work with. What does that say about how much of reality we actually see?",
-      "visual_keywords": [
-        "vantablack material",
-        "dark absorption surface",
-        "black hole visual",
-        "light absorption experiment",
-        "ultra black coating"
-      ]
-    },
-    {
-      "topic": "The Mimic Octopus — One Animal That Impersonates Dozens",
-      "teaser": "There's an octopus that doesn't just hide — it actively pretends to be completely different animals on demand.",
-      "video_title": "This Animal Can Become Any Other Animal",
-      "video_description": "The mimic octopus, discovered in 1998 off Indonesia, can impersonate at least 15 different species — including lionfish, flatfish, and sea snakes — adjusting its body shape, color, and movement in real time based on which local predator its attacker fears most.",
-      "tags": [
-        "mimicOctopus",
-        "octopus",
-        "marinelife",
-        "oceanfacts",
-        "wildlife",
-        "animalbehavior",
+        "cicadas",
+        "primenumbers",
+        "evolution",
+        "insects",
         "nature",
-        "shorts",
-        "viral",
-        "didyouknow"
-      ],
-      "script": "This octopus doesn't just change color — it decides which animal to become based on who's threatening it. Spotted by a predator that fears lionfish? It flattens its arms into spines and impersonates one. Threatened near a burrow? It coils into a banded sea snake. The mimic octopus, discovered in 1998 off Indonesia, can convincingly imitate at least 15 different species in real time. It's not instinct — researchers believe it's a deliberate choice. So is this the smartest animal in the ocean?",
-      "visual_keywords": [
-        "mimic octopus underwater",
-        "octopus camouflage ocean",
-        "coral reef sea creature",
-        "lionfish ocean",
-        "tropical sea floor"
-      ]
-    },
-    {
-      "topic": "The Celsius-Fahrenheit Inventor Disagreement — The Scale Was Upside Down",
-      "teaser": "The temperature scale used by billions of people was originally invented completely backwards — freezing was 100 and boiling was zero.",
-      "video_title": "Celsius Invented His Scale Completely Backwards",
-      "video_description": "Anders Celsius originally defined his scale in 1742 with 0° as boiling and 100° as freezing — the exact opposite of what we use today. It was reversed after his death by fellow scientists who found the inverted system counterintuitive, yet kept his name on it.",
-      "tags": [
-        "celsius",
-        "temperature",
-        "sciencehistory",
-        "anderscelsius",
-        "physics",
-        "measurement",
-        "history",
+        "biology",
+        "sciencefacts",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "When Anders Celsius invented his temperature scale in 1742, boiling water was zero and freezing was 100. Completely upside down. He genuinely thought counting down to boiling made more logical sense. After he died in 1744, other scientists quietly flipped the entire scale — but kept his name. So every time you read a weather forecast in Celsius, you're using a scale its inventor would find backwards. The man had no idea what we did to his life's work. Does that bother you, or does it even matter?",
+      "script": "Billions of insects just vanished underground — and they set an alarm for exactly 17 years. Periodical cicadas emerge in cycles of either 13 or 17 years. Both prime numbers. No exceptions. Scientists believe they evolved this to outsmart predators — because no predator breeds on a 13 or 17-year cycle, they always catch prey off guard. An insect that never learned math somehow solved a problem mathematicians study. Does that change how you think about intelligence?",
       "visual_keywords": [
-        "thermometer closeup",
-        "boiling water steam",
-        "temperature scale science",
-        "laboratory measurement",
-        "celsius scale"
+        "cicada swarm tree",
+        "insect emergence ground",
+        "forest summer",
+        "close up cicada wing"
+      ]
+    },
+    {
+      "topic": "The Sediment Slab — Earthquake That Reversed the Mississippi River",
+      "teaser": "An earthquake once made one of the world's mightiest rivers run backwards — for three days.",
+      "video_title": "The Earthquake That Reversed the Mississippi River",
+      "video_description": "In 1811, the New Madrid earthquake was so powerful it temporarily reversed the flow of the Mississippi River, created new lakes overnight, and rang church bells as far away as Boston. It remains the most powerful earthquake ever recorded in North America.",
+      "tags": [
+        "mississippiriver",
+        "earthquake",
+        "newmadrid",
+        "geology",
+        "americanhistory",
+        "naturaldisasters",
+        "earthscience",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "For three days in 1811, the Mississippi River flowed backwards. The New Madrid earthquake — magnitude estimated at 8.1 — buckled the land so violently that the river reversed course, swallowed entire forests, and created Reelfoot Lake overnight. Church bells rang on their own in Boston, 1,500 miles away. It remains the most powerful earthquake in recorded North American history — and it happened nowhere near a tectonic plate boundary. Could it happen again today?",
+      "visual_keywords": [
+        "Mississippi river aerial",
+        "earthquake ground crack",
+        "river flood destruction",
+        "seismic wave map"
+      ]
+    },
+    {
+      "topic": "The Woman Who Can Smell Parkinson's Disease",
+      "teaser": "A Scottish woman detected a disease through smell alone — years before doctors could using any test.",
+      "video_title": "She Smelled Parkinson's Disease Before Doctors Could Detect It",
+      "video_description": "Joy Milne, a retired nurse from Scotland, noticed her husband smelled different years before his Parkinson's diagnosis. Scientists tested her ability and she correctly identified 12 out of 12 Parkinson's patients by scent alone — then identified a 13th patient who hadn't yet been diagnosed.",
+      "tags": [
+        "parkinsons",
+        "humansenses",
+        "medicaldiscovery",
+        "smell",
+        "neuroscience",
+        "braindisease",
+        "sciencefacts",
+        "shorts",
+        "viral",
+        "didyouknow"
+      ],
+      "script": "She told her husband he smelled different. Six years later, he was diagnosed with Parkinson's disease. Joy Milne, a Scottish nurse, could smell the illness before any medical test could find it. Scientists gave her 12 unlabeled shirts — she identified every Parkinson's patient correctly. Then flagged a 13th person as positive. That person had no diagnosis. Eight months later, doctors confirmed he had Parkinson's. Her nose led to the discovery of a real biomarker — a musky odor on the skin. What else are we missing?",
+      "visual_keywords": [
+        "human nose close up",
+        "laboratory scientist testing",
+        "Parkinson patient hospital",
+        "smell sense concept"
+      ]
+    },
+    {
+      "topic": "The Ship That Sank Twice — AHS Centaur",
+      "teaser": "A hospital ship was sunk illegally in WWII — and one survivor's story made it even more unbelievable.",
+      "video_title": "The Hospital Ship Sunk Illegally — One Survivor's Impossible Story",
+      "video_description": "In 1943, the AHS Centaur was clearly marked as a hospital ship under the Geneva Convention, yet was torpedoed by a Japanese submarine off Australia. Of 332 people on board, only 64 survived — including one nurse who stayed afloat for 35 hours clinging to wreckage.",
+      "tags": [
+        "worldwar2",
+        "hospitalship",
+        "AHSCentaur",
+        "wwiiatrocities",
+        "australianhistory",
+        "survival",
+        "warhistory",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "It was painted white with giant red crosses. Every international law protected it. The Japanese submarine torpedoed it anyway. The AHS Centaur, a WWII hospital ship, sank in 33 minutes off the coast of Australia in 1943. Of 332 people on board, 268 died. One nurse — Sister Ellen Savage — survived 35 hours alone in shark-filled waters with broken ribs and a ruptured eardrum. She was still tending to other survivors when rescuers arrived. What do you call that?",
+      "visual_keywords": [
+        "hospital ship ocean WWII",
+        "red cross ship wartime",
+        "ocean wreckage survivor",
+        "world war 2 Australia sea"
+      ]
+    },
+    {
+      "topic": "The Bone Wars — Victorian Paleontologists Who Sabotaged Each Other",
+      "teaser": "Two scientists destroyed each other's careers, reputations, and digs — but accidentally gave us most of what we know about dinosaurs.",
+      "video_title": "The Rivalry That Discovered Most of America's Dinosaurs",
+      "video_description": "Othniel Marsh and Edward Cope began as friends and ended as obsessive enemies, dynamiting each other's fossil sites, publishing fake discoveries, and spying on one another for over 20 years. Their destructive rivalry — known as the Bone Wars — produced 142 new dinosaur species.",
+      "tags": [
+        "bonewars",
+        "dinosaurs",
+        "paleontology",
+        "othnielmarsh",
+        "edwardcope",
+        "sciencehistory",
+        "fossilhunting",
+        "shorts",
+        "viral",
+        "didyouknow"
+      ],
+      "script": "They dynamited each other's dig sites so the enemy couldn't use them. Othniel Marsh and Edward Cope started as friends in the 1870s, then spent 20 years in a savage war over fossils — bribing workers, publishing fake findings, and mailing boxes of bones just to win the count. Their obsession was irrational, vindictive, and completely ruinous for both. It also gave science 142 new dinosaur species, including Triceratops and Stegosaurus. Without their hatred — would we even know those animals existed?",
+      "visual_keywords": [
+        "dinosaur fossil excavation",
+        "paleontologist dig site",
+        "T-rex skeleton museum",
+        "old west american desert bones"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Hiroo Onoda — Soldier Who Fought for 29 Years After WWII Ended",
-    "teaser": "A Japanese soldier kept fighting in the jungle for nearly three decades — because no one told him the war was over.",
-    "video_title": "He Fought a War That Ended 29 Years Ago",
-    "video_description": "The Hiroo Onoda — Soldier Who Fought for 29 Years After WWII Ended\n\n#hirooOnoda #worldwar2 #japanesesoldier #history #wwii",
-    "tags": [
-      "hirooOnoda",
-      "worldwar2",
-      "japanesesoldier",
-      "history",
-      "wwii",
-      "philippines",
-      "truestory",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "In 1974, a soldier emerged from a Philippine jungle — armed, loyal, and ready to fight. The problem? World War II had ended 29 years earlier. Hiroo Onoda never surrendered because no one gave him the order. He ambushed patrols, avoided capture, and dismissed leaflets announcing Japan's defeat as enemy propaganda. It took his original commanding officer flying from Japan to personally stand before him and say: the war is over. He was 52 years old. Would you have believed it?",
-    "visual_keywords": [
-      "jungle dense tropical",
-      "old soldier uniform",
-      "philippines forest",
-      "world war 2 vintage",
-      "military surrender"
-    ]
-  },
-  "hashtag_options": [
-    "hirooOnoda",
-    "worldwar2",
-    "japanesesoldier",
-    "history",
-    "wwii",
-    "philippines",
-    "truestory",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 374,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-10-22T15:25:53.098761+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBeGrbeWXvsRoMYWRpttdDdiMyD1yuAAK4IgACR1ngUpDp6bJ2dBHOPQQ",
-  "review_started_at": "2026-10-23T15:12:37.751124+00:00",
-  "attempts": 1
+  ]
 }
