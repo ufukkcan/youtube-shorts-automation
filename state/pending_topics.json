@@ -1,9 +1,9 @@
 {
   "batch_id": "20261024-1643",
   "trigger_date": "2026-10-24",
-  "message_id": 379,
+  "message_id": 382,
   "created_at": "2026-10-24T16:43:43.681984+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Cicada 13-Year and 17-Year Prime Number Emergence",
@@ -135,7 +135,7 @@
     "topic": "The Cicada 13-Year and 17-Year Prime Number Emergence",
     "teaser": "Cicadas count prime numbers — and scientists still can't fully explain why.",
     "video_title": "Cicadas Can Count Prime Numbers (Scientists Are Baffled)",
-    "video_description": "Periodical cicadas emerge in exact 13- or 17-year cycles — both prime numbers. This mathematical precision in an insect's biology has puzzled evolutionary biologists for decades, and the leading theory is stranger than fiction.",
+    "video_description": "The Cicada 13-Year and 17-Year Prime Number Emergence\n\n#cicadas #primenumbers #evolution #insects #nature",
     "tags": [
       "cicadas",
       "primenumbers",
@@ -169,6 +169,15 @@
     "facts"
   ],
   "hashtag_message_id": 380,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-25T15:21:20.442641+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-10-25T15:21:20.442641+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBfmrfTLLjRLnuveEtb3u-6dRQp2GvAAK9IQACGKIBUxsG7c36Or6FPQQ",
+  "review_started_at": "2026-10-26T12:50:59.119178+00:00",
+  "attempts": 1
 }
