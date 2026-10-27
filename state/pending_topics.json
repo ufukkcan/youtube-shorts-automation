@@ -1,183 +1,134 @@
 {
-  "batch_id": "20261024-1643",
-  "trigger_date": "2026-10-24",
-  "message_id": 382,
-  "created_at": "2026-10-24T16:43:43.681984+00:00",
-  "status": "done",
+  "batch_id": "20261027-1847",
+  "trigger_date": "2026-10-27",
+  "message_id": 385,
+  "created_at": "2026-10-27T18:47:02.878386+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Cicada 13-Year and 17-Year Prime Number Emergence",
-      "teaser": "Cicadas count prime numbers — and scientists still can't fully explain why.",
-      "video_title": "Cicadas Can Count Prime Numbers (Scientists Are Baffled)",
-      "video_description": "Periodical cicadas emerge in exact 13- or 17-year cycles — both prime numbers. This mathematical precision in an insect's biology has puzzled evolutionary biologists for decades, and the leading theory is stranger than fiction.",
+      "topic": "The Capgras Delusion — Loved Ones Replaced by Imposters",
+      "teaser": "Some people wake up one day and become completely convinced that their family members have been secretly replaced by identical strangers — and no amount of proof can change their mind.",
+      "video_title": "Your Brain Can Decide Your Family Are Imposters",
+      "video_description": "Capgras Delusion is a rare neurological condition where a person believes their loved ones have been replaced by identical impostors. It's not a choice or a lie — the brain physically disconnects facial recognition from emotional response.",
       "tags": [
-        "cicadas",
-        "primenumbers",
-        "evolution",
-        "insects",
-        "nature",
-        "biology",
-        "sciencefacts",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "Billions of insects just vanished underground — and they set an alarm for exactly 17 years. Periodical cicadas emerge in cycles of either 13 or 17 years. Both prime numbers. No exceptions. Scientists believe they evolved this to outsmart predators — because no predator breeds on a 13 or 17-year cycle, they always catch prey off guard. An insect that never learned math somehow solved a problem mathematicians study. Does that change how you think about intelligence?",
-      "visual_keywords": [
-        "cicada swarm tree",
-        "insect emergence ground",
-        "forest summer",
-        "close up cicada wing"
-      ]
-    },
-    {
-      "topic": "The Sediment Slab — Earthquake That Reversed the Mississippi River",
-      "teaser": "An earthquake once made one of the world's mightiest rivers run backwards — for three days.",
-      "video_title": "The Earthquake That Reversed the Mississippi River",
-      "video_description": "In 1811, the New Madrid earthquake was so powerful it temporarily reversed the flow of the Mississippi River, created new lakes overnight, and rang church bells as far away as Boston. It remains the most powerful earthquake ever recorded in North America.",
-      "tags": [
-        "mississippiriver",
-        "earthquake",
-        "newmadrid",
-        "geology",
-        "americanhistory",
-        "naturaldisasters",
-        "earthscience",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "For three days in 1811, the Mississippi River flowed backwards. The New Madrid earthquake — magnitude estimated at 8.1 — buckled the land so violently that the river reversed course, swallowed entire forests, and created Reelfoot Lake overnight. Church bells rang on their own in Boston, 1,500 miles away. It remains the most powerful earthquake in recorded North American history — and it happened nowhere near a tectonic plate boundary. Could it happen again today?",
-      "visual_keywords": [
-        "Mississippi river aerial",
-        "earthquake ground crack",
-        "river flood destruction",
-        "seismic wave map"
-      ]
-    },
-    {
-      "topic": "The Woman Who Can Smell Parkinson's Disease",
-      "teaser": "A Scottish woman detected a disease through smell alone — years before doctors could using any test.",
-      "video_title": "She Smelled Parkinson's Disease Before Doctors Could Detect It",
-      "video_description": "Joy Milne, a retired nurse from Scotland, noticed her husband smelled different years before his Parkinson's diagnosis. Scientists tested her ability and she correctly identified 12 out of 12 Parkinson's patients by scent alone — then identified a 13th patient who hadn't yet been diagnosed.",
-      "tags": [
-        "parkinsons",
-        "humansenses",
-        "medicaldiscovery",
-        "smell",
+        "capgrasdelusion",
+        "braindisorders",
         "neuroscience",
-        "braindisease",
-        "sciencefacts",
-        "shorts",
-        "viral",
-        "didyouknow"
-      ],
-      "script": "She told her husband he smelled different. Six years later, he was diagnosed with Parkinson's disease. Joy Milne, a Scottish nurse, could smell the illness before any medical test could find it. Scientists gave her 12 unlabeled shirts — she identified every Parkinson's patient correctly. Then flagged a 13th person as positive. That person had no diagnosis. Eight months later, doctors confirmed he had Parkinson's. Her nose led to the discovery of a real biomarker — a musky odor on the skin. What else are we missing?",
-      "visual_keywords": [
-        "human nose close up",
-        "laboratory scientist testing",
-        "Parkinson patient hospital",
-        "smell sense concept"
-      ]
-    },
-    {
-      "topic": "The Ship That Sank Twice — AHS Centaur",
-      "teaser": "A hospital ship was sunk illegally in WWII — and one survivor's story made it even more unbelievable.",
-      "video_title": "The Hospital Ship Sunk Illegally — One Survivor's Impossible Story",
-      "video_description": "In 1943, the AHS Centaur was clearly marked as a hospital ship under the Geneva Convention, yet was torpedoed by a Japanese submarine off Australia. Of 332 people on board, only 64 survived — including one nurse who stayed afloat for 35 hours clinging to wreckage.",
-      "tags": [
-        "worldwar2",
-        "hospitalship",
-        "AHSCentaur",
-        "wwiiatrocities",
-        "australianhistory",
-        "survival",
-        "warhistory",
+        "psychology",
+        "mentalhealth",
+        "humanbrain",
+        "rareconditions",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "It was painted white with giant red crosses. Every international law protected it. The Japanese submarine torpedoed it anyway. The AHS Centaur, a WWII hospital ship, sank in 33 minutes off the coast of Australia in 1943. Of 332 people on board, 268 died. One nurse — Sister Ellen Savage — survived 35 hours alone in shark-filled waters with broken ribs and a ruptured eardrum. She was still tending to other survivors when rescuers arrived. What do you call that?",
+      "script": "A man woke up one morning, looked at his wife of 30 years, and calmly told doctors she was an imposter. Same face, same voice — but to him, a stranger. Capgras Delusion happens when the brain's facial recognition system disconnects from its emotional center. You see someone familiar but feel nothing, so your brain invents the only logical explanation: replacement. It's not psychosis. It's a wiring failure. The question is — how would you prove you're really you?",
       "visual_keywords": [
-        "hospital ship ocean WWII",
-        "red cross ship wartime",
-        "ocean wreckage survivor",
-        "world war 2 Australia sea"
+        "mirror reflection confused man",
+        "brain scan neurology",
+        "couple portrait",
+        "hospital patient"
       ]
     },
     {
-      "topic": "The Bone Wars — Victorian Paleontologists Who Sabotaged Each Other",
-      "teaser": "Two scientists destroyed each other's careers, reputations, and digs — but accidentally gave us most of what we know about dinosaurs.",
-      "video_title": "The Rivalry That Discovered Most of America's Dinosaurs",
-      "video_description": "Othniel Marsh and Edward Cope began as friends and ended as obsessive enemies, dynamiting each other's fossil sites, publishing fake discoveries, and spying on one another for over 20 years. Their destructive rivalry — known as the Bone Wars — produced 142 new dinosaur species.",
+      "topic": "The Dyeing Coral — Great Barrier Reef Bleaching Speed",
+      "teaser": "The largest living structure on Earth is vanishing at a speed scientists didn't think possible just a decade ago — and the timeline left is shorter than most people's mortgages.",
+      "video_title": "The World's Largest Living Thing Is Dying Fast",
+      "video_description": "The Great Barrier Reef has lost over 50% of its coral cover since 1995. Mass bleaching events now occur so frequently the reef can no longer recover between them. What was once a 10,000-year-old ecosystem may functionally collapse within decades.",
       "tags": [
-        "bonewars",
-        "dinosaurs",
-        "paleontology",
-        "othnielmarsh",
-        "edwardcope",
-        "sciencehistory",
-        "fossilhunting",
+        "greatbarrierreef",
+        "coralbleaching",
+        "oceanlife",
+        "climatechange",
+        "marineecology",
+        "underwaterworld",
+        "extinction",
         "shorts",
         "viral",
-        "didyouknow"
+        "facts"
       ],
-      "script": "They dynamited each other's dig sites so the enemy couldn't use them. Othniel Marsh and Edward Cope started as friends in the 1870s, then spent 20 years in a savage war over fossils — bribing workers, publishing fake findings, and mailing boxes of bones just to win the count. Their obsession was irrational, vindictive, and completely ruinous for both. It also gave science 142 new dinosaur species, including Triceratops and Stegosaurus. Without their hatred — would we even know those animals existed?",
+      "script": "The Great Barrier Reef survived ice ages, meteor impacts, and five mass extinctions — then in 2022, it bleached for the fourth time in seven years. Coral bleaching happens when water gets too warm: the coral expels the algae keeping it alive and turns bone white. Below 30% cover, a reef cannot recover. The Great Barrier Reef is already at 50% loss since 1995. It is 2,300 kilometers long and visible from space. In fifty years, your grandchildren may only see it in photographs.",
       "visual_keywords": [
-        "dinosaur fossil excavation",
-        "paleontologist dig site",
-        "T-rex skeleton museum",
-        "old west american desert bones"
+        "coral reef bleaching",
+        "great barrier reef aerial",
+        "white dead coral underwater",
+        "ocean warming"
+      ]
+    },
+    {
+      "topic": "The Hexagon Storm — Saturn's Geometric Hurricane",
+      "teaser": "There is a perfectly geometric six-sided storm on Saturn that has been spinning continuously for at least 40 years — and nobody fully understands why nature drew a hexagon in space.",
+      "video_title": "Saturn Has a Perfect Hexagon Bigger Than Earth",
+      "video_description": "Saturn's north pole hosts a hurricane-shaped hexagonal storm roughly 30,000 kilometers wide — large enough to swallow four Earths. Discovered by Voyager in 1981, it has persisted for decades and changes color with Saturn's seasons, shifting from blue to gold.",
+      "tags": [
+        "saturn",
+        "hexagonstorm",
+        "spacefacts",
+        "planets",
+        "solarsystem",
+        "astronomy",
+        "nasadiscovery",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "There is a six-sided storm on Saturn so geometrically perfect it looks computer-generated. Each side is longer than Earth's diameter. It has been spinning nonstop since at least 1981, when Voyager first photographed it — and we still cannot fully explain why fluid dynamics produce a hexagon instead of a circle. It shifts color from blue to gold as Saturn's seasons change. Whatever is driving that shape has lasted longer than most human civilizations. Nature drew a hexagon 1.4 billion kilometers away. Why?",
+      "visual_keywords": [
+        "saturn north pole hexagon",
+        "saturn storm space",
+        "planet atmosphere closeup",
+        "voyager spacecraft"
+      ]
+    },
+    {
+      "topic": "The Library of Ashurbanipal — World's First Organized Archive",
+      "teaser": "Over 2,600 years ago, one Assyrian king became so obsessed with collecting all human knowledge that he essentially invented the concept of a library — and the tablets he buried still hold stories we haven't finished translating.",
+      "video_title": "He Collected Every Book on Earth — in 650 BC",
+      "video_description": "King Ashurbanipal of Assyria assembled over 30,000 clay tablets in Nineveh around 650 BC, creating humanity's first systematically organized library. Among them was the Epic of Gilgamesh — the world's oldest written story. The library was buried for 2,500 years before archaeologists uncovered it in the 1850s.",
+      "tags": [
+        "ashurbanipal",
+        "ancienthistory",
+        "mesopotamia",
+        "firstlibrary",
+        "cuneiform",
+        "gilgamesh",
+        "archaeology",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "In 650 BC, a king sent royal agents across the known world with one order: copy every text that exists and bring it to me. King Ashurbanipal of Assyria built a library of over 30,000 clay tablets — catalogued, shelved, and indexed. Inside was the Epic of Gilgamesh, humanity's oldest written story, buried for 2,500 years until British archaeologists dug it up in the 1850s. We'd never heard of a great flood story before that tablet. Imagine what's still untranslated.",
+      "visual_keywords": [
+        "ancient clay tablets cuneiform",
+        "assyrian ruins nineveh",
+        "archaeological excavation iraq",
+        "old library artifacts"
+      ]
+    },
+    {
+      "topic": "The Immortal Cell Line — Henrietta Lacks and HeLa Cells",
+      "teaser": "A woman died from cancer in 1951 — but her cells never did, and without her knowledge or permission, they went on to fuel nearly every major medical breakthrough of the past 70 years.",
+      "video_title": "She Died in 1951. Her Cells Are Still Alive Today.",
+      "video_description": "Henrietta Lacks was a Black American woman whose cancer cells were harvested without consent in 1951. Those cells — dubbed HeLa — became the first immortal human cell line, contributing to the polio vaccine, cancer research, and COVID-19 treatments. Her family didn't learn of it until 1975.",
+      "tags": [
+        "henriettalacks",
+        "helacells",
+        "medicalhistory",
+        "scienceethics",
+        "cancerresearch",
+        "immortalcells",
+        "biology",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "Henrietta Lacks died of cervical cancer in 1951. But before she did, a doctor took a sample of her tumor without asking. Those cells did something no human cells had ever done — they refused to die. HeLa cells have been multiplying in laboratories for 73 years. They helped create the polio vaccine, early cancer treatments, and COVID-19 research. If you weighed every HeLa cell ever grown, it would exceed 50 million metric tons. Her family learned about it 24 years after her death. Was that science — or theft?",
+      "visual_keywords": [
+        "laboratory cell culture microscope",
+        "cancer cells magnified",
+        "medical research lab",
+        "vintage hospital 1950s"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Cicada 13-Year and 17-Year Prime Number Emergence",
-    "teaser": "Cicadas count prime numbers — and scientists still can't fully explain why.",
-    "video_title": "Cicadas Can Count Prime Numbers (Scientists Are Baffled)",
-    "video_description": "The Cicada 13-Year and 17-Year Prime Number Emergence\n\n#cicadas #primenumbers #evolution #insects #nature",
-    "tags": [
-      "cicadas",
-      "primenumbers",
-      "evolution",
-      "insects",
-      "nature",
-      "biology",
-      "sciencefacts",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "Billions of insects just vanished underground — and they set an alarm for exactly 17 years. Periodical cicadas emerge in cycles of either 13 or 17 years. Both prime numbers. No exceptions. Scientists believe they evolved this to outsmart predators — because no predator breeds on a 13 or 17-year cycle, they always catch prey off guard. An insect that never learned math somehow solved a problem mathematicians study. Does that change how you think about intelligence?",
-    "visual_keywords": [
-      "cicada swarm tree",
-      "insect emergence ground",
-      "forest summer",
-      "close up cicada wing"
-    ]
-  },
-  "hashtag_options": [
-    "cicadas",
-    "primenumbers",
-    "evolution",
-    "insects",
-    "nature",
-    "biology",
-    "sciencefacts",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 380,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-10-25T15:21:20.442641+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBfmrfTLLjRLnuveEtb3u-6dRQp2GvAAK9IQACGKIBUxsG7c36Or6FPQQ",
-  "review_started_at": "2026-10-26T12:50:59.119178+00:00",
-  "attempts": 1
+  ]
 }
