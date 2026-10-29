@@ -1,9 +1,9 @@
 {
   "batch_id": "20261027-1847",
   "trigger_date": "2026-10-27",
-  "message_id": 385,
+  "message_id": 388,
   "created_at": "2026-10-27T18:47:02.878386+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Capgras Delusion — Loved Ones Replaced by Imposters",
@@ -135,7 +135,7 @@
     "topic": "The Capgras Delusion — Loved Ones Replaced by Imposters",
     "teaser": "Some people wake up one day and become completely convinced that their family members have been secretly replaced by identical strangers — and no amount of proof can change their mind.",
     "video_title": "Your Brain Can Decide Your Family Are Imposters",
-    "video_description": "Capgras Delusion is a rare neurological condition where a person believes their loved ones have been replaced by identical impostors. It's not a choice or a lie — the brain physically disconnects facial recognition from emotional response.",
+    "video_description": "The Capgras Delusion — Loved Ones Replaced by Imposters\n\n#capgrasdelusion #braindisorders #neuroscience #psychology #mentalhealth",
     "tags": [
       "capgrasdelusion",
       "braindisorders",
@@ -169,6 +169,15 @@
     "facts"
   ],
   "hashtag_message_id": 386,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-28T19:21:16.884282+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-10-28T19:21:16.884282+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBhGrjaKOqKq0AAdEGBgIiKEMQy4xbWgAC3CIAAojUGVNSXqRob-ApQj0E",
+  "review_started_at": "2026-10-29T15:39:15.824554+00:00",
+  "attempts": 1
 }
