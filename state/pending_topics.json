@@ -1,183 +1,139 @@
 {
-  "batch_id": "20261027-1847",
-  "trigger_date": "2026-10-27",
-  "message_id": 388,
-  "created_at": "2026-10-27T18:47:02.878386+00:00",
-  "status": "done",
+  "batch_id": "20261031-1731",
+  "trigger_date": "2026-10-31",
+  "message_id": 391,
+  "created_at": "2026-10-31T17:31:53.607086+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Capgras Delusion — Loved Ones Replaced by Imposters",
-      "teaser": "Some people wake up one day and become completely convinced that their family members have been secretly replaced by identical strangers — and no amount of proof can change their mind.",
-      "video_title": "Your Brain Can Decide Your Family Are Imposters",
-      "video_description": "Capgras Delusion is a rare neurological condition where a person believes their loved ones have been replaced by identical impostors. It's not a choice or a lie — the brain physically disconnects facial recognition from emotional response.",
+      "topic": "The Antikythera Mechanism — Ancient Greek Computer",
+      "teaser": "A 2,000-year-old device was pulled from the sea — and it could predict the future.",
+      "video_title": "The 2,000-Year-Old Computer Found Underwater",
+      "video_description": "In 1901, divers discovered a corroded bronze lump off the coast of Greece. Decades later, scientists realized it was a fully functioning astronomical computer — built 2,000 years before anyone thought such technology existed. Nothing like it appeared again for over 1,400 years.",
       "tags": [
-        "capgrasdelusion",
-        "braindisorders",
-        "neuroscience",
-        "psychology",
-        "mentalhealth",
-        "humanbrain",
-        "rareconditions",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "A man woke up one morning, looked at his wife of 30 years, and calmly told doctors she was an imposter. Same face, same voice — but to him, a stranger. Capgras Delusion happens when the brain's facial recognition system disconnects from its emotional center. You see someone familiar but feel nothing, so your brain invents the only logical explanation: replacement. It's not psychosis. It's a wiring failure. The question is — how would you prove you're really you?",
-      "visual_keywords": [
-        "mirror reflection confused man",
-        "brain scan neurology",
-        "couple portrait",
-        "hospital patient"
-      ]
-    },
-    {
-      "topic": "The Dyeing Coral — Great Barrier Reef Bleaching Speed",
-      "teaser": "The largest living structure on Earth is vanishing at a speed scientists didn't think possible just a decade ago — and the timeline left is shorter than most people's mortgages.",
-      "video_title": "The World's Largest Living Thing Is Dying Fast",
-      "video_description": "The Great Barrier Reef has lost over 50% of its coral cover since 1995. Mass bleaching events now occur so frequently the reef can no longer recover between them. What was once a 10,000-year-old ecosystem may functionally collapse within decades.",
-      "tags": [
-        "greatbarrierreef",
-        "coralbleaching",
-        "oceanlife",
-        "climatechange",
-        "marineecology",
-        "underwaterworld",
-        "extinction",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "The Great Barrier Reef survived ice ages, meteor impacts, and five mass extinctions — then in 2022, it bleached for the fourth time in seven years. Coral bleaching happens when water gets too warm: the coral expels the algae keeping it alive and turns bone white. Below 30% cover, a reef cannot recover. The Great Barrier Reef is already at 50% loss since 1995. It is 2,300 kilometers long and visible from space. In fifty years, your grandchildren may only see it in photographs.",
-      "visual_keywords": [
-        "coral reef bleaching",
-        "great barrier reef aerial",
-        "white dead coral underwater",
-        "ocean warming"
-      ]
-    },
-    {
-      "topic": "The Hexagon Storm — Saturn's Geometric Hurricane",
-      "teaser": "There is a perfectly geometric six-sided storm on Saturn that has been spinning continuously for at least 40 years — and nobody fully understands why nature drew a hexagon in space.",
-      "video_title": "Saturn Has a Perfect Hexagon Bigger Than Earth",
-      "video_description": "Saturn's north pole hosts a hurricane-shaped hexagonal storm roughly 30,000 kilometers wide — large enough to swallow four Earths. Discovered by Voyager in 1981, it has persisted for decades and changes color with Saturn's seasons, shifting from blue to gold.",
-      "tags": [
-        "saturn",
-        "hexagonstorm",
-        "spacefacts",
-        "planets",
-        "solarsystem",
-        "astronomy",
-        "nasadiscovery",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "There is a six-sided storm on Saturn so geometrically perfect it looks computer-generated. Each side is longer than Earth's diameter. It has been spinning nonstop since at least 1981, when Voyager first photographed it — and we still cannot fully explain why fluid dynamics produce a hexagon instead of a circle. It shifts color from blue to gold as Saturn's seasons change. Whatever is driving that shape has lasted longer than most human civilizations. Nature drew a hexagon 1.4 billion kilometers away. Why?",
-      "visual_keywords": [
-        "saturn north pole hexagon",
-        "saturn storm space",
-        "planet atmosphere closeup",
-        "voyager spacecraft"
-      ]
-    },
-    {
-      "topic": "The Library of Ashurbanipal — World's First Organized Archive",
-      "teaser": "Over 2,600 years ago, one Assyrian king became so obsessed with collecting all human knowledge that he essentially invented the concept of a library — and the tablets he buried still hold stories we haven't finished translating.",
-      "video_title": "He Collected Every Book on Earth — in 650 BC",
-      "video_description": "King Ashurbanipal of Assyria assembled over 30,000 clay tablets in Nineveh around 650 BC, creating humanity's first systematically organized library. Among them was the Epic of Gilgamesh — the world's oldest written story. The library was buried for 2,500 years before archaeologists uncovered it in the 1850s.",
-      "tags": [
-        "ashurbanipal",
-        "ancienthistory",
-        "mesopotamia",
-        "firstlibrary",
-        "cuneiform",
-        "gilgamesh",
+        "antikytheramechanism",
+        "ancientgreece",
+        "ancientcomputer",
         "archaeology",
+        "history",
+        "astronomy",
         "shorts",
         "viral",
-        "facts"
+        "facts",
+        "didyouknow"
       ],
-      "script": "In 650 BC, a king sent royal agents across the known world with one order: copy every text that exists and bring it to me. King Ashurbanipal of Assyria built a library of over 30,000 clay tablets — catalogued, shelved, and indexed. Inside was the Epic of Gilgamesh, humanity's oldest written story, buried for 2,500 years until British archaeologists dug it up in the 1850s. We'd never heard of a great flood story before that tablet. Imagine what's still untranslated.",
+      "script": "In 1901, divers pulled a corroded bronze lump from a Roman shipwreck near Greece. Nobody knew what it was — for decades. Then X-ray scans revealed something impossible: a fully functioning astronomical computer with 37 interlocking gears, built over 2,000 years ago. It could predict solar eclipses, track planetary motion, and calculate dates decades in advance. Nothing remotely like it appeared again for 1,400 years. So who actually built it — and what else did they know?",
       "visual_keywords": [
-        "ancient clay tablets cuneiform",
-        "assyrian ruins nineveh",
-        "archaeological excavation iraq",
-        "old library artifacts"
+        "ancient bronze mechanism gears",
+        "underwater archaeology",
+        "greek ruins",
+        "antique clock mechanism",
+        "museum artifact"
       ]
     },
     {
-      "topic": "The Immortal Cell Line — Henrietta Lacks and HeLa Cells",
-      "teaser": "A woman died from cancer in 1951 — but her cells never did, and without her knowledge or permission, they went on to fuel nearly every major medical breakthrough of the past 70 years.",
-      "video_title": "She Died in 1951. Her Cells Are Still Alive Today.",
-      "video_description": "Henrietta Lacks was a Black American woman whose cancer cells were harvested without consent in 1951. Those cells — dubbed HeLa — became the first immortal human cell line, contributing to the polio vaccine, cancer research, and COVID-19 treatments. Her family didn't learn of it until 1975.",
+      "topic": "The Smell of Death — Cadaverine",
+      "teaser": "Your body starts producing a chemical that only corpses make — and it happens while you're still alive.",
+      "video_title": "Your Body Makes a Death Chemical Right Now",
+      "video_description": "Cadaverine is the molecule responsible for the unmistakable smell of decomposing flesh. What most people don't know is that living human bodies produce it too — in saliva, urine, and even breath. It's one of the chemicals that makes bad breath smell the way it does.",
       "tags": [
-        "henriettalacks",
-        "helacells",
-        "medicalhistory",
-        "scienceethics",
-        "cancerresearch",
-        "immortalcells",
+        "humanbody",
         "biology",
+        "cadaverine",
+        "bodyscience",
+        "chemistry",
+        "grossfacts",
         "shorts",
         "viral",
+        "facts",
+        "didyouknow"
+      ],
+      "script": "Right now, your body is producing a chemical that scientists named after corpses. It's called cadaverine — the molecule responsible for the unmistakable stench of rotting flesh. But it doesn't only come from the dead. Your saliva, urine, and breath generate it continuously. It's one of the primary compounds behind bad breath. Your body has been quietly making a death molecule your entire life — and you had no idea.",
+      "visual_keywords": [
+        "human body cells microscope",
+        "laboratory chemistry",
+        "biology science",
+        "molecular structure",
+        "research lab"
+      ]
+    },
+    {
+      "topic": "The Soviet Lake That Became a Nuclear Dump — Lake Karachay",
+      "teaser": "There's a lake in Russia where standing on the shore for just one hour will kill you.",
+      "video_title": "The Most Polluted Lake on Earth Will Kill You Fast",
+      "video_description": "Lake Karachay in Russia's Ural Mountains was used as a nuclear waste dump by the Soviet Union for decades. By the 1990s, standing on its shore for just 60 minutes would expose a person to a lethal radiation dose. In 1968, a drought caused radioactive dust to spread across half a million people.",
+      "tags": [
+        "lakekarachay",
+        "nuclear",
+        "sovietunion",
+        "radiation",
+        "coldwar",
+        "environmentaldisaster",
+        "shorts",
+        "viral",
+        "trending",
         "facts"
       ],
-      "script": "Henrietta Lacks died of cervical cancer in 1951. But before she did, a doctor took a sample of her tumor without asking. Those cells did something no human cells had ever done — they refused to die. HeLa cells have been multiplying in laboratories for 73 years. They helped create the polio vaccine, early cancer treatments, and COVID-19 research. If you weighed every HeLa cell ever grown, it would exceed 50 million metric tons. Her family learned about it 24 years after her death. Was that science — or theft?",
+      "script": "There is a lake in Russia where standing on the shoreline for exactly one hour delivers a lethal radiation dose. Lake Karachay was used as a Soviet nuclear waste dump for decades starting in 1951. By the 1990s, scientists measured it as the most polluted spot on Earth. In 1968, a single drought caused radioactive dust to blow across 400,000 people. The Soviets eventually filled it with concrete — because draining it was too dangerous. What else did the Cold War bury?",
       "visual_keywords": [
-        "laboratory cell culture microscope",
-        "cancer cells magnified",
-        "medical research lab",
-        "vintage hospital 1950s"
+        "nuclear waste lake",
+        "radioactive landscape",
+        "soviet industrial ruins",
+        "contaminated water",
+        "radiation warning sign"
+      ]
+    },
+    {
+      "topic": "The Teeth That Keep Growing — Continuously Erupting Teeth in Elephants",
+      "teaser": "Elephants don't get cavities — but when their last tooth wears out, they quietly starve to death.",
+      "video_title": "Elephants Die Because They Run Out of Teeth",
+      "video_description": "Unlike humans, elephants cycle through six sets of teeth over their lifetime. Each set moves forward like a conveyor belt as the previous one wears down. When the sixth and final set is gone — usually around age 60 to 70 — the elephant can no longer chew and slowly dies of starvation.",
+      "tags": [
+        "elephants",
+        "animalbiology",
+        "wildlife",
+        "animalkingdom",
+        "nature",
+        "wildlifefacts",
+        "shorts",
+        "viral",
+        "facts",
+        "didyouknow"
+      ],
+      "script": "Elephants don't die of old age the way you think. They die because they run out of teeth. An elephant cycles through six sets of molars in its lifetime — each one moving forward like a conveyor belt as the last wears down. Around age 65, the sixth set is gone. The elephant can no longer chew. It slowly starves. Their entire lifespan is essentially determined by a single biological countdown. Six sets. Then nothing.",
+      "visual_keywords": [
+        "elephant close up mouth",
+        "elephant eating grass",
+        "wildlife africa",
+        "animal teeth macro",
+        "elephant herd savanna"
+      ]
+    },
+    {
+      "topic": "The Village Where Everyone Falls Asleep — Kalachi Sleeping Sickness",
+      "teaser": "In a small Kazakh village, people randomly fall unconscious for days — and doctors still have no explanation.",
+      "video_title": "The Village Where People Keep Falling Asleep",
+      "video_description": "In Kalachi, Kazakhstan, hundreds of residents mysteriously fell asleep for days at a time between 2010 and 2015 — waking up with no memory and sometimes hallucinating. The cause stumped scientists for years. The leading theory involves a nearby abandoned uranium mine, but the full explanation remains contested.",
+      "tags": [
+        "kalachi",
+        "sleepingsickness",
+        "kazakhstan",
+        "mysterydisease",
+        "strangebuthrue",
+        "medicalhistory",
+        "shorts",
+        "viral",
+        "trending",
+        "facts"
+      ],
+      "script": "Between 2010 and 2015, residents of Kalachi — a small village in Kazakhstan — randomly collapsed and slept for days. Not metaphorically. They would fall unconscious mid-sentence, mid-walk, mid-meal. They'd wake up hallucinating, with no memory of the lost days. Over 130 people were affected across 14 separate episodes. Scientists suspected a nearby Soviet uranium mine was releasing carbon monoxide and hydrocarbons underground. But Kalachi was eventually abandoned — because nobody could guarantee it would stop.",
+      "visual_keywords": [
+        "abandoned village kazakhstan",
+        "sleeping person unconscious",
+        "remote village steppe",
+        "uranium mine ruins",
+        "central asia landscape"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Capgras Delusion — Loved Ones Replaced by Imposters",
-    "teaser": "Some people wake up one day and become completely convinced that their family members have been secretly replaced by identical strangers — and no amount of proof can change their mind.",
-    "video_title": "Your Brain Can Decide Your Family Are Imposters",
-    "video_description": "The Capgras Delusion — Loved Ones Replaced by Imposters\n\n#capgrasdelusion #braindisorders #neuroscience #psychology #mentalhealth",
-    "tags": [
-      "capgrasdelusion",
-      "braindisorders",
-      "neuroscience",
-      "psychology",
-      "mentalhealth",
-      "humanbrain",
-      "rareconditions",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "A man woke up one morning, looked at his wife of 30 years, and calmly told doctors she was an imposter. Same face, same voice — but to him, a stranger. Capgras Delusion happens when the brain's facial recognition system disconnects from its emotional center. You see someone familiar but feel nothing, so your brain invents the only logical explanation: replacement. It's not psychosis. It's a wiring failure. The question is — how would you prove you're really you?",
-    "visual_keywords": [
-      "mirror reflection confused man",
-      "brain scan neurology",
-      "couple portrait",
-      "hospital patient"
-    ]
-  },
-  "hashtag_options": [
-    "capgrasdelusion",
-    "braindisorders",
-    "neuroscience",
-    "psychology",
-    "mentalhealth",
-    "humanbrain",
-    "rareconditions",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 386,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-10-28T19:21:16.884282+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBhGrjaKOqKq0AAdEGBgIiKEMQy4xbWgAC3CIAAojUGVNSXqRob-ApQj0E",
-  "review_started_at": "2026-10-29T15:39:15.824554+00:00",
-  "attempts": 1
+  ]
 }
