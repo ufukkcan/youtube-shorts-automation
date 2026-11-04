@@ -1,189 +1,134 @@
 {
-  "batch_id": "20261031-1731",
-  "trigger_date": "2026-10-31",
-  "message_id": 394,
-  "created_at": "2026-10-31T17:31:53.607086+00:00",
-  "status": "done",
+  "batch_id": "20261104-1729",
+  "trigger_date": "2026-11-04",
+  "message_id": 397,
+  "created_at": "2026-11-04T17:29:48.433735+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Antikythera Mechanism — Ancient Greek Computer",
-      "teaser": "A 2,000-year-old device was pulled from the sea — and it could predict the future.",
-      "video_title": "The 2,000-Year-Old Computer Found Underwater",
-      "video_description": "In 1901, divers discovered a corroded bronze lump off the coast of Greece. Decades later, scientists realized it was a fully functioning astronomical computer — built 2,000 years before anyone thought such technology existed. Nothing like it appeared again for over 1,400 years.",
+      "topic": "The Gaviotas Experiment — Rainforest Grown From Scratch",
+      "teaser": "A group of scientists turned a barren, lifeless plain into a thriving rainforest — and they did it in just 20 years.",
+      "video_title": "They Grew a Rainforest From Nothing in 20 Years",
+      "video_description": "In the Colombian savanna, a small eco-village called Gaviotas did what experts said was impossible — they restored an ancient rainforest on dead soil. The trees came back, then the animals, then the rain itself. Science has no full explanation for how it spread so fast.",
       "tags": [
-        "antikytheramechanism",
-        "ancientgreece",
-        "ancientcomputer",
-        "archaeology",
-        "history",
-        "astronomy",
-        "shorts",
-        "viral",
-        "facts",
-        "didyouknow"
-      ],
-      "script": "In 1901, divers pulled a corroded bronze lump from a Roman shipwreck near Greece. Nobody knew what it was — for decades. Then X-ray scans revealed something impossible: a fully functioning astronomical computer with 37 interlocking gears, built over 2,000 years ago. It could predict solar eclipses, track planetary motion, and calculate dates decades in advance. Nothing remotely like it appeared again for 1,400 years. So who actually built it — and what else did they know?",
-      "visual_keywords": [
-        "ancient bronze mechanism gears",
-        "underwater archaeology",
-        "greek ruins",
-        "antique clock mechanism",
-        "museum artifact"
-      ]
-    },
-    {
-      "topic": "The Smell of Death — Cadaverine",
-      "teaser": "Your body starts producing a chemical that only corpses make — and it happens while you're still alive.",
-      "video_title": "Your Body Makes a Death Chemical Right Now",
-      "video_description": "Cadaverine is the molecule responsible for the unmistakable smell of decomposing flesh. What most people don't know is that living human bodies produce it too — in saliva, urine, and even breath. It's one of the chemicals that makes bad breath smell the way it does.",
-      "tags": [
-        "humanbody",
-        "biology",
-        "cadaverine",
-        "bodyscience",
-        "chemistry",
-        "grossfacts",
-        "shorts",
-        "viral",
-        "facts",
-        "didyouknow"
-      ],
-      "script": "Right now, your body is producing a chemical that scientists named after corpses. It's called cadaverine — the molecule responsible for the unmistakable stench of rotting flesh. But it doesn't only come from the dead. Your saliva, urine, and breath generate it continuously. It's one of the primary compounds behind bad breath. Your body has been quietly making a death molecule your entire life — and you had no idea.",
-      "visual_keywords": [
-        "human body cells microscope",
-        "laboratory chemistry",
-        "biology science",
-        "molecular structure",
-        "research lab"
-      ]
-    },
-    {
-      "topic": "The Soviet Lake That Became a Nuclear Dump — Lake Karachay",
-      "teaser": "There's a lake in Russia where standing on the shore for just one hour will kill you.",
-      "video_title": "The Most Polluted Lake on Earth Will Kill You Fast",
-      "video_description": "Lake Karachay in Russia's Ural Mountains was used as a nuclear waste dump by the Soviet Union for decades. By the 1990s, standing on its shore for just 60 minutes would expose a person to a lethal radiation dose. In 1968, a drought caused radioactive dust to spread across half a million people.",
-      "tags": [
-        "lakekarachay",
-        "nuclear",
-        "sovietunion",
-        "radiation",
-        "coldwar",
-        "environmentaldisaster",
-        "shorts",
-        "viral",
-        "trending",
-        "facts"
-      ],
-      "script": "There is a lake in Russia where standing on the shoreline for exactly one hour delivers a lethal radiation dose. Lake Karachay was used as a Soviet nuclear waste dump for decades starting in 1951. By the 1990s, scientists measured it as the most polluted spot on Earth. In 1968, a single drought caused radioactive dust to blow across 400,000 people. The Soviets eventually filled it with concrete — because draining it was too dangerous. What else did the Cold War bury?",
-      "visual_keywords": [
-        "nuclear waste lake",
-        "radioactive landscape",
-        "soviet industrial ruins",
-        "contaminated water",
-        "radiation warning sign"
-      ]
-    },
-    {
-      "topic": "The Teeth That Keep Growing — Continuously Erupting Teeth in Elephants",
-      "teaser": "Elephants don't get cavities — but when their last tooth wears out, they quietly starve to death.",
-      "video_title": "Elephants Die Because They Run Out of Teeth",
-      "video_description": "Unlike humans, elephants cycle through six sets of teeth over their lifetime. Each set moves forward like a conveyor belt as the previous one wears down. When the sixth and final set is gone — usually around age 60 to 70 — the elephant can no longer chew and slowly dies of starvation.",
-      "tags": [
-        "elephants",
-        "animalbiology",
-        "wildlife",
-        "animalkingdom",
+        "gaviotas",
+        "rainforest",
+        "ecology",
+        "colombia",
+        "reforestation",
+        "environment",
         "nature",
-        "wildlifefacts",
         "shorts",
         "viral",
-        "facts",
-        "didyouknow"
+        "facts"
       ],
-      "script": "Elephants don't die of old age the way you think. They die because they run out of teeth. An elephant cycles through six sets of molars in its lifetime — each one moving forward like a conveyor belt as the last wears down. Around age 65, the sixth set is gone. The elephant can no longer chew. It slowly starves. Their entire lifespan is essentially determined by a single biological countdown. Six sets. Then nothing.",
+      "script": "Scientists said nothing could grow there — the soil was dead, the land completely barren. But in 1971, a small Colombian village called Gaviotas planted a single species of pine on the savanna. Within 20 years, something impossible happened. Ancient rainforest species that had been gone for centuries started returning on their own — plants, insects, jaguars. The pines hadn't grown a forest. They had woken one up. So what exactly was sleeping beneath that soil?",
       "visual_keywords": [
-        "elephant close up mouth",
-        "elephant eating grass",
-        "wildlife africa",
-        "animal teeth macro",
-        "elephant herd savanna"
+        "tropical rainforest aerial view",
+        "reforestation green landscape",
+        "Colombia savanna",
+        "dense jungle canopy"
       ]
     },
     {
-      "topic": "The Village Where Everyone Falls Asleep — Kalachi Sleeping Sickness",
-      "teaser": "In a small Kazakh village, people randomly fall unconscious for days — and doctors still have no explanation.",
-      "video_title": "The Village Where People Keep Falling Asleep",
-      "video_description": "In Kalachi, Kazakhstan, hundreds of residents mysteriously fell asleep for days at a time between 2010 and 2015 — waking up with no memory and sometimes hallucinating. The cause stumped scientists for years. The leading theory involves a nearby abandoned uranium mine, but the full explanation remains contested.",
+      "topic": "The Taos Hum Twin — Kokomo Hum Indiana",
+      "teaser": "Hundreds of people in one small American town heard a sound that drove them to madness — but microphones recorded nothing.",
+      "video_title": "A Sound Only Some People Can Hear Is Destroying Lives",
+      "video_description": "In Kokomo, Indiana, residents reported a relentless low-frequency hum that caused nosebleeds, dizziness, and chronic pain. Scientists investigated for years. They found two industrial sources — but turning them off changed nothing. Some people still hear it today.",
       "tags": [
-        "kalachi",
-        "sleepingsickness",
-        "kazakhstan",
-        "mysterydisease",
-        "strangebuthrue",
-        "medicalhistory",
+        "kokomohum",
+        "mysterioussound",
+        "lowfrequency",
+        "unexplained",
+        "mystery",
+        "science",
+        "paranormal",
         "shorts",
         "viral",
-        "trending",
+        "didyouknow"
+      ],
+      "script": "In 2000, people across Kokomo, Indiana started going insane from a sound no recording device could capture. Nosebleeds, joint pain, crippling headaches — all from a hum only some residents could hear. Scientists spent years investigating. They found two industrial sources and shut them down. The hum kept going. Roughly 2 percent of humans can perceive frequencies others physically cannot. But here's what no one has answered: why does it only get louder at night?",
+      "visual_keywords": [
+        "empty quiet street night",
+        "sound wave frequency visualization",
+        "suburban neighborhood USA",
+        "ear close up"
+      ]
+    },
+    {
+      "topic": "The Patagonian Toothfish Rename — Marketing Changed Everything",
+      "teaser": "One of the most popular fish on the planet was completely unsellable — until someone simply changed its name.",
+      "video_title": "They Renamed This Fish and Made Millions Overnight",
+      "video_description": "The Patagonian toothfish was considered worthless and impossible to sell for decades. In 1977, a fish wholesaler renamed it 'Chilean sea bass' — a fish that isn't a bass and isn't always from Chile. It became one of the most expensive items on restaurant menus worldwide within a decade.",
+      "tags": [
+        "chileanseabass",
+        "foodhistory",
+        "marketingtrick",
+        "patagonia",
+        "fish",
+        "foodscience",
+        "consumerpsychology",
+        "shorts",
+        "viral",
         "facts"
       ],
-      "script": "Between 2010 and 2015, residents of Kalachi — a small village in Kazakhstan — randomly collapsed and slept for days. Not metaphorically. They would fall unconscious mid-sentence, mid-walk, mid-meal. They'd wake up hallucinating, with no memory of the lost days. Over 130 people were affected across 14 separate episodes. Scientists suspected a nearby Soviet uranium mine was releasing carbon monoxide and hydrocarbons underground. But Kalachi was eventually abandoned — because nobody could guarantee it would stop.",
+      "script": "This fish sat rotting in markets for decades because nobody would buy it. The name alone killed every sale — Patagonian toothfish. In 1977, a Los Angeles fish wholesaler renamed it Chilean sea bass. It's not a bass. It's not always from Chile. Didn't matter. Within ten years it was on the menus of the world's finest restaurants at forty dollars a plate. The fish hadn't changed at all. So what does that tell you about every other choice you think you're making freely?",
       "visual_keywords": [
-        "abandoned village kazakhstan",
-        "sleeping person unconscious",
-        "remote village steppe",
-        "uranium mine ruins",
-        "central asia landscape"
+        "fish market seafood display",
+        "restaurant fine dining plate",
+        "fish underwater ocean",
+        "menu close up"
+      ]
+    },
+    {
+      "topic": "The Last Breath of Julius Caesar — Carbon in Every Room",
+      "teaser": "With every single breath you take right now, you are almost certainly inhaling atoms that were once inside Julius Caesar.",
+      "video_title": "You're Breathing Julius Caesar Right Now",
+      "video_description": "Every breath contains roughly 10 sextillion air molecules. Caesar's dying breath has had over 2,000 years to mix into Earth's atmosphere. The math is unambiguous — statistically, at least one atom from that breath is in your lungs at this very moment. And not just Caesar's.",
+      "tags": [
+        "juliuscaesar",
+        "atomscience",
+        "chemistry",
+        "history",
+        "humanbreath",
+        "physics",
+        "ancientrome",
+        "shorts",
+        "viral",
+        "mindblowing"
+      ],
+      "script": "Right now, in your lungs, there are atoms that were inside Julius Caesar when he was stabbed 23 times in 44 BC. This isn't a metaphor — it's atmospheric chemistry. Each breath you take holds around 10 sextillion molecules. Caesar's last exhale has had over 2,000 years to distribute evenly across Earth's atmosphere. The math says at least one of those atoms is inside you right now. And not just Caesar — every person who ever lived.",
+      "visual_keywords": [
+        "ancient rome senate",
+        "human breathing close up",
+        "atom molecule visualization",
+        "air atmosphere earth"
+      ]
+    },
+    {
+      "topic": "The Ursula Burns Xerox Story — Intern to CEO",
+      "teaser": "She told the CEO of Xerox he was wrong — to his face, in a room full of executives. Two decades later, she replaced him.",
+      "video_title": "She Told the CEO He Was Wrong — Then Became Him",
+      "video_description": "In 1989, Ursula Burns, a young Black engineer at Xerox, openly challenged a senior executive during a meeting. Instead of being fired, she was noticed, mentored, and placed on a leadership track. In 2009, she became CEO of Xerox — the first Black woman to lead a Fortune 500 company in US history.",
+      "tags": [
+        "ursulabums",
+        "xerox",
+        "ceo",
+        "businesshistory",
+        "firstblackwomanceo",
+        "leadership",
+        "fortune500",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "In 1989, a young Black engineer at Xerox stood up in a meeting and told a senior vice president he was flat wrong — in front of everyone. Most people would have been quietly removed. Instead, Xerox's CEO heard about it and personally requested to mentor her. Twenty years later, Ursula Burns sat in that CEO's chair herself, becoming the first Black woman to lead a Fortune 500 company in American history. The question is: how many people stayed silent in that same room and went nowhere?",
+      "visual_keywords": [
+        "corporate boardroom meeting",
+        "office executive woman leader",
+        "Xerox printer office",
+        "business success professional"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Antikythera Mechanism — Ancient Greek Computer",
-    "teaser": "A 2,000-year-old device was pulled from the sea — and it could predict the future.",
-    "video_title": "The 2,000-Year-Old Computer Found Underwater",
-    "video_description": "The Antikythera Mechanism — Ancient Greek Computer\n\n#antikytheramechanism #ancientgreece #ancientcomputer #archaeology #history",
-    "tags": [
-      "antikytheramechanism",
-      "ancientgreece",
-      "ancientcomputer",
-      "archaeology",
-      "history",
-      "astronomy",
-      "shorts",
-      "viral",
-      "facts",
-      "didyouknow"
-    ],
-    "script": "In 1901, divers pulled a corroded bronze lump from a Roman shipwreck near Greece. Nobody knew what it was — for decades. Then X-ray scans revealed something impossible: a fully functioning astronomical computer with 37 interlocking gears, built over 2,000 years ago. It could predict solar eclipses, track planetary motion, and calculate dates decades in advance. Nothing remotely like it appeared again for 1,400 years. So who actually built it — and what else did they know?",
-    "visual_keywords": [
-      "ancient bronze mechanism gears",
-      "underwater archaeology",
-      "greek ruins",
-      "antique clock mechanism",
-      "museum artifact"
-    ]
-  },
-  "hashtag_options": [
-    "antikytheramechanism",
-    "ancientgreece",
-    "ancientcomputer",
-    "archaeology",
-    "history",
-    "astronomy",
-    "shorts",
-    "viral",
-    "facts",
-    "didyouknow"
-  ],
-  "hashtag_message_id": 392,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-11-01T16:20:27.419390+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBimro718VZMkrKPqihz9wgNWOL1INAALgIQAC0LVAU2r2-dbF1VGQPQQ",
-  "review_started_at": "2026-11-02T20:15:28.068236+00:00",
-  "attempts": 1
+  ]
 }
