@@ -1,9 +1,9 @@
 {
   "batch_id": "20261104-1729",
   "trigger_date": "2026-11-04",
-  "message_id": 397,
+  "message_id": 400,
   "created_at": "2026-11-04T17:29:48.433735+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Gaviotas Experiment — Rainforest Grown From Scratch",
@@ -135,7 +135,7 @@
     "topic": "The Gaviotas Experiment — Rainforest Grown From Scratch",
     "teaser": "A group of scientists turned a barren, lifeless plain into a thriving rainforest — and they did it in just 20 years.",
     "video_title": "They Grew a Rainforest From Nothing in 20 Years",
-    "video_description": "In the Colombian savanna, a small eco-village called Gaviotas did what experts said was impossible — they restored an ancient rainforest on dead soil. The trees came back, then the animals, then the rain itself. Science has no full explanation for how it spread so fast.",
+    "video_description": "The Gaviotas Experiment — Rainforest Grown From Scratch\n\n#gaviotas #rainforest #ecology #colombia #reforestation",
     "tags": [
       "gaviotas",
       "rainforest",
@@ -169,6 +169,15 @@
     "facts"
   ],
   "hashtag_message_id": 398,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-11-05T17:44:59.115483+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-11-05T17:44:59.115483+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBkGruUZDPya4Q95A2ijxIuBgXJFdUAAJ8IAACe3BwUyiUN-3qZbtZPQQ",
+  "review_started_at": "2026-11-06T22:15:44.227171+00:00",
+  "attempts": 1
 }
