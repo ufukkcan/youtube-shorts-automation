@@ -1,183 +1,139 @@
 {
-  "batch_id": "20261104-1729",
-  "trigger_date": "2026-11-04",
-  "message_id": 400,
-  "created_at": "2026-11-04T17:29:48.433735+00:00",
-  "status": "done",
+  "batch_id": "20261108-1455",
+  "trigger_date": "2026-11-08",
+  "message_id": 403,
+  "created_at": "2026-11-08T14:55:18.598416+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Gaviotas Experiment — Rainforest Grown From Scratch",
-      "teaser": "A group of scientists turned a barren, lifeless plain into a thriving rainforest — and they did it in just 20 years.",
-      "video_title": "They Grew a Rainforest From Nothing in 20 Years",
-      "video_description": "In the Colombian savanna, a small eco-village called Gaviotas did what experts said was impossible — they restored an ancient rainforest on dead soil. The trees came back, then the animals, then the rain itself. Science has no full explanation for how it spread so fast.",
+      "topic": "The Man Who Survived Two Atomic Bombs — Tsutomu Yamaguchi",
+      "teaser": "One man was at ground zero for both Hiroshima and Nagasaki — and lived to 93. How is that even possible?",
+      "video_title": "He Survived Both Atomic Bombs (True Story)",
+      "video_description": "Tsutomu Yamaguchi was on a business trip in Hiroshima when the first bomb dropped. He returned home to Nagasaki just in time for the second. This is the story of history's unluckiest — or luckiest — man.",
       "tags": [
-        "gaviotas",
-        "rainforest",
-        "ecology",
-        "colombia",
-        "reforestation",
-        "environment",
-        "nature",
+        "tsutomuyamaguchi",
+        "atomicbomb",
+        "hiroshima",
+        "nagasaki",
+        "wwii",
+        "history",
+        "survivor",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Scientists said nothing could grow there — the soil was dead, the land completely barren. But in 1971, a small Colombian village called Gaviotas planted a single species of pine on the savanna. Within 20 years, something impossible happened. Ancient rainforest species that had been gone for centuries started returning on their own — plants, insects, jaguars. The pines hadn't grown a forest. They had woken one up. So what exactly was sleeping beneath that soil?",
+      "script": "This man was standing 3 kilometers from the Hiroshima bomb when it detonated — burned, deafened, barely alive. So he did what anyone would do: he went home. Home was Nagasaki. Three days later, the second bomb dropped while he was describing the first one to his boss. Both blasts. Same man. Tsutomu Yamaguchi was officially recognized as a double survivor by the Japanese government in 2009. He died at 93. Was he the unluckiest human in history — or the luckiest?",
       "visual_keywords": [
-        "tropical rainforest aerial view",
-        "reforestation green landscape",
-        "Colombia savanna",
-        "dense jungle canopy"
+        "atomic bomb explosion",
+        "Hiroshima ruins",
+        "nuclear mushroom cloud",
+        "Japan 1945",
+        "war survivor"
       ]
     },
     {
-      "topic": "The Taos Hum Twin — Kokomo Hum Indiana",
-      "teaser": "Hundreds of people in one small American town heard a sound that drove them to madness — but microphones recorded nothing.",
-      "video_title": "A Sound Only Some People Can Hear Is Destroying Lives",
-      "video_description": "In Kokomo, Indiana, residents reported a relentless low-frequency hum that caused nosebleeds, dizziness, and chronic pain. Scientists investigated for years. They found two industrial sources — but turning them off changed nothing. Some people still hear it today.",
+      "topic": "The Turritopsis Nutricula Colony — Coral That Votes",
+      "teaser": "There's an animal on the ocean floor that makes group decisions without a single brain cell — and it outvotes us every time.",
+      "video_title": "This Animal Has No Brain But Makes Decisions",
+      "video_description": "Coral reefs aren't just structures — they're superorganisms capable of collective behavior. Scientists discovered that coral colonies coordinate responses to threats in ways that look disturbingly like decision-making, despite having zero neurons.",
       "tags": [
-        "kokomohum",
-        "mysterioussound",
-        "lowfrequency",
-        "unexplained",
-        "mystery",
-        "science",
-        "paranormal",
+        "coral",
+        "marinelife",
+        "oceanscience",
+        "superorganism",
+        "biology",
+        "noearbrain",
+        "nature",
         "shorts",
         "viral",
         "didyouknow"
       ],
-      "script": "In 2000, people across Kokomo, Indiana started going insane from a sound no recording device could capture. Nosebleeds, joint pain, crippling headaches — all from a hum only some residents could hear. Scientists spent years investigating. They found two industrial sources and shut them down. The hum kept going. Roughly 2 percent of humans can perceive frequencies others physically cannot. But here's what no one has answered: why does it only get louder at night?",
+      "script": "Coral has no brain, no eyes, no nervous system whatsoever — and yet an entire reef colony can coordinate a response to a predator within seconds. Scientists filmed thousands of individual polyps retracting in a synchronized wave, moving information across meters of reef with no neurons at all. They use chemical signals that act like a vote — majority rules, the whole colony reacts. Something with zero intelligence is making faster group decisions than most human committees. Does that say more about coral, or about us?",
       "visual_keywords": [
-        "empty quiet street night",
-        "sound wave frequency visualization",
-        "suburban neighborhood USA",
-        "ear close up"
+        "coral reef underwater",
+        "ocean polyps closeup",
+        "marine biology",
+        "reef ecosystem",
+        "underwater wildlife"
       ]
     },
     {
-      "topic": "The Patagonian Toothfish Rename — Marketing Changed Everything",
-      "teaser": "One of the most popular fish on the planet was completely unsellable — until someone simply changed its name.",
-      "video_title": "They Renamed This Fish and Made Millions Overnight",
-      "video_description": "The Patagonian toothfish was considered worthless and impossible to sell for decades. In 1977, a fish wholesaler renamed it 'Chilean sea bass' — a fish that isn't a bass and isn't always from Chile. It became one of the most expensive items on restaurant menus worldwide within a decade.",
+      "topic": "The Philadelphia Experiment — USS Eldridge Invisibility Claim",
+      "teaser": "The U.S. Navy allegedly made a warship disappear in 1943 — and what supposedly happened to the crew is far darker than invisibility.",
+      "video_title": "The Navy Ship That Vanished — Then Reappeared",
+      "video_description": "In October 1943, the USS Eldridge allegedly turned invisible, teleported from Philadelphia to Norfolk, and reappeared with sailors fused into the hull. The Navy denied everything. The story refuses to die.",
       "tags": [
-        "chileanseabass",
-        "foodhistory",
-        "marketingtrick",
-        "patagonia",
-        "fish",
-        "foodscience",
-        "consumerpsychology",
+        "philadelphiaexperiment",
+        "usseldridge",
+        "navyexperiment",
+        "conspiracy",
+        "worldwar2",
+        "mystery",
+        "paranormal",
         "shorts",
         "viral",
-        "facts"
+        "trending"
       ],
-      "script": "This fish sat rotting in markets for decades because nobody would buy it. The name alone killed every sale — Patagonian toothfish. In 1977, a Los Angeles fish wholesaler renamed it Chilean sea bass. It's not a bass. It's not always from Chile. Didn't matter. Within ten years it was on the menus of the world's finest restaurants at forty dollars a plate. The fish hadn't changed at all. So what does that tell you about every other choice you think you're making freely?",
+      "script": "In October 1943, the USS Eldridge allegedly vanished from Philadelphia Harbor — witnesses on a nearby ship watched it disappear, then reappear 400 kilometers away in Norfolk, Virginia, within minutes. When it returned, sailors were reportedly found embedded in the steel hull, others went permanently insane. The Navy erased Eldridge's logs for that date. One witness, Carl Allen, spent decades annotating a physics book with handwritten claims linking it to Einstein's unified field theory. The Navy still says none of it happened. So why are those logs missing?",
       "visual_keywords": [
-        "fish market seafood display",
-        "restaurant fine dining plate",
-        "fish underwater ocean",
-        "menu close up"
+        "warship at sea",
+        "navy destroyer 1940s",
+        "Philadelphia harbor",
+        "military experiment",
+        "ocean fog ship"
       ]
     },
     {
-      "topic": "The Last Breath of Julius Caesar — Carbon in Every Room",
-      "teaser": "With every single breath you take right now, you are almost certainly inhaling atoms that were once inside Julius Caesar.",
-      "video_title": "You're Breathing Julius Caesar Right Now",
-      "video_description": "Every breath contains roughly 10 sextillion air molecules. Caesar's dying breath has had over 2,000 years to mix into Earth's atmosphere. The math is unambiguous — statistically, at least one atom from that breath is in your lungs at this very moment. And not just Caesar's.",
+      "topic": "The Cosmic Microwave Background — You Can Hear the Big Bang",
+      "teaser": "A tiny percentage of the static on an old untuned TV was literally the leftover radiation from the Big Bang — you've heard it without knowing.",
+      "video_title": "You've Already Heard the Big Bang's Echo",
+      "video_description": "The Cosmic Microwave Background radiation is the oldest light in the universe — 13.8 billion years old. For decades, a small portion of analog TV static was this ancient signal bleeding into everyday electronics.",
       "tags": [
-        "juliuscaesar",
-        "atomscience",
-        "chemistry",
-        "history",
-        "humanbreath",
+        "bigbang",
+        "cosmicmicrowavebackground",
+        "universe",
+        "space",
+        "cosmology",
         "physics",
-        "ancientrome",
-        "shorts",
-        "viral",
-        "mindblowing"
-      ],
-      "script": "Right now, in your lungs, there are atoms that were inside Julius Caesar when he was stabbed 23 times in 44 BC. This isn't a metaphor — it's atmospheric chemistry. Each breath you take holds around 10 sextillion molecules. Caesar's last exhale has had over 2,000 years to distribute evenly across Earth's atmosphere. The math says at least one of those atoms is inside you right now. And not just Caesar — every person who ever lived.",
-      "visual_keywords": [
-        "ancient rome senate",
-        "human breathing close up",
-        "atom molecule visualization",
-        "air atmosphere earth"
-      ]
-    },
-    {
-      "topic": "The Ursula Burns Xerox Story — Intern to CEO",
-      "teaser": "She told the CEO of Xerox he was wrong — to his face, in a room full of executives. Two decades later, she replaced him.",
-      "video_title": "She Told the CEO He Was Wrong — Then Became Him",
-      "video_description": "In 1989, Ursula Burns, a young Black engineer at Xerox, openly challenged a senior executive during a meeting. Instead of being fired, she was noticed, mentored, and placed on a leadership track. In 2009, she became CEO of Xerox — the first Black woman to lead a Fortune 500 company in US history.",
-      "tags": [
-        "ursulabums",
-        "xerox",
-        "ceo",
-        "businesshistory",
-        "firstblackwomanceo",
-        "leadership",
-        "fortune500",
+        "astronomy",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "In 1989, a young Black engineer at Xerox stood up in a meeting and told a senior vice president he was flat wrong — in front of everyone. Most people would have been quietly removed. Instead, Xerox's CEO heard about it and personally requested to mentor her. Twenty years later, Ursula Burns sat in that CEO's chair herself, becoming the first Black woman to lead a Fortune 500 company in American history. The question is: how many people stayed silent in that same room and went nowhere?",
+      "script": "Every time you saw static on an old television, roughly 1% of that noise was 13.8 billion years old. That fuzzy interference wasn't broken signal — it was the Cosmic Microwave Background, the literal afterglow of the Big Bang still echoing through the universe. Two Bell Lab engineers discovered it in 1965 completely by accident; they kept trying to clean pigeon droppings off their antenna, thinking the noise was interference. It wasn't. They won the Nobel Prize. The oldest thing you've ever experienced was disguised as bad TV reception.",
       "visual_keywords": [
-        "corporate boardroom meeting",
-        "office executive woman leader",
-        "Xerox printer office",
-        "business success professional"
+        "old television static",
+        "space cosmic background",
+        "universe radiation",
+        "Big Bang astronomy",
+        "retro TV screen"
+      ]
+    },
+    {
+      "topic": "The Kowloon Walled City — Densest Human Settlement Ever",
+      "teaser": "There was once a city inside a city where no government had authority — and 50,000 people built their own world completely from scratch.",
+      "video_title": "The Lawless City Where 50,000 People Lived",
+      "video_description": "Kowloon Walled City in Hong Kong was a 0.026 km² block of interconnected buildings housing up to 50,000 residents with no police, no sanitation authority, and no legal jurisdiction from any government. It was demolished in 1994.",
+      "tags": [
+        "kowloon",
+        "kowloonwalledcity",
+        "hongkong",
+        "urbanhistory",
+        "architecture",
+        "history",
+        "abandoned",
+        "shorts",
+        "viral",
+        "trending"
+      ],
+      "script": "In Hong Kong, there was a single city block where neither British nor Chinese law applied — and 50,000 people lived inside it. Kowloon Walled City was 0.026 square kilometers of interconnected high-rises so dense that the sun never reached the lower floors. Residents built their own water pipes, their own electricity grid, their own food markets. Unlicensed dentists, drug labs, and noodle factories shared the same walls. The buildings were structurally fused — one giant organism. Authorities demolished it in 1994. Would you have lived there?",
+      "visual_keywords": [
+        "Kowloon Walled City",
+        "dense urban building",
+        "Hong Kong cityscape",
+        "crowded city block",
+        "urban architecture"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Gaviotas Experiment — Rainforest Grown From Scratch",
-    "teaser": "A group of scientists turned a barren, lifeless plain into a thriving rainforest — and they did it in just 20 years.",
-    "video_title": "They Grew a Rainforest From Nothing in 20 Years",
-    "video_description": "The Gaviotas Experiment — Rainforest Grown From Scratch\n\n#gaviotas #rainforest #ecology #colombia #reforestation",
-    "tags": [
-      "gaviotas",
-      "rainforest",
-      "ecology",
-      "colombia",
-      "reforestation",
-      "environment",
-      "nature",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "Scientists said nothing could grow there — the soil was dead, the land completely barren. But in 1971, a small Colombian village called Gaviotas planted a single species of pine on the savanna. Within 20 years, something impossible happened. Ancient rainforest species that had been gone for centuries started returning on their own — plants, insects, jaguars. The pines hadn't grown a forest. They had woken one up. So what exactly was sleeping beneath that soil?",
-    "visual_keywords": [
-      "tropical rainforest aerial view",
-      "reforestation green landscape",
-      "Colombia savanna",
-      "dense jungle canopy"
-    ]
-  },
-  "hashtag_options": [
-    "gaviotas",
-    "rainforest",
-    "ecology",
-    "colombia",
-    "reforestation",
-    "environment",
-    "nature",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 398,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-11-05T17:44:59.115483+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBkGruUZDPya4Q95A2ijxIuBgXJFdUAAJ8IAACe3BwUyiUN-3qZbtZPQQ",
-  "review_started_at": "2026-11-06T22:15:44.227171+00:00",
-  "attempts": 1
+  ]
 }
