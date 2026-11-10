@@ -1,9 +1,9 @@
 {
   "batch_id": "20261108-1455",
   "trigger_date": "2026-11-08",
-  "message_id": 403,
+  "message_id": 406,
   "created_at": "2026-11-08T14:55:18.598416+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Man Who Survived Two Atomic Bombs — Tsutomu Yamaguchi",
@@ -140,7 +140,7 @@
     "topic": "The Man Who Survived Two Atomic Bombs — Tsutomu Yamaguchi",
     "teaser": "One man was at ground zero for both Hiroshima and Nagasaki — and lived to 93. How is that even possible?",
     "video_title": "He Survived Both Atomic Bombs (True Story)",
-    "video_description": "Tsutomu Yamaguchi was on a business trip in Hiroshima when the first bomb dropped. He returned home to Nagasaki just in time for the second. This is the story of history's unluckiest — or luckiest — man.",
+    "video_description": "The Man Who Survived Two Atomic Bombs — Tsutomu Yamaguchi\n\n#tsutomuyamaguchi #atomicbomb #hiroshima #nagasaki #wwii",
     "tags": [
       "tsutomuyamaguchi",
       "atomicbomb",
@@ -175,6 +175,15 @@
     "facts"
   ],
   "hashtag_message_id": 404,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-11-09T20:03:57.031816+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-11-09T20:03:57.031816+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBlmrzW8B8DrV9lAe74qoR3C1W7qdLAAKMKAAC23-YUyUOE8QPaVoJPQQ",
+  "review_started_at": "2026-11-10T18:00:32.393821+00:00",
+  "attempts": 1
 }
