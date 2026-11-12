@@ -1,189 +1,135 @@
 {
-  "batch_id": "20261108-1455",
-  "trigger_date": "2026-11-08",
-  "message_id": 406,
-  "created_at": "2026-11-08T14:55:18.598416+00:00",
-  "status": "done",
+  "batch_id": "20261112-2021",
+  "trigger_date": "2026-11-12",
+  "message_id": 409,
+  "created_at": "2026-11-12T20:21:14.321293+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Man Who Survived Two Atomic Bombs — Tsutomu Yamaguchi",
-      "teaser": "One man was at ground zero for both Hiroshima and Nagasaki — and lived to 93. How is that even possible?",
-      "video_title": "He Survived Both Atomic Bombs (True Story)",
-      "video_description": "Tsutomu Yamaguchi was on a business trip in Hiroshima when the first bomb dropped. He returned home to Nagasaki just in time for the second. This is the story of history's unluckiest — or luckiest — man.",
+      "topic": "The Baader-Meinhof Phenomenon — Frequency Illusion",
+      "teaser": "The moment you learn a new word, the entire world starts whispering it back at you — and science knows exactly why.",
+      "video_title": "Why the Universe Repeats Words You Just Learned",
+      "video_description": "The Baader-Meinhof Phenomenon makes newly learned information appear everywhere right after you first notice it. It's not coincidence — it's your brain playing a silent trick on reality. Neuroscientists have mapped exactly how this cognitive glitch works.",
       "tags": [
-        "tsutomuyamaguchi",
-        "atomicbomb",
-        "hiroshima",
-        "nagasaki",
-        "wwii",
-        "history",
-        "survivor",
+        "baadermeinhof",
+        "frequencyillusion",
+        "brainfacts",
+        "cognitivebias",
+        "psychology",
+        "neuroscience",
+        "mindblown",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "This man was standing 3 kilometers from the Hiroshima bomb when it detonated — burned, deafened, barely alive. So he did what anyone would do: he went home. Home was Nagasaki. Three days later, the second bomb dropped while he was describing the first one to his boss. Both blasts. Same man. Tsutomu Yamaguchi was officially recognized as a double survivor by the Japanese government in 2009. He died at 93. Was he the unluckiest human in history — or the luckiest?",
+      "script": "You learn a new word at noon. By midnight, you've heard it five times. That is not a coincidence — your brain literally rewired itself to hunt it. It's called the Baader-Meinhof Phenomenon, and it kicks in the instant your brain flags something as new. Your reticular activating system starts filtering reality, pulling that word out of the noise that was always there. The world didn't change. Your brain quietly decided what you're allowed to notice. So — what has yours been hiding from you?",
       "visual_keywords": [
-        "atomic bomb explosion",
-        "Hiroshima ruins",
-        "nuclear mushroom cloud",
-        "Japan 1945",
-        "war survivor"
+        "human brain neurons",
+        "pattern recognition",
+        "word cloud",
+        "mind focus"
       ]
     },
     {
-      "topic": "The Turritopsis Nutricula Colony — Coral That Votes",
-      "teaser": "There's an animal on the ocean floor that makes group decisions without a single brain cell — and it outvotes us every time.",
-      "video_title": "This Animal Has No Brain But Makes Decisions",
-      "video_description": "Coral reefs aren't just structures — they're superorganisms capable of collective behavior. Scientists discovered that coral colonies coordinate responses to threats in ways that look disturbingly like decision-making, despite having zero neurons.",
+      "topic": "The Death of the Last Titan — Paraceratherium",
+      "teaser": "The largest land mammal that ever walked Earth vanished, and the reason is stranger than any extinction story you've heard.",
+      "video_title": "The Biggest Land Animal Ever — Then It Just Vanished",
+      "video_description": "Paraceratherium stood nearly five meters tall and weighed over 20 tons, dwarfing any elephant alive today. For millions of years it ruled Asia — until the ground itself betrayed it. Its extinction story rewrites what we thought we knew about climate and giants.",
       "tags": [
-        "coral",
-        "marinelife",
-        "oceanscience",
-        "superorganism",
-        "biology",
-        "noearbrain",
-        "nature",
+        "paraceratherium",
+        "prehistoricanimals",
+        "extinction",
+        "megafauna",
+        "paleontology",
+        "ancientearth",
+        "giantanimals",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "Twenty tons. Five meters tall. It made a modern elephant look like a deer. Paraceratherium was the largest land mammal that ever lived, and it dominated Asia for over 11 million years. Then, around 23 million years ago, the Tibetan Plateau started rising. It reshaped wind patterns, dried out grasslands, and swallowed the creature's entire world. The biggest animal on land wasn't killed by a predator or a meteor — it was erased by a mountain slowly growing. Could the same thing happen today?",
+      "visual_keywords": [
+        "prehistoric giant mammal",
+        "ancient savanna",
+        "fossil skeleton",
+        "tibetan plateau landscape"
+      ]
+    },
+    {
+      "topic": "The Woman Who Remembered Everything — Hyperthymesia",
+      "teaser": "She can tell you exactly what she ate for lunch on March 14th, 1988 — and she cannot forget a single day of her life, even if she tries.",
+      "video_title": "She Cannot Forget a Single Day of Her Entire Life",
+      "video_description": "Jill Price was the first person ever diagnosed with hyperthymesia — a condition where the brain records every single day in perfect, involuntary detail. She described it not as a gift, but as a burden. Scientists studying her brain found something deeply unexpected.",
+      "tags": [
+        "hyperthymesia",
+        "perfectmemory",
+        "jillprice",
+        "brainfacts",
+        "neuroscience",
+        "memory",
+        "psychology",
         "shorts",
         "viral",
         "didyouknow"
       ],
-      "script": "Coral has no brain, no eyes, no nervous system whatsoever — and yet an entire reef colony can coordinate a response to a predator within seconds. Scientists filmed thousands of individual polyps retracting in a synchronized wave, moving information across meters of reef with no neurons at all. They use chemical signals that act like a vote — majority rules, the whole colony reacts. Something with zero intelligence is making faster group decisions than most human committees. Does that say more about coral, or about us?",
+      "script": "She remembers every single day of her life since age fourteen — not vaguely, perfectly. Ask Jill Price what happened on October 29th, 1983, and she'll tell you the weather, the news, what she felt. Scientists called it hyperthymesia, the first confirmed case ever recorded. When they scanned her brain, the regions tied to memory were physically enlarged. She didn't see it as a superpower. She called it exhausting — like a movie she can never turn off. Would you want a memory like that?",
       "visual_keywords": [
-        "coral reef underwater",
-        "ocean polyps closeup",
-        "marine biology",
-        "reef ecosystem",
-        "underwater wildlife"
+        "memory flashback",
+        "brain scan",
+        "calendar pages",
+        "woman thinking"
       ]
     },
     {
-      "topic": "The Philadelphia Experiment — USS Eldridge Invisibility Claim",
-      "teaser": "The U.S. Navy allegedly made a warship disappear in 1943 — and what supposedly happened to the crew is far darker than invisibility.",
-      "video_title": "The Navy Ship That Vanished — Then Reappeared",
-      "video_description": "In October 1943, the USS Eldridge allegedly turned invisible, teleported from Philadelphia to Norfolk, and reappeared with sailors fused into the hull. The Navy denied everything. The story refuses to die.",
+      "topic": "The Ocean With No Salt — Lake Baikal Depths",
+      "teaser": "At the bottom of the world's deepest lake lives a creature that should be impossible — and it has never once needed the ocean.",
+      "video_title": "The Deep-Sea Animal Trapped Inside a Lake",
+      "teaser2": "placeholder",
+      "video_description": "Lake Baikal holds 20% of all unfrozen freshwater on Earth and plunges 1,642 meters deep — deeper than most ocean trenches people visit. At its floor lives the Baikal seal, the only freshwater seal on the planet, 1,600 kilometers from any sea. How it got there has baffled scientists for over a century.",
       "tags": [
-        "philadelphiaexperiment",
-        "usseldridge",
-        "navyexperiment",
-        "conspiracy",
-        "worldwar2",
+        "lakebaikal",
+        "baikalseal",
+        "freshwaterseal",
+        "deepestlake",
+        "wildlife",
+        "naturefacts",
         "mystery",
-        "paranormal",
-        "shorts",
-        "viral",
-        "trending"
-      ],
-      "script": "In October 1943, the USS Eldridge allegedly vanished from Philadelphia Harbor — witnesses on a nearby ship watched it disappear, then reappear 400 kilometers away in Norfolk, Virginia, within minutes. When it returned, sailors were reportedly found embedded in the steel hull, others went permanently insane. The Navy erased Eldridge's logs for that date. One witness, Carl Allen, spent decades annotating a physics book with handwritten claims linking it to Einstein's unified field theory. The Navy still says none of it happened. So why are those logs missing?",
-      "visual_keywords": [
-        "warship at sea",
-        "navy destroyer 1940s",
-        "Philadelphia harbor",
-        "military experiment",
-        "ocean fog ship"
-      ]
-    },
-    {
-      "topic": "The Cosmic Microwave Background — You Can Hear the Big Bang",
-      "teaser": "A tiny percentage of the static on an old untuned TV was literally the leftover radiation from the Big Bang — you've heard it without knowing.",
-      "video_title": "You've Already Heard the Big Bang's Echo",
-      "video_description": "The Cosmic Microwave Background radiation is the oldest light in the universe — 13.8 billion years old. For decades, a small portion of analog TV static was this ancient signal bleeding into everyday electronics.",
-      "tags": [
-        "bigbang",
-        "cosmicmicrowavebackground",
-        "universe",
-        "space",
-        "cosmology",
-        "physics",
-        "astronomy",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Every time you saw static on an old television, roughly 1% of that noise was 13.8 billion years old. That fuzzy interference wasn't broken signal — it was the Cosmic Microwave Background, the literal afterglow of the Big Bang still echoing through the universe. Two Bell Lab engineers discovered it in 1965 completely by accident; they kept trying to clean pigeon droppings off their antenna, thinking the noise was interference. It wasn't. They won the Nobel Prize. The oldest thing you've ever experienced was disguised as bad TV reception.",
+      "script": "At the bottom of a Siberian lake, 1,642 meters down, lives a seal — the only freshwater seal on Earth. Lake Baikal is deeper than most ocean trenches, holds a fifth of all liquid freshwater on the planet, and is 1,600 kilometers from the nearest sea. Scientists still debate how the Baikal seal got there. The leading theory: an ancient river corridor that vanished millions of years ago, trapping its ancestors inside. It has been sealed in ever since. Nature built a ocean in the middle of a continent — and filled it with monsters.",
       "visual_keywords": [
-        "old television static",
-        "space cosmic background",
-        "universe radiation",
-        "Big Bang astronomy",
-        "retro TV screen"
+        "lake baikal winter ice",
+        "freshwater seal",
+        "deep lake underwater",
+        "siberian wilderness"
       ]
     },
     {
-      "topic": "The Kowloon Walled City — Densest Human Settlement Ever",
-      "teaser": "There was once a city inside a city where no government had authority — and 50,000 people built their own world completely from scratch.",
-      "video_title": "The Lawless City Where 50,000 People Lived",
-      "video_description": "Kowloon Walled City in Hong Kong was a 0.026 km² block of interconnected buildings housing up to 50,000 residents with no police, no sanitation authority, and no legal jurisdiction from any government. It was demolished in 1994.",
+      "topic": "The Color Blind Artist Who Chose to Stay Blind — Neil Harbisson",
+      "teaser": "A doctor implanted an antenna into his skull to let him hear colors — and when they offered to cure him, he said no.",
+      "video_title": "He Hears Colors Through a Chip in His Skull",
+      "video_description": "Neil Harbisson was born completely colorblind, seeing only in grayscale. A surgeon implanted an antenna into his occipital bone that converts light frequencies into sound vibrations directly in his skull. He became the first person officially recognized as a cyborg by a government — and when a cure was offered, he refused it.",
       "tags": [
-        "kowloon",
-        "kowloonwalledcity",
-        "hongkong",
-        "urbanhistory",
-        "architecture",
-        "history",
-        "abandoned",
+        "neilharbisson",
+        "cyborg",
+        "colorblind",
+        "sensoryaugmentation",
+        "biohacking",
+        "futurism",
+        "technology",
         "shorts",
         "viral",
         "trending"
       ],
-      "script": "In Hong Kong, there was a single city block where neither British nor Chinese law applied — and 50,000 people lived inside it. Kowloon Walled City was 0.026 square kilometers of interconnected high-rises so dense that the sun never reached the lower floors. Residents built their own water pipes, their own electricity grid, their own food markets. Unlicensed dentists, drug labs, and noodle factories shared the same walls. The buildings were structurally fused — one giant organism. Authorities demolished it in 1994. Would you have lived there?",
+      "script": "He was born seeing only in grey. So a surgeon drilled an antenna into his skull, fusing it directly to the bone. It converts color frequencies into sound vibrations he feels through his jaw. Neil Harbisson became the first government-recognized cyborg on Earth — his antenna is on his passport photo. He can hear ultraviolet. He can hear infrared. Colors humans will never see. When doctors offered him a cure, he refused. He said he no longer wanted to see color. He wanted to hear it. Is that still a disability?",
       "visual_keywords": [
-        "Kowloon Walled City",
-        "dense urban building",
-        "Hong Kong cityscape",
-        "crowded city block",
-        "urban architecture"
+        "cyborg antenna head",
+        "color sound waves",
+        "brain implant technology",
+        "colorblind vision simulation"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Man Who Survived Two Atomic Bombs — Tsutomu Yamaguchi",
-    "teaser": "One man was at ground zero for both Hiroshima and Nagasaki — and lived to 93. How is that even possible?",
-    "video_title": "He Survived Both Atomic Bombs (True Story)",
-    "video_description": "The Man Who Survived Two Atomic Bombs — Tsutomu Yamaguchi\n\n#tsutomuyamaguchi #atomicbomb #hiroshima #nagasaki #wwii",
-    "tags": [
-      "tsutomuyamaguchi",
-      "atomicbomb",
-      "hiroshima",
-      "nagasaki",
-      "wwii",
-      "history",
-      "survivor",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "This man was standing 3 kilometers from the Hiroshima bomb when it detonated — burned, deafened, barely alive. So he did what anyone would do: he went home. Home was Nagasaki. Three days later, the second bomb dropped while he was describing the first one to his boss. Both blasts. Same man. Tsutomu Yamaguchi was officially recognized as a double survivor by the Japanese government in 2009. He died at 93. Was he the unluckiest human in history — or the luckiest?",
-    "visual_keywords": [
-      "atomic bomb explosion",
-      "Hiroshima ruins",
-      "nuclear mushroom cloud",
-      "Japan 1945",
-      "war survivor"
-    ]
-  },
-  "hashtag_options": [
-    "tsutomuyamaguchi",
-    "atomicbomb",
-    "hiroshima",
-    "nagasaki",
-    "wwii",
-    "history",
-    "survivor",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 404,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-11-09T20:03:57.031816+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBlmrzW8B8DrV9lAe74qoR3C1W7qdLAAKMKAAC23-YUyUOE8QPaVoJPQQ",
-  "review_started_at": "2026-11-10T18:00:32.393821+00:00",
-  "attempts": 1
+  ]
 }
