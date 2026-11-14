@@ -3,7 +3,7 @@
   "trigger_date": "2026-11-12",
   "message_id": 409,
   "created_at": "2026-11-12T20:21:14.321293+00:00",
-  "status": "selecting_hashtags",
+  "status": "error",
   "candidates": [
     {
       "topic": "The Baader-Meinhof Phenomenon — Frequency Illusion",
@@ -136,7 +136,7 @@
     "topic": "The Baader-Meinhof Phenomenon — Frequency Illusion",
     "teaser": "The moment you learn a new word, the entire world starts whispering it back at you — and science knows exactly why.",
     "video_title": "Why the Universe Repeats Words You Just Learned",
-    "video_description": "The Baader-Meinhof Phenomenon makes newly learned information appear everywhere right after you first notice it. It's not coincidence — it's your brain playing a silent trick on reality. Neuroscientists have mapped exactly how this cognitive glitch works.",
+    "video_description": "The Baader-Meinhof Phenomenon — Frequency Illusion\n\n#baadermeinhof #frequencyillusion #brainfacts #cognitivebias #psychology",
     "tags": [
       "baadermeinhof",
       "frequencyillusion",
@@ -170,6 +170,12 @@
     "facts"
   ],
   "hashtag_message_id": 410,
-  "selected_hashtags": [],
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
   "hashtag_started_at": "2026-11-13T21:40:36.116701+00:00"
 }
