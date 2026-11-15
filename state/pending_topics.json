@@ -1,181 +1,134 @@
 {
-  "batch_id": "20261112-2021",
-  "trigger_date": "2026-11-12",
-  "message_id": 409,
-  "created_at": "2026-11-12T20:21:14.321293+00:00",
-  "status": "error",
+  "batch_id": "20261115-1650",
+  "trigger_date": "2026-11-15",
+  "message_id": 414,
+  "created_at": "2026-11-15T16:50:14.569028+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Baader-Meinhof Phenomenon — Frequency Illusion",
-      "teaser": "The moment you learn a new word, the entire world starts whispering it back at you — and science knows exactly why.",
-      "video_title": "Why the Universe Repeats Words You Just Learned",
-      "video_description": "The Baader-Meinhof Phenomenon makes newly learned information appear everywhere right after you first notice it. It's not coincidence — it's your brain playing a silent trick on reality. Neuroscientists have mapped exactly how this cognitive glitch works.",
+      "topic": "The Baychimo — Ghost Ship That Sailed Alone for 38 Years",
+      "teaser": "A cargo ship disappeared in the Arctic in 1931 — and kept being spotted, crewless, for nearly four decades after.",
+      "video_title": "The Ghost Ship That Sailed Alone for 38 Years",
+      "video_description": "The SS Baychimo was abandoned in an Arctic blizzard in 1931. Its crew escaped, but the ship didn't sink — it kept drifting, unmanned, spotted by sailors and Inuit hunters for 38 years. No one ever reclaimed it.",
       "tags": [
-        "baadermeinhof",
-        "frequencyillusion",
-        "brainfacts",
-        "cognitivebias",
+        "baychimo",
+        "ghostship",
+        "arcticmystery",
+        "abandonedship",
+        "maritime",
+        "history",
+        "unexplained",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "A ship was abandoned in the Arctic in 1931 — and then it sailed on alone for 38 years. The SS Baychimo got trapped in pack ice near Alaska. The crew escaped, expecting it to sink. It didn't. For nearly four decades, Inuit hunters and passing sailors kept spotting it, completely empty, drifting through frozen waters. The last confirmed sighting was 1969. The wreck has never been found. So where is it now?",
+      "visual_keywords": [
+        "ghost ship arctic ice",
+        "abandoned ship ocean",
+        "blizzard frozen sea",
+        "alaska wilderness"
+      ]
+    },
+    {
+      "topic": "The Tardigrade — Only Animal That Can Survive in Outer Space",
+      "teaser": "There's a creature smaller than a grain of sand that can survive boiling water, deep vacuum, and direct radiation in open space.",
+      "video_title": "The Tiny Animal That Survives Open Space",
+      "video_description": "Tardigrades, microscopic animals under 1mm long, have been exposed directly to the vacuum and radiation of outer space and returned alive. They survive by entering a death-like state called cryptobiosis, reducing their metabolism to 0.01% of normal.",
+      "tags": [
+        "tardigrade",
+        "extremophile",
+        "outerspace",
+        "microscopic",
+        "survival",
+        "biology",
+        "science",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "Scientists shot live animals directly into outer space — no suit, no capsule — and they survived. Tardigrades, less than one millimeter long, were exposed to the full vacuum and solar radiation of open space for ten days. When researchers brought them back, most were still alive. They do it by folding themselves into a glass-like shell and dropping their metabolism to nearly zero. They've also survived 300 years frozen in Antarctic moss. What exactly is keeping them alive?",
+      "visual_keywords": [
+        "tardigrade microscope",
+        "outer space vacuum",
+        "microscopic organism",
+        "space experiment"
+      ]
+    },
+    {
+      "topic": "The Tanganyika Laughter Epidemic — Mass Hysteria That Closed Schools for Months",
+      "teaser": "In 1962, a laughing fit started in a single classroom — and within weeks, an entire region couldn't stop.",
+      "video_title": "The Laughing Epidemic That Shut Down Schools",
+      "video_description": "In January 1962 in Tanzania, three schoolgirls began laughing uncontrollably. The laughter spread to 95 students, then to surrounding villages. Schools were forced to close for months. No medical cause was ever identified.",
+      "tags": [
+        "laughingepidemic",
+        "masshysteria",
+        "tanzania",
+        "1962",
         "psychology",
-        "neuroscience",
-        "mindblown",
+        "strangehistory",
+        "medical",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "You learn a new word at noon. By midnight, you've heard it five times. That is not a coincidence — your brain literally rewired itself to hunt it. It's called the Baader-Meinhof Phenomenon, and it kicks in the instant your brain flags something as new. Your reticular activating system starts filtering reality, pulling that word out of the noise that was always there. The world didn't change. Your brain quietly decided what you're allowed to notice. So — what has yours been hiding from you?",
+      "script": "In January 1962, three girls in a Tanzanian boarding school started laughing — and couldn't stop for sixteen days. The laughter spread to 95 of the 159 students. Then it jumped to nearby villages, infecting over a thousand people. Schools were shut down for months. Victims reported crying, fainting, and rashes alongside the uncontrollable laughter. Doctors examined everyone and found absolutely nothing wrong. Mass hysteria, they said. But does that actually explain anything?",
       "visual_keywords": [
-        "human brain neurons",
-        "pattern recognition",
-        "word cloud",
-        "mind focus"
+        "school classroom africa",
+        "laughing crowd",
+        "mass hysteria",
+        "tanzania village"
       ]
     },
     {
-      "topic": "The Death of the Last Titan — Paraceratherium",
-      "teaser": "The largest land mammal that ever walked Earth vanished, and the reason is stranger than any extinction story you've heard.",
-      "video_title": "The Biggest Land Animal Ever — Then It Just Vanished",
-      "video_description": "Paraceratherium stood nearly five meters tall and weighed over 20 tons, dwarfing any elephant alive today. For millions of years it ruled Asia — until the ground itself betrayed it. Its extinction story rewrites what we thought we knew about climate and giants.",
+      "topic": "The Loneliest Tree — Pando, the Single Organism Covering 43 Hectares",
+      "teaser": "What looks like an entire forest in Utah is actually one single living organism — and it's dying.",
+      "video_title": "This Entire Forest Is One Single Living Thing",
+      "video_description": "Pando, a grove of quaking aspen trees in Utah, is genetically a single organism connected by one massive root system. It covers 43 hectares, weighs 6 million kilograms, and is estimated to be 80,000 years old. It is currently shrinking.",
       "tags": [
-        "paraceratherium",
-        "prehistoricanimals",
-        "extinction",
-        "megafauna",
-        "paleontology",
-        "ancientearth",
-        "giantanimals",
+        "pando",
+        "aspen",
+        "utah",
+        "singleorganism",
+        "nature",
+        "ecology",
+        "oldest",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Twenty tons. Five meters tall. It made a modern elephant look like a deer. Paraceratherium was the largest land mammal that ever lived, and it dominated Asia for over 11 million years. Then, around 23 million years ago, the Tibetan Plateau started rising. It reshaped wind patterns, dried out grasslands, and swallowed the creature's entire world. The biggest animal on land wasn't killed by a predator or a meteor — it was erased by a mountain slowly growing. Could the same thing happen today?",
+      "script": "That forest in Utah isn't a forest. Every single one of those 47,000 trees is the same organism, all connected underground by one root system. It's called Pando. It weighs six million kilograms, making it the heaviest known living thing on Earth. It's also estimated to be 80,000 years old — it was alive before modern humans left Africa. And right now, for the first time in its existence, it's shrinking. Scientists aren't sure we can stop it.",
       "visual_keywords": [
-        "prehistoric giant mammal",
-        "ancient savanna",
-        "fossil skeleton",
-        "tibetan plateau landscape"
+        "aspen forest utah",
+        "tree roots underground",
+        "autumn grove",
+        "pando forest"
       ]
     },
     {
-      "topic": "The Woman Who Remembered Everything — Hyperthymesia",
-      "teaser": "She can tell you exactly what she ate for lunch on March 14th, 1988 — and she cannot forget a single day of her life, even if she tries.",
-      "video_title": "She Cannot Forget a Single Day of Her Entire Life",
-      "video_description": "Jill Price was the first person ever diagnosed with hyperthymesia — a condition where the brain records every single day in perfect, involuntary detail. She described it not as a gift, but as a burden. Scientists studying her brain found something deeply unexpected.",
+      "topic": "The Uncanny Valley — Why Almost-Human Faces Feel Deeply Wrong",
+      "teaser": "The closer a robot or image looks to a real human face, the more deeply disturbing it feels — and there's a precise graph that explains why.",
+      "video_title": "Why Almost-Human Faces Feel Deeply Wrong",
+      "video_description": "The Uncanny Valley is a 1970 robotics theory by Masahiro Mori showing that as artificial faces approach — but don't quite reach — human realism, they trigger intense unease. The effect is so powerful it influences Hollywood CGI, surgical planning, and AI avatar design.",
       "tags": [
-        "hyperthymesia",
-        "perfectmemory",
-        "jillprice",
-        "brainfacts",
-        "neuroscience",
-        "memory",
+        "uncanny valley",
+        "robotics",
         "psychology",
-        "shorts",
-        "viral",
-        "didyouknow"
-      ],
-      "script": "She remembers every single day of her life since age fourteen — not vaguely, perfectly. Ask Jill Price what happened on October 29th, 1983, and she'll tell you the weather, the news, what she felt. Scientists called it hyperthymesia, the first confirmed case ever recorded. When they scanned her brain, the regions tied to memory were physically enlarged. She didn't see it as a superpower. She called it exhausting — like a movie she can never turn off. Would you want a memory like that?",
-      "visual_keywords": [
-        "memory flashback",
-        "brain scan",
-        "calendar pages",
-        "woman thinking"
-      ]
-    },
-    {
-      "topic": "The Ocean With No Salt — Lake Baikal Depths",
-      "teaser": "At the bottom of the world's deepest lake lives a creature that should be impossible — and it has never once needed the ocean.",
-      "video_title": "The Deep-Sea Animal Trapped Inside a Lake",
-      "teaser2": "placeholder",
-      "video_description": "Lake Baikal holds 20% of all unfrozen freshwater on Earth and plunges 1,642 meters deep — deeper than most ocean trenches people visit. At its floor lives the Baikal seal, the only freshwater seal on the planet, 1,600 kilometers from any sea. How it got there has baffled scientists for over a century.",
-      "tags": [
-        "lakebaikal",
-        "baikalseal",
-        "freshwaterseal",
-        "deepestlake",
-        "wildlife",
-        "naturefacts",
-        "mystery",
+        "humanface",
+        "AI",
+        "CGI",
+        "brainscience",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "At the bottom of a Siberian lake, 1,642 meters down, lives a seal — the only freshwater seal on Earth. Lake Baikal is deeper than most ocean trenches, holds a fifth of all liquid freshwater on the planet, and is 1,600 kilometers from the nearest sea. Scientists still debate how the Baikal seal got there. The leading theory: an ancient river corridor that vanished millions of years ago, trapping its ancestors inside. It has been sealed in ever since. Nature built a ocean in the middle of a continent — and filled it with monsters.",
+      "script": "The closer a robot looks to a real human, the more people want to run. In 1970, roboticist Masahiro Mori mapped it on a graph — affinity rises as faces get more human-like, then suddenly drops into a valley of deep revulsion just before reaching perfect realism. Brain scans show why: your threat-detection system fires when something looks almost right but not quite. Hollywood spent millions learning this the hard way with 2004's 'The Polar Express.' So does your brain ever fully trust an AI face?",
       "visual_keywords": [
-        "lake baikal winter ice",
-        "freshwater seal",
-        "deep lake underwater",
-        "siberian wilderness"
-      ]
-    },
-    {
-      "topic": "The Color Blind Artist Who Chose to Stay Blind — Neil Harbisson",
-      "teaser": "A doctor implanted an antenna into his skull to let him hear colors — and when they offered to cure him, he said no.",
-      "video_title": "He Hears Colors Through a Chip in His Skull",
-      "video_description": "Neil Harbisson was born completely colorblind, seeing only in grayscale. A surgeon implanted an antenna into his occipital bone that converts light frequencies into sound vibrations directly in his skull. He became the first person officially recognized as a cyborg by a government — and when a cure was offered, he refused it.",
-      "tags": [
-        "neilharbisson",
-        "cyborg",
-        "colorblind",
-        "sensoryaugmentation",
-        "biohacking",
-        "futurism",
-        "technology",
-        "shorts",
-        "viral",
-        "trending"
-      ],
-      "script": "He was born seeing only in grey. So a surgeon drilled an antenna into his skull, fusing it directly to the bone. It converts color frequencies into sound vibrations he feels through his jaw. Neil Harbisson became the first government-recognized cyborg on Earth — his antenna is on his passport photo. He can hear ultraviolet. He can hear infrared. Colors humans will never see. When doctors offered him a cure, he refused. He said he no longer wanted to see color. He wanted to hear it. Is that still a disability?",
-      "visual_keywords": [
-        "cyborg antenna head",
-        "color sound waves",
-        "brain implant technology",
-        "colorblind vision simulation"
+        "robot human face",
+        "CGI face close up",
+        "humanoid robot",
+        "uncanny expression"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Baader-Meinhof Phenomenon — Frequency Illusion",
-    "teaser": "The moment you learn a new word, the entire world starts whispering it back at you — and science knows exactly why.",
-    "video_title": "Why the Universe Repeats Words You Just Learned",
-    "video_description": "The Baader-Meinhof Phenomenon — Frequency Illusion\n\n#baadermeinhof #frequencyillusion #brainfacts #cognitivebias #psychology",
-    "tags": [
-      "baadermeinhof",
-      "frequencyillusion",
-      "brainfacts",
-      "cognitivebias",
-      "psychology",
-      "neuroscience",
-      "mindblown",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "You learn a new word at noon. By midnight, you've heard it five times. That is not a coincidence — your brain literally rewired itself to hunt it. It's called the Baader-Meinhof Phenomenon, and it kicks in the instant your brain flags something as new. Your reticular activating system starts filtering reality, pulling that word out of the noise that was always there. The world didn't change. Your brain quietly decided what you're allowed to notice. So — what has yours been hiding from you?",
-    "visual_keywords": [
-      "human brain neurons",
-      "pattern recognition",
-      "word cloud",
-      "mind focus"
-    ]
-  },
-  "hashtag_options": [
-    "baadermeinhof",
-    "frequencyillusion",
-    "brainfacts",
-    "cognitivebias",
-    "psychology",
-    "neuroscience",
-    "mindblown",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 410,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-11-13T21:40:36.116701+00:00"
+  ]
 }
