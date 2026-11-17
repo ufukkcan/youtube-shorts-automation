@@ -1,9 +1,9 @@
 {
   "batch_id": "20261115-1650",
   "trigger_date": "2026-11-15",
-  "message_id": 414,
+  "message_id": 417,
   "created_at": "2026-11-15T16:50:14.569028+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Baychimo — Ghost Ship That Sailed Alone for 38 Years",
@@ -135,7 +135,7 @@
     "topic": "The Baychimo — Ghost Ship That Sailed Alone for 38 Years",
     "teaser": "A cargo ship disappeared in the Arctic in 1931 — and kept being spotted, crewless, for nearly four decades after.",
     "video_title": "The Ghost Ship That Sailed Alone for 38 Years",
-    "video_description": "The SS Baychimo was abandoned in an Arctic blizzard in 1931. Its crew escaped, but the ship didn't sink — it kept drifting, unmanned, spotted by sailors and Inuit hunters for 38 years. No one ever reclaimed it.",
+    "video_description": "The Baychimo — Ghost Ship That Sailed Alone for 38 Years\n\n#baychimo #ghostship #arcticmystery #abandonedship #maritime",
     "tags": [
       "baychimo",
       "ghostship",
@@ -169,6 +169,15 @@
     "facts"
   ],
   "hashtag_message_id": 415,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-11-16T17:39:19.704649+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-11-16T17:39:19.704649+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBoWr8nD9YMmI4DUcCXWHtJYXLIe3DAAJnJQAClQXoU5VeYMsZS6--PQQ",
+  "review_started_at": "2026-11-17T18:26:07.611409+00:00",
+  "attempts": 1
 }
