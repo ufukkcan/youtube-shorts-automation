@@ -1,9 +1,9 @@
 {
   "batch_id": "20261119-1332",
   "trigger_date": "2026-11-19",
-  "message_id": 420,
+  "message_id": 423,
   "created_at": "2026-11-19T13:32:11.347627+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "The Zip Code That Does Not Exist — 00000",
@@ -140,7 +140,7 @@
     "topic": "The Zip Code That Does Not Exist — 00000",
     "teaser": "There's a zip code that officially doesn't exist — but thousands of real people are trapped inside it.",
     "video_title": "The Zip Code That Traps Real People",
-    "video_description": "ZIP code 00000 doesn't officially exist in the US postal system, yet thousands of Americans are stuck with it on federal records. It began as a data-entry default and quietly became a bureaucratic nightmare for people trying to prove who they are.",
+    "video_description": "The Zip Code That Does Not Exist — 00000\n\n#zipcode #ushistory #bureaucracy #government #identity",
     "tags": [
       "zipcode",
       "ushistory",
@@ -175,6 +175,15 @@
     "facts"
   ],
   "hashtag_message_id": 421,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-11-20T10:26:49.919597+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-11-20T10:26:49.919597+00:00",
+  "video_file_id": "BAACAgQAAxkDAAIBp2sBQzIGhyuVTPLrLxAK0BHwvuoYAAJpHAACjvIJUNSW3ndOZH4WPQQ",
+  "review_started_at": "2026-11-21T07:07:30.290571+00:00",
+  "attempts": 1
 }
