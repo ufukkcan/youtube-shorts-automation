@@ -33,3 +33,6 @@
 | 2026-11-22 | Claude | GitHub API (anonim) | repo, workflows, runs, jobs, tiktok-legal-pages sorguları (~45 istek) | okuma | Rate limit doldu (60/saat) |
 | 2026-11-22 | Claude | Yerel proje klasörü | `CLAUDE.md`, `todo.md`, `docs/*`, `docs/hafiza/*` oluşturuldu | yazma (yalnız proje klasörü) | commit/push yapılmadı |
 | 2026-11-22 | Claude | Claude hafıza klasörü | Kullanıcı profili + proje işaretçisi | yazma (yerel) | — |
+| 2026-11-22 ~18:40 | Claude (kullanıcı onayıyla) | Yerel repo | `git pull --ff-only` | yazma (yerel) | 0d34b2c → 521ee6b, yalnız state |
+| 2026-11-22 ~18:41 | Claude (kullanıcı onayıyla) | Yerel repo | `git rm` 4 `src/tiktok_*.py` + 3 `tiktok_*.yml`; `py_compile` exit 0 | yazma (yerel) | — |
+| 2026-11-22 18:41 | Claude (kullanıcı onayıyla) | GitHub `main` | Commit `8e07118` (TikTok silme + dokümanlar) push | yazma | `521ee6b..8e07118` başarılı; workflow'lar Actions'tan kalkar |
