@@ -1,189 +1,139 @@
 {
-  "batch_id": "20261119-1332",
-  "trigger_date": "2026-11-19",
-  "message_id": 423,
-  "created_at": "2026-11-19T13:32:11.347627+00:00",
-  "status": "done",
+  "batch_id": "20261122-1535",
+  "trigger_date": "2026-11-22",
+  "message_id": 426,
+  "created_at": "2026-11-22T15:35:47.789657+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Zip Code That Does Not Exist — 00000",
-      "teaser": "There's a zip code that officially doesn't exist — but thousands of real people are trapped inside it.",
-      "video_title": "The Zip Code That Traps Real People",
-      "video_description": "ZIP code 00000 doesn't officially exist in the US postal system, yet thousands of Americans are stuck with it on federal records. It began as a data-entry default and quietly became a bureaucratic nightmare for people trying to prove who they are.",
+      "topic": "The Toxoplasma Mind Control Parasite",
+      "teaser": "A parasite living inside a third of all humans right now may be quietly rewriting their personalities — and scientists can prove it.",
+      "video_title": "The Parasite Living in Your Brain Right Now",
+      "video_description": "Toxoplasma gondii infects roughly 2 billion people worldwide and has been linked to personality shifts, risk-taking behavior, and even schizophrenia. It was first discovered manipulating mice — making them attracted to cats so the parasite could complete its life cycle.",
       "tags": [
-        "zipcode",
-        "ushistory",
-        "bureaucracy",
-        "government",
-        "identity",
-        "postalservice",
-        "americanfacts",
+        "toxoplasma",
+        "parasites",
+        "brainfacts",
+        "microbiology",
+        "mindcontrol",
+        "science",
+        "humanmind",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Thousands of Americans are officially listed as living nowhere. Their zip code on government records reads 00000 — a code that doesn't exist. It started as a blank default field in federal databases, but once it was entered, it couldn't easily be corrected. These people get rejected by banks, hospitals, and employers — all because a computer filled in a zero. So right now, someone is trying to prove they exist, and a spreadsheet is winning.",
+      "script": "A parasite is living inside roughly 2 billion people right now — and it's changing who they are. Toxoplasma gondii rewires infected mice to run toward cats instead of away, so it can complete its life cycle. In humans, studies link it to higher risk-taking, slower reaction times, and elevated schizophrenia rates. It has no cure. It never fully leaves. And standard blood tests won't even flag it. Are you one of the 2 billion?",
       "visual_keywords": [
-        "mailbox",
-        "zip code envelope",
-        "government office",
-        "federal database",
-        "identity documents"
+        "brain parasite microscope",
+        "cat and mouse",
+        "neuroscience lab",
+        "human brain scan",
+        "microorganism"
       ]
     },
     {
-      "topic": "The Volcano That Changed Human History — Toba Supervolcano",
-      "teaser": "74,000 years ago, a single eruption nearly deleted every human being on Earth.",
-      "video_title": "The Eruption That Almost Erased Humanity",
-      "video_description": "The Toba supervolcano erupted roughly 74,000 years ago in what is now Indonesia, triggering a volcanic winter that may have reduced the entire human population to just a few thousand individuals. Some geneticists believe every person alive today descends from that tiny surviving group.",
+      "topic": "The Dybbuk Box — Most Haunted Object Sold on eBay",
+      "teaser": "Someone listed a wine cabinet on eBay with a warning: every owner suffered the same nightmare, the same illness, the same word whispered in their sleep.",
+      "video_title": "The Cursed Box That Broke Every Owner",
+      "video_description": "The Dybbuk Box is a wine cabinet sold on eBay in 2003 with a haunting disclaimer — every person who owned it reported identical nightmares, hair loss, and the smell of cat urine and jasmine. It now sits locked in a museum no one is allowed to open.",
       "tags": [
-        "toba",
-        "supervolcano",
-        "humanevolution",
-        "extinction",
+        "dybukbox",
+        "hauntedobjects",
+        "paranormal",
+        "truecreepy",
+        "occult",
+        "mysteryfacts",
+        "horrorstory",
+        "shorts",
+        "viral",
+        "trending"
+      ],
+      "script": "Every single owner of this wine cabinet reported the exact same nightmare — a hag with no eyes, the smell of jasmine and cat urine, waking up with welts. Sold on eBay in 2003 by a Holocaust survivor's grandson, the Dybbuk Box passed through six owners in one year. Each one returned it. One had a stroke. One lost all their hair. It now sits sealed inside a museum, and the curator refuses to open it. What would you do with it?",
+      "visual_keywords": [
+        "old wooden box antique",
+        "haunted object museum",
+        "dark wine cabinet",
+        "mysterious locked chest",
+        "paranormal artifact"
+      ]
+    },
+    {
+      "topic": "The Exploding Lake — Lake Nyos CO2 Catastrophe",
+      "teaser": "One night in 1986, a lake in Africa quietly exhaled — and by morning, 1,700 people within miles were dead without a single mark on their bodies.",
+      "video_title": "The Lake That Silently Killed 1,700 People",
+      "video_description": "Lake Nyos in Cameroon erupted in 1986 — not with lava, but with a sudden release of 1.6 million tonnes of CO2. The invisible cloud suffocated everything in its path within minutes, leaving bodies with no visible injuries. The lake is still loaded with gas today.",
+      "tags": [
+        "lakenyos",
+        "naturaldisaster",
         "geology",
-        "prehistory",
+        "CO2eruption",
+        "cameroon",
+        "sciencefacts",
+        "earthscience",
+        "shorts",
+        "viral",
+        "didyouknow"
+      ],
+      "script": "In 1986, a lake in Cameroon killed 1,700 people overnight — and left no marks on a single body. Lake Nyos had been silently storing 1.6 million tonnes of CO2 on its floor for decades. One night, the pressure broke. A wall of invisible gas rolled through villages at 100 kilometers per hour, suffocating every living thing within 25 kilometers in minutes. Livestock, birds, insects — all dead. The lake is still full of gas right now. How close would you have to live before you'd move away?",
+      "visual_keywords": [
+        "lake nyos cameroon",
+        "volcanic lake africa",
+        "carbon dioxide gas cloud",
+        "silent disaster nature",
+        "deep lake underwater gas"
+      ]
+    },
+    {
+      "topic": "The Clockwork Soldier — Antoine Louis & the Guillotine Paradox",
+      "teaser": "The man who invented a machine to make execution more humane ended up being executed by his own invention — but that's not even the strangest part of the story.",
+      "video_title": "He Invented the Guillotine. It Killed Him.",
+      "video_description": "Dr. Joseph-Ignace Guillotin proposed a painless execution device as a humanitarian reform during the French Revolution. He never built it — Antoine Louis did. And the question that haunted physicians for years after: do severed heads remain conscious, and for how long?",
+      "tags": [
+        "guillotine",
+        "frenchrevolution",
+        "darkhistory",
+        "medicalhistory",
+        "execution",
+        "historyfacts",
         "science",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "Every single person alive today might descend from a group smaller than your high school. Around 74,000 years ago, the Toba volcano in Indonesia erupted with a force 5,000 times greater than Mount St. Helens. It blanketed the sky for years. Genetic evidence suggests the entire human population crashed to as few as 10,000 individuals. We were nearly gone. One volcano almost ended the story before it started.",
+      "script": "He proposed the guillotine as an act of mercy — equal, instant, painless for all. Dr. Guillotin never built it; a surgeon named Antoine Louis did, in 1792. Within two years, it had killed over 2,700 people in Paris alone. But the detail that haunted physicians: after decapitation, some heads reportedly blinked and moved their eyes for up to 13 seconds. Scientists still debate whether consciousness survives the blade — even briefly. The man who wanted to end suffering may have created a new kind of it.",
       "visual_keywords": [
-        "volcano eruption",
-        "volcanic ash sky",
-        "ancient humans",
-        "Indonesia landscape",
-        "supervolcano crater"
+        "french revolution historical",
+        "guillotine blade close-up",
+        "18th century paris",
+        "medical history illustration",
+        "revolution crowd"
       ]
     },
     {
-      "topic": "The Color Your Eyes Can't See — Stygian Blue",
-      "teaser": "There's a color your brain can produce that physically cannot exist as light.",
-      "video_title": "The Color That Cannot Physically Exist",
-      "video_description": "Stygian blue is a color that the human brain perceives under certain visual conditions, yet it corresponds to no wavelength of light that can actually exist. It is darker than black while still appearing vividly blue — a genuine perceptual experience with no real-world equivalent.",
+      "topic": "The Island That Appears and Disappears — Sandy Island",
+      "teaser": "For over a century, every world map showed an island the size of Manhattan — until a research ship sailed to its exact coordinates and found nothing but open ocean.",
+      "video_title": "The Island on Every Map That Doesn't Exist",
+      "video_description": "Sandy Island appeared on maps between Australia and New Caledonia for over 100 years, included in Google Earth, the Times Atlas, and official naval charts. In 2012, Australian scientists sailed directly to its coordinates and found only 1,400 meters of open ocean beneath them.",
       "tags": [
-        "stygianblue",
-        "colorperception",
-        "neuroscience",
-        "vision",
-        "optics",
-        "brainhacks",
-        "humanvision",
+        "sandyisland",
+        "phantomisland",
+        "cartography",
+        "mysteryfacts",
+        "geography",
+        "googlemaps",
+        "strangeworld",
         "shorts",
         "viral",
-        "didyouknow"
+        "trending"
       ],
-      "script": "There is a color your brain can see that cannot exist in real life. It's called Stygian blue — bluer than blue, yet darker than black. No light source can produce it. It only appears when you stare at a bright yellow patch for 30 seconds, then look at a dimly lit blue surface. Your visual system manufactures something physically impossible. Your eyes are showing you a color that doesn't exist. What else are they making up?",
+      "script": "For 137 years, every official world map showed an island the size of Manhattan sitting between Australia and New Caledonia. It had a name — Sandy Island. It was on Google Earth. It was in the Times World Atlas. In 2012, a research vessel sailed directly to its marked coordinates. The ocean was 1,400 meters deep there. No island. Not even a reef. Just open water. No one knows how a phantom landmass fooled the entire world for over a century. What else is wrong on the map?",
       "visual_keywords": [
-        "optical illusion",
-        "blue light abstract",
-        "human eye closeup",
-        "color spectrum",
-        "visual perception experiment"
-      ]
-    },
-    {
-      "topic": "The River That Flows Uphill — Amazon Reverse Flow",
-      "teaser": "Deep underground, the Amazon River flows completely backwards — and it's almost as big as the one above it.",
-      "video_title": "There's a Second Amazon — And It Flows Backwards",
-      "video_description": "Beneath the Amazon River lies the Hamza River, an underground waterway roughly the same length but four times wider. Discovered in 2011, it flows in the opposite direction at an almost imperceptibly slow pace through porous rock, eventually draining into the deep Atlantic Ocean floor.",
-      "tags": [
-        "amazonriver",
-        "hamzariver",
-        "underground",
-        "geology",
-        "earthscience",
-        "rivers",
-        "nature",
-        "shorts",
-        "viral",
-        "facts"
-      ],
-      "script": "There's a secret river buried beneath the Amazon — flowing the opposite direction. Scientists discovered it in 2011 and named it the Hamza River. It runs nearly 6,000 kilometers through porous rock, four times wider than the Amazon above it, moving so slowly it barely registers as flow. It drains silently into the ocean floor. Two of the world's largest rivers, stacked on top of each other, going opposite ways. The Amazon was hiding its twin.",
-      "visual_keywords": [
-        "Amazon river aerial",
-        "underground cave water",
-        "river cross section",
-        "South America satellite",
-        "deep earth geology"
-      ]
-    },
-    {
-      "topic": "The Man Who Measured the Earth With a Stick — Eratosthenes",
-      "teaser": "A man calculated the exact size of the Earth in 240 BC — using nothing but a stick and a shadow.",
-      "video_title": "He Measured the Entire Earth With a Stick",
-      "video_description": "In 240 BC, the Greek scholar Eratosthenes calculated the circumference of the Earth with remarkable accuracy using only the angle of shadows in two different cities on the same day. His result was within 2% of the value we use today — without satellites, without computers, without leaving Egypt.",
-      "tags": [
-        "eratosthenes",
-        "ancientgreece",
-        "earthscience",
-        "history",
-        "mathematics",
-        "astronomy",
-        "geniuses",
-        "shorts",
-        "viral",
-        "didyouknow"
-      ],
-      "script": "In 240 BC, a man calculated the size of the entire Earth — and he never left Egypt. Eratosthenes noticed that on the same day, a vertical stick cast no shadow in Syene but a clear shadow in Alexandria. Using the angle difference and the distance between the two cities, he calculated Earth's circumference as roughly 40,000 kilometers. Modern satellites give us 40,075. He was off by less than 2%. With a stick.",
-      "visual_keywords": [
-        "ancient sundial",
-        "shadow angle measurement",
-        "Egypt desert",
-        "ancient Greek scholar",
-        "globe circumference"
+        "ocean map coordinates",
+        "phantom island aerial",
+        "research vessel sea",
+        "world atlas cartography",
+        "empty ocean pacific"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Zip Code That Does Not Exist — 00000",
-    "teaser": "There's a zip code that officially doesn't exist — but thousands of real people are trapped inside it.",
-    "video_title": "The Zip Code That Traps Real People",
-    "video_description": "The Zip Code That Does Not Exist — 00000\n\n#zipcode #ushistory #bureaucracy #government #identity",
-    "tags": [
-      "zipcode",
-      "ushistory",
-      "bureaucracy",
-      "government",
-      "identity",
-      "postalservice",
-      "americanfacts",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "Thousands of Americans are officially listed as living nowhere. Their zip code on government records reads 00000 — a code that doesn't exist. It started as a blank default field in federal databases, but once it was entered, it couldn't easily be corrected. These people get rejected by banks, hospitals, and employers — all because a computer filled in a zero. So right now, someone is trying to prove they exist, and a spreadsheet is winning.",
-    "visual_keywords": [
-      "mailbox",
-      "zip code envelope",
-      "government office",
-      "federal database",
-      "identity documents"
-    ]
-  },
-  "hashtag_options": [
-    "zipcode",
-    "ushistory",
-    "bureaucracy",
-    "government",
-    "identity",
-    "postalservice",
-    "americanfacts",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 421,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-11-20T10:26:49.919597+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBp2sBQzIGhyuVTPLrLxAK0BHwvuoYAAJpHAACjvIJUNSW3ndOZH4WPQQ",
-  "review_started_at": "2026-11-21T07:07:30.290571+00:00",
-  "attempts": 1
+  ]
 }
