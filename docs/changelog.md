@@ -6,6 +6,16 @@
 
 ---
 
+## 2026-11-23 — Format v2: kısa video, kanca yazısı, hızlı kurgu, günlük yayın (henüz canlıda değil)
+- Neden: Studio 28 gün verisi — ort. izlenme 12 sn (≈%36), 1.841 görüntülemede 0 abone, otopilotta 3 günde 1 video (`data/analiz-2026-11-22-studio-28gun.md`). Hedef: YPP (todo Faz 11).
+- `src/generate_script.py`: script 65–85 → **40–55 kelime** (15–20 sn); kanca ≤12 kelime; kapanış soru yerine **döngü** (son cümle ilk cümleye bağlanır).
+- `src/pipeline.py`: `_extract_hook` geri geldi; script'in ilk cümlesi montaja `hook_text` olarak gider.
+- `src/assemble_video.py`: ilk **2,5 sn kanca yazısı** (DejaVu Bold 64 px, 20 karakterde satır kaydırma, `expansion=none`, y=560 — buton y=170 ve altyazıyla çakışmaz); görüntü **her 2,5 sn'de değişir** (klipler parça parça sırayla, kısa klip `-stream_loop` ile dolar, toplam süre hedefin altına düşmez); `_probe_duration` eklendi.
+- `src/fetch_visuals.py`: en az **4 farklı klip**; aynı Pexels videosu tekrar indirilmez (eski hata: ikinci turda aynı video); ≤1080 genişlikte dosya tercih edilir (4K indirme yok).
+- `.github/workflows/check_and_produce.yml`: `FALLBACK_HOURS` **20 → 6** (dokunulmasa da günde 1 video). README §Akış 7 ve `docs/kurgu.md` §1/§4/§5/§9 güncellendi.
+- Yeni: `src/preview.py` + `.github/workflows/preview.yml` — elle tetiklenen, canlı akışa dokunmayan önizleme (1 aday → video → Telegram "ONIZLEME"; state/offset/YouTube yok, `permissions: contents: read`).
+- Doğrulama (yerel, ffmpeg'siz): `py_compile` temiz; sahte modüllerle mantık testi — 18,4 sn → 8 parça/20 sn, kısa klip döngüsü, 1080 seçimi, id hariç tutma, filtre zinciri metni doğru. Gerçek video doğrulaması önizleme run'ı ile yapılacak.
+
 ## 2026-11-22 — TikTok kalıntıları silindi
 - Silindi: `src/tiktok_upload.py`, `src/tiktok_oauth_exchange.py`, `src/tiktok_refresh_test.py`, `src/tiktok_init_test.py`, `.github/workflows/tiktok_oauth_exchange.yml`, `tiktok_refresh_test.yml`, `tiktok_init_test.yml`.
 - Neden: Karar K16 (TikTok kapsam dışı). Hiçbir aktif kod bu dosyaları import etmiyordu; ana akış etkilenmez.

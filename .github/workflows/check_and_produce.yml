@@ -52,7 +52,7 @@ jobs:
           TTS_VOICE: "en-US-AriaNeural"
           AUTO_TRIGGER_TIME: "16:30"
           PUBLISH_TIME_ISTANBUL: "20:00"
-          FALLBACK_HOURS: "20"
+          FALLBACK_HOURS: "6"
           MAX_REDO_ATTEMPTS: "5"
         run: python check_and_produce.py
 

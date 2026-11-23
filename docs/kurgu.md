@@ -15,7 +15,7 @@
 4. Videoyu üretir: edge-tts seslendirme → Pexels dikey stok klipler → faster-whisper altyazı → ffmpeg montaj (1080x1920, altyazı yakma, "SUBSCRIBE" buton animasyonu, kapanış CTA metni).
 5. Videoyu Telegram'a **onaya** gönderir ("Onayla, yayinla" / "Begenmedim, tekrar uret").
 6. Onaylanırsa videoyu (yeniden üretip) **YouTube'a private + zamanlanmış yayın** (`publishAt`) olarak yükler; YouTube videoyu her gün **20:00 İstanbul** saatinde herkese açar.
-7. Sahibi hiç yanıt vermezse her adım **20 saat** sonra kendiliğinden ilerler (otopilot).
+7. Sahibi hiç yanıt vermezse her adım **6 saat** (`FALLBACK_HOURS`, 2026-11-23 öncesi 20) sonra kendiliğinden ilerler (otopilot); dokunulmasa da günde 1 video hedeflenir.
 
 Her şey **GitHub Actions** üzerinde çalışır; kişisel bilgisayarın açık olması gerekmez.
 
@@ -58,16 +58,16 @@ Her şey **GitHub Actions** üzerinde çalışır; kişisel bilgisayarın açık
         ┌──────────────────────────────────────────────┐                     bugün döngü başlamamış ya da son durum "error"
         │                                              ▼                                     │
    (yok/done/error) ──────────────────────────────► pending ◄──────────────────────────────────┘
-                                                      │  konu seçildi  /  20 saat → 1. konu otomatik
+                                                      │  konu seçildi  /  6 saat → 1. konu otomatik 
                                                       ▼
                                              selecting_hashtags
-                                                      │  5 hashtag seçildi  /  20 saat → eksikler sırayla tamamlanır
+                                                      │  5 hashtag seçildi  /  6 saat → eksikler sırayla tamamlanır 
                                                       │  (video üretilir, Telegram'a onaya gönderilir)
                                                       ▼
                                    ┌──────────── reviewing ◄─────────┐
                                    │                 │                │ "tekrar uret" (attempts < 5) → yeniden üret
                                    │                 └────────────────┘
-                                   │ "onayla" / 20 saat timeout / 5. redo'da otomatik onay
+                                   │ "onayla" / 6 saat timeout / 5. redo'da otomatik onay 
                                    ▼
                         video yeniden üretilir → YouTube'a yüklenir → done
    Herhangi bir üretim/yükleme istisnası → error (Telegram'a hata mesajı, workflow "failure")
@@ -76,7 +76,7 @@ Her şey **GitHub Actions** üzerinde çalışır; kişisel bilgisayarın açık
 Kurallar (kod: [src/check_and_produce.py](../src/check_and_produce.py)):
 - `video uret` / `video üret` / `uret` / `üret` / `/uret` / `/video` / `/generate` mesajı **her zaman** mevcut durumu sıfırlar ve yeni 5 konu üretir (`suggest_topics.run(force=True)`), aktif döngü olsa bile.
 - Otomatik tetikleme günde 1 kez: `trigger_date == bugün` ise tekrar başlamaz; ancak son durum `error` ise aynı gün yeniden başlar.
-- `FALLBACK_HOURS=20` her aşama için ayrı sayılır (`created_at`, `hashtag_started_at`, `review_started_at`). Hiç dokunulmazsa bir döngü ≈3×20 saat + yoklama gecikmesi ≈ **2,5–3 gün** sürer. Bu yüzden otopilotta yayın sıklığı ≈ 3 günde 1 videodur (ölçülen, bkz. [hafiza/uretim-gecmisi.md](hafiza/uretim-gecmisi.md)).
+- `FALLBACK_HOURS` her aşama için ayrı sayılır (`created_at`, `hashtag_started_at`, `review_started_at`). 20 saatken hiç dokunulmayan döngü ≈2,5–3 gün sürüyordu (ölçülen, bkz. [hafiza/uretim-gecmisi.md](hafiza/uretim-gecmisi.md)). 6 saatte beklenen: ≈3×6 saat + yoklama gecikmesi (≈2 sa/adım) ≈ 1 gün → günde 1 video (canlıda doğrulanacak).
 - Onaylanan video Telegram'dan geri indirilmez (Bot API `getFile` indirme sınırı 20 MB); aynı içerikle **yeniden üretilip** yüklenir. Seslendirme/altyazı aynı olur, Pexels sonuçları değişirse klipler farklı olabilir.
 
 ### 4.1 `state/pending_topics.json` şeması
@@ -102,7 +102,7 @@ Kurallar (kod: [src/check_and_produce.py](../src/check_and_produce.py)):
 
 ### 4.2 Aday (candidate) şeması — Claude çıktısı
 
-`topic` (dahili başlık), `teaser` (Telegram'da gösterilen 1 cümle), `video_title` (<60 karakter), `video_description` (yedek; hashtag seçiminden sonra `topic + "\n\n" + #h1 … #h5` ile ezilir), `tags` (tam 10: 6–7 konuya özel + 3–4 jenerik: shorts, viral, trending, facts, didyouknow), `script` (65–85 kelime, tek paragraf, şok edici kanca ile başlar), `visual_keywords` (3–5 İngilizce Pexels arama ifadesi).
+`topic` (dahili başlık), `teaser` (Telegram'da gösterilen 1 cümle), `video_title` (<60 karakter), `video_description` (yedek; hashtag seçiminden sonra `topic + "\n\n" + #h1 … #h5` ile ezilir), `tags` (tam 10: 6–7 konuya özel + 3–4 jenerik: shorts, viral, trending, facts, didyouknow), `script` (40–55 kelime ≈ 15–20 sn, tek paragraf, ≤12 kelimelik şok edici kanca ile başlar, son cümle ilk cümleye bağlanır — döngü), `visual_keywords` (3–5 İngilizce Pexels arama ifadesi).
 
 ### 4.3 Diğer state dosyaları
 
@@ -114,9 +114,9 @@ Kurallar (kod: [src/check_and_produce.py](../src/check_and_produce.py)):
 | Adım | Dosya | Teknoloji | Ayrıntı |
 |---|---|---|---|
 | 1/4 Seslendirme | [src/generate_voice.py](../src/generate_voice.py) | edge-tts 7.3.1 | Ses `TTS_VOICE=en-US-AriaNeural`, hız `TTS_RATE=+5%`; süre `ffprobe` ile ölçülür |
-| 2/4 Görseller | [src/fetch_visuals.py](../src/fetch_visuals.py) | Pexels Videos API | Her anahtar kelime için `orientation=portrait`, ilk dikey dosyanın en genişi; toplam süre ses süresini geçene kadar (kelimeler en fazla 3 tur) |
+| 2/4 Görseller | [src/fetch_visuals.py](../src/fetch_visuals.py) | Pexels Videos API | Anahtar kelimeleri sırayla dolaşır (en fazla 3 tur), `orientation=portrait`, ≤1080 genişlikteki en büyük dosya; toplam süre ses süresini geçene **ve** en az 4 farklı klip olana kadar; aynı Pexels videosu tekrar indirilmez |
 | 3/4 Altyazı | [src/generate_captions.py](../src/generate_captions.py) | faster-whisper 1.0.3, model `small`, CPU int8 | Kelime zaman damgalı, 3 kelimelik SRT parçaları |
-| 4/4 Montaj | [src/assemble_video.py](../src/assemble_video.py) | ffmpeg (libx264, aac, libass) | Klipler 1080x1920/30fps normalize → concat → altyazı yak (Arial 16, MarginV=170) → 1,2 sn'de `follow_button.png` pop-in (260 px) + `tap_ring.png` dokunma halkası → son 3 sn "SUBSCRIBE" kutulu metin → bitrate hedefi 30 MB (700–5000 kbps), ses 128 kbps |
+| 4/4 Montaj | [src/assemble_video.py](../src/assemble_video.py) | ffmpeg (libx264, aac, libass) | Klipler 2,5 sn'lik parçalar halinde sırayla dizilir (görüntü her 2,5 sn'de değişir), 1080x1920/30fps normalize → concat → altyazı yak (Arial 16, MarginV=170) → ilk 2,5 sn kanca yazısı (script'in ilk cümlesi, 64 px, y=560) → 1,2 sn'de `follow_button.png` pop-in (260 px) + `tap_ring.png` dokunma halkası → son 3 sn "SUBSCRIBE" kutulu metin → bitrate hedefi 30 MB (700–5000 kbps), ses 128 kbps |
 | Yükleme | [src/pipeline.py](../src/pipeline.py) → [src/upload_youtube.py](../src/upload_youtube.py) | google-api-python-client | Açıklamaya `#Shorts` yoksa eklenir; `categoryId=24`, `selfDeclaredMadeForKids=false`, `privacyStatus=private` + `publishAt=sonraki 20:00 İst. (UTC)`; resumable upload |
 
 ## 6. Kullanılan teknolojiler
@@ -186,7 +186,7 @@ Secret değerleri hiçbir dosyada yazılmaz. Hepsi **GitHub → repo → Setting
 | `TTS_RATE` | (yok) | `+5%` | Konuşma hızı |
 | `AUTO_TRIGGER_TIME` | `16:30` | `20:00` | Manuel tetik yoksa döngünün başlayacağı İstanbul saati (string karşılaştırma `HH:MM`) |
 | `PUBLISH_TIME_ISTANBUL` | `20:00` | `20:00` | YouTube `publishAt` saati; `off` = hemen yayın |
-| `FALLBACK_HOURS` | `20` | `20` | Yanıtsız adımın otomatik ilerleme süresi; `0` = kapalı |
+| `FALLBACK_HOURS` | `6` (2026-11-23'e kadar `20`) | `20` | Yanıtsız adımın otomatik ilerleme süresi; `0` = kapalı |
 | `MAX_REDO_ATTEMPTS` | `5` | `5` | Bu sayıya ulaşan "tekrar uret" otomatik onaya döner |
 
 Kod içi sabitler: `N_CANDIDATES=5`, `N_HASHTAGS_TO_PICK=5`, hashtag adayı ≤10, `topics_used` 300/60, video `TARGET_MAX_MB=30`, whisper `small`, `WORDS_PER_CHUNK=3`.

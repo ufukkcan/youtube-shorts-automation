@@ -109,5 +109,9 @@
 ### L24 — PowerShell 5.1 git stderr'i hata gibi gösterir [Kanıtlı]
 - `git fetch` başarılı olduğu halde `NativeCommandError` görünüyor. Kural: Sonucu çıktı içeriği/`git status` ile doğrula, kırmızı yazıya göre değil.
 
+### L26 — Yerelde ffmpeg'siz mantık testi mümkün, ama ortam eksik [Kanıtlı]
+- Bu makinede `requests`, `tzdata`, ffmpeg, faster-whisper yok; `ZoneInfo("Europe/Istanbul")` Windows'ta tzdata olmadan import anında düşüyor.
+- Kural: Kod değişikliğinden sonra `python -I` ile, eksik modülleri `sys.modules` sahteleriyle ve `zoneinfo.ZoneInfo`/`subprocess.run` yamasıyla saf mantığı test et (ffmpeg komut/filtre metnini yazdır). Gerçek video doğrulaması yalnız Actions'ta (önizleme workflow'u).
+
 ### L25 — Masaüstü Desktop Commander MCP bağlanamadı [Kanıtlı]
 - Bu proje iç ağ gerektirmiyor; yerel komutlar PowerShell aracıyla yeterli.

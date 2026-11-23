@@ -67,7 +67,8 @@
 - [ ] Silme sonrası ilk zamanlanmış `check_and_produce` run'ının yeşil olduğunu doğrula (silinen dosyaları import eden kod yoktu; risk düşük)
 
 ## Faz 9 — Güvenilirlik (öneri, her biri ayrı onay)
-- [ ] YouTube'da 39 videonun görünürlüğünü doğrula (YouTube Studio) — kullanıcı bakar; "Private (locked)" varsa API audit gerekir
+- [x] Videolar public yayınlanıyor mu? — kanıt: Studio panosu (2026-11-22), yayınlanan videolar izlenme/beğeni alıyor; private kilidi yok. (39 videonun tek tek kontrolü Studio CSV'si gelince)
+- [ ] Studio verisi analizi: Insights CSV (Lifetime, video bazında) + Earn ekranı + kanal URL'si — kullanıcı sağlayacak
 - [ ] YouTube `video_id` + yükleme zamanını `pending_topics.json`'a yaz
 - [ ] Konu tekrarını önle (normalize anahtar, tüm geçmiş)
 - [ ] Telegram offset'ini işleme sonrası kaydet
@@ -76,6 +77,33 @@
 - [ ] Otopilot sıklığı: FALLBACK_HOURS'u düşürmek (ör. 6) ister misin? — karar kullanıcıda
 - [ ] Bilinmeyen hataların logları: 33665069160, 34754285697, 43633352748 (kullanıcı tarayıcıdan hata satırını paylaşır)
 - [ ] Bilinmeyenler: bot kullanıcı adı, kanal id, GCP proje/consent/audit/kota → `docs/hafiza/02-sistemler-durum.md`'ye işle
+
+## Faz 11 — Gelir hedefi: YPP (kullanıcı onayı 2026-11-23; sıra 1 → 2 → 4, sonra 3 → 5)
+> Hedef: 1.000 abone + 90 günde 10M Shorts görüntüleme, ve "özgün olmayan içerik" incelemesinden geçecek format. Teşhis verisi: `data/analiz-2026-11-22-studio-28gun.md` (ort. izlenme 12 sn ≈ %36, 28 günde 0 abone).
+### 1. Kısa video (40–55 kelime, 15–22 sn)
+- [ ] `generate_script.py`: SYSTEM_PROMPT tempo kuralı ve CANDIDATE_SCHEMA script uzunluğu 40–55 kelime — kod hazır (2026-11-23), önizlemede doğrulanacak
+### 2. İlk saniye + hızlı kurgu + döngü sonu
+- [ ] İlk ≈2 sn ekranda büyük kanca yazısı (script'in ilk cümlesi), buton ve altyazıyla çakışmayan konumda — kod hazır (2,5 sn, y=560), filtre metni testli
+- [ ] Görüntü her ≈2,5 sn'de değişsin (klip başına 6–10 sn yerine) — kod hazır, parça planı testli
+- [ ] Pexels'ten en az 3–5 farklı klip; aynı videonun tekrar indirilmesini engelle (mevcut hata: aynı anahtar kelime ikinci turda aynı videoyu döndürüyor) — kod hazır (MIN_CLIPS=4, id hariç tutma, ≤1080), testli
+- [ ] Prompt: kapanış cümlesi ilk cümleye bağlansın (döngü/tekrar izleme) — kod hazır
+### 4. Günlük yayın
+- [ ] `FALLBACK_HOURS` 20 → 6 (README + kurgu §9 + changelog + kararlar aynı commit'te, L18) — değişiklik hazır, merge ile canlıya
+### Doğrulama ve canlıya alma
+- [x] `python -m py_compile` temiz (exit 0) + ffmpeg'siz mantık testi (parça planı, Pexels seçimi, filtre zinciri) — 2026-11-23
+- [x] Önizleme aracı yazıldı: `src/preview.py` + `.github/workflows/preview.yml`
+- [ ] 🔒 Push: main'e `preview.yml` (+ `.gitignore`), `format-v2` branch'ine diğer değişiklikler
+- [ ] Kullanıcı: Actions → "Preview video" → branch `format-v2` → Run; Telegram'da önizlemeyi değerlendirir
+- [ ] Kullanıcı onayından sonra canlıya al (push/merge 🔒); ilk canlı run yeşil + state geçişi
+- [ ] 2 hafta sonra (≈2026-12-07) aynı 28 günlük Studio export'u ile karşılaştır: izlenen yüzde, video başına görüntüleme, abone
+### 3. Konu odağı ve kanal kimliği (sonra)
+- [ ] Konu üretimini "somut, gerçek, karanlık tarih / çözülmemiş gizem" türüne odakla; soyut bilimi azalt
+- [ ] Kapanış CTA'sını seriye özel yap (ör. "Follow for a daily mystery")
+- [ ] Tekrarlayan konuları engelle (normalize anahtar + tüm geçmiş) — Faz 9'daki maddeyle aynı iş
+### 5. YPP incelemesine hazırlık (sonra)
+- [ ] Script'teki iddialar için doğruluk kontrolü adımı (ikinci LLM çağrısı / kaynak listesi)
+- [ ] Kullanıcının seçim/onay sürecine düzenli katılımı (otopilot oranını azaltmak) — karar kullanıcıda
+- [ ] 2027-02-01 YPP şartları güncellemesini oku (support.google.com/youtube/answer/12843009), 2027-01-31'e kadar Studio'da kabul
 
 ## Faz 10 — Büyüme (opsiyonel)
 - [ ] YouTube Analytics geri bildirimi, yayın saati deneyi, kelime vurgulu altyazı — bkz. roadmap

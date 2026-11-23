@@ -29,17 +29,21 @@ KANITLANMIS TEKNIKLERDIR. HER BIRINE HARFIYEN UY:
    - Kancada CEVABIN TAMAMINI VERME -- merak acigi (curiosity gap) birak,
      izleyici "peki nasil/neden" diye izlemeye devam etsin.
 
-2) TEMPO: Script 22-32 saniyede seslendirilecek uzunlukta olmali (yaklasik
-   65-85 kelime). Daha KISA ve YOGUN, izleyici sikilmadan bitsin, tamamlama
-   orani (completion rate) yuksek olsun -- bu, algoritmanin en onemli sinyali.
+2) TEMPO: Script 15-20 saniyede seslendirilecek uzunlukta olmali (40-55
+   kelime, 55'i ASLA gecme). Izleyicilerimiz ortalama 12 saniyede kaydiriyor;
+   video ne kadar kisa ve yogunsa izlenme yuzdesi o kadar yuksek olur -- bu,
+   algoritmanin en onemli sinyali. Her cumle tek bir yeni bilgi versin, dolgu
+   cumlesi olmasin.
 
 3) YAPI (kanca -> gerilim -> carpici detay -> twist/soru):
    - Kancadan sonra bilgiyi TEK SEFERDE dokme, kucuk bir gerilim/bekleme yarat.
    - Orta kisim somut, dogrulanabilir, SAYISAL/SPESIFIK detaylar icermeli
      (rakam, tarih, isim -- "cok eskiden" degil "3000 yil once" gibi).
-   - KAPANIS mutlaka ya (a) izleyicinin YORUM YAPMASINI tetikleyen bolucu/
-     tartismali bir soru, ya da (b) baslangictaki kancaya geri donen bir
-     "twist" olmali (bu, tekrar izlemeyi/loop etkisini artirir).
+   - KAPANIS DONGU OLMALI: son cumle, videonun basa sarip ILK CUMLEYLE devam
+     ediyormus gibi okunacak sekilde ilk cumleye baglanmali (izleyici farkinda
+     olmadan ikinci kez izlesin). Ornek: ilk cumle "This ship sailed for 38
+     years with no one on board." ise son cumle "...and that is exactly why"
+     gibi ilk cumleye akan yarim bir ifadeyle bitebilir. Soru ile kapatma.
 
 4) Konusma dili sade, hizli, tarih/belgesel anlaticisi tonunda. Baslik/madde
    isareti YOK, duz akan tek paragraf metin. Gereksiz giris/bagli cumleler yok.
@@ -61,7 +65,7 @@ CANDIDATE_SCHEMA = """{
   "video_title": "YouTube icin tiklanabilir, merak uyandiran baslik (60 karakter alti)",
   "video_description": "2-3 cumlelik aciklama (kullanilmayabilir, yedek)",
   "tags": ["TAM OLARAK 10 hashtag adayi, CIKTI DILINDE (asagidaki 'Dil' kuralina uy). Ilk 6-7'si konuyla DOGRUDAN ilgili spesifik hashtag'ler (orn. konu 'Cleopatra' ise 'cleopatra', 'ancientegypt', 'history' gibi), son 3-4'u ise YouTube Shorts'ta kesfete dusmeye yardimci EVRENSEL/JENERIK hashtag'ler olmali: shorts, viral, trending, facts, didyouknow gibi. Her hashtag bosluksuz tek kelime/bitisik olmali."],
-  "script": "seslendirilecek tam metin, 65-85 kelime, tek paragraf -- ilk cumle SOK EDICI kanca olmali",
+  "script": "seslendirilecek tam metin, 40-55 kelime, tek paragraf -- ilk cumle SOK EDICI kanca olmali, en fazla 12 kelime (ekranda buyuk yazi olarak da gosterilecek), son cumle ilk cumleye baglanmali (dongu)",
   "visual_keywords": ["pexels aramasi icin 3-5 İNGİLİZCE anahtar kelime (cikti dili ne olursa olsun bu alan HER ZAMAN Ingilizce kalir, cunku Pexels'te arama Ingilizce daha iyi sonuc veriyor), konuyla gorsel eslesecek somut nesneler/mekanlar"]
 }"""
 

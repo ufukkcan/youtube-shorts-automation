@@ -65,7 +65,7 @@ git diff | Select-String -Pattern '(sk-ant-|AIza|ya29\.|1//0|client_secret\s*=\s
 ## 6. Senaryolar
 
 ### 6.1 "Video gelmiyor / bot cevap vermiyor"
-1. §1 + §2: status ve zamanlar. `created_at`/`*_started_at` + 20 saat geçmediyse beklemek normal.
+1. §1 + §2: status ve zamanlar. `created_at`/`*_started_at` + FALLBACK_HOURS (6; eskiden 20) geçmediyse beklemek normal.
 2. §3: son run zamanı. Son run birkaç saatten eskiyse GitHub cron gecikmesi (L4). 🔒 Elle tetik: Actions → *Check Telegram selection and produce* → Run workflow.
 3. Son run failure ise hangi adım (§3) → log satırını kullanıcıdan iste.
 

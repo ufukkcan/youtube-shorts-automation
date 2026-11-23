@@ -50,38 +50,41 @@
 | Satır | Öğe |
 |---|---|
 | 12–13 | STATE_FILE, LANGUAGE |
-| 15–56 | SYSTEM_PROMPT (viral kurallar + DİL KURALI) |
-| 58–66 | CANDIDATE_SCHEMA |
-| 68–82 | USER_PROMPT_TEMPLATE |
-| 85 / 91 | `load_used_topics`, `save_used_topics` (son 300) |
-| 99 | `_call_claude` — son 60 başlık (105), model (111), JSON temizleme (118) |
-| 122 | `generate_topic_candidates` |
-| 130 | `generate_daily_content` (main.py için) |
+| 15–60 | SYSTEM_PROMPT (viral kurallar, tempo 40–55 kelime, döngü kapanış, DİL KURALI) |
+| 62–70 | CANDIDATE_SCHEMA |
+| 72–86 | USER_PROMPT_TEMPLATE |
+| 89 / 95 | `load_used_topics`, `save_used_topics` (son 300) |
+| 103 | `_call_claude` — model (115); state'e yazmaz (preview.py bunu kullanır) |
+| 126 | `generate_topic_candidates` (topics_used'a yazar) |
+| 134 | `generate_daily_content` (main.py için) |
 
-## src/pipeline.py (96)
+## src/pipeline.py (107)
 | Satır | Öğe |
 |---|---|
 | 19–23 | LANGUAGE, PRIVACY_STATUS, PUBLISH_TIME_ISTANBUL |
 | 26 | `next_publish_at_utc` |
-| 37 | `produce_video` (4 adım) |
-| 63 | `upload_video` (#Shorts ekleme 76–77) |
-| 89 | `produce_and_upload` (tam otomatik) |
+| 37 | `produce_video` (4 adım; kancayı montaja verir) |
+| 64 | `_extract_hook` (script'in ilk cümlesi) |
+| 74 | `upload_video` (#Shorts ekleme) |
+| 100 | `produce_and_upload` (tam otomatik) |
 
-## src/assemble_video.py (172)
+## src/assemble_video.py (217)
 | Satır | Öğe |
 |---|---|
-| 10–26 | Boyut, bitrate, font, asset yolları, buton/halka/CTA zamanlamaları |
-| 29 | `assemble` — concat (47–53), subtitle_style (60–64), zamanlar (71–75), pop ifadeleri (83–91), filter_complex (93–104), son ffmpeg (106–122) |
-| 125 | `_esc` |
-| 130 | `_compute_video_bitrate_kbps` |
-| 138 | `_normalize_clips` |
+| 15–36 | Boyut, SEGMENT_SECONDS=2.5, HOOK_* (süre 2.5, 64 px, 20 karakter, y=560), bitrate, font, asset yolları, buton/halka/CTA zamanlamaları |
+| 39 | `assemble` — concat (57), subtitle_style (70), kanca drawtext (83–94), filter_complex (115), son ffmpeg (128) |
+| 147 | `_esc` |
+| 152 | `_compute_video_bitrate_kbps` |
+| 160 | `_normalize_clips` — 2,5 sn parçalar, klipler sırayla, `-stream_loop` |
+| 193 | `_probe_duration` (ffprobe) |
 
 ## Diğer src
 | Dosya | Satır |
 |---|---|
 | `suggest_topics.py` (65) | `run(force)` 22, günde-1 kontrolü 30, batch_id 35, pending yazımı 40–54 |
 | `generate_voice.py` (42) | VOICE 13, RATE 14, `generate_voice` 22, `_get_duration` (ffprobe) 28 |
-| `fetch_visuals.py` (68) | `fetch_clips` 14, `_search_one_clip` 37, `_download` 57 |
+| `fetch_visuals.py` (83) | MIN_CLIPS=4 14, MAX_FILE_WIDTH=1080 15, `fetch_clips` 18, `_search_one_clip` (id hariç tutma) 47, `_download` 72 |
+| `preview.py` (60) | Önizleme: 1 aday (state'e yazmaz) → video → Telegram "ONIZLEME"; `main` 20 |
 | `generate_captions.py` (47) | WORDS_PER_CHUNK 9, MODEL_SIZE 10, `generate_srt` 20 |
 | `upload_youtube.py` (79) | SCOPES 13, `_get_credentials` 16, `upload_short` 27 |
 | `main.py` (18) | Onaysız tam otomatik mod |
@@ -93,6 +96,7 @@
 | `check_and_produce.yml` | cron (6), concurrency (9–11), timeout 30 dk, apt cache, env (42–56), run (57), state push `if: always()` |
 | `suggest_topics.yml` | sadece workflow_dispatch |
 | `yt_oauth_exchange.yml` | input `code` |
+| `preview.yml` | Elle; seçilen branch'in koduyla `src/preview.py`; `permissions: contents: read`, state commit yok |
 
 TikTok dosyaları (4 `src/tiktok_*.py`, 3 `tiktok_*.yml`) 2026-11-22'de silindi; geçmişteki içerikleri için `git log --all -- src/tiktok_upload.py`.
 

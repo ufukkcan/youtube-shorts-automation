@@ -21,8 +21,9 @@ kontrol panelin.
    (onay saatinden bağımsız).
 6. **Beğenmedim** dersen → aynı konuyla video yeniden üretilir (yeni seslendirme +
    yeni stok görsel), tekrar onayına sunulur. Bu, sen onaylayana kadar döner.
-7. Güvenlik ağı: **20 saat** boyunca hiç yanıt vermezsen (ne konu seçiminde ne
-   onayda), bot otomatik ilerler. Ayrıca art arda **5 kez** "tekrar üret"
+7. Güvenlik ağı: **6 saat** (`FALLBACK_HOURS`) boyunca hiç yanıt vermezsen (konu
+   seçimi, hashtag seçimi ya da onay adımında), bot otomatik ilerler; böylece
+   hiç dokunmasan da günde bir video çıkar. Ayrıca art arda **5 kez** "tekrar üret"
    dersen bot son versiyonu otomatik onaylayıp yükler (sonsuz döngüye girmesin diye).
 8. Bir gün için döngü bir kere başladıysa (manuel ya da otomatik), o gün için
    ikinci bir döngü açılmaz.

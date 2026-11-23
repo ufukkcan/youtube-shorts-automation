@@ -11,21 +11,31 @@ PEXELS_API_KEY = os.environ["PEXELS_API_KEY"]
 SEARCH_URL = "https://api.pexels.com/videos/search"
 
 
+MIN_CLIPS = 4          # hizli kurgu (her ~2.5 sn'de goruntu degisimi) icin en az bu kadar farkli klip
+MAX_FILE_WIDTH = 1080  # cikti 1080 genislikte; daha buyuk (4K) dosya indirmek sadece sureyi uzatir
+
+
 def fetch_clips(keywords: list[str], out_dir: str, min_total_seconds: float) -> list[str]:
-    """Her anahtar kelime icin dikey (9:16'ya yakin) bir klip indirir.
-    Toplam sure min_total_seconds'i gecene kadar ek klip cekmeye devam eder."""
+    """Anahtar kelimeleri sirayla dolasarak FARKLI dikey klipler indirir.
+    Hem toplam sure min_total_seconds'i gecene hem de en az MIN_CLIPS klip
+    olana kadar devam eder. Ayni Pexels videosu iki kez indirilmez (onceden
+    ayni anahtar kelime ikinci turda ayni videoyu donduruyordu)."""
     Path(out_dir).mkdir(parents=True, exist_ok=True)
     downloaded_paths = []
+    used_ids: set = set()
     total_duration = 0.0
     keyword_index = 0
 
-    while total_duration < min_total_seconds and keyword_index < len(keywords) * 3:
+    while keyword_index < len(keywords) * 3:
+        if total_duration >= min_total_seconds and len(downloaded_paths) >= MIN_CLIPS:
+            break
         keyword = keywords[keyword_index % len(keywords)]
-        clip = _search_one_clip(keyword, exclude_paths=downloaded_paths)
+        clip = _search_one_clip(keyword, exclude_ids=used_ids)
         if clip is not None:
             dest = os.path.join(out_dir, f"clip_{len(downloaded_paths):02d}.mp4")
             _download(clip["url"], dest)
             downloaded_paths.append(dest)
+            used_ids.add(clip["id"])
             total_duration += clip["duration"]
         keyword_index += 1
 
@@ -34,7 +44,7 @@ def fetch_clips(keywords: list[str], out_dir: str, min_total_seconds: float) -> 
     return downloaded_paths
 
 
-def _search_one_clip(keyword: str, exclude_paths: list[str]) -> dict | None:
+def _search_one_clip(keyword: str, exclude_ids: set) -> dict | None:
     resp = requests.get(
         SEARCH_URL,
         headers={"Authorization": PEXELS_API_KEY},
@@ -44,13 +54,18 @@ def _search_one_clip(keyword: str, exclude_paths: list[str]) -> dict | None:
     resp.raise_for_status()
     results = resp.json().get("videos", [])
     for video in results:
-        # en yuksek kaliteli dikey (portrait) dosyayi sec
-        files = sorted(
-            (f for f in video["video_files"] if f.get("width", 0) < f.get("height", 1)),
-            key=lambda f: f.get("width", 0), reverse=True,
+        if video.get("id") in exclude_ids:
+            continue
+        portrait = [f for f in video["video_files"] if f.get("width", 0) < f.get("height", 1)]
+        if not portrait:
+            continue
+        # 1080 genislige kadar olan en buyuk dosya; yoksa en kucuk buyuk dosya
+        fitting = [f for f in portrait if f.get("width", 0) <= MAX_FILE_WIDTH]
+        chosen = (
+            max(fitting, key=lambda f: f.get("width", 0)) if fitting
+            else min(portrait, key=lambda f: f.get("width", 0))
         )
-        if files:
-            return {"url": files[0]["link"], "duration": video.get("duration", 6)}
+        return {"id": video.get("id"), "url": chosen["link"], "duration": video.get("duration", 6)}
     return None
 
 

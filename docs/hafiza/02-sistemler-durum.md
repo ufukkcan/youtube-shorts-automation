@@ -21,7 +21,7 @@
 | S12 | Microsoft Edge TTS (edge-tts 7.3.1) | Seslendirme | 🟢 | 2026-11-22 | 2026-10-15'ten beri sorun yok. Kırılma geçmişi: L5. |
 | S13 | faster-whisper (small, Actions'ta indirilir) | Altyazı | 🟢 | 2026-11-22 | — |
 | S14 | YouTube Data API v3 / Google Cloud OAuth client | Yükleme | 🟢❔ | 2026-11-22 | Son başarılı `videos.insert`: 2026-11-22 07:31 UTC civarı. Proje adı, consent screen durumu, API audit durumu, kota ❔. |
-| S15 | YouTube kanalı ("interesthings") | Yayın | ❔ | — | Videoların public olup olmadığı, kanal id'si doğrulanmadı (YouTube Studio'dan bakılmalı). |
+| S15 | YouTube kanalı ("Interesthings") | Yayın | 🟡 | 2026-11-22 | Studio panosu (kullanıcı ekran görüntüsü): **18 abone**; son 28 gün 1,8K izlenme, 6,2 saat izlenme süresi. Videolar izlenme alıyor → public yayınlanıyor (private kilidi yok). Örnekler: Ghost Ship 1,2K izlenme/10 beğeni, Rainforest 479/13, 2,000-Year-Old Computer 64/6, Atomic Bombs 1/0; son Short "The Zip Code That Traps Real People" ilk 1 sa 46 dk'da 12 izlenme (10 videoda 5.). Yorum geliyor (Castrati videosu). Kanal URL/handle ❔. |
 | S16 | TikTok Developer uygulaması | — | ⚪🔴 | 2026-11-22 | Kapsam dışı. Client secret public geçmişte → uygulama silinmeli / secret yenilenmeli. |
 
 ## Anlık bot durumu (güncelle)

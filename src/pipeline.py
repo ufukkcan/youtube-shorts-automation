@@ -56,8 +56,19 @@ def produce_video(content: dict, work_dir: Path) -> str:
 
     print("4/4 Video montajlaniyor...")
     output_path = work_dir / "final.mp4"
-    assemble(clip_paths, str(audio_path), str(srt_path), str(output_path), duration)
+    hook_text = _extract_hook(content["script"])
+    assemble(clip_paths, str(audio_path), str(srt_path), str(output_path), duration, hook_text=hook_text)
     return str(output_path)
+
+
+def _extract_hook(script: str) -> str:
+    """Script'in ilk cumlesi (kanca): ilk saniyelerde ekranda buyuk yazi olarak
+    gosterilir (sesi kapali kaydiran izleyiciyi durdurmak icin)."""
+    script = script.strip()
+    ends = [i for i in (script.find(". "), script.find("! "), script.find("? ")) if i != -1]
+    if ends:
+        return script[: min(ends) + 1].strip()
+    return script[:80].strip()
 
 
 def upload_video(video_path: str, content: dict) -> str:
