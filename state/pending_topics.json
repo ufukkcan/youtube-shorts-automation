@@ -1,189 +1,134 @@
 {
-  "batch_id": "20261122-1535",
-  "trigger_date": "2026-11-22",
-  "message_id": 430,
-  "created_at": "2026-11-22T15:35:47.789657+00:00",
-  "status": "done",
+  "batch_id": "20261126-1952",
+  "trigger_date": "2026-11-26",
+  "message_id": 433,
+  "created_at": "2026-11-26T19:52:35.983872+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "The Toxoplasma Mind Control Parasite",
-      "teaser": "A parasite living inside a third of all humans right now may be quietly rewriting their personalities — and scientists can prove it.",
-      "video_title": "The Parasite Living in Your Brain Right Now",
-      "video_description": "Toxoplasma gondii infects roughly 2 billion people worldwide and has been linked to personality shifts, risk-taking behavior, and even schizophrenia. It was first discovered manipulating mice — making them attracted to cats so the parasite could complete its life cycle.",
+      "topic": "The Man Who Never Forgot a Single Day — AJ",
+      "teaser": "She can replay any day of her life like a video — but it's not a superpower, it's a curse.",
+      "video_title": "She Remembers Every Second of Her Life",
+      "video_description": "Jill Price, known as AJ in scientific literature, was the first person diagnosed with hyperthymesia — the inability to forget any day of her life. While it sounds like a gift, she described it as an uncontrollable, exhausting mental prison.",
       "tags": [
-        "toxoplasma",
-        "parasites",
+        "hyperthymesia",
+        "perfectmemory",
+        "jillprice",
         "brainfacts",
-        "microbiology",
-        "mindcontrol",
-        "science",
-        "humanmind",
+        "neuroscience",
+        "memory",
+        "psychology",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "A parasite is living inside roughly 2 billion people right now — and it's changing who they are. Toxoplasma gondii rewires infected mice to run toward cats instead of away, so it can complete its life cycle. In humans, studies link it to higher risk-taking, slower reaction times, and elevated schizophrenia rates. It has no cure. It never fully leaves. And standard blood tests won't even flag it. Are you one of the 2 billion?",
+      "script": "She can tell you exactly what she ate for breakfast on March 14th, 1988 — without trying. Jill Price was the first human ever diagnosed with perfect autobiographical memory. Every single day since she was 14 plays on a constant loop inside her mind. Scientists called it hyperthymesia. She called it a burden. While you forget most of your life, she cannot forget a single second of hers. Would you want that ability — or would it slowly destroy you?",
       "visual_keywords": [
-        "brain parasite microscope",
-        "cat and mouse",
-        "neuroscience lab",
-        "human brain scan",
-        "microorganism"
+        "brain memory neuroscience",
+        "woman thinking overwhelmed",
+        "calendar pages",
+        "neuron close up"
       ]
     },
     {
-      "topic": "The Dybbuk Box — Most Haunted Object Sold on eBay",
-      "teaser": "Someone listed a wine cabinet on eBay with a warning: every owner suffered the same nightmare, the same illness, the same word whispered in their sleep.",
-      "video_title": "The Cursed Box That Broke Every Owner",
-      "video_description": "The Dybbuk Box is a wine cabinet sold on eBay in 2003 with a haunting disclaimer — every person who owned it reported identical nightmares, hair loss, and the smell of cat urine and jasmine. It now sits locked in a museum no one is allowed to open.",
+      "topic": "The Candle That Burns Under Water — Thermite",
+      "teaser": "There's a substance on Earth that keeps burning even when you drown it — water makes it worse.",
+      "video_title": "This Fire Cannot Be Put Out With Water",
+      "video_description": "Thermite burns at over 2,500 degrees Celsius and produces its own oxygen during the reaction, meaning water doesn't extinguish it — it can actually accelerate the explosion. Used in military incendiary devices and industrial welding, it is one of the most unstoppable chemical reactions known.",
       "tags": [
-        "dybukbox",
-        "hauntedobjects",
-        "paranormal",
-        "truecreepy",
-        "occult",
-        "mysteryfacts",
-        "horrorstory",
-        "shorts",
-        "viral",
-        "trending"
-      ],
-      "script": "Every single owner of this wine cabinet reported the exact same nightmare — a hag with no eyes, the smell of jasmine and cat urine, waking up with welts. Sold on eBay in 2003 by a Holocaust survivor's grandson, the Dybbuk Box passed through six owners in one year. Each one returned it. One had a stroke. One lost all their hair. It now sits sealed inside a museum, and the curator refuses to open it. What would you do with it?",
-      "visual_keywords": [
-        "old wooden box antique",
-        "haunted object museum",
-        "dark wine cabinet",
-        "mysterious locked chest",
-        "paranormal artifact"
-      ]
-    },
-    {
-      "topic": "The Exploding Lake — Lake Nyos CO2 Catastrophe",
-      "teaser": "One night in 1986, a lake in Africa quietly exhaled — and by morning, 1,700 people within miles were dead without a single mark on their bodies.",
-      "video_title": "The Lake That Silently Killed 1,700 People",
-      "video_description": "Lake Nyos in Cameroon erupted in 1986 — not with lava, but with a sudden release of 1.6 million tonnes of CO2. The invisible cloud suffocated everything in its path within minutes, leaving bodies with no visible injuries. The lake is still loaded with gas today.",
-      "tags": [
-        "lakenyos",
-        "naturaldisaster",
-        "geology",
-        "CO2eruption",
-        "cameroon",
+        "thermite",
+        "chemistry",
+        "fire",
+        "chemicalreaction",
         "sciencefacts",
-        "earthscience",
+        "physics",
+        "explosions",
         "shorts",
         "viral",
         "didyouknow"
       ],
-      "script": "In 1986, a lake in Cameroon killed 1,700 people overnight — and left no marks on a single body. Lake Nyos had been silently storing 1.6 million tonnes of CO2 on its floor for decades. One night, the pressure broke. A wall of invisible gas rolled through villages at 100 kilometers per hour, suffocating every living thing within 25 kilometers in minutes. Livestock, birds, insects — all dead. The lake is still full of gas right now. How close would you have to live before you'd move away?",
+      "script": "Pour water on this fire and it explodes. Thermite burns at 2,500 degrees Celsius — hotter than the surface of some stars — and generates its own oxygen as it burns. That means no water, no sand, nothing can stop it once it starts. It melts through steel in seconds. Militaries have used it in incendiary bombs. Welders use it to fuse railway tracks. The reaction lasts only seconds, but the destruction it leaves behind is permanent. What would you even do against something like this?",
       "visual_keywords": [
-        "lake nyos cameroon",
-        "volcanic lake africa",
-        "carbon dioxide gas cloud",
-        "silent disaster nature",
-        "deep lake underwater gas"
+        "thermite reaction sparks",
+        "molten metal burning",
+        "fire underwater",
+        "chemical reaction extreme heat"
       ]
     },
     {
-      "topic": "The Clockwork Soldier — Antoine Louis & the Guillotine Paradox",
-      "teaser": "The man who invented a machine to make execution more humane ended up being executed by his own invention — but that's not even the strangest part of the story.",
-      "video_title": "He Invented the Guillotine. It Killed Him.",
-      "video_description": "Dr. Joseph-Ignace Guillotin proposed a painless execution device as a humanitarian reform during the French Revolution. He never built it — Antoine Louis did. And the question that haunted physicians for years after: do severed heads remain conscious, and for how long?",
+      "topic": "The Island Owned by a Single Family for 900 Years — Sark",
+      "teaser": "There's a tiny island in Europe where cars are banned, there's no income tax — and one family ruled it for nearly a thousand years.",
+      "video_title": "The Island That Refused the Modern World",
+      "video_description": "Sark, a tiny island in the English Channel, was a feudal state until 2008 — the last feudal territory in the Western world. For nearly 450 years it was ruled by a single hereditary lord, cars were banned, and there was no income tax. Its transition to democracy was forced by a legal battle from two billionaire brothers.",
       "tags": [
-        "guillotine",
-        "frenchrevolution",
-        "darkhistory",
-        "medicalhistory",
-        "execution",
+        "sark",
+        "feudalism",
+        "islandfacts",
+        "history",
+        "weirdlaws",
+        "channelislands",
         "historyfacts",
-        "science",
         "shorts",
         "viral",
         "facts"
       ],
-      "script": "He proposed the guillotine as an act of mercy — equal, instant, painless for all. Dr. Guillotin never built it; a surgeon named Antoine Louis did, in 1792. Within two years, it had killed over 2,700 people in Paris alone. But the detail that haunted physicians: after decapitation, some heads reportedly blinked and moved their eyes for up to 13 seconds. Scientists still debate whether consciousness survives the blade — even briefly. The man who wanted to end suffering may have created a new kind of it.",
+      "script": "Until 2008, one island in Europe had no democracy, no cars, no income tax — and a single lord who controlled everything. Sark, a three-mile island in the English Channel, was the last feudal state in the Western world. Its ruler inherited absolute power through a system unchanged since 1565. It took two billionaire brothers filing a human rights lawsuit to finally force elections. A place frozen in medieval law survived into the age of smartphones. How did no one notice sooner?",
       "visual_keywords": [
-        "french revolution historical",
-        "guillotine blade close-up",
-        "18th century paris",
-        "medical history illustration",
-        "revolution crowd"
+        "sark island aerial",
+        "english channel island",
+        "medieval feudal castle",
+        "horse carriage countryside"
       ]
     },
     {
-      "topic": "The Island That Appears and Disappears — Sandy Island",
-      "teaser": "For over a century, every world map showed an island the size of Manhattan — until a research ship sailed to its exact coordinates and found nothing but open ocean.",
-      "video_title": "The Island on Every Map That Doesn't Exist",
-      "video_description": "Sandy Island appeared on maps between Australia and New Caledonia for over 100 years, included in Google Earth, the Times Atlas, and official naval charts. In 2012, Australian scientists sailed directly to its coordinates and found only 1,400 meters of open ocean beneath them.",
+      "topic": "The Color That Didn't Exist Until 1850 — Blue",
+      "teaser": "Ancient civilizations couldn't see the color blue — not because they were blind, but because it didn't exist in their world.",
+      "video_title": "Ancient Humans Literally Could Not See Blue",
+      "video_description": "Linguists and cognitive scientists discovered that ancient languages, including Homer's Greek, had no word for blue. The Himba tribe of Namibia, who still lack a word for it today, genuinely struggle to distinguish blue from green in tests. If your language has no word for a color, your brain may not register it as distinct.",
       "tags": [
-        "sandyisland",
-        "phantomisland",
-        "cartography",
-        "mysteryfacts",
-        "geography",
-        "googlemaps",
-        "strangeworld",
+        "bluecolor",
+        "languagescience",
+        "colourperception",
+        "cognitivescience",
+        "brainfacts",
+        "linguistics",
+        "ancienthistory",
         "shorts",
         "viral",
-        "trending"
+        "didyouknow"
       ],
-      "script": "For 137 years, every official world map showed an island the size of Manhattan sitting between Australia and New Caledonia. It had a name — Sandy Island. It was on Google Earth. It was in the Times World Atlas. In 2012, a research vessel sailed directly to its marked coordinates. The ocean was 1,400 meters deep there. No island. Not even a reef. Just open water. No one knows how a phantom landmass fooled the entire world for over a century. What else is wrong on the map?",
+      "script": "Homer described the ocean as \"wine-dark\" — because ancient Greeks had no word for blue. And scientists now believe if you have no word for a color, your brain genuinely cannot isolate it. The Himba tribe in Namibia still have no word for blue today, and in lab tests they cannot separate a blue square from a field of green ones. Blue pigment barely existed in nature. The sky was just... nothing. When did blue become real to you?",
       "visual_keywords": [
-        "ocean map coordinates",
-        "phantom island aerial",
-        "research vessel sea",
-        "world atlas cartography",
-        "empty ocean pacific"
+        "blue sky perception",
+        "color blindness test",
+        "ancient greek painting ocean",
+        "namibia tribe colorful"
+      ]
+    },
+    {
+      "topic": "The Neutron Star So Dense a Teaspoon Weighs a Billion Tons",
+      "teaser": "There's an object in space so impossibly dense that a single spoonful of it would sink straight through the Earth.",
+      "video_title": "One Spoonful of This Would Destroy Earth",
+      "video_description": "Neutron stars are the collapsed cores of massive stars, compressed to a diameter of roughly 20 kilometers but containing more mass than our Sun. A teaspoon of neutron star material would weigh approximately one billion tons on Earth. They also spin hundreds of times per second, emitting beams of radiation detectable across the galaxy.",
+      "tags": [
+        "neutronstar",
+        "spacefacts",
+        "astrophysics",
+        "universe",
+        "cosmology",
+        "physics",
+        "starsscience",
+        "shorts",
+        "viral",
+        "facts"
+      ],
+      "script": "A dead star the size of a city is somehow heavier than our entire Sun. Neutron stars collapse so violently that a single teaspoon of their core weighs one billion tons. Drop it on Earth and it falls straight through to the other side. Some of them spin 700 times per second, firing radiation beams across the galaxy like a cosmic lighthouse. They are the most extreme objects in existence that haven't yet crossed into a black hole. What exactly is the line between a star and nothing?",
+      "visual_keywords": [
+        "neutron star pulsar space",
+        "star explosion supernova",
+        "galaxy deep space",
+        "cosmic radiation beam"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "The Toxoplasma Mind Control Parasite",
-    "teaser": "A parasite living inside a third of all humans right now may be quietly rewriting their personalities — and scientists can prove it.",
-    "video_title": "The Parasite Living in Your Brain Right Now",
-    "video_description": "The Toxoplasma Mind Control Parasite\n\n#toxoplasma #parasites #brainfacts #microbiology #mindcontrol",
-    "tags": [
-      "toxoplasma",
-      "parasites",
-      "brainfacts",
-      "microbiology",
-      "mindcontrol",
-      "science",
-      "humanmind",
-      "shorts",
-      "viral",
-      "facts"
-    ],
-    "script": "A parasite is living inside roughly 2 billion people right now — and it's changing who they are. Toxoplasma gondii rewires infected mice to run toward cats instead of away, so it can complete its life cycle. In humans, studies link it to higher risk-taking, slower reaction times, and elevated schizophrenia rates. It has no cure. It never fully leaves. And standard blood tests won't even flag it. Are you one of the 2 billion?",
-    "visual_keywords": [
-      "brain parasite microscope",
-      "cat and mouse",
-      "neuroscience lab",
-      "human brain scan",
-      "microorganism"
-    ]
-  },
-  "hashtag_options": [
-    "toxoplasma",
-    "parasites",
-    "brainfacts",
-    "microbiology",
-    "mindcontrol",
-    "science",
-    "humanmind",
-    "shorts",
-    "viral",
-    "facts"
-  ],
-  "hashtag_message_id": 428,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-11-23T21:42:06.460916+00:00",
-  "video_file_id": "BAACAgQAAxkDAAIBrmsGL2JjYqVLJ8ttpDLNhQr2km5SAALOIgAC5IAxUMhDyr4LXMRJPQQ",
-  "review_started_at": "2026-11-25T00:44:18.768283+00:00",
-  "attempts": 1
+  ]
 }
